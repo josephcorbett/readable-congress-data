@@ -1,4 +1,4 @@
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 import type {
   Bill,
@@ -223,8 +223,16 @@ function normalizeMemberVote(raw: unknown): MemberVote {
 // API
 // ---------------------------------------------------------------------------
 
-async function apiGet(pathname: string, apiKey: string): Promise<JsonRecord> {
+async function apiGet(
+  pathname: string,
+  apiKey: string,
+  query: Record<string, string | number | undefined> = {}
+): Promise<JsonRecord> {
   const url = new URL(`${API_BASE}${pathname}`);
+  for (const [key, value] of Object.entries(query)) {
+    if (value === undefined || value === "") continue;
+    url.searchParams.set(key, String(value));
+  }
   url.searchParams.set("format", "json");
   url.searchParams.set("api_key", apiKey);
 
@@ -550,39 +558,113 @@ function normalizeMember(
 // Fetchers
 // ---------------------------------------------------------------------------
 
+type BillListRef = {
+  congress: number;
+  type: BillType;
+  number: number;
+  updateDate: string;
+  latestActionDate: string;
+};
+
+type VoteListRef = {
+  congress: number;
+  session: number;
+  voteNumber: number;
+  startDate: string;
+};
+
 async function fetchBills(apiKey: string, config: FetchConfig): Promise<Bill[]> {
   const { billCount, mode, concurrency } = config;
-  const sortParams = mode === "recent" ? "&sort=updateDate&direction=desc" : "";
-  console.log(`  fetching up to ${billCount} bills${mode === "recent" ? " (sorted by update date desc)" : ""}…`);
+  // Congress.gov expects a single sort value like "updateDate desc" (not sort + direction).
+  const listQuery =
+    mode === "recent"
+      ? { limit: Math.min(250, Math.max(billCount * 4, 50)), sort: "updateDate desc" }
+      : { limit: Math.min(250, Math.max(billCount * 2, 20)) };
 
-  const listPayload = await apiGet(`/bill/119?limit=${billCount * 2}${sortParams}`, apiKey);
+  console.log(
+    `  fetching up to ${billCount} bills${mode === "recent" ? " (sort=updateDate desc, ranked by latest action)" : ""}…`
+  );
+
+  const listPayload = await apiGet(`/bill/${TARGET_CONGRESS}`, apiKey, listQuery);
   const list = pickArray<JsonRecord>(listPayload, ["bills", "item"]);
-  const refs = list
-    .map((bill) => ({
-      congress: Number(bill.congress ?? TARGET_CONGRESS),
-      type: normalizeBillType(bill.type),
-      number: Number(bill.number ?? 0),
-    }))
-    .filter((b) => b.number > 0)
-    .slice(0, billCount);
+  const refs: BillListRef[] = list
+    .map((bill) => {
+      const latestAction = asRecord(bill.latestAction);
+      return {
+        congress: Number(bill.congress ?? TARGET_CONGRESS),
+        type: normalizeBillType(bill.type),
+        number: Number(bill.number ?? 0),
+        updateDate: toIsoDate(bill.updateDate ?? bill.updateDateIncludingText),
+        latestActionDate: toIsoDate(latestAction.actionDate ?? bill.updateDate),
+      };
+    })
+    .filter((b) => b.number > 0);
 
-  if (refs.length === 0) throw new Error("No bills returned from /bill/119.");
+  // Prefer legislative activity date, then metadata update date, before truncating.
+  refs.sort(
+    (a, b) =>
+      b.latestActionDate.localeCompare(a.latestActionDate) ||
+      b.updateDate.localeCompare(a.updateDate) ||
+      b.number - a.number
+  );
+
+  const selected = refs.slice(0, billCount);
+  if (selected.length === 0) {
+    throw new Error(`No bills returned from /bill/${TARGET_CONGRESS}.`);
+  }
 
   return mapWithConcurrency(
-    refs,
+    selected,
     concurrency,
     async (ref) => {
       const basePath = `/bill/${ref.congress}/${ref.type}/${ref.number}`;
       const [detail, actions, summaries, text] = await Promise.all([
         apiGet(basePath, apiKey),
-        apiGet(`${basePath}/actions?limit=50`, apiKey),
-        apiGet(`${basePath}/summaries?limit=5`, apiKey),
-        apiGet(`${basePath}/text?limit=10`, apiKey),
+        apiGet(`${basePath}/actions`, apiKey, { limit: 50 }),
+        apiGet(`${basePath}/summaries`, apiKey, { limit: 5 }),
+        apiGet(`${basePath}/text`, apiKey, { limit: 10 }),
       ]);
       return normalizeBill(detail, actions, summaries, text);
     },
     (completed, total) => logProgress("bills fetched", completed, total)
   );
+}
+
+async function fetchAllHouseVoteRefs(apiKey: string, session: number): Promise<VoteListRef[]> {
+  const pageSize = 250;
+  const refs: VoteListRef[] = [];
+  let offset = 0;
+  let total = Number.POSITIVE_INFINITY;
+
+  while (offset < total) {
+    const listPayload = await apiGet(`/house-vote/${TARGET_CONGRESS}/${session}`, apiKey, {
+      limit: pageSize,
+      offset,
+    });
+    const list = pickArray<JsonRecord>(listPayload, [
+      "houseVotes",
+      "houseRollCallVotes",
+      "votes",
+    ]);
+    const pagination = asRecord(listPayload.pagination);
+    total = Number(pagination.count ?? offset + list.length);
+
+    for (const row of list) {
+      const voteNumber = Number(row.rollCallNumber ?? row.voteNumber ?? row.rollNumber ?? 0);
+      if (voteNumber <= 0) continue;
+      refs.push({
+        congress: TARGET_CONGRESS,
+        session,
+        voteNumber,
+        startDate: toIsoDate(row.startDate ?? row.updateDate),
+      });
+    }
+
+    if (list.length === 0) break;
+    offset += list.length;
+  }
+
+  return refs;
 }
 
 async function fetchVotes(
@@ -591,38 +673,30 @@ async function fetchVotes(
   config: FetchConfig
 ): Promise<Vote[]> {
   const { voteCount, mode, concurrency } = config;
-  console.log(`  fetching up to ${voteCount} votes${mode === "recent" ? " (sorted by roll number desc)" : ""}…`);
-
-  type VoteRef = { congress: number; session: number; voteNumber: number };
-  const refs: VoteRef[] = [];
-
-  const sessionLists = await Promise.all(
-    [1, 2].map(async (session) => {
-      try {
-        const listPayload = await apiGet(
-          `/house-vote/119/${session}?limit=${voteCount * 3}`,
-          apiKey
-        );
-        return pickArray<JsonRecord>(listPayload, ["houseVotes", "houseRollCallVotes", "votes"]).map(
-          (row) => ({
-            congress: TARGET_CONGRESS,
-            session,
-            voteNumber: Number(row.rollCallNumber ?? row.voteNumber ?? row.rollNumber ?? 0),
-          })
-        );
-      } catch {
-        return [];
-      }
-    })
+  console.log(
+    `  fetching up to ${voteCount} votes${mode === "recent" ? " (paginate sessions, sort by date/roll)" : ""}…`
   );
 
-  for (const list of sessionLists) {
-    for (const ref of list) {
-      if (ref.voteNumber > 0) refs.push(ref);
+  // Prefer session 2 (current calendar year of a Congress), then fall back to session 1.
+  const sessionOrder = [2, 1];
+  const refs: VoteListRef[] = [];
+
+  for (const session of sessionOrder) {
+    try {
+      console.log(`  listing house votes for session ${session}…`);
+      const sessionRefs = await fetchAllHouseVoteRefs(apiKey, session);
+      console.log(`  found ${sessionRefs.length} votes in session ${session}`);
+      refs.push(...sessionRefs);
+      // Recent mode: if session 2 has enough votes, skip session 1 to avoid
+      // high session-1 roll numbers outranking current-session dates.
+      if (mode === "recent" && session === 2 && sessionRefs.length >= voteCount) {
+        break;
+      }
+    } catch {
+      // Session may not exist yet.
     }
   }
 
-  // Deduplicate
   const seen = new Set<string>();
   const unique = refs.filter((r) => {
     const key = `${r.session}-${r.voteNumber}`;
@@ -631,12 +705,17 @@ async function fetchVotes(
     return true;
   });
 
-  // Recent mode: highest roll numbers first (most recent)
-  if (mode === "recent") {
-    unique.sort((a, b) => b.voteNumber - a.voteNumber || b.session - a.session);
-  }
+  unique.sort(
+    (a, b) =>
+      b.startDate.localeCompare(a.startDate) ||
+      b.session - a.session ||
+      b.voteNumber - a.voteNumber
+  );
 
   const selected = unique.slice(0, voteCount);
+  if (selected.length === 0) {
+    throw new Error("No House votes returned from /house-vote/119.");
+  }
 
   return mapWithConcurrency(
     selected,
@@ -645,7 +724,7 @@ async function fetchVotes(
       const basePath = `/house-vote/${ref.congress}/${ref.session}/${ref.voteNumber}`;
       const [detail, members] = await Promise.all([
         apiGet(basePath, apiKey),
-        apiGet(`${basePath}/members?limit=500`, apiKey),
+        apiGet(`${basePath}/members`, apiKey, { limit: 500 }),
       ]);
       return normalizeVote(detail, members, billsById);
     },
@@ -715,10 +794,9 @@ async function fetchMembers(
   if (members.length < memberCount) {
     try {
       const remaining = memberCount - members.length;
-      const listPayload = await apiGet(
-        `/member/congress/${TARGET_CONGRESS}?limit=${Math.max(remaining * 2, 20)}`,
-        apiKey
-      );
+      const listPayload = await apiGet(`/member/congress/${TARGET_CONGRESS}`, apiKey, {
+        limit: Math.max(remaining * 2, 20),
+      });
       const list = pickArray<JsonRecord>(listPayload, ["members", "item"]);
       const fallbackIds = list
         .map((row) => String(asRecord(row).bioguideId ?? asRecord(row).bioguideID ?? "").trim())
@@ -755,6 +833,13 @@ function writeRecord(dir: string, id: string, record: Bill | Vote | Member): voi
   writeFileSync(resolve(dir, `${id}.json`), JSON.stringify(record, null, 2));
 }
 
+function resetRecordDirs(): void {
+  for (const dir of [BILLS_DIR, VOTES_DIR, MEMBERS_DIR]) {
+    rmSync(dir, { recursive: true, force: true });
+    mkdirSync(dir, { recursive: true });
+  }
+}
+
 function writeIndex<T>(
   filename: string,
   items: T[],
@@ -772,19 +857,42 @@ function writeIndex<T>(
   console.log(`  wrote ${filename} (${items.length} items)`);
 }
 
+function assertSampleFreshness(bills: Bill[], votes: Vote[], mode: FetchMode): void {
+  if (mode !== "recent") return;
+
+  const maxVoteMs = Math.max(0, ...votes.map((v) => new Date(v.date).getTime()));
+  const maxActionMs = Math.max(0, ...bills.map((b) => new Date(b.latestAction.date).getTime()));
+  const maxUpdateMs = Math.max(0, ...bills.map((b) => new Date(b.updatedAt).getTime()));
+  const newestMs = Math.max(maxVoteMs, maxActionMs, maxUpdateMs);
+  const cutoffMs = Date.now() - 60 * 24 * 60 * 60 * 1000; // 60 days
+
+  if (newestMs < cutoffMs) {
+    throw new Error(
+      `Recent fetch looks stale (newest activity ${new Date(newestMs).toISOString().slice(0, 10)}). ` +
+        "Check Congress.gov sort/pagination logic before publishing."
+    );
+  }
+}
+
 function writeDataset(bills: Bill[], votes: Vote[], members: Member[], config: FetchConfig): void {
   const generatedAt = new Date().toISOString();
+
+  console.log("\nResetting record directories…");
+  resetRecordDirs();
 
   for (const bill of bills) writeRecord(BILLS_DIR, bill.id, bill);
   for (const vote of votes) writeRecord(VOTES_DIR, vote.id, vote);
   for (const member of members) writeRecord(MEMBERS_DIR, member.id, member);
 
   const billsRecent = [...bills].sort(
-    (a, b) => new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime()
+    (a, b) =>
+      new Date(b.latestAction.date).getTime() - new Date(a.latestAction.date).getTime() ||
+      new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime()
   );
   const billsActive = bills.filter((b) => b.status !== "inactive");
   const votesRecent = [...votes].sort(
-    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime() || b.rollNumber - a.rollNumber
+    (a, b) =>
+      new Date(b.date).getTime() - new Date(a.date).getTime() || b.rollNumber - a.rollNumber
   );
   const membersCurrent = [...members].sort((a, b) => a.lastName.localeCompare(b.lastName));
 
@@ -831,6 +939,7 @@ async function main() {
   console.log("Members:");
   const members = await fetchMembers(apiKey, priorityMemberIds, bills, votes, config);
 
+  assertSampleFreshness(bills, votes, config.mode);
   writeDataset(bills, votes, members, config);
 
   console.log(

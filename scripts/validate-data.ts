@@ -107,6 +107,27 @@ function main(): void {
     validateMember
   );
 
+  // Guard against the historical bug where "recent" mode published opening-day 2025 data.
+  const recentVotes = readIndexItems<Vote>(resolve(INDEXES_DIR, "votes-recent.json"));
+  const recentBills = readIndexItems<Bill>(resolve(INDEXES_DIR, "bills-recent.json"));
+  const newestVoteMs = Math.max(0, ...recentVotes.map((v) => new Date(v.date).getTime()));
+  const newestActionMs = Math.max(
+    0,
+    ...recentBills.map((b) => new Date(b.latestAction.date).getTime())
+  );
+  const newestUpdateMs = Math.max(
+    0,
+    ...recentBills.map((b) => new Date(b.updatedAt).getTime())
+  );
+  const newestMs = Math.max(newestVoteMs, newestActionMs, newestUpdateMs);
+  const cutoffMs = Date.now() - 90 * 24 * 60 * 60 * 1000;
+  if (recentVotes.length > 0 && newestMs < cutoffMs) {
+    err(
+      `indexes look stale: newest activity is ${new Date(newestMs).toISOString().slice(0, 10)} ` +
+        "(expected activity within ~90 days for a recent sample)"
+    );
+  }
+
   if (errors.length > 0) {
     console.error(`Validation failed with ${errors.length} error(s):`);
     for (const message of errors) console.error(`- ${message}`);
