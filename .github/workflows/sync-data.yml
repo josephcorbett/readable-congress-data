@@ -1,0 +1,44 @@
+name: Sync congressional data
+
+on:
+  schedule:
+    # Daily at 08:00 UTC
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: sync-data
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch recent data from Congress.gov
+        run: npm run fetch -- --mode recent --bills 25 --votes 25 --members 50
+        env:
+          CONGRESS_GOV_API_KEY: ${{ secrets.CONGRESS_GOV_API_KEY }}
+
+      - name: Validate data
+        run: npm run validate
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated data refresh from Congress.gov"
+          file_pattern: "data/** indexes/**"
