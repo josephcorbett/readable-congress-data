@@ -1,10 +1,29 @@
-import { readFileSync, readdirSync } from "node:fs";
-import { resolve } from "node:path";
-import type { Bill, Member, Vote } from "../../readable-congress-web/src/types/domain";
+import { existsSync, readFileSync, readdirSync } from "node:fs";
+import { join, resolve } from "node:path";
+import type {
+  Bill,
+  ChangeEvent,
+  ChangeType,
+  Member,
+  Vote,
+} from "../../readable-congress-web/src/types/domain";
 
 const PACKAGE_ROOT = resolve(process.cwd());
 const DATA_ROOT = resolve(PACKAGE_ROOT, "data/congress/119");
 const INDEXES_DIR = resolve(PACKAGE_ROOT, "indexes");
+const CHANGES_DIR = resolve(PACKAGE_ROOT, "changes");
+const SNAPSHOTS_DIR = resolve(PACKAGE_ROOT, "snapshots");
+
+const CHANGE_TYPES = new Set<ChangeType>([
+  "bill.added",
+  "bill.status_changed",
+  "bill.action_added",
+  "bill.summary_changed",
+  "bill.title_changed",
+  "vote.added",
+  "vote.corrected",
+  "member.added",
+]);
 
 const errors: string[] = [];
 
@@ -26,6 +45,7 @@ function readIndexItems<T>(path: string): T[] {
 }
 
 function readRecords<T>(dir: string): T[] {
+  if (!existsSync(dir)) return [];
   const files = readdirSync(dir).filter((name) => name.endsWith(".json"));
   return files.map((name) => readJson<T>(resolve(dir, name)));
 }
@@ -53,6 +73,23 @@ function validateMember(member: Member, path: string): void {
   if (member.officialUrl === "") err(`${path}: officialUrl must be omitted, not empty string`);
 }
 
+function validateChangeEvent(event: ChangeEvent, path: string): void {
+  if (!event.id) err(`${path}: missing id`);
+  if (!event.observedAt) err(`${path}: missing observedAt`);
+  if (!event.entityId) err(`${path}: missing entityId`);
+  if (!event.syncId) err(`${path}: missing syncId`);
+  if (!event.summary) err(`${path}: missing summary`);
+  if (!["bill", "vote", "member"].includes(event.entityType)) {
+    err(`${path}: invalid entityType ${event.entityType}`);
+  }
+  if (!CHANGE_TYPES.has(event.changeType)) {
+    err(`${path}: invalid changeType ${event.changeType}`);
+  }
+  if (event.officialUrl === "") {
+    err(`${path}: officialUrl must be omitted, not empty string`);
+  }
+}
+
 function validateIndexArray<T>(
   filename: string,
   records: T[],
@@ -71,6 +108,24 @@ function validateUniqueIds(records: Array<{ id: string }>, label: string): void 
     if (seen.has(record.id)) err(`${label}: duplicate id ${record.id}`);
     seen.add(record.id);
   }
+}
+
+function loadAllChangeEvents(): ChangeEvent[] {
+  const eventsRoot = resolve(CHANGES_DIR, "events");
+  if (!existsSync(eventsRoot)) return [];
+  const events: ChangeEvent[] = [];
+  for (const year of readdirSync(eventsRoot)) {
+    const yearDir = join(eventsRoot, year);
+    for (const month of readdirSync(yearDir)) {
+      const monthDir = join(yearDir, month);
+      for (const name of readdirSync(monthDir)) {
+        if (!name.endsWith(".json")) continue;
+        const daily = readJson<{ items?: ChangeEvent[] }>(join(monthDir, name));
+        if (daily.items) events.push(...daily.items);
+      }
+    }
+  }
+  return events;
 }
 
 function main(): void {
@@ -107,6 +162,25 @@ function main(): void {
     validateMember
   );
 
+  const changesRecentPath = resolve(INDEXES_DIR, "changes-recent.json");
+  if (existsSync(changesRecentPath)) {
+    validateIndexArray(
+      "indexes/changes-recent.json",
+      readIndexItems<ChangeEvent>(changesRecentPath),
+      validateChangeEvent
+    );
+  }
+
+  const allEvents = loadAllChangeEvents();
+  allEvents.forEach((event, index) => validateChangeEvent(event, `changes/events[${index}]`));
+  validateUniqueIds(allEvents, "change events");
+
+  const snapshotPath = resolve(SNAPSHOTS_DIR, "latest.json");
+  if (existsSync(snapshotPath)) {
+    const snapshot = readJson<{ syncId?: string; baseline?: boolean }>(snapshotPath);
+    if (!snapshot.syncId) err("snapshots/latest.json: missing syncId");
+  }
+
   // Guard against the historical bug where "recent" mode published opening-day 2025 data.
   const recentVotes = readIndexItems<Vote>(resolve(INDEXES_DIR, "votes-recent.json"));
   const recentBills = readIndexItems<Bill>(resolve(INDEXES_DIR, "bills-recent.json"));
@@ -135,7 +209,8 @@ function main(): void {
   }
 
   console.log(
-    `Validated ${bills.length} bills, ${votes.length} votes, ${members.length} members, and 4 indexes.`
+    `Validated ${bills.length} bills, ${votes.length} votes, ${members.length} members, ` +
+      `${allEvents.length} change events, and indexes.`
   );
 }
 

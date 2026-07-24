@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://readable-congress.local/schemas/change-event.schema.json",
+  "title": "ChangeEvent",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "observedAt",
+    "entityType",
+    "entityId",
+    "changeType",
+    "summary",
+    "syncId"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "observedAt": { "type": "string", "format": "date-time" },
+    "entityType": { "type": "string", "enum": ["bill", "vote", "member"] },
+    "entityId": { "type": "string" },
+    "changeType": {
+      "type": "string",
+      "enum": [
+        "bill.added",
+        "bill.status_changed",
+        "bill.action_added",
+        "bill.summary_changed",
+        "bill.title_changed",
+        "vote.added",
+        "vote.corrected",
+        "member.added"
+      ]
+    },
+    "summary": { "type": "string" },
+    "before": { "type": "object" },
+    "after": { "type": "object" },
+    "officialUrl": { "type": "string" },
+    "syncId": { "type": "string" }
+  }
+}

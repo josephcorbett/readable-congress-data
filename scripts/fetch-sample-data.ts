@@ -1,4 +1,4 @@
-import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 import type {
   Bill,
@@ -15,6 +15,16 @@ import type {
   VoteResult,
   VoteMemberRecord,
 } from "../../readable-congress-web/src/types/domain";
+import {
+  appendDailyEvents,
+  buildChangesRecentIndex,
+  buildSnapshot,
+  collectSyncEvents,
+  loadLatestSnapshot,
+  readRecordIfExists,
+  writeChangesRecentIndex,
+  writeSnapshot,
+} from "./lib/changes";
 
 // ---------------------------------------------------------------------------
 // Types
@@ -31,13 +41,6 @@ interface FetchConfig {
   concurrency: number;
 }
 
-interface IndexEnvelope<T> {
-  generatedAt: string;
-  source: string;
-  mode: FetchMode;
-  items: T[];
-}
-
 // ---------------------------------------------------------------------------
 // Constants
 // ---------------------------------------------------------------------------
@@ -49,6 +52,8 @@ const BILLS_DIR = resolve(DATA_ROOT, "bills");
 const VOTES_DIR = resolve(DATA_ROOT, "votes");
 const MEMBERS_DIR = resolve(DATA_ROOT, "members");
 const INDEXES_DIR = resolve(PACKAGE_ROOT, "indexes");
+const CHANGES_DIR = resolve(PACKAGE_ROOT, "changes");
+const SNAPSHOTS_DIR = resolve(PACKAGE_ROOT, "snapshots");
 const TARGET_CONGRESS = 119;
 const DEFAULT_CONCURRENCY = 6;
 const ALLOWED_BILL_TYPES: BillType[] = [
@@ -833,20 +838,13 @@ function writeRecord(dir: string, id: string, record: Bill | Vote | Member): voi
   writeFileSync(resolve(dir, `${id}.json`), JSON.stringify(record, null, 2));
 }
 
-function resetRecordDirs(): void {
-  for (const dir of [BILLS_DIR, VOTES_DIR, MEMBERS_DIR]) {
-    rmSync(dir, { recursive: true, force: true });
-    mkdirSync(dir, { recursive: true });
-  }
-}
-
 function writeIndex<T>(
   filename: string,
   items: T[],
   config: FetchConfig,
   generatedAt: string
 ): void {
-  const envelope: IndexEnvelope<T> = {
+  const envelope = {
     generatedAt,
     source: "Congress.gov API",
     mode: config.mode,
@@ -876,13 +874,67 @@ function assertSampleFreshness(bills: Bill[], votes: Vote[], mode: FetchMode): v
 
 function writeDataset(bills: Bill[], votes: Vote[], members: Member[], config: FetchConfig): void {
   const generatedAt = new Date().toISOString();
+  const syncId = generatedAt;
+  const previousSnapshot = loadLatestSnapshot(SNAPSHOTS_DIR);
+  const baseline = !previousSnapshot;
 
-  console.log("\nResetting record directories…");
-  resetRecordDirs();
+  const previousBills = new Map<string, Bill>();
+  const previousVotes = new Map<string, Vote>();
+  const previousMembers = new Map<string, Member>();
+  for (const bill of bills) {
+    const prev = readRecordIfExists<Bill>(BILLS_DIR, bill.id);
+    if (prev) previousBills.set(bill.id, prev);
+  }
+  for (const vote of votes) {
+    const prev = readRecordIfExists<Vote>(VOTES_DIR, vote.id);
+    if (prev) previousVotes.set(vote.id, prev);
+  }
+  for (const member of members) {
+    const prev = readRecordIfExists<Member>(MEMBERS_DIR, member.id);
+    if (prev) previousMembers.set(member.id, prev);
+  }
 
+  const events = collectSyncEvents({
+    syncId,
+    observedAt: generatedAt,
+    baseline,
+    bills,
+    votes,
+    members,
+    previousBills,
+    previousVotes,
+    previousMembers,
+  });
+
+  console.log(
+    baseline
+      ? "\nEstablishing change-tracking baseline (no events this sync)…"
+      : `\nDetected ${events.length} change event(s)…`
+  );
+
+  // Accumulate: upsert fetched records; do not delete the rest of the corpus.
+  console.log("Upserting records into corpus…");
   for (const bill of bills) writeRecord(BILLS_DIR, bill.id, bill);
   for (const vote of votes) writeRecord(VOTES_DIR, vote.id, vote);
   for (const member of members) writeRecord(MEMBERS_DIR, member.id, member);
+
+  const dailyPath = appendDailyEvents(CHANGES_DIR, events, generatedAt);
+  if (dailyPath) console.log(`  wrote ${dailyPath}`);
+
+  const changesRecent = buildChangesRecentIndex(CHANGES_DIR, generatedAt);
+  writeChangesRecentIndex(INDEXES_DIR, changesRecent);
+  console.log(`  wrote changes-recent.json (${changesRecent.items.length} items)`);
+
+  const snapshot = buildSnapshot({
+    syncId,
+    generatedAt,
+    baseline,
+    bills,
+    votes,
+    members,
+  });
+  writeSnapshot(SNAPSHOTS_DIR, snapshot);
+  console.log(`  wrote snapshots/latest.json (baseline=${baseline})`);
 
   const billsRecent = [...bills].sort(
     (a, b) =>
@@ -896,7 +948,7 @@ function writeDataset(bills: Bill[], votes: Vote[], members: Member[], config: F
   );
   const membersCurrent = [...members].sort((a, b) => a.lastName.localeCompare(b.lastName));
 
-  console.log("\nWriting indexes:");
+  console.log("\nWriting discovery indexes:");
   writeIndex("bills-recent.json", billsRecent, config, generatedAt);
   writeIndex("bills-active.json", billsActive, config, generatedAt);
   writeIndex("votes-recent.json", votesRecent, config, generatedAt);

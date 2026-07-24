@@ -41,4 +41,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated data refresh from Congress.gov"
-          file_pattern: "data/** indexes/**"
+          file_pattern: "data/** indexes/** changes/** snapshots/** schemas/**"
