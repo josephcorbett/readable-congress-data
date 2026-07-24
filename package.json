@@ -1,0 +1,16 @@
+{
+  "name": "readable-congress-data",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "fetch": "tsx scripts/fetch-sample-data.ts --",
+    "fetch-sample": "tsx scripts/fetch-sample-data.ts --",
+    "build-indexes": "tsx scripts/build-indexes.ts",
+    "validate": "tsx scripts/validate-data.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "tsx": "^4.23.0",
+    "typescript": "^5"
+  }
+}

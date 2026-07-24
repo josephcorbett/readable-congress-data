@@ -1,0 +1,103 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://readable-congress.dev/schemas/bill.schema.json",
+  "title": "Bill",
+  "type": "object",
+  "required": [
+    "id",
+    "billType",
+    "billNumber",
+    "congress",
+    "title",
+    "status",
+    "chamber",
+    "sponsor",
+    "cosponsorCount",
+    "latestAction",
+    "actions",
+    "textVersions",
+    "updatedAt",
+    "introducedAt"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string" },
+    "billType": {
+      "type": "string",
+      "enum": ["hr", "s", "hjres", "sjres", "hconres", "sconres", "hres", "sres"]
+    },
+    "billNumber": { "type": "integer", "minimum": 1 },
+    "congress": { "type": "integer", "minimum": 1 },
+    "title": { "type": "string", "minLength": 1 },
+    "shortTitle": { "type": "string" },
+    "status": {
+      "type": "string",
+      "enum": [
+        "introduced",
+        "inCommittee",
+        "passedHouse",
+        "passedSenate",
+        "failedHouse",
+        "failedSenate",
+        "becameLaw",
+        "inactive"
+      ]
+    },
+    "chamber": { "type": "string", "enum": ["House", "Senate"] },
+    "policyArea": { "type": "string" },
+    "sponsor": { "$ref": "#/$defs/sponsor" },
+    "cosponsorCount": { "type": "integer", "minimum": 0 },
+    "latestAction": { "$ref": "#/$defs/billAction" },
+    "actions": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/billAction" }
+    },
+    "textVersions": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/billTextVersion" }
+    },
+    "summary": { "type": "string" },
+    "summaryHtml": { "type": "string" },
+    "summaryFormat": { "type": "string", "enum": ["html", "plain"] },
+    "summarySource": { "type": "string", "enum": ["official", "project", "ai"] },
+    "officialUrl": { "type": "string", "format": "uri" },
+    "updatedAt": { "type": "string", "format": "date-time" },
+    "introducedAt": { "type": "string", "format": "date" }
+  },
+  "$defs": {
+    "billAction": {
+      "type": "object",
+      "required": ["date", "text", "chamber"],
+      "additionalProperties": false,
+      "properties": {
+        "date": { "type": "string", "format": "date" },
+        "text": { "type": "string" },
+        "chamber": { "type": "string", "enum": ["House", "Senate"] },
+        "actionCode": { "type": "string" }
+      }
+    },
+    "billTextVersion": {
+      "type": "object",
+      "required": ["type", "date", "url"],
+      "additionalProperties": false,
+      "properties": {
+        "type": { "type": "string" },
+        "date": { "type": "string", "format": "date" },
+        "url": { "type": "string", "format": "uri" }
+      }
+    },
+    "sponsor": {
+      "type": "object",
+      "required": ["memberId", "name", "party", "state", "chamber"],
+      "additionalProperties": false,
+      "properties": {
+        "memberId": { "type": "string" },
+        "name": { "type": "string" },
+        "party": { "type": "string", "enum": ["D", "R", "I"] },
+        "state": { "type": "string" },
+        "district": { "type": "string" },
+        "chamber": { "type": "string", "enum": ["House", "Senate"] }
+      }
+    }
+  }
+}

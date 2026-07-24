@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://readable-congress.dev/schemas/member.schema.json",
+  "title": "Member",
+  "type": "object",
+  "required": [
+    "id",
+    "bioguideId",
+    "name",
+    "firstName",
+    "lastName",
+    "party",
+    "chamber",
+    "state",
+    "stateCode",
+    "currentTerm",
+    "sponsoredBillIds",
+    "cosponsoredBillIds",
+    "recentVoteIds"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string" },
+    "bioguideId": { "type": "string" },
+    "name": { "type": "string" },
+    "firstName": { "type": "string" },
+    "lastName": { "type": "string" },
+    "party": { "type": "string", "enum": ["D", "R", "I"] },
+    "chamber": { "type": "string", "enum": ["House", "Senate"] },
+    "state": { "type": "string" },
+    "stateCode": { "type": "string", "minLength": 2, "maxLength": 2 },
+    "district": { "type": "string" },
+    "currentTerm": { "$ref": "#/$defs/memberTerm" },
+    "sponsoredBillIds": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "cosponsoredBillIds": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "recentVoteIds": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "officialUrl": { "type": "string", "format": "uri" }
+  },
+  "$defs": {
+    "memberTerm": {
+      "type": "object",
+      "required": ["congress", "chamber", "state", "startYear"],
+      "additionalProperties": false,
+      "properties": {
+        "congress": { "type": "integer", "minimum": 1 },
+        "chamber": { "type": "string", "enum": ["House", "Senate"] },
+        "state": { "type": "string" },
+        "district": { "type": "string" },
+        "startYear": { "type": "integer" },
+        "endYear": { "type": "integer" }
+      }
+    }
+  }
+}

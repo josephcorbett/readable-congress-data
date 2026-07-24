@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://readable-congress.dev/schemas/vote.schema.json",
+  "title": "Vote",
+  "type": "object",
+  "required": [
+    "id",
+    "chamber",
+    "congress",
+    "session",
+    "rollNumber",
+    "date",
+    "question",
+    "description",
+    "result",
+    "yea",
+    "nay",
+    "present",
+    "notVoting",
+    "memberRecords",
+    "updatedAt"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string" },
+    "chamber": { "type": "string", "enum": ["House", "Senate"] },
+    "congress": { "type": "integer", "minimum": 1 },
+    "session": { "type": "integer", "minimum": 1 },
+    "rollNumber": { "type": "integer", "minimum": 1 },
+    "date": { "type": "string", "format": "date" },
+    "question": { "type": "string" },
+    "description": { "type": "string" },
+    "result": {
+      "type": "string",
+      "enum": ["Passed", "Failed", "Agreed To", "Rejected"]
+    },
+    "yea": { "type": "integer", "minimum": 0 },
+    "nay": { "type": "integer", "minimum": 0 },
+    "present": { "type": "integer", "minimum": 0 },
+    "notVoting": { "type": "integer", "minimum": 0 },
+    "associatedBillId": { "type": "string" },
+    "associatedBillTitle": { "type": "string" },
+    "memberRecords": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/voteMemberRecord" }
+    },
+    "officialUrl": { "type": "string", "format": "uri" },
+    "updatedAt": { "type": "string", "format": "date-time" }
+  },
+  "$defs": {
+    "voteMemberRecord": {
+      "type": "object",
+      "required": ["memberId", "memberName", "party", "state", "vote"],
+      "additionalProperties": false,
+      "properties": {
+        "memberId": { "type": "string" },
+        "memberName": { "type": "string" },
+        "party": { "type": "string", "enum": ["D", "R", "I"] },
+        "state": { "type": "string" },
+        "vote": {
+          "type": "string",
+          "enum": ["Yea", "Nay", "Present", "NotVoting"]
+        }
+      }
+    }
+  }
+}
