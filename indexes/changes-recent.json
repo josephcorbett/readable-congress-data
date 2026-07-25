@@ -1,8 +1,860 @@
 {
-  "generatedAt": "2026-07-24T10:16:29.155Z",
+  "generatedAt": "2026-07-25T09:46:56.930Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-07-25T094656930Z_119-house-2-283_vote.corrected",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-283",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Passage",
+      "before": {
+        "result": "Passed",
+        "yea": 232,
+        "nay": 188,
+        "present": 0,
+        "notVoting": 11,
+        "question": "On Passage",
+        "description": "On Passage",
+        "date": "2026-07-23",
+        "associatedBillId": "119-hr-8884"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 232,
+        "nay": 188,
+        "present": 0,
+        "notVoting": 11,
+        "question": "On Passage",
+        "description": "Removing Barriers to Work for Disabled Americans Act (HR 8884)",
+        "date": "2026-07-23",
+        "associatedBillId": "119-hr-8884"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll283.xml",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-1550_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1550",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1550: Strengthening America’s Turning Point Act",
+      "after": {
+        "title": "Strengthening America’s Turning Point Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1550",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-1829_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1829",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1829: Apache County and Navajo County Conveyance Act of 2026",
+      "after": {
+        "title": "Apache County and Navajo County Conveyance Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1829",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-3937_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-3937",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-3937: Wabeno Economic Development Act",
+      "after": {
+        "title": "Wabeno Economic Development Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3937",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-8884_bill.action_added_5a402deeb7829c98",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8884",
+      "changeType": "bill.action_added",
+      "summary": "New action: The previous question was ordered pursuant to the rule.",
+      "after": {
+        "date": "2026-07-23",
+        "text": "The previous question was ordered pursuant to the rule.",
+        "chamber": "House",
+        "actionCode": "H35000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8884",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-8884_bill.action_added_7981090eb5923f2a",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8884",
+      "changeType": "bill.action_added",
+      "summary": "New action: Motion to reconsider laid on the table Agreed to without objection.",
+      "after": {
+        "date": "2026-07-23",
+        "text": "Motion to reconsider laid on the table Agreed to without objection.",
+        "chamber": "House",
+        "actionCode": "H38310"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8884",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-8884_bill.action_added_8e51b48bf22006b0",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8884",
+      "changeType": "bill.action_added",
+      "summary": "New action: DEBATE - The House proceeded with one hour of debate on H.R. 8884.",
+      "after": {
+        "date": "2026-07-23",
+        "text": "DEBATE - The House proceeded with one hour of debate on H.R. 8884.",
+        "chamber": "House",
+        "actionCode": "H8D000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8884",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-8884_bill.action_added_99c986cb45c32e76",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8884",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in House: On passage Passed by the Yeas and Nays: 232 - 188 (Roll no. 283). (text of amendment in the nature of a substitute: CR H5182-5183)",
+      "after": {
+        "date": "2026-07-23",
+        "text": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 232 - 188 (Roll no. 283). (text of amendment in the nature of a substitute: CR H5182-5183)",
+        "chamber": "House",
+        "actionCode": "8000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8884",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-8884_bill.action_added_ad3412201c40b7f7",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8884",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered under the provisions of rule H. Res. 1438. (consideration: CR H5182-5186)",
+      "after": {
+        "date": "2026-07-23",
+        "text": "Considered under the provisions of rule H. Res. 1438. (consideration: CR H5182-5186)",
+        "chamber": "House",
+        "actionCode": "H30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8884",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-8884_bill.action_added_b720fd8bd587ea2c",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8884",
+      "changeType": "bill.action_added",
+      "summary": "New action: Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.",
+      "after": {
+        "date": "2026-07-23",
+        "text": "Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.",
+        "chamber": "House",
+        "actionCode": "H8D000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8884",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-8884_bill.action_added_da7cc068a08320d3",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8884",
+      "changeType": "bill.action_added",
+      "summary": "New action: POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 8884, the Chair put the question on passage of the bill and by voice vote, announced the ayes had prevailed. Ms. Chu demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "after": {
+        "date": "2026-07-23",
+        "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 8884, the Chair put the question on passage of the bill and by voice vote, announced the ayes had prevailed. Ms. Chu demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+        "chamber": "House",
+        "actionCode": "H8D000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8884",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-8884_bill.action_added_e6e17dda9867a2ef",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8884",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered as unfinished business. (consideration: CR H5186-5187)",
+      "after": {
+        "date": "2026-07-23",
+        "text": "Considered as unfinished business. (consideration: CR H5186-5187)",
+        "chamber": "House",
+        "actionCode": "H30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8884",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-8884_bill.action_added_f1dc89263433428a",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8884",
+      "changeType": "bill.action_added",
+      "summary": "New action: Received in the Senate and Read twice and referred to the Committee on Finance.",
+      "after": {
+        "date": "2026-07-23",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8884",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-8884_bill.action_added_fa5be09a7c45f754",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8884",
+      "changeType": "bill.action_added",
+      "summary": "New action: On passage Passed by the Yeas and Nays: 232 - 188 (Roll no. 283). (text of amendment in the nature of a substitute: CR H5182-5183)",
+      "after": {
+        "date": "2026-07-23",
+        "text": "On passage Passed by the Yeas and Nays: 232 - 188 (Roll no. 283). (text of amendment in the nature of a substitute: CR H5182-5183)",
+        "chamber": "House",
+        "actionCode": "H37100"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8884",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-9914_bill.title_changed",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9914",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To establish the applicability of antitrust laws to the sharing of artificial intelligence frontier model risks, and for other purposes."
+      },
+      "after": {
+        "title": "Collaboration on Adversarial Threats and Security Risks Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9914",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-9922_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9922",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9922: AI Transparency in Elections Act of 2026",
+      "after": {
+        "title": "AI Transparency in Elections Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9922",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-9932_bill.title_changed",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9932",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To require all newly constructed, federally assisted, single-family houses and town houses to meet minimum standards of visitability for persons with disabilities."
+      },
+      "after": {
+        "title": "Eleanor Smith Inclusive Home Design Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9932",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hr-9933_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9933",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9933: South Atlantic Red Snapper Fair Access Act of 2026",
+      "after": {
+        "title": "South Atlantic Red Snapper Fair Access Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9933",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-hres-1455_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1455",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1455: Honoring and commending the 100th anniversary of the Golf Course Superintendents Association of America.",
+      "after": {
+        "title": "Honoring and commending the 100th anniversary of the Golf Course Superintendents Association of America.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1455",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-1175_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-1175",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1175: Small County PILT Parity Act",
+      "after": {
+        "title": "Small County PILT Parity Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1175",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-1353_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-1353",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1353: A bill to extend the authority for modifications to the Second Division Memorial in the District of Columbia.",
+      "after": {
+        "title": "A bill to extend the authority for modifications to the Second Division Memorial in the District of Columbia.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1353",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-1363_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-1363",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1363: New Mexico Land Grant-Mercedes Historical or Traditional Use Cooperation and Coordination Act",
+      "after": {
+        "title": "New Mexico Land Grant-Mercedes Historical or Traditional Use Cooperation and Coordination Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1363",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-1470_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-1470",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1470: Continental Divide National Scenic Trail Completion Act",
+      "after": {
+        "title": "Continental Divide National Scenic Trail Completion Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1470",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-1516_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-1516",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1516: Cahokia Mounds Mississippian Culture Study Act",
+      "after": {
+        "title": "Cahokia Mounds Mississippian Culture Study Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1516",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-1787_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-1787",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1787: Dolores River National Conservation Area and Special Management Area Act",
+      "after": {
+        "title": "Dolores River National Conservation Area and Special Management Area Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1787",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-1860_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-1860",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1860: Brian Head Town Land Conveyance Act",
+      "after": {
+        "title": "Brian Head Town Land Conveyance Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1860",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-1981_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-1981",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1981: Strategic Grazing to Reduce Risk of Wildfire Act",
+      "after": {
+        "title": "Strategic Grazing to Reduce Risk of Wildfire Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1981",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-2102_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-2102",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2102: Ralph David Abernathy, Sr., National Historic Site Act",
+      "after": {
+        "title": "Ralph David Abernathy, Sr., National Historic Site Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2102",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-2273_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-2273",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2273: Wyoming Education Trust Modernization Act",
+      "after": {
+        "title": "Wyoming Education Trust Modernization Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2273",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-2546_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-2546",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2546: A bill to provide for an extension of the legislative authority of the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia and its environs.",
+      "after": {
+        "title": "A bill to provide for an extension of the legislative authority of the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia and its environs.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2546",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-2787_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-2787",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2787: Grasslands Grazing Act of 2025",
+      "after": {
+        "title": "Grasslands Grazing Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2787",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-2881_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-2881",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2881: A bill to provide for the transfer of administrative jurisdiction over certain Federal land in the State of California, and for other purposes.",
+      "after": {
+        "title": "A bill to provide for the transfer of administrative jurisdiction over certain Federal land in the State of California, and for other purposes.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2881",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-3004_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-3004",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3004: Upper Price River Watershed Project Act of 2026",
+      "after": {
+        "title": "Upper Price River Watershed Project Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3004",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-3493_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-3493",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3493: Carson City Public Land Correction Act",
+      "after": {
+        "title": "Carson City Public Land Correction Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3493",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_119-s-3878_bill.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "bill",
+      "entityId": "119-s-3878",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3878: A bill to establish the Grand Village of the Natchez Indians and Jefferson College as affiliated areas of the National Park System, and for other purposes.",
+      "after": {
+        "title": "A bill to establish the Grand Village of the Natchez Indians and Jefferson College as affiliated areas of the National Park System, and for other purposes.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3878",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_B001261_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "B001261",
+      "changeType": "member.added",
+      "summary": "Started tracking John Barrasso",
+      "after": {
+        "name": "John Barrasso",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "WY"
+      },
+      "officialUrl": "https://www.barrasso.senate.gov",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_B001267_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "B001267",
+      "changeType": "member.added",
+      "summary": "Started tracking Michael F. Bennet",
+      "after": {
+        "name": "Michael F. Bennet",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "CO"
+      },
+      "officialUrl": "https://www.bennet.senate.gov",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_C001088_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "C001088",
+      "changeType": "member.added",
+      "summary": "Started tracking Christopher A. Coons",
+      "after": {
+        "name": "Christopher A. Coons",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "DE"
+      },
+      "officialUrl": "https://www.coons.senate.gov/",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_C001113_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "C001113",
+      "changeType": "member.added",
+      "summary": "Started tracking Catherine Cortez Masto",
+      "after": {
+        "name": "Catherine Cortez Masto",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "NV"
+      },
+      "officialUrl": "https://www.cortezmasto.senate.gov",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_C001132_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "C001132",
+      "changeType": "member.added",
+      "summary": "Started tracking Elijah Crane",
+      "after": {
+        "name": "Elijah Crane",
+        "party": "R",
+        "chamber": "House",
+        "state": "AZ"
+      },
+      "officialUrl": "https://crane.house.gov",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_D000563_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "D000563",
+      "changeType": "member.added",
+      "summary": "Started tracking Richard J. Durbin",
+      "after": {
+        "name": "Richard J. Durbin",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "IL"
+      },
+      "officialUrl": "https://www.durbin.senate.gov",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_D000618_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "D000618",
+      "changeType": "member.added",
+      "summary": "Started tracking Steve Daines",
+      "after": {
+        "name": "Steve Daines",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "MT"
+      },
+      "officialUrl": "https://www.daines.senate.gov",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_H001046_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "H001046",
+      "changeType": "member.added",
+      "summary": "Started tracking Martin Heinrich",
+      "after": {
+        "name": "Martin Heinrich",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "NM"
+      },
+      "officialUrl": "https://www.heinrich.senate.gov/",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_H001079_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "H001079",
+      "changeType": "member.added",
+      "summary": "Started tracking Cindy Hyde-Smith",
+      "after": {
+        "name": "Cindy Hyde-Smith",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "MS"
+      },
+      "officialUrl": "https://www.hydesmith.senate.gov/",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_L000570_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "L000570",
+      "changeType": "member.added",
+      "summary": "Started tracking Ben Ray Luján",
+      "after": {
+        "name": "Ben Ray Luján",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "NM"
+      },
+      "officialUrl": "https://www.lujan.senate.gov",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_L000571_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "L000571",
+      "changeType": "member.added",
+      "summary": "Started tracking Cynthia M. Lummis",
+      "after": {
+        "name": "Cynthia M. Lummis",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "WY"
+      },
+      "officialUrl": "https://www.lummis.senate.gov",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_L000577_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "L000577",
+      "changeType": "member.added",
+      "summary": "Started tracking Mike Lee",
+      "after": {
+        "name": "Mike Lee",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "UT"
+      },
+      "officialUrl": "https://www.lee.senate.gov/",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_M000871_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "M000871",
+      "changeType": "member.added",
+      "summary": "Started tracking Tracey Mann",
+      "after": {
+        "name": "Tracey Mann",
+        "party": "R",
+        "chamber": "House",
+        "state": "KS"
+      },
+      "officialUrl": "https://mann.house.gov",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_M001153_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "M001153",
+      "changeType": "member.added",
+      "summary": "Started tracking Lisa Murkowski",
+      "after": {
+        "name": "Lisa Murkowski",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "AK"
+      },
+      "officialUrl": "https://www.murkowski.senate.gov/",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_M001206_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "M001206",
+      "changeType": "member.added",
+      "summary": "Started tracking Joseph D. Morelle",
+      "after": {
+        "name": "Joseph D. Morelle",
+        "party": "D",
+        "chamber": "House",
+        "state": "NY"
+      },
+      "officialUrl": "https://morelle.house.gov",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_O000174_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "O000174",
+      "changeType": "member.added",
+      "summary": "Started tracking Jon Ossoff",
+      "after": {
+        "name": "Jon Ossoff",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "GA"
+      },
+      "officialUrl": "https://www.ossoff.senate.gov",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_P000145_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "P000145",
+      "changeType": "member.added",
+      "summary": "Started tracking Alex Padilla",
+      "after": {
+        "name": "Alex Padilla",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "CA"
+      },
+      "officialUrl": "https://www.padilla.senate.gov",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_R000608_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "R000608",
+      "changeType": "member.added",
+      "summary": "Started tracking Jacky Rosen",
+      "after": {
+        "name": "Jacky Rosen",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "NV"
+      },
+      "officialUrl": "https://www.rosen.senate.gov",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_S001196_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "S001196",
+      "changeType": "member.added",
+      "summary": "Started tracking Elise M. Stefanik",
+      "after": {
+        "name": "Elise M. Stefanik",
+        "party": "R",
+        "chamber": "House",
+        "state": "NY"
+      },
+      "officialUrl": "https://stefanik.house.gov/",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
+    {
+      "id": "evt_2026-07-25T094656930Z_T000165_member.added",
+      "observedAt": "2026-07-25T09:46:56.930Z",
+      "entityType": "member",
+      "entityId": "T000165",
+      "changeType": "member.added",
+      "summary": "Started tracking Thomas P. Tiffany",
+      "after": {
+        "name": "Thomas P. Tiffany",
+        "party": "R",
+        "chamber": "House",
+        "state": "WI"
+      },
+      "officialUrl": "https://tiffany.house.gov/",
+      "syncId": "2026-07-25T09:46:56.930Z"
+    },
     {
       "id": "evt_2026-07-24T101629155Z_119-house-2-259_vote.corrected",
       "observedAt": "2026-07-24T10:16:29.155Z",
@@ -975,342 +1827,6 @@
         "state": "IN"
       },
       "officialUrl": "https://houchin.house.gov",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_H001099_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "H001099",
-      "changeType": "member.added",
-      "summary": "Started tracking Mike Haridopolos",
-      "after": {
-        "name": "Mike Haridopolos",
-        "party": "R",
-        "chamber": "House",
-        "state": "FL"
-      },
-      "officialUrl": "https://haridopolos.house.gov/",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_J000298_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "J000298",
-      "changeType": "member.added",
-      "summary": "Started tracking Pramila Jayapal",
-      "after": {
-        "name": "Pramila Jayapal",
-        "party": "D",
-        "chamber": "House",
-        "state": "WA"
-      },
-      "officialUrl": "https://jayapal.house.gov",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_J000304_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "J000304",
-      "changeType": "member.added",
-      "summary": "Started tracking Ronny Jackson",
-      "after": {
-        "name": "Ronny Jackson",
-        "party": "R",
-        "chamber": "House",
-        "state": "TX"
-      },
-      "officialUrl": "https://jackson.house.gov",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_K000376_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "K000376",
-      "changeType": "member.added",
-      "summary": "Started tracking Mike Kelly",
-      "after": {
-        "name": "Mike Kelly",
-        "party": "R",
-        "chamber": "House",
-        "state": "PA"
-      },
-      "officialUrl": "https://kelly.house.gov",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_K000389_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "K000389",
-      "changeType": "member.added",
-      "summary": "Started tracking Ro Khanna",
-      "after": {
-        "name": "Ro Khanna",
-        "party": "D",
-        "chamber": "House",
-        "state": "CA"
-      },
-      "officialUrl": "https://khanna.house.gov",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_L000566_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "L000566",
-      "changeType": "member.added",
-      "summary": "Started tracking Robert E. Latta",
-      "after": {
-        "name": "Robert E. Latta",
-        "party": "R",
-        "chamber": "House",
-        "state": "OH"
-      },
-      "officialUrl": "https://latta.house.gov/",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_M001163_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "M001163",
-      "changeType": "member.added",
-      "summary": "Started tracking Doris O. Matsui",
-      "after": {
-        "name": "Doris O. Matsui",
-        "party": "D",
-        "chamber": "House",
-        "state": "CA"
-      },
-      "officialUrl": "https://matsui.house.gov",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_M001218_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "M001218",
-      "changeType": "member.added",
-      "summary": "Started tracking Richard McCormick",
-      "after": {
-        "name": "Richard McCormick",
-        "party": "R",
-        "chamber": "House",
-        "state": "GA"
-      },
-      "officialUrl": "https://mccormick.house.gov",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_N000191_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "N000191",
-      "changeType": "member.added",
-      "summary": "Started tracking Joe Neguse",
-      "after": {
-        "name": "Joe Neguse",
-        "party": "D",
-        "chamber": "House",
-        "state": "CO"
-      },
-      "officialUrl": "https://neguse.house.gov/",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_P000605_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "P000605",
-      "changeType": "member.added",
-      "summary": "Started tracking Scott Perry",
-      "after": {
-        "name": "Scott Perry",
-        "party": "R",
-        "chamber": "House",
-        "state": "PA"
-      },
-      "officialUrl": "https://perry.house.gov/",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_P000608_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "P000608",
-      "changeType": "member.added",
-      "summary": "Started tracking Scott H. Peters",
-      "after": {
-        "name": "Scott H. Peters",
-        "party": "D",
-        "chamber": "House",
-        "state": "CA"
-      },
-      "officialUrl": "https://scottpeters.house.gov",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_P000613_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "P000613",
-      "changeType": "member.added",
-      "summary": "Started tracking Jimmy Panetta",
-      "after": {
-        "name": "Jimmy Panetta",
-        "party": "D",
-        "chamber": "House",
-        "state": "CA"
-      },
-      "officialUrl": "https://panetta.house.gov",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_P000620_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "P000620",
-      "changeType": "member.added",
-      "summary": "Started tracking Brittany Pettersen",
-      "after": {
-        "name": "Brittany Pettersen",
-        "party": "D",
-        "chamber": "House",
-        "state": "CO"
-      },
-      "officialUrl": "https://pettersen.house.gov",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_S001145_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "S001145",
-      "changeType": "member.added",
-      "summary": "Started tracking Janice D. Schakowsky",
-      "after": {
-        "name": "Janice D. Schakowsky",
-        "party": "D",
-        "chamber": "House",
-        "state": "IL"
-      },
-      "officialUrl": "https://schakowsky.house.gov",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_S001188_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "S001188",
-      "changeType": "member.added",
-      "summary": "Started tracking Marlin A. Stutzman",
-      "after": {
-        "name": "Marlin A. Stutzman",
-        "party": "R",
-        "chamber": "House",
-        "state": "IN"
-      },
-      "officialUrl": "https://stutzman.house.gov/",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_S001220_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "S001220",
-      "changeType": "member.added",
-      "summary": "Started tracking Dale W. Strong",
-      "after": {
-        "name": "Dale W. Strong",
-        "party": "R",
-        "chamber": "House",
-        "state": "AL"
-      },
-      "officialUrl": "https://strong.house.gov",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_T000478_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "T000478",
-      "changeType": "member.added",
-      "summary": "Started tracking Claudia Tenney",
-      "after": {
-        "name": "Claudia Tenney",
-        "party": "R",
-        "chamber": "House",
-        "state": "NY"
-      },
-      "officialUrl": "https://tenney.house.gov/",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_T000481_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "T000481",
-      "changeType": "member.added",
-      "summary": "Started tracking Rashida Tlaib",
-      "after": {
-        "name": "Rashida Tlaib",
-        "party": "D",
-        "chamber": "House",
-        "state": "MI"
-      },
-      "officialUrl": "https://tlaib.house.gov/",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_V000081_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "V000081",
-      "changeType": "member.added",
-      "summary": "Started tracking Nydia M. Velázquez",
-      "after": {
-        "name": "Nydia M. Velázquez",
-        "party": "D",
-        "chamber": "House",
-        "state": "NY"
-      },
-      "officialUrl": "https://velazquez.house.gov",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_W000788_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "W000788",
-      "changeType": "member.added",
-      "summary": "Started tracking Nikema Williams",
-      "after": {
-        "name": "Nikema Williams",
-        "party": "D",
-        "chamber": "House",
-        "state": "GA"
-      },
-      "officialUrl": "https://nikemawilliams.house.gov",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_W000830_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "W000830",
-      "changeType": "member.added",
-      "summary": "Started tracking George Whitesides",
-      "after": {
-        "name": "George Whitesides",
-        "party": "D",
-        "chamber": "House",
-        "state": "CA"
-      },
-      "officialUrl": "https://whitesides.house.gov/",
       "syncId": "2026-07-24T10:16:29.155Z"
     }
   ]
