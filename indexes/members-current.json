@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T09:46:56.930Z",
+  "generatedAt": "2026-07-26T09:59:10.407Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
@@ -883,6 +883,55 @@
       "officialUrl": "https://bera.house.gov"
     },
     {
+      "id": "B001301",
+      "bioguideId": "B001301",
+      "name": "Jack Bergman",
+      "firstName": "Jack",
+      "lastName": "Bergman",
+      "party": "R",
+      "chamber": "House",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "district": "1",
+      "currentTerm": {
+        "congress": 119,
+        "chamber": "House",
+        "state": "Michigan",
+        "district": "1",
+        "startYear": 2025
+      },
+      "sponsoredBillIds": [],
+      "cosponsoredBillIds": [],
+      "recentVoteIds": [
+        "119-house-2-283",
+        "119-house-2-282",
+        "119-house-2-281",
+        "119-house-2-280",
+        "119-house-2-279",
+        "119-house-2-278",
+        "119-house-2-277",
+        "119-house-2-276",
+        "119-house-2-275",
+        "119-house-2-274",
+        "119-house-2-273",
+        "119-house-2-272",
+        "119-house-2-271",
+        "119-house-2-270",
+        "119-house-2-269",
+        "119-house-2-268",
+        "119-house-2-267",
+        "119-house-2-266",
+        "119-house-2-265",
+        "119-house-2-264",
+        "119-house-2-263",
+        "119-house-2-262",
+        "119-house-2-261",
+        "119-house-2-260",
+        "119-house-2-259"
+      ],
+      "officialUrl": "https://bergman.house.gov"
+    },
+    {
       "id": "B001292",
       "bioguideId": "B001292",
       "name": "Donald S. Beyer, Jr.",
@@ -1373,29 +1422,6 @@
       "officialUrl": "https://buchanan.house.gov/"
     },
     {
-      "id": "C001088",
-      "bioguideId": "C001088",
-      "name": "Christopher A. Coons",
-      "firstName": "Christopher",
-      "lastName": "Coons",
-      "party": "D",
-      "chamber": "Senate",
-      "state": "Delaware",
-      "stateCode": "DE",
-      "currentTerm": {
-        "congress": 119,
-        "chamber": "Senate",
-        "state": "Delaware",
-        "startYear": 2025
-      },
-      "sponsoredBillIds": [
-        "119-s-2546"
-      ],
-      "cosponsoredBillIds": [],
-      "recentVoteIds": [],
-      "officialUrl": "https://www.coons.senate.gov/"
-    },
-    {
       "id": "C001113",
       "bioguideId": "C001113",
       "name": "Catherine Cortez Masto",
@@ -1486,7 +1512,8 @@
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-s-1175"
+        "119-s-1175",
+        "119-sres-816"
       ],
       "cosponsoredBillIds": [],
       "recentVoteIds": [],
@@ -1509,11 +1536,35 @@
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-s-1516"
+        "119-s-1516",
+        "119-sres-815"
       ],
       "cosponsoredBillIds": [],
       "recentVoteIds": [],
       "officialUrl": "https://www.durbin.senate.gov"
+    },
+    {
+      "id": "G000555",
+      "bioguideId": "G000555",
+      "name": "Kirsten E. Gillibrand",
+      "firstName": "Kirsten",
+      "lastName": "Gillibrand",
+      "party": "D",
+      "chamber": "Senate",
+      "state": "New York",
+      "stateCode": "NY",
+      "currentTerm": {
+        "congress": 119,
+        "chamber": "Senate",
+        "state": "New York",
+        "startYear": 2025
+      },
+      "sponsoredBillIds": [
+        "119-s-1518"
+      ],
+      "cosponsoredBillIds": [],
+      "recentVoteIds": [],
+      "officialUrl": "https://www.gillibrand.senate.gov"
     },
     {
       "id": "H001046",
@@ -1539,27 +1590,27 @@
       "officialUrl": "https://www.heinrich.senate.gov/"
     },
     {
-      "id": "H001079",
-      "bioguideId": "H001079",
-      "name": "Cindy Hyde-Smith",
-      "firstName": "Cindy",
-      "lastName": "Hyde-Smith",
-      "party": "R",
+      "id": "K000394",
+      "bioguideId": "K000394",
+      "name": "Andy Kim",
+      "firstName": "Andy",
+      "lastName": "Kim",
+      "party": "D",
       "chamber": "Senate",
-      "state": "Mississippi",
-      "stateCode": "MS",
+      "state": "New Jersey",
+      "stateCode": "NJ",
       "currentTerm": {
         "congress": 119,
         "chamber": "Senate",
-        "state": "Mississippi",
+        "state": "New Jersey",
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-s-3878"
+        "119-sres-814"
       ],
       "cosponsoredBillIds": [],
       "recentVoteIds": [],
-      "officialUrl": "https://www.hydesmith.senate.gov/"
+      "officialUrl": "https://www.kim.senate.gov/"
     },
     {
       "id": "L000566",
@@ -1683,57 +1734,6 @@
       "officialUrl": "https://www.lummis.senate.gov"
     },
     {
-      "id": "M000871",
-      "bioguideId": "M000871",
-      "name": "Tracey Mann",
-      "firstName": "Tracey",
-      "lastName": "Mann",
-      "party": "R",
-      "chamber": "House",
-      "state": "Kansas",
-      "stateCode": "KS",
-      "district": "1",
-      "currentTerm": {
-        "congress": 119,
-        "chamber": "House",
-        "state": "Kansas",
-        "district": "1",
-        "startYear": 2025
-      },
-      "sponsoredBillIds": [
-        "119-hres-1455"
-      ],
-      "cosponsoredBillIds": [],
-      "recentVoteIds": [
-        "119-house-2-283",
-        "119-house-2-282",
-        "119-house-2-281",
-        "119-house-2-280",
-        "119-house-2-279",
-        "119-house-2-278",
-        "119-house-2-277",
-        "119-house-2-276",
-        "119-house-2-275",
-        "119-house-2-274",
-        "119-house-2-273",
-        "119-house-2-272",
-        "119-house-2-271",
-        "119-house-2-270",
-        "119-house-2-269",
-        "119-house-2-268",
-        "119-house-2-267",
-        "119-house-2-266",
-        "119-house-2-265",
-        "119-house-2-264",
-        "119-house-2-263",
-        "119-house-2-262",
-        "119-house-2-261",
-        "119-house-2-260",
-        "119-house-2-259"
-      ],
-      "officialUrl": "https://mann.house.gov"
-    },
-    {
       "id": "M001206",
       "bioguideId": "M001206",
       "name": "Joseph D. Morelle",
@@ -1785,29 +1785,6 @@
       "officialUrl": "https://morelle.house.gov"
     },
     {
-      "id": "M001153",
-      "bioguideId": "M001153",
-      "name": "Lisa Murkowski",
-      "firstName": "Lisa",
-      "lastName": "Murkowski",
-      "party": "R",
-      "chamber": "Senate",
-      "state": "Alaska",
-      "stateCode": "AK",
-      "currentTerm": {
-        "congress": 119,
-        "chamber": "Senate",
-        "state": "Alaska",
-        "startYear": 2025
-      },
-      "sponsoredBillIds": [
-        "119-s-1353"
-      ],
-      "cosponsoredBillIds": [],
-      "recentVoteIds": [],
-      "officialUrl": "https://www.murkowski.senate.gov/"
-    },
-    {
       "id": "O000174",
       "bioguideId": "O000174",
       "name": "Jon Ossoff",
@@ -1831,27 +1808,55 @@
       "officialUrl": "https://www.ossoff.senate.gov"
     },
     {
-      "id": "P000145",
-      "bioguideId": "P000145",
-      "name": "Alex Padilla",
-      "firstName": "Alex",
-      "lastName": "Padilla",
+      "id": "P000613",
+      "bioguideId": "P000613",
+      "name": "Jimmy Panetta",
+      "firstName": "Jimmy",
+      "lastName": "Panetta",
       "party": "D",
-      "chamber": "Senate",
+      "chamber": "House",
       "state": "California",
       "stateCode": "CA",
+      "district": "19",
       "currentTerm": {
         "congress": 119,
-        "chamber": "Senate",
+        "chamber": "House",
         "state": "California",
+        "district": "19",
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-s-2881"
+        "119-hr-5334"
       ],
       "cosponsoredBillIds": [],
-      "recentVoteIds": [],
-      "officialUrl": "https://www.padilla.senate.gov"
+      "recentVoteIds": [
+        "119-house-2-283",
+        "119-house-2-282",
+        "119-house-2-281",
+        "119-house-2-280",
+        "119-house-2-279",
+        "119-house-2-278",
+        "119-house-2-277",
+        "119-house-2-276",
+        "119-house-2-275",
+        "119-house-2-274",
+        "119-house-2-273",
+        "119-house-2-272",
+        "119-house-2-271",
+        "119-house-2-270",
+        "119-house-2-269",
+        "119-house-2-268",
+        "119-house-2-267",
+        "119-house-2-266",
+        "119-house-2-265",
+        "119-house-2-264",
+        "119-house-2-263",
+        "119-house-2-262",
+        "119-house-2-261",
+        "119-house-2-260",
+        "119-house-2-259"
+      ],
+      "officialUrl": "https://panetta.house.gov"
     },
     {
       "id": "R000608",
@@ -1946,7 +1951,6 @@
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-hr-9933",
         "119-hr-8884"
       ],
       "cosponsoredBillIds": [],
@@ -1980,106 +1984,73 @@
       "officialUrl": "https://austinscott.house.gov/"
     },
     {
-      "id": "S001196",
-      "bioguideId": "S001196",
-      "name": "Elise M. Stefanik",
-      "firstName": "Elise",
-      "lastName": "Stefanik",
+      "id": "S001232",
+      "bioguideId": "S001232",
+      "name": "Tim Sheehy",
+      "firstName": "Tim",
+      "lastName": "Sheehy",
       "party": "R",
-      "chamber": "House",
-      "state": "New York",
-      "stateCode": "NY",
-      "district": "21",
+      "chamber": "Senate",
+      "state": "Montana",
+      "stateCode": "MT",
       "currentTerm": {
         "congress": 119,
-        "chamber": "House",
-        "state": "New York",
-        "district": "21",
+        "chamber": "Senate",
+        "state": "Montana",
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-hr-1550"
+        "119-s-5123"
       ],
       "cosponsoredBillIds": [],
-      "recentVoteIds": [
-        "119-house-2-283",
-        "119-house-2-282",
-        "119-house-2-281",
-        "119-house-2-280",
-        "119-house-2-279",
-        "119-house-2-278",
-        "119-house-2-277",
-        "119-house-2-276",
-        "119-house-2-275",
-        "119-house-2-274",
-        "119-house-2-273",
-        "119-house-2-272",
-        "119-house-2-271",
-        "119-house-2-270",
-        "119-house-2-269",
-        "119-house-2-268",
-        "119-house-2-267",
-        "119-house-2-266",
-        "119-house-2-265",
-        "119-house-2-264",
-        "119-house-2-263",
-        "119-house-2-262",
-        "119-house-2-261",
-        "119-house-2-260",
-        "119-house-2-259"
-      ],
-      "officialUrl": "https://stefanik.house.gov/"
+      "recentVoteIds": [],
+      "officialUrl": "https://www.sheehy.senate.gov/"
     },
     {
-      "id": "T000165",
-      "bioguideId": "T000165",
-      "name": "Thomas P. Tiffany",
-      "firstName": "Thomas",
-      "lastName": "Tiffany",
+      "id": "T000250",
+      "bioguideId": "T000250",
+      "name": "John Thune",
+      "firstName": "John",
+      "lastName": "Thune",
       "party": "R",
-      "chamber": "House",
-      "state": "Wisconsin",
-      "stateCode": "WI",
-      "district": "7",
+      "chamber": "Senate",
+      "state": "South Dakota",
+      "stateCode": "SD",
       "currentTerm": {
         "congress": 119,
-        "chamber": "House",
-        "state": "Wisconsin",
-        "district": "7",
+        "chamber": "Senate",
+        "state": "South Dakota",
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-hr-3937"
+        "119-sres-817"
       ],
       "cosponsoredBillIds": [],
-      "recentVoteIds": [
-        "119-house-2-283",
-        "119-house-2-282",
-        "119-house-2-281",
-        "119-house-2-280",
-        "119-house-2-279",
-        "119-house-2-278",
-        "119-house-2-277",
-        "119-house-2-276",
-        "119-house-2-275",
-        "119-house-2-274",
-        "119-house-2-273",
-        "119-house-2-272",
-        "119-house-2-271",
-        "119-house-2-270",
-        "119-house-2-269",
-        "119-house-2-268",
-        "119-house-2-267",
-        "119-house-2-266",
-        "119-house-2-265",
-        "119-house-2-264",
-        "119-house-2-263",
-        "119-house-2-262",
-        "119-house-2-261",
-        "119-house-2-260",
-        "119-house-2-259"
+      "recentVoteIds": [],
+      "officialUrl": "https://www.thune.senate.gov/"
+    },
+    {
+      "id": "W000437",
+      "bioguideId": "W000437",
+      "name": "Roger F. Wicker",
+      "firstName": "Roger",
+      "lastName": "Wicker",
+      "party": "R",
+      "chamber": "Senate",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "currentTerm": {
+        "congress": 119,
+        "chamber": "Senate",
+        "state": "Mississippi",
+        "startYear": 2025
+      },
+      "sponsoredBillIds": [
+        "119-s-4784"
       ],
-      "officialUrl": "https://tiffany.house.gov/"
+      "cosponsoredBillIds": [],
+      "recentVoteIds": [],
+      "officialUrl": "https://www.wicker.senate.gov"
     }
   ]
 }

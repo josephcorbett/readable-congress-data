@@ -1,60 +1,88 @@
 {
-  "generatedAt": "2026-07-25T09:46:56.930Z",
+  "generatedAt": "2026-07-26T09:59:10.407Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
     {
-      "id": "119-hr-9933",
-      "billType": "hr",
-      "billNumber": 9933,
+      "id": "119-s-1518",
+      "billType": "s",
+      "billNumber": 1518,
       "congress": 119,
-      "title": "South Atlantic Red Snapper Fair Access Act of 2026",
-      "status": "inCommittee",
-      "chamber": "House",
+      "title": "Strengthening America’s Turning Point Act",
+      "status": "introduced",
+      "chamber": "Senate",
+      "policyArea": "Public Lands and Natural Resources",
       "sponsor": {
-        "memberId": "S001189",
-        "name": "Rep. Scott, Austin [R-GA-8]",
-        "party": "R",
-        "state": "GA",
-        "district": "8",
-        "chamber": "House"
+        "memberId": "G000555",
+        "name": "Sen. Gillibrand, Kirsten E. [D-NY]",
+        "party": "D",
+        "state": "NY",
+        "chamber": "Senate"
       },
-      "cosponsorCount": 0,
+      "cosponsorCount": 1,
       "latestAction": {
         "date": "2026-07-23",
-        "text": "Referred to the House Committee on Natural Resources.",
-        "chamber": "House"
+        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 479.",
+        "chamber": "Senate"
       },
       "actions": [
         {
           "date": "2026-07-23",
-          "text": "Referred to the House Committee on Natural Resources.",
-          "chamber": "House",
-          "actionCode": "H11100"
+          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 479.",
+          "chamber": "Senate"
         },
         {
           "date": "2026-07-23",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
+          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.",
+          "chamber": "Senate"
         },
         {
           "date": "2026-07-23",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
+          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.",
+          "chamber": "Senate",
+          "actionCode": "14000"
+        },
+        {
+          "date": "2026-02-04",
+          "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2025-12-09",
+          "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2025-04-29",
+          "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2025-04-29",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
         }
       ],
       "textVersions": [
         {
-          "type": "Introduced in House",
+          "type": "Reported to Senate",
           "date": "2026-07-23",
-          "url": "https://www.congress.gov/119/bills/hr9933/BILLS-119hr9933ih.htm"
+          "url": "https://www.congress.gov/119/bills/s1518/BILLS-119s1518rs.htm"
+        },
+        {
+          "type": "Introduced in Senate",
+          "date": "2025-04-29",
+          "url": "https://www.congress.gov/119/bills/s1518/BILLS-119s1518is.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9933",
-      "updatedAt": "2026-07-25T04:38:25Z",
-      "introducedAt": "2026-07-23"
+      "summaryHtml": "<p><strong>Strengthening America’s Turning Point Act</strong></p><p>This bill renames the Saratoga National Historical Park, located in Stillwater, New York, as Saratoga National Battlefield Park.&nbsp;</p>",
+      "summaryFormat": "html",
+      "summary": "Strengthening America’s Turning Point Act This bill renames the Saratoga National Historical Park, located in Stillwater, New York, as Saratoga National Battlefield Park.",
+      "summarySource": "official",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1518",
+      "updatedAt": "2026-07-26T00:23:21Z",
+      "introducedAt": "2025-04-29"
     },
     {
       "id": "119-hr-9932",
@@ -385,152 +413,134 @@
       "introducedAt": "2026-05-19"
     },
     {
-      "id": "119-hr-3937",
+      "id": "119-hr-5334",
       "billType": "hr",
-      "billNumber": 3937,
+      "billNumber": 5334,
       "congress": 119,
-      "title": "Wabeno Economic Development Act",
+      "title": "SEED Act",
       "status": "introduced",
       "chamber": "House",
-      "policyArea": "Public Lands and Natural Resources",
+      "policyArea": "Taxation",
       "sponsor": {
-        "memberId": "T000165",
-        "name": "Rep. Tiffany, Thomas P. [R-WI-7]",
-        "party": "R",
-        "state": "WI",
-        "district": "7",
+        "memberId": "P000613",
+        "name": "Rep. Panetta, Jimmy [D-CA-19]",
+        "party": "D",
+        "state": "CA",
+        "district": "19",
         "chamber": "House"
       },
-      "cosponsorCount": 0,
+      "cosponsorCount": 23,
       "latestAction": {
         "date": "2026-07-23",
-        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 494.",
+        "text": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S4253)",
         "chamber": "House"
       },
       "actions": [
         {
           "date": "2026-07-23",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 494.",
+          "text": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S4253)",
           "chamber": "House"
         },
         {
           "date": "2026-07-23",
-          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.",
+          "text": "Motion to proceed to consideration of measure made in Senate. (CR S4253)",
           "chamber": "House"
         },
         {
-          "date": "2026-07-23",
-          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.",
-          "chamber": "House",
-          "actionCode": "14000"
-        },
-        {
-          "date": "2026-06-10",
-          "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
+          "date": "2026-07-14",
+          "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 454.",
           "chamber": "House"
         },
         {
-          "date": "2026-02-12",
-          "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+          "date": "2026-07-13",
+          "text": "Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
           "chamber": "House"
         },
         {
-          "date": "2025-07-23",
-          "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+          "date": "2026-04-28",
+          "text": "Received in the Senate.",
           "chamber": "House"
         },
         {
-          "date": "2025-07-22",
+          "date": "2026-04-27",
           "text": "Motion to reconsider laid on the table Agreed to without objection.",
           "chamber": "House",
           "actionCode": "H38310"
         },
         {
-          "date": "2025-07-22",
-          "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 215). (text: CR H3541)",
+          "date": "2026-04-27",
+          "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3111-3112)",
           "chamber": "House",
           "actionCode": "H37300"
         },
         {
-          "date": "2025-07-22",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 215). (text: CR H3541)",
+          "date": "2026-04-27",
+          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3111-3112)",
           "chamber": "House",
           "actionCode": "8000"
         },
         {
-          "date": "2025-07-22",
-          "text": "Considered as unfinished business. (consideration: CR H3544-3545)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2025-07-22",
-          "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
-          "chamber": "House",
-          "actionCode": "H37220"
-        },
-        {
-          "date": "2025-07-22",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3937.",
+          "date": "2026-04-27",
+          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5334.",
           "chamber": "House",
           "actionCode": "H8D000"
         },
         {
-          "date": "2025-07-22",
-          "text": "Considered under suspension of the rules. (consideration: CR H3541-3543)",
+          "date": "2026-04-27",
+          "text": "Considered under suspension of the rules. (consideration: CR H3111-3113)",
           "chamber": "House",
           "actionCode": "H30000"
         },
         {
-          "date": "2025-07-22",
-          "text": "Mr. Tiffany moved to suspend the rules and pass the bill, as amended.",
+          "date": "2026-04-27",
+          "text": "Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.",
           "chamber": "House",
           "actionCode": "H30300"
         },
         {
-          "date": "2025-07-21",
-          "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-211, Part I.",
+          "date": "2026-04-09",
+          "text": "Placed on the Union Calendar, Calendar No. 520.",
+          "chamber": "House",
+          "actionCode": "H12410"
+        },
+        {
+          "date": "2026-04-09",
+          "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-600.",
           "chamber": "House",
           "actionCode": "H12200"
         },
         {
-          "date": "2025-07-21",
-          "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-211, Part I.",
+          "date": "2026-04-09",
+          "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-600.",
           "chamber": "House",
           "actionCode": "5000"
         },
         {
-          "date": "2025-06-25",
-          "text": "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.",
+          "date": "2026-03-25",
+          "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 43 - 0.",
           "chamber": "House",
           "actionCode": "H19000"
         },
         {
-          "date": "2025-06-25",
+          "date": "2026-03-25",
           "text": "Committee Consideration and Mark-up Session Held",
           "chamber": "House",
           "actionCode": "H15001"
         },
         {
-          "date": "2025-06-11",
-          "text": "Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "date": "2025-09-11",
+          "text": "Referred to the House Committee on Ways and Means.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2025-06-11",
-          "text": "Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2025-06-11",
+          "date": "2025-09-11",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "Intro-H"
         },
         {
-          "date": "2025-06-11",
+          "date": "2025-09-11",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "1000"
@@ -538,109 +548,173 @@
       ],
       "textVersions": [
         {
-          "type": "Reported to Senate",
-          "date": "2026-07-23",
-          "url": "https://www.congress.gov/119/bills/hr3937/BILLS-119hr3937rs.htm"
-        },
-        {
-          "type": "Referred in Senate",
-          "date": "2025-07-23",
-          "url": "https://www.congress.gov/119/bills/hr3937/BILLS-119hr3937rfs.htm"
+          "type": "Placed on Calendar Senate",
+          "date": "2026-07-14",
+          "url": "https://www.congress.gov/119/bills/hr5334/BILLS-119hr5334pcs.htm"
         },
         {
           "type": "Engrossed in House",
-          "date": "2025-07-22",
-          "url": "https://www.congress.gov/119/bills/hr3937/BILLS-119hr3937eh.htm"
+          "date": "2026-04-27",
+          "url": "https://www.congress.gov/119/bills/hr5334/BILLS-119hr5334eh.htm"
+        },
+        {
+          "type": "Reported in House",
+          "date": "2026-04-09",
+          "url": "https://www.congress.gov/119/bills/hr5334/BILLS-119hr5334rh.htm"
         },
         {
           "type": "Introduced in House",
-          "date": "2025-06-11",
-          "url": "https://www.congress.gov/119/bills/hr3937/BILLS-119hr3937ih.htm"
+          "date": "2025-09-11",
+          "url": "https://www.congress.gov/119/bills/hr5334/BILLS-119hr5334ih.htm"
         }
       ],
-      "summaryHtml": "<p><strong>Wabeno Economic Development Act</strong></p><p>This bill requires the Forest Service to convey approximately 14 acres of federal land, including the&nbsp;mineral rights,&nbsp;in the Chequamegon-Nicolet National Forest, Wisconsin, to Tony's Wabeno Redi-Mix, LLC, upon receiving an offer to buy the land for market value.</p><p>The Forest Service must complete an appraisal to determine the market value of the land, and the offer must be received within 180 days after federal approval of such appraisal. Tony's Wabeno Redi-Mix, LLC, must pay an amount equal to the market value of the land and all associated costs as a condition of conveyance.</p><p>Additionally, the Department of the Interior must publish a comprehensive review of the federal permitting processes for the development of stone, sand, and gravel on federal lands.</p>",
+      "summaryHtml": "<p><strong>Supporting Early-childhood Educators' Deductions Act of 2025 or the SEED Act of 2025</strong></p><p>This bill expands&nbsp;eligibility for the above-the-line federal tax deduction for certain eligible educator expenses to include early childhood educators. (An above-the-line tax deduction is subtracted from gross income to calculate adjusted gross income.)</p><p>Under current law, kindergarten through grade 12 teachers, instructors, counselors, principals, or aides in schools that provide&nbsp;elementary or secondary education are allowed an above-the-line tax deduction of up to $300 (in 2025 and adjusted annually) for certain unreimbursed professional development and classroom expenses. (Other conditions apply.)</p><p>The bill expands eligibility for the tax deduction for such educator expenses to include early childhood educators in schools that provide early childhood (pre-kindergarten) education.&nbsp;</p>",
       "summaryFormat": "html",
-      "summary": "Wabeno Economic Development Act This bill requires the Forest Service to convey approximately 14 acres of federal land, including the mineral rights, in the Chequamegon-Nicolet National Forest, Wisconsin, to Tony's Wabeno Redi-Mix, LLC, upon receiving an offer to buy the land for market value. The Forest Service must complete an appraisal to determine the market value of the land, and the offer must be received within 180 days after federal approval of such appraisal. Tony's Wabeno Redi-Mix, LLC, must pay an amount equal to the market value of the land and all associated costs as a condition of conveyance. Additionally, the Department of the Interior must publish a comprehensive review of the federal permitting processes for the development of stone, sand, and gravel on federal lands.",
+      "summary": "Supporting Early-childhood Educators' Deductions Act of 2025 or the SEED Act of 2025 This bill expands eligibility for the above-the-line federal tax deduction for certain eligible educator expenses to include early childhood educators. (An above-the-line tax deduction is subtracted from gross income to calculate adjusted gross income.) Under current law, kindergarten through grade 12 teachers, instructors, counselors, principals, or aides in schools that provide elementary or secondary education are allowed an above-the-line tax deduction of up to $300 (in 2025 and adjusted annually) for certain unreimbursed professional development and classroom expenses. (Other conditions apply.) The bill expands eligibility for the tax deduction for such educator expenses to include early childhood educators in schools that provide early childhood (pre-kindergarten) education.",
       "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3937",
-      "updatedAt": "2026-07-25T04:38:24Z",
-      "introducedAt": "2025-06-11"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "updatedAt": "2026-07-25T10:56:32Z",
+      "introducedAt": "2025-09-11"
     },
     {
-      "id": "119-s-3878",
+      "id": "119-s-5123",
       "billType": "s",
-      "billNumber": 3878,
+      "billNumber": 5123,
       "congress": 119,
-      "title": "A bill to establish the Grand Village of the Natchez Indians and Jefferson College as affiliated areas of the National Park System, and for other purposes.",
+      "title": "A bill to amend title 36, United States Code, to designate July 20 as Lunar Landing Day.",
       "status": "introduced",
       "chamber": "Senate",
-      "policyArea": "Native Americans",
       "sponsor": {
-        "memberId": "H001079",
-        "name": "Sen. Hyde-Smith, Cindy [R-MS]",
+        "memberId": "S001232",
+        "name": "Sen. Sheehy, Tim [R-MT]",
         "party": "R",
-        "state": "MS",
+        "state": "MT",
         "chamber": "Senate"
       },
-      "cosponsorCount": 1,
+      "cosponsorCount": 3,
       "latestAction": {
         "date": "2026-07-23",
-        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 489.",
+        "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4273-4274; text: CR S4273-4274)",
         "chamber": "Senate"
       },
       "actions": [
         {
           "date": "2026-07-23",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 489.",
+          "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4273-4274; text: CR S4273-4274)",
           "chamber": "Senate"
         },
         {
           "date": "2026-07-23",
-          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.",
+          "text": "Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4273-4274; text: CR S4273-4274)",
           "chamber": "Senate",
-          "actionCode": "14000"
+          "actionCode": "17000"
         },
         {
-          "date": "2026-06-10",
-          "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-02-12",
-          "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-02-12",
+          "date": "2026-07-23",
           "text": "Introduced in Senate",
           "chamber": "Senate",
           "actionCode": "10000"
         }
       ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5123",
+      "updatedAt": "2026-07-25T10:56:25Z",
+      "introducedAt": "2026-07-23"
+    },
+    {
+      "id": "119-s-4784",
+      "billType": "s",
+      "billNumber": 4784,
+      "congress": 119,
+      "title": "National Defense Authorization Act for Fiscal Year 2027",
+      "status": "introduced",
+      "chamber": "Senate",
+      "policyArea": "Armed Forces and National Security",
+      "sponsor": {
+        "memberId": "W000437",
+        "name": "Sen. Wicker, Roger F. [R-MS]",
+        "party": "R",
+        "state": "MS",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-07-23",
+        "text": "Motion to proceed to consideration of measure withdrawn in Senate.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-07-23",
+          "text": "Motion to proceed to consideration of measure withdrawn in Senate.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Motion to proceed to consideration of measure made in Senate. (CR S4241-4242)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-20",
+          "text": "Motion to proceed to consideration of measure made in Senate. (CR S4145)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-14",
+          "text": "Motion to proceed to consideration of measure made in Senate. (CR S3919)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-14",
+          "text": "Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 195) entered in Senate.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-14",
+          "text": "Cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 50 - 46. Record Vote Number: 195. (CR S3918)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-06-24",
+          "text": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S3193)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-06-24",
+          "text": "Motion to proceed to consideration of measure made in Senate. (CR S3193)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-06-15",
+          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 436.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-06-15",
+          "text": "Committee on Armed Services. Original measure reported to Senate by Senator Wicker. With written report No. 119-127.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-06-15",
+          "text": "Committee on Armed Services. Original measure reported to Senate by Senator Wicker. With written report No. 119-127.",
+          "chamber": "Senate",
+          "actionCode": "14000"
+        }
+      ],
       "textVersions": [
         {
           "type": "Reported to Senate",
-          "date": "2026-07-23",
-          "url": "https://www.congress.gov/119/bills/s3878/BILLS-119s3878rs.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-02-12",
-          "url": "https://www.congress.gov/119/bills/s3878/BILLS-119s3878is.htm"
+          "date": "2026-06-15",
+          "url": "https://www.congress.gov/119/bills/s4784/BILLS-119s4784rs.htm"
         }
       ],
-      "summaryHtml": "<p><strong></strong>This bill establishes the Grand Village of the Natchez Indians in Natchez, Mississippi, as an affiliated area of the National Park System. The bill also establishes&nbsp;Historic Jefferson College in Natchez, Mississippi, as an affiliated area of the National Park System, subject to the Department of the Interior's determination that the site meets established criteria for affiliated areas.</p>",
+      "summaryHtml": "<p><strong>National Defense Authorization Act for Fiscal Year 2027</strong></p><p>This bill sets forth policies and authorities for FY2027 for Department of Defense (DOD) programs, activities, and military construction as well as the national security programs of the Department of Energy (DOE).</p><p>Among other elements, the bill</p><ul><li>authorizes the procurement of various items, including aircraft and ships;</li><li>sets active duty and reserve component personnel strength levels;</li><li>sets policy regarding various aspects of military health care and military compensation;</li><li>sets policy regarding DOD acquisitions and acquisition management, including contracting authorities;</li><li>sets policy for various matters related to DOD interactions with foreign nations, including matters concerning the Middle East, Europe, and the Indo-Pacific;</li><li>sets policy for various matters related to DOD cyber operations, cyber forces, cybersecurity, and artificial intelligence;</li><li>requires DOD to review certain materials (including boron carbide, copper foil, and synthetic diamond) to determine actions to maintain access to critical defense industry components and materials, and report to Congress on such matters;&nbsp;</li><li>authorizes DOD's Office of Strategic Capital to make equity investments in non-federal entities with respect to batteries and critical minerals, materials, and chemicals;</li><li>authorizes specified military construction projects and extends the authorization of certain projects from previous fiscal years; and&nbsp;</li><li>authorizes the National Nuclear Security Administration and the Defense Nuclear Facilities Safety Board.</li></ul><p>For additional information on the National Defense Authorization Act (NDAA) see</p><ul><li><a href=\"https://www.congress.gov/crs-product/IF10516\">In Focus IF10516, Defense Primer: Navigating the&nbsp;NDAA</a>, and</li><li><a href=\"https://www.congress.gov/crs-product/IF10515\">In Focus IF10515, Defense Primer: The&nbsp;NDAA Process</a>.</li></ul>",
       "summaryFormat": "html",
-      "summary": "This bill establishes the Grand Village of the Natchez Indians in Natchez, Mississippi, as an affiliated area of the National Park System. The bill also establishes Historic Jefferson College in Natchez, Mississippi, as an affiliated area of the National Park System, subject to the Department of the Interior's determination that the site meets established criteria for affiliated areas.",
+      "summary": "National Defense Authorization Act for Fiscal Year 2027 This bill sets forth policies and authorities for FY2027 for Department of Defense (DOD) programs, activities, and military construction as well as the national security programs of the Department of Energy (DOE). Among other elements, the bill authorizes the procurement of various items, including aircraft and ships; sets active duty and reserve component personnel strength levels; sets policy regarding various aspects of military health care and military compensation; sets policy regarding DOD acquisitions and acquisition management, including contracting authorities; sets policy for various matters related to DOD interactions with foreign nations, including matters concerning the Middle East, Europe, and the Indo-Pacific; sets policy for various matters related to DOD cyber operations, cyber forces, cybersecurity, and artificial intelligence; requires DOD to review certain materials (including boron carbide, copper foil, and synthetic diamond) to determine actions to maintain access to critical defense industry components and materials, and report to Congress on such matters; authorizes DOD's Office of Strategic Capital to make equity investments in non-federal entities with respect to batteries and critical minerals, materials, and chemicals; authorizes specified military construction projects and extends the authorization of certain projects from previous fiscal years; and authorizes the National Nuclear Security Administration and the Defense Nuclear Facilities Safety Board. For additional information on the National Defense Authorization Act (NDAA) see In Focus IF10516, Defense Primer: Navigating the NDAA , and In Focus IF10515, Defense Primer: The NDAA Process .",
       "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3878",
-      "updatedAt": "2026-07-25T04:33:45Z",
-      "introducedAt": "2026-02-12"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4784",
+      "updatedAt": "2026-07-25T11:03:27Z",
+      "introducedAt": "2026-06-15"
     },
     {
       "id": "119-s-3493",
@@ -716,7 +790,7 @@
         }
       ],
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3493",
-      "updatedAt": "2026-07-25T04:38:23Z",
+      "updatedAt": "2026-07-25T10:58:20Z",
       "introducedAt": "2025-12-16"
     },
     {
@@ -793,84 +867,8 @@
         }
       ],
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3004",
-      "updatedAt": "2026-07-25T04:38:25Z",
+      "updatedAt": "2026-07-25T10:58:20Z",
       "introducedAt": "2025-10-14"
-    },
-    {
-      "id": "119-s-2881",
-      "billType": "s",
-      "billNumber": 2881,
-      "congress": 119,
-      "title": "A bill to provide for the transfer of administrative jurisdiction over certain Federal land in the State of California, and for other purposes.",
-      "status": "introduced",
-      "chamber": "Senate",
-      "policyArea": "Public Lands and Natural Resources",
-      "sponsor": {
-        "memberId": "P000145",
-        "name": "Sen. Padilla, Alex [D-CA]",
-        "party": "D",
-        "state": "CA",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-07-23",
-        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 486.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-23",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 486.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment. Without written report.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment. Without written report.",
-          "chamber": "Senate",
-          "actionCode": "14000"
-        },
-        {
-          "date": "2026-02-04",
-          "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-09-18",
-          "text": "Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S6734)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-09-18",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Reported to Senate",
-          "date": "2026-07-23",
-          "url": "https://www.congress.gov/119/bills/s2881/BILLS-119s2881rs.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2025-09-18",
-          "url": "https://www.congress.gov/119/bills/s2881/BILLS-119s2881is.htm"
-        }
-      ],
-      "summaryHtml": "<p>This bill exchanges administrative jurisdiction over specified parcels of federal land between Yosemite National Park and Stanislaus National Forest in California.</p><p>By way of background, cattle are grazing on the land currently managed by the National Park Service. However, grazing on federal lands primarily occurs on lands managed by the Bureau of Land Management or the Forest Service. The transfer would allow the land with cattle grazing to be managed by the Forest Service, which has a&nbsp;multiple-use management plan that is consistent with grazing.</p>",
-      "summaryFormat": "html",
-      "summary": "This bill exchanges administrative jurisdiction over specified parcels of federal land between Yosemite National Park and Stanislaus National Forest in California. By way of background, cattle are grazing on the land currently managed by the National Park Service. However, grazing on federal lands primarily occurs on lands managed by the Bureau of Land Management or the Forest Service. The transfer would allow the land with cattle grazing to be managed by the Forest Service, which has a multiple-use management plan that is consistent with grazing.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2881",
-      "updatedAt": "2026-07-25T04:33:51Z",
-      "introducedAt": "2025-09-18"
     },
     {
       "id": "119-s-2787",
@@ -946,89 +944,8 @@
         }
       ],
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2787",
-      "updatedAt": "2026-07-25T04:33:42Z",
+      "updatedAt": "2026-07-25T10:58:20Z",
       "introducedAt": "2025-09-11"
-    },
-    {
-      "id": "119-s-2546",
-      "billType": "s",
-      "billNumber": 2546,
-      "congress": 119,
-      "title": "A bill to provide for an extension of the legislative authority of the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia and its environs.",
-      "status": "introduced",
-      "chamber": "Senate",
-      "policyArea": "Public Lands and Natural Resources",
-      "sponsor": {
-        "memberId": "C001088",
-        "name": "Sen. Coons, Christopher A. [D-DE]",
-        "party": "D",
-        "state": "DE",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 6,
-      "latestAction": {
-        "date": "2026-07-23",
-        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 484.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-23",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 484.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.",
-          "chamber": "Senate",
-          "actionCode": "14000"
-        },
-        {
-          "date": "2025-12-17",
-          "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-12-09",
-          "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-07-30",
-          "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Reported to Senate",
-          "date": "2026-07-23",
-          "url": "https://www.congress.gov/119/bills/s2546/BILLS-119s2546rs.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2025-07-30",
-          "url": "https://www.congress.gov/119/bills/s2546/BILLS-119s2546is.htm"
-        }
-      ],
-      "summaryHtml": "<p>This bill extends the authority of the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia that honors&nbsp;the commitment and service of emergency medical services.</p>",
-      "summaryFormat": "html",
-      "summary": "This bill extends the authority of the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia that honors the commitment and service of emergency medical services.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2546",
-      "updatedAt": "2026-07-25T04:33:41Z",
-      "introducedAt": "2025-07-30"
     },
     {
       "id": "119-s-2273",
@@ -1108,7 +1025,7 @@
       "summary": "Wyoming Education Trust Modernization Act This bill provides Wyoming with more flexibility to invest the principal of its permanent school fund by allowing the state to use earnings generated from investment of the fund rather than only interest. By way of background, Congress created the fund when Wyoming became a state by granting certain federal lands to be held in a trust for the state. Proceeds from school trust land sales, exchanges, or disposals are deposited into the fund to support public schools.",
       "summarySource": "official",
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2273",
-      "updatedAt": "2026-07-25T04:33:52Z",
+      "updatedAt": "2026-07-25T10:58:21Z",
       "introducedAt": "2025-07-14"
     },
     {
@@ -1180,7 +1097,7 @@
         }
       ],
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2102",
-      "updatedAt": "2026-07-25T04:33:48Z",
+      "updatedAt": "2026-07-25T10:58:20Z",
       "introducedAt": "2025-06-17"
     },
     {
@@ -1257,7 +1174,7 @@
         }
       ],
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1981",
-      "updatedAt": "2026-07-25T04:38:23Z",
+      "updatedAt": "2026-07-25T10:58:19Z",
       "introducedAt": "2025-06-05"
     },
     {
@@ -1338,7 +1255,7 @@
       "summary": "Brian Head Town Land Conveyance Act This bill directs the Forest Service to convey approximately 24 acres of land within the Dixie National Forest to Brian Head Town, Utah, along with any improvements made to the land. The town must use the land for a public works facility or any other uses determined to be necessary by the town. The Forest Service must convey the land to the town without consideration (such as payment).",
       "summarySource": "official",
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1860",
-      "updatedAt": "2026-07-25T04:38:22Z",
+      "updatedAt": "2026-07-25T10:58:19Z",
       "introducedAt": "2025-05-22"
     },
     {
@@ -1554,143 +1471,8 @@
       "summary": "Dolores River National Conservation Area and Special Management Area Act This bill establishes the Dolores River National Conservation Area and the Dolores River Special Management Area in Colorado to protect certain natural, recreational, scenic, cultural, historical, and other values of the areas. The conservation area must consist of approximately 52,872 acres of Bureau of Land Management land. The special management area must consist of approximately 15,452 acres of federal land in the San Juan National Forest. A management plan must be developed for each area. The bill directs the Department of the Interior to allow for the continued use of the areas by members of Indian tribes for traditional ceremonies and as a source of traditional plants and other materials. Additionally, Interior must manage the portions of the areas identified as Ponderosa Gorge in a manner that maintains its wilderness character, including by prohibiting (1) road construction; (2) the use of motor vehicles, motorized equipment, or mechanical transport; and (3) projects undertaken for the purpose of harvesting commercial timber. Interior must also establish the Dolores River National Conservation Area Advisory Council. Finally, the bill releases segments of the Dolores River inside the areas from further study for potential addition to the Wild and Scenic Rivers System.",
       "summarySource": "official",
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1787",
-      "updatedAt": "2026-07-25T04:38:23Z",
+      "updatedAt": "2026-07-25T10:58:20Z",
       "introducedAt": "2025-05-15"
-    },
-    {
-      "id": "119-hr-1550",
-      "billType": "hr",
-      "billNumber": 1550,
-      "congress": 119,
-      "title": "Strengthening America’s Turning Point Act",
-      "status": "introduced",
-      "chamber": "House",
-      "policyArea": "Public Lands and Natural Resources",
-      "sponsor": {
-        "memberId": "S001196",
-        "name": "Rep. Stefanik, Elise M. [R-NY-21]",
-        "party": "R",
-        "state": "NY",
-        "district": "21",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-07-23",
-        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 492.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-07-23",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 492.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.",
-          "chamber": "House",
-          "actionCode": "14000"
-        },
-        {
-          "date": "2026-02-04",
-          "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
-          "chamber": "House"
-        },
-        {
-          "date": "2025-05-14",
-          "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
-          "chamber": "House"
-        },
-        {
-          "date": "2025-05-13",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "House",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2025-05-13",
-          "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1974)",
-          "chamber": "House",
-          "actionCode": "H37300"
-        },
-        {
-          "date": "2025-05-13",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1974)",
-          "chamber": "House",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2025-05-13",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1550.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2025-05-13",
-          "text": "Considered under suspension of the rules. (consideration: CR H1974-1975)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2025-05-13",
-          "text": "Mr. Westerman moved to suspend the rules and pass the bill.",
-          "chamber": "House",
-          "actionCode": "H30300"
-        },
-        {
-          "date": "2025-02-25",
-          "text": "Referred to the House Committee on Natural Resources.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2025-02-25",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2025-02-25",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Reported to Senate",
-          "date": "2026-07-23",
-          "url": "https://www.congress.gov/119/bills/hr1550/BILLS-119hr1550rs.htm"
-        },
-        {
-          "type": "Referred in Senate",
-          "date": "2025-05-14",
-          "url": "https://www.congress.gov/119/bills/hr1550/BILLS-119hr1550rfs.htm"
-        },
-        {
-          "type": "Engrossed in House",
-          "date": "2025-05-13",
-          "url": "https://www.congress.gov/119/bills/hr1550/BILLS-119hr1550eh.htm"
-        },
-        {
-          "type": "Introduced in House",
-          "date": "2025-02-25",
-          "url": "https://www.congress.gov/119/bills/hr1550/BILLS-119hr1550ih.htm"
-        }
-      ],
-      "summaryHtml": "<p><strong>Strengthening America’s Turning Point Act</strong></p><p>This bill renames the Saratoga National Historical Park, located in Stillwater, New York, as Saratoga National Battlefield Park.&nbsp;</p>",
-      "summaryFormat": "html",
-      "summary": "Strengthening America’s Turning Point Act This bill renames the Saratoga National Historical Park, located in Stillwater, New York, as Saratoga National Battlefield Park.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1550",
-      "updatedAt": "2026-07-25T04:38:24Z",
-      "introducedAt": "2025-02-25"
     },
     {
       "id": "119-s-1516",
@@ -1765,7 +1547,7 @@
       "summary": "Cahokia Mounds Mississippian Culture Study Act This bill directs the Department of the Interior to conduct a special resource study of an area made up of (1) Cahokia Mounds State Historic Site in Collinsville, IL; (2) the Emerald Mounds in St. Clair County, Illinois; and (3) the Pulcher Mounds in Monroe and St. Clair Counties, Illinois. (The National Park Service uses special resource studies when determining whether to designate sites as National Historical Sites.) The study must evaluate the national significance of the study area; determine the suitability and feasibility of designating the study area as a unit of the National Park System; consider other alternatives for preservation, protection, and interpretation of the study area by other governmental entities or nonprofit organizations; and identify cost estimates for any federal acquisition, development, interpretation, operation, and maintenance associated with such alternatives. Interior must report on the results of the study and make recommendations to specified congressional committees.",
       "summarySource": "official",
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1516",
-      "updatedAt": "2026-07-25T04:33:49Z",
+      "updatedAt": "2026-07-25T10:58:20Z",
       "introducedAt": "2025-04-29"
     },
     {
@@ -1841,61 +1623,8 @@
       "summary": "Continental Divide National Scenic Trail Completion Act This bill directs the Department of Agriculture (USDA) and the Department of the Interior to seek to complete the Continental Divide National Scenic Trail no later than 10 years after the enactment of this bill. USDA and Interior must establish a joint Forest Service and Bureau of Land Management trail completion team to work in coordination with the administrator of the trail to facilitate its completion and optimization. USDA must complete a comprehensive development plan for the trail within three years. USDA and Interior must also seek to enter into agreements with volunteer and nonprofit organizations to facilitate the completion and administration of the trail.",
       "summarySource": "official",
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1470",
-      "updatedAt": "2026-07-25T04:38:22Z",
+      "updatedAt": "2026-07-25T10:58:19Z",
       "introducedAt": "2025-04-10"
-    },
-    {
-      "id": "119-hres-1455",
-      "billType": "hres",
-      "billNumber": 1455,
-      "congress": 119,
-      "title": "Honoring and commending the 100th anniversary of the Golf Course Superintendents Association of America.",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "M000871",
-        "name": "Rep. Mann, Tracey [R-KS-1]",
-        "party": "R",
-        "state": "KS",
-        "district": "1",
-        "chamber": "House"
-      },
-      "cosponsorCount": 10,
-      "latestAction": {
-        "date": "2026-07-23",
-        "text": "Referred to the House Committee on Oversight and Government Reform.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-07-23",
-          "text": "Referred to the House Committee on Oversight and Government Reform.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Submitted in House",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Submitted in House",
-          "chamber": "House",
-          "actionCode": "1025"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-07-23",
-          "url": "https://www.congress.gov/119/bills/hres1455/BILLS-119hres1455ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1455",
-      "updatedAt": "2026-07-25T04:33:42Z",
-      "introducedAt": "2026-07-23"
     },
     {
       "id": "119-s-1363",
@@ -1975,89 +1704,8 @@
       "summary": "New Mexico Land Grant-Mercedes Historical or Traditional Use Cooperation and Coordination Act This bill directs the Bureau of Land Management (BLM) and the Forest Service to enter a memorandum of understanding with the New Mexico Land Grant Council to describe existing processes that land grants-mercedes may use to obtain authorization for historical, traditional, or other uses of federal lands. Land grants-mercedes were created when Spain and Mexico issued grants of land to communities or individuals. When the United States acquired the land, including New Mexico, a process was created for adjudicating and recognizing these property rights. During that process, most land grants-mercedes lands became federal lands. Today, New Mexico recognizes 27 community land grants-mercedes as political subdivisions. When entering into the memorandum of understanding, the BLM and the Forest Service must consult with Indian tribes. The memorandum of understanding must provide for (1) enhanced cooperation and coordination between the BLM, the Forest Service, and qualified land grants-mercedes; and (2) subsidiary agreements with certain land grants-mercedes for specific projects. Additionally, the bill outlines what the memorandum of understanding must describe, such as the procedures for notice and comments on land management planning decisions. Finally, the BLM and the Forest Service must include in land use plans a section that evaluates the impact of other uses in the plan on historical or traditional uses by land grants-mercedes.",
       "summarySource": "official",
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1363",
-      "updatedAt": "2026-07-25T04:33:42Z",
+      "updatedAt": "2026-07-25T10:58:20Z",
       "introducedAt": "2025-04-09"
-    },
-    {
-      "id": "119-s-1353",
-      "billType": "s",
-      "billNumber": 1353,
-      "congress": 119,
-      "title": "A bill to extend the authority for modifications to the Second Division Memorial in the District of Columbia.",
-      "status": "introduced",
-      "chamber": "Senate",
-      "policyArea": "Government Operations and Politics",
-      "sponsor": {
-        "memberId": "M001153",
-        "name": "Sen. Murkowski, Lisa [R-AK]",
-        "party": "R",
-        "state": "AK",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-07-23",
-        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 475.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-23",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 475.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment. Without written report.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment. Without written report.",
-          "chamber": "Senate",
-          "actionCode": "14000"
-        },
-        {
-          "date": "2026-02-04",
-          "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-12-09",
-          "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-04-08",
-          "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-04-08",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Reported to Senate",
-          "date": "2026-07-23",
-          "url": "https://www.congress.gov/119/bills/s1353/BILLS-119s1353rs.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2025-04-08",
-          "url": "https://www.congress.gov/119/bills/s1353/BILLS-119s1353is.htm"
-        }
-      ],
-      "summaryHtml": "<p>This bill extends through September 30, 2032, the authority to modify the Second Division Memorial located in President’s Park in the District of Columbia. Specifically, it extends the authority of the Second Indianhead Division Association, Inc., Scholarship and Memorials Foundation to place additional commemorative elements or engravings on the raised platform or stone work to honor the members of the Second Infantry Division who have given their lives in service to the United States.&nbsp;</p>",
-      "summaryFormat": "html",
-      "summary": "This bill extends through September 30, 2032, the authority to modify the Second Division Memorial located in President’s Park in the District of Columbia. Specifically, it extends the authority of the Second Indianhead Division Association, Inc., Scholarship and Memorials Foundation to place additional commemorative elements or engravings on the raised platform or stone work to honor the members of the Second Infantry Division who have given their lives in service to the United States.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1353",
-      "updatedAt": "2026-07-25T04:33:33Z",
-      "introducedAt": "2025-04-08"
     },
     {
       "id": "119-s-1175",
@@ -2133,8 +1781,169 @@
         }
       ],
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1175",
-      "updatedAt": "2026-07-25T04:33:51Z",
+      "updatedAt": "2026-07-25T10:58:21Z",
       "introducedAt": "2025-03-27"
+    },
+    {
+      "id": "119-sres-817",
+      "billType": "sres",
+      "billNumber": 817,
+      "congress": 119,
+      "title": "An executive resolution authorizing the en bloc consideration in Executive Session of certain nominations on the Executive Calendar.",
+      "status": "introduced",
+      "chamber": "Senate",
+      "sponsor": {
+        "memberId": "T000250",
+        "name": "Sen. Thune, John [R-SD]",
+        "party": "R",
+        "state": "SD",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-07-23",
+        "text": "Placed on Senate Executive Calendar under Over, Under the Rule. Calendar No. 6.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-07-23",
+          "text": "Placed on Senate Executive Calendar under Over, Under the Rule. Calendar No. 6.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Submitted in the Senate Placed on Senate Executive Calendar under Over, Under the Rule. (text: CR S4272-4273)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Submitted in Senate",
+          "chamber": "Senate",
+          "actionCode": "10025"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/817",
+      "updatedAt": "2026-07-25T10:56:24Z",
+      "introducedAt": "2026-07-23"
+    },
+    {
+      "id": "119-sres-816",
+      "billType": "sres",
+      "billNumber": 816,
+      "congress": 119,
+      "title": "A resolution honoring 35 years of independence for the countries of Central Asia and recognizing the importance of the United States' growing relationship with Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "sponsor": {
+        "memberId": "D000618",
+        "name": "Sen. Daines, Steve [R-MT]",
+        "party": "R",
+        "state": "MT",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 2,
+      "latestAction": {
+        "date": "2026-07-23",
+        "text": "Referred to the Committee on Foreign Relations. (text: CR S4271-4272)",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-07-23",
+          "text": "Referred to the Committee on Foreign Relations. (text: CR S4271-4272)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Submitted in Senate",
+          "chamber": "Senate",
+          "actionCode": "10025"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/816",
+      "updatedAt": "2026-07-25T10:56:21Z",
+      "introducedAt": "2026-07-23"
+    },
+    {
+      "id": "119-sres-815",
+      "billType": "sres",
+      "billNumber": 815,
+      "congress": 119,
+      "title": "A resolution commending the Chicago Cubs baseball teams as it celebrates its 150th anniversary on August 29, 2026.",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "sponsor": {
+        "memberId": "D000563",
+        "name": "Sen. Durbin, Richard J. [D-IL]",
+        "party": "D",
+        "state": "IL",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-07-23",
+        "text": "Referred to the Committee on Commerce, Science, and Transportation. (text: CR S4271)",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-07-23",
+          "text": "Referred to the Committee on Commerce, Science, and Transportation. (text: CR S4271)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Submitted in Senate",
+          "chamber": "Senate",
+          "actionCode": "10025"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/815",
+      "updatedAt": "2026-07-25T10:56:22Z",
+      "introducedAt": "2026-07-23"
+    },
+    {
+      "id": "119-sres-814",
+      "billType": "sres",
+      "billNumber": 814,
+      "congress": 119,
+      "title": "A resolution recognizing the importance of independent living and economic self-sufficiency for individuals with disabilities made possible by the Americans with Disabilities Act of 1990 and calling to protect the right of individuals with disabilities to live in their own homes and communities.",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "sponsor": {
+        "memberId": "K000394",
+        "name": "Sen. Kim, Andy [D-NJ]",
+        "party": "D",
+        "state": "NJ",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 29,
+      "latestAction": {
+        "date": "2026-07-23",
+        "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S4270-4271)",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-07-23",
+          "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S4270-4271)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Submitted in Senate",
+          "chamber": "Senate",
+          "actionCode": "10025"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/814",
+      "updatedAt": "2026-07-25T10:56:19Z",
+      "introducedAt": "2026-07-23"
     }
   ]
 }

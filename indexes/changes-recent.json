@@ -1,8 +1,218 @@
 {
-  "generatedAt": "2026-07-25T09:46:56.930Z",
+  "generatedAt": "2026-07-26T09:59:10.407Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-07-26T095910407Z_119-hr-5334_bill.added",
+      "observedAt": "2026-07-26T09:59:10.407Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-5334: SEED Act",
+      "after": {
+        "title": "SEED Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-07-26T09:59:10.407Z"
+    },
+    {
+      "id": "evt_2026-07-26T095910407Z_119-s-1518_bill.added",
+      "observedAt": "2026-07-26T09:59:10.407Z",
+      "entityType": "bill",
+      "entityId": "119-s-1518",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1518: Strengthening America’s Turning Point Act",
+      "after": {
+        "title": "Strengthening America’s Turning Point Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1518",
+      "syncId": "2026-07-26T09:59:10.407Z"
+    },
+    {
+      "id": "evt_2026-07-26T095910407Z_119-s-4784_bill.action_added_0d89eb8fc4d5df54",
+      "observedAt": "2026-07-26T09:59:10.407Z",
+      "entityType": "bill",
+      "entityId": "119-s-4784",
+      "changeType": "bill.action_added",
+      "summary": "New action: Motion to proceed to consideration of measure made in Senate. (CR S4241-4242)",
+      "after": {
+        "date": "2026-07-23",
+        "text": "Motion to proceed to consideration of measure made in Senate. (CR S4241-4242)",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4784",
+      "syncId": "2026-07-26T09:59:10.407Z"
+    },
+    {
+      "id": "evt_2026-07-26T095910407Z_119-s-4784_bill.action_added_add21f15084c5099",
+      "observedAt": "2026-07-26T09:59:10.407Z",
+      "entityType": "bill",
+      "entityId": "119-s-4784",
+      "changeType": "bill.action_added",
+      "summary": "New action: Motion to proceed to consideration of measure withdrawn in Senate.",
+      "after": {
+        "date": "2026-07-23",
+        "text": "Motion to proceed to consideration of measure withdrawn in Senate.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4784",
+      "syncId": "2026-07-26T09:59:10.407Z"
+    },
+    {
+      "id": "evt_2026-07-26T095910407Z_119-s-5123_bill.added",
+      "observedAt": "2026-07-26T09:59:10.407Z",
+      "entityType": "bill",
+      "entityId": "119-s-5123",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5123: A bill to amend title 36, United States Code, to designate July 20 as Lunar Landing Day.",
+      "after": {
+        "title": "A bill to amend title 36, United States Code, to designate July 20 as Lunar Landing Day.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5123",
+      "syncId": "2026-07-26T09:59:10.407Z"
+    },
+    {
+      "id": "evt_2026-07-26T095910407Z_119-sres-814_bill.added",
+      "observedAt": "2026-07-26T09:59:10.407Z",
+      "entityType": "bill",
+      "entityId": "119-sres-814",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-814: A resolution recognizing the importance of independent living and economic self-sufficiency for individuals with disabilities made possible by the Americans with Disabilities Act of 1990 and calling to protect the right of individuals with disabilities to live in their own homes and communities.",
+      "after": {
+        "title": "A resolution recognizing the importance of independent living and economic self-sufficiency for individuals with disabilities made possible by the Americans with Disabilities Act of 1990 and calling to protect the right of individuals with disabilities to live in their own homes and communities.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/814",
+      "syncId": "2026-07-26T09:59:10.407Z"
+    },
+    {
+      "id": "evt_2026-07-26T095910407Z_119-sres-815_bill.added",
+      "observedAt": "2026-07-26T09:59:10.407Z",
+      "entityType": "bill",
+      "entityId": "119-sres-815",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-815: A resolution commending the Chicago Cubs baseball teams as it celebrates its 150th anniversary on August 29, 2026.",
+      "after": {
+        "title": "A resolution commending the Chicago Cubs baseball teams as it celebrates its 150th anniversary on August 29, 2026.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/815",
+      "syncId": "2026-07-26T09:59:10.407Z"
+    },
+    {
+      "id": "evt_2026-07-26T095910407Z_119-sres-816_bill.added",
+      "observedAt": "2026-07-26T09:59:10.407Z",
+      "entityType": "bill",
+      "entityId": "119-sres-816",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-816: A resolution honoring 35 years of independence for the countries of Central Asia and recognizing the importance of the United States' growing relationship with Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.",
+      "after": {
+        "title": "A resolution honoring 35 years of independence for the countries of Central Asia and recognizing the importance of the United States' growing relationship with Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/816",
+      "syncId": "2026-07-26T09:59:10.407Z"
+    },
+    {
+      "id": "evt_2026-07-26T095910407Z_119-sres-817_bill.added",
+      "observedAt": "2026-07-26T09:59:10.407Z",
+      "entityType": "bill",
+      "entityId": "119-sres-817",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-817: An executive resolution authorizing the en bloc consideration in Executive Session of certain nominations on the Executive Calendar.",
+      "after": {
+        "title": "An executive resolution authorizing the en bloc consideration in Executive Session of certain nominations on the Executive Calendar.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/817",
+      "syncId": "2026-07-26T09:59:10.407Z"
+    },
+    {
+      "id": "evt_2026-07-26T095910407Z_B001301_member.added",
+      "observedAt": "2026-07-26T09:59:10.407Z",
+      "entityType": "member",
+      "entityId": "B001301",
+      "changeType": "member.added",
+      "summary": "Started tracking Jack Bergman",
+      "after": {
+        "name": "Jack Bergman",
+        "party": "R",
+        "chamber": "House",
+        "state": "MI"
+      },
+      "officialUrl": "https://bergman.house.gov",
+      "syncId": "2026-07-26T09:59:10.407Z"
+    },
+    {
+      "id": "evt_2026-07-26T095910407Z_G000555_member.added",
+      "observedAt": "2026-07-26T09:59:10.407Z",
+      "entityType": "member",
+      "entityId": "G000555",
+      "changeType": "member.added",
+      "summary": "Started tracking Kirsten E. Gillibrand",
+      "after": {
+        "name": "Kirsten E. Gillibrand",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "NY"
+      },
+      "officialUrl": "https://www.gillibrand.senate.gov",
+      "syncId": "2026-07-26T09:59:10.407Z"
+    },
+    {
+      "id": "evt_2026-07-26T095910407Z_K000394_member.added",
+      "observedAt": "2026-07-26T09:59:10.407Z",
+      "entityType": "member",
+      "entityId": "K000394",
+      "changeType": "member.added",
+      "summary": "Started tracking Andy Kim",
+      "after": {
+        "name": "Andy Kim",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "NJ"
+      },
+      "officialUrl": "https://www.kim.senate.gov/",
+      "syncId": "2026-07-26T09:59:10.407Z"
+    },
+    {
+      "id": "evt_2026-07-26T095910407Z_S001232_member.added",
+      "observedAt": "2026-07-26T09:59:10.407Z",
+      "entityType": "member",
+      "entityId": "S001232",
+      "changeType": "member.added",
+      "summary": "Started tracking Tim Sheehy",
+      "after": {
+        "name": "Tim Sheehy",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "MT"
+      },
+      "officialUrl": "https://www.sheehy.senate.gov/",
+      "syncId": "2026-07-26T09:59:10.407Z"
+    },
+    {
+      "id": "evt_2026-07-26T095910407Z_T000250_member.added",
+      "observedAt": "2026-07-26T09:59:10.407Z",
+      "entityType": "member",
+      "entityId": "T000250",
+      "changeType": "member.added",
+      "summary": "Started tracking John Thune",
+      "after": {
+        "name": "John Thune",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "SD"
+      },
+      "officialUrl": "https://www.thune.senate.gov/",
+      "syncId": "2026-07-26T09:59:10.407Z"
+    },
     {
       "id": "evt_2026-07-25T094656930Z_119-house-2-283_vote.corrected",
       "observedAt": "2026-07-25T09:46:56.930Z",
@@ -1629,204 +1839,6 @@
         "status": "inCommittee"
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9927",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9928_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9928",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9928: To prohibit the Secretary of Homeland Security from waiving or reducing any fee associated with an application for United States citizenship.",
-      "after": {
-        "title": "To prohibit the Secretary of Homeland Security from waiving or reducing any fee associated with an application for United States citizenship.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9928",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9929_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9929",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9929: To designate the facility of the United States Postal Service located at 4640 Cass Street in San Diego, California, as the \"Mary Wilding Memorial Post Office Building\".",
-      "after": {
-        "title": "To designate the facility of the United States Postal Service located at 4640 Cass Street in San Diego, California, as the \"Mary Wilding Memorial Post Office Building\".",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9929",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9930_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9930",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9930: To require the Secretary of Defense to report on the implementation of the redesign of the compensation model of the child development program of the Department of Defense.",
-      "after": {
-        "title": "To require the Secretary of Defense to report on the implementation of the redesign of the compensation model of the child development program of the Department of Defense.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9930",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9931_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9931",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9931: To spark a renaissance in American manufacturing through the establishment of a American Manufacturing Renaissance Act to develop and monitor a national manufacturing strategy, to identify and address supply chain weaknesses as well as identify and address obstacles to inclusion and align manufacturing with strategic opportunities and imperatives through local multi-stakeholder Manufacturing Renaissance Councils, which are analogous to the technology hubs established in the Chips and Science Act, and for other purposes.",
-      "after": {
-        "title": "To spark a renaissance in American manufacturing through the establishment of a American Manufacturing Renaissance Act to develop and monitor a national manufacturing strategy, to identify and address supply chain weaknesses as well as identify and address obstacles to inclusion and align manufacturing with strategic opportunities and imperatives through local multi-stakeholder Manufacturing Renaissance Councils, which are analogous to the technology hubs established in the Chips and Science Act, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9931",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9932_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9932",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9932: To require all newly constructed, federally assisted, single-family houses and town houses to meet minimum standards of visitability for persons with disabilities.",
-      "after": {
-        "title": "To require all newly constructed, federally assisted, single-family houses and town houses to meet minimum standards of visitability for persons with disabilities.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9932",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9934_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9934",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9934: To increase the housing supply in the United States, and for other purposes.",
-      "after": {
-        "title": "To increase the housing supply in the United States, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9934",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9936_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9936",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9936: To amend title 39, United States Code, to limit bonuses to the Postmaster General, and for other purposes.",
-      "after": {
-        "title": "To amend title 39, United States Code, to limit bonuses to the Postmaster General, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9936",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9937_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9937",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9937: To amend the Controlled Substances Act and the Controlled Substances Import and Export Act to modify the offenses relating to fentanyl, and for other purposes.",
-      "after": {
-        "title": "To amend the Controlled Substances Act and the Controlled Substances Import and Export Act to modify the offenses relating to fentanyl, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9937",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9938_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9938",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9938: To amend the Internal Revenue Code of 1986 to establish a credit to incentivize investments in movie theaters, and for other purposes.",
-      "after": {
-        "title": "To amend the Internal Revenue Code of 1986 to establish a credit to incentivize investments in movie theaters, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9938",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9939_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9939",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9939: To prohibit Artificial Intelligence Data Centers on Federal land.",
-      "after": {
-        "title": "To prohibit Artificial Intelligence Data Centers on Federal land.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9943_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9943",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9943: To amend the Small Business Act to help owners and employees of small business concerns understand their rights and responsibilities with respect to immigration enforcement, and for other purposes.",
-      "after": {
-        "title": "To amend the Small Business Act to help owners and employees of small business concerns understand their rights and responsibilities with respect to immigration enforcement, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9943",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9945_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9945",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9945: To accelerate the modernization of the national electric grid by supporting advanced conductors and related systems, and for other purposes.",
-      "after": {
-        "title": "To accelerate the modernization of the national electric grid by supporting advanced conductors and related systems, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9945",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9946_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9946",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9946: To require the coverage of testing for certain sexually transmitted infections without the imposition of cost sharing, and for other purposes.",
-      "after": {
-        "title": "To require the coverage of testing for certain sexually transmitted infections without the imposition of cost sharing, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9946",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_H001093_member.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "member",
-      "entityId": "H001093",
-      "changeType": "member.added",
-      "summary": "Started tracking Erin Houchin",
-      "after": {
-        "name": "Erin Houchin",
-        "party": "R",
-        "chamber": "House",
-        "state": "IN"
-      },
-      "officialUrl": "https://houchin.house.gov",
       "syncId": "2026-07-24T10:16:29.155Z"
     }
   ]
