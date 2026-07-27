@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T09:59:10.407Z",
+  "generatedAt": "2026-07-27T11:20:34.976Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
@@ -1030,6 +1030,55 @@
       "officialUrl": "https://bice.house.gov"
     },
     {
+      "id": "B001302",
+      "bioguideId": "B001302",
+      "name": "Andy Biggs",
+      "firstName": "Andy",
+      "lastName": "Biggs",
+      "party": "R",
+      "chamber": "House",
+      "state": "Arizona",
+      "stateCode": "AZ",
+      "district": "5",
+      "currentTerm": {
+        "congress": 119,
+        "chamber": "House",
+        "state": "Arizona",
+        "district": "5",
+        "startYear": 2025
+      },
+      "sponsoredBillIds": [],
+      "cosponsoredBillIds": [],
+      "recentVoteIds": [
+        "119-house-2-283",
+        "119-house-2-282",
+        "119-house-2-281",
+        "119-house-2-280",
+        "119-house-2-279",
+        "119-house-2-278",
+        "119-house-2-277",
+        "119-house-2-276",
+        "119-house-2-275",
+        "119-house-2-274",
+        "119-house-2-273",
+        "119-house-2-272",
+        "119-house-2-271",
+        "119-house-2-270",
+        "119-house-2-269",
+        "119-house-2-268",
+        "119-house-2-267",
+        "119-house-2-266",
+        "119-house-2-265",
+        "119-house-2-264",
+        "119-house-2-263",
+        "119-house-2-262",
+        "119-house-2-261",
+        "119-house-2-260",
+        "119-house-2-259"
+      ],
+      "officialUrl": "https://biggs.house.gov"
+    },
+    {
       "id": "B001257",
       "bioguideId": "B001257",
       "name": "Gus M. Bilirakis",
@@ -1734,57 +1783,6 @@
       "officialUrl": "https://www.lummis.senate.gov"
     },
     {
-      "id": "M001206",
-      "bioguideId": "M001206",
-      "name": "Joseph D. Morelle",
-      "firstName": "Joseph",
-      "lastName": "Morelle",
-      "party": "D",
-      "chamber": "House",
-      "state": "New York",
-      "stateCode": "NY",
-      "district": "25",
-      "currentTerm": {
-        "congress": 119,
-        "chamber": "House",
-        "state": "New York",
-        "district": "25",
-        "startYear": 2025
-      },
-      "sponsoredBillIds": [
-        "119-hr-9922"
-      ],
-      "cosponsoredBillIds": [],
-      "recentVoteIds": [
-        "119-house-2-283",
-        "119-house-2-282",
-        "119-house-2-281",
-        "119-house-2-280",
-        "119-house-2-279",
-        "119-house-2-278",
-        "119-house-2-277",
-        "119-house-2-276",
-        "119-house-2-275",
-        "119-house-2-274",
-        "119-house-2-273",
-        "119-house-2-272",
-        "119-house-2-271",
-        "119-house-2-270",
-        "119-house-2-269",
-        "119-house-2-268",
-        "119-house-2-267",
-        "119-house-2-266",
-        "119-house-2-265",
-        "119-house-2-264",
-        "119-house-2-263",
-        "119-house-2-262",
-        "119-house-2-261",
-        "119-house-2-260",
-        "119-house-2-259"
-      ],
-      "officialUrl": "https://morelle.house.gov"
-    },
-    {
       "id": "O000174",
       "bioguideId": "O000174",
       "name": "Jon Ossoff",
@@ -1951,6 +1949,7 @@
         "startYear": 2025
       },
       "sponsoredBillIds": [
+        "119-hr-9933",
         "119-hr-8884"
       ],
       "cosponsoredBillIds": [],

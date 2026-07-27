@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-07-26T09:59:10.407Z",
+  "generatedAt": "2026-07-27T11:20:34.976Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-07-27T112034976Z_B001302_member.added",
+      "observedAt": "2026-07-27T11:20:34.976Z",
+      "entityType": "member",
+      "entityId": "B001302",
+      "changeType": "member.added",
+      "summary": "Started tracking Andy Biggs",
+      "after": {
+        "name": "Andy Biggs",
+        "party": "R",
+        "chamber": "House",
+        "state": "AZ"
+      },
+      "officialUrl": "https://biggs.house.gov",
+      "syncId": "2026-07-27T11:20:34.976Z"
+    },
     {
       "id": "evt_2026-07-26T095910407Z_119-hr-5334_bill.added",
       "observedAt": "2026-07-26T09:59:10.407Z",
@@ -1825,20 +1841,6 @@
         "status": "inCommittee"
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9924",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9927_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9927",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9927: To amend the Food Security Act of 1985 to add the emergency watershed program as a covered program for purposes of carrying out the regional conservation partnership program, and for other purposes.",
-      "after": {
-        "title": "To amend the Food Security Act of 1985 to add the emergency watershed program as a covered program for purposes of carrying out the regional conservation partnership program, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9927",
       "syncId": "2026-07-24T10:16:29.155Z"
     }
   ]

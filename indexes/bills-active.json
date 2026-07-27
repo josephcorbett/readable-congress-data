@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T09:59:10.407Z",
+  "generatedAt": "2026-07-27T11:20:34.976Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
@@ -85,6 +85,59 @@
       "introducedAt": "2025-04-29"
     },
     {
+      "id": "119-hr-9933",
+      "billType": "hr",
+      "billNumber": 9933,
+      "congress": 119,
+      "title": "South Atlantic Red Snapper Fair Access Act of 2026",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "S001189",
+        "name": "Rep. Scott, Austin [R-GA-8]",
+        "party": "R",
+        "state": "GA",
+        "district": "8",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-07-23",
+        "text": "Referred to the House Committee on Natural Resources.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-07-23",
+          "text": "Referred to the House Committee on Natural Resources.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-07-23",
+          "url": "https://www.congress.gov/119/bills/hr9933/BILLS-119hr9933ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9933",
+      "updatedAt": "2026-07-25T04:38:25Z",
+      "introducedAt": "2026-07-23"
+    },
+    {
       "id": "119-hr-9932",
       "billType": "hr",
       "billNumber": 9932,
@@ -135,59 +188,6 @@
       ],
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9932",
       "updatedAt": "2026-07-25T04:38:26Z",
-      "introducedAt": "2026-07-23"
-    },
-    {
-      "id": "119-hr-9922",
-      "billType": "hr",
-      "billNumber": 9922,
-      "congress": 119,
-      "title": "AI Transparency in Elections Act of 2026",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "M001206",
-        "name": "Rep. Morelle, Joseph D. [D-NY-25]",
-        "party": "D",
-        "state": "NY",
-        "district": "25",
-        "chamber": "House"
-      },
-      "cosponsorCount": 4,
-      "latestAction": {
-        "date": "2026-07-23",
-        "text": "Referred to the House Committee on House Administration.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-07-23",
-          "text": "Referred to the House Committee on House Administration.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-07-23",
-          "url": "https://www.congress.gov/119/bills/hr9922/BILLS-119hr9922ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9922",
-      "updatedAt": "2026-07-25T04:38:25Z",
       "introducedAt": "2026-07-23"
     },
     {
