@@ -1,8 +1,710 @@
 {
-  "generatedAt": "2026-07-27T11:20:34.976Z",
+  "generatedAt": "2026-07-28T10:34:40.769Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-07-28T103440769Z_119-house-2-283_vote.corrected",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-283",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Passage",
+      "before": {
+        "result": "Passed",
+        "yea": 232,
+        "nay": 188,
+        "present": 0,
+        "notVoting": 11,
+        "question": "On Passage",
+        "description": "Removing Barriers to Work for Disabled Americans Act (HR 8884)",
+        "date": "2026-07-23",
+        "associatedBillId": "119-hr-8884"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 232,
+        "nay": 188,
+        "present": 0,
+        "notVoting": 11,
+        "question": "On Passage",
+        "description": "On Passage",
+        "date": "2026-07-23",
+        "associatedBillId": "119-hr-8884"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll283.xml",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9947_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9947",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9947: Offshore Oil and Gas Worker Whistleblower Protection Act",
+      "after": {
+        "title": "Offshore Oil and Gas Worker Whistleblower Protection Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9947",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9948_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9948",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9948: To direct the President to establish an interagency task force to review, and provide recommendations on, the impact of addictive design features on youth mental health, to direct the Secretary of Health and Human Services to establish grant programs to support the activities of the task force, and for other purposes.",
+      "after": {
+        "title": "To direct the President to establish an interagency task force to review, and provide recommendations on, the impact of addictive design features on youth mental health, to direct the Secretary of Health and Human Services to establish grant programs to support the activities of the task force, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9948",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9949_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9949",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9949: To require the Secretary of Health and Human Services to conduct a study on the impacts of arsenic, cadmium, mercury, and lead in infant formula on infant health and establish standards for regulating the content of such substances in infant formula.",
+      "after": {
+        "title": "To require the Secretary of Health and Human Services to conduct a study on the impacts of arsenic, cadmium, mercury, and lead in infant formula on infant health and establish standards for regulating the content of such substances in infant formula.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9949",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9953_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9953",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9953: To reduce trawl gear impacts on bycatch and seafloor habitat in the Bering Sea, Aleutian Islands, and Gulf of Alaska, to establish gear performance standards, seafloor contact detection, and salmon excluder requirements, to improve Council transparency and participation, to prioritize ecosystem analyses, to modernize electronic monitoring, to prohibit unsustainable foreign seafood imports, and to establish a Bycatch Mitigation and Habitat Protection Assistance Fund.",
+      "after": {
+        "title": "To reduce trawl gear impacts on bycatch and seafloor habitat in the Bering Sea, Aleutian Islands, and Gulf of Alaska, to establish gear performance standards, seafloor contact detection, and salmon excluder requirements, to improve Council transparency and participation, to prioritize ecosystem analyses, to modernize electronic monitoring, to prohibit unsustainable foreign seafood imports, and to establish a Bycatch Mitigation and Habitat Protection Assistance Fund.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9953",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9955_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9955",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9955: To amend the Higher Education Act of 1965 to provide opportunities for students at institutions of higher education to study trades, and for other purposes.",
+      "after": {
+        "title": "To amend the Higher Education Act of 1965 to provide opportunities for students at institutions of higher education to study trades, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9955",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9956_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9956",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9956: To require the Secretary of Education to issue guidance regarding seizure safety in elementary schools and secondary schools, and for other purposes.",
+      "after": {
+        "title": "To require the Secretary of Education to issue guidance regarding seizure safety in elementary schools and secondary schools, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9956",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9957_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9957",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9957: To amend the Higher Education Act of 1965 to provide for comprehensive student achievement information.",
+      "after": {
+        "title": "To amend the Higher Education Act of 1965 to provide for comprehensive student achievement information.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9957",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9958_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9958",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9958: To amend the Head Start Act to expand and improve participation in Head Start programs, and for other purposes.",
+      "after": {
+        "title": "To amend the Head Start Act to expand and improve participation in Head Start programs, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9958",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9959_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9959",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9959: To establish a Green New Deal for public schools.",
+      "after": {
+        "title": "To establish a Green New Deal for public schools.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9959",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9960_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9960",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9960: To amend the Higher Education Act of 1965 to improve the financial aid process for homeless and foster care youth.",
+      "after": {
+        "title": "To amend the Higher Education Act of 1965 to improve the financial aid process for homeless and foster care youth.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9960",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9961_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9961",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9961: To prohibit the use of campaign contributions or legal defense funds to pay settlements or penalties related to sexual assault, sexual abuse, and sexual harassment claims, and for other purposes.",
+      "after": {
+        "title": "To prohibit the use of campaign contributions or legal defense funds to pay settlements or penalties related to sexual assault, sexual abuse, and sexual harassment claims, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9961",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9962_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9962",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9962: To establish a Green New Deal for Health to prepare and empower the health care sector to protect the health and well-being of our workers, our communities, and our planet in the face of the climate crisis, and for other purposes.",
+      "after": {
+        "title": "To establish a Green New Deal for Health to prepare and empower the health care sector to protect the health and well-being of our workers, our communities, and our planet in the face of the climate crisis, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9962",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9965_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9965",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9965: To direct the National Nuclear Security Administration through the Secretary of Energy to establish the Advanced Artificial Intelligence Nuclear Evaluation Program, and for other purposes.",
+      "after": {
+        "title": "To direct the National Nuclear Security Administration through the Secretary of Energy to establish the Advanced Artificial Intelligence Nuclear Evaluation Program, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9965",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9966_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9966",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9966: To amend the Homeland Security Act of 2002 to clarify certain requirements relating to the Nonprofit Security Grant Program of the Department of Homeland Security, and for other purposes.",
+      "after": {
+        "title": "To amend the Homeland Security Act of 2002 to clarify certain requirements relating to the Nonprofit Security Grant Program of the Department of Homeland Security, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9966",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9967_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9967",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9967: To amend the Congressional Accountability Act of 1995 to provide enhanced enforcement authority for occupational safety and health protections applicable to the legislative branch, to provide whistleblower protections and other antidiscrimination protections for employees of the legislative branch, and for other purposes.",
+      "after": {
+        "title": "To amend the Congressional Accountability Act of 1995 to provide enhanced enforcement authority for occupational safety and health protections applicable to the legislative branch, to provide whistleblower protections and other antidiscrimination protections for employees of the legislative branch, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9967",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9969_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9969",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9969: To direct the Federal Trade Commission to conduct an investigation and submit to Congress a report on unfair or deceptive acts or practices that may be prevalent in the advertising or marketing of preterm infant formula and to issue regulations to prohibit unfair or deceptive acts or practices related to the advertising or marketing of preterm infant formula, and for other purposes.",
+      "after": {
+        "title": "To direct the Federal Trade Commission to conduct an investigation and submit to Congress a report on unfair or deceptive acts or practices that may be prevalent in the advertising or marketing of preterm infant formula and to issue regulations to prohibit unfair or deceptive acts or practices related to the advertising or marketing of preterm infant formula, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9969",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9973_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9973",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9973: To improve the Indian School Equalization Formula and Indian School Equalization Program of the Bureau of Indian Education, and for other purposes.",
+      "after": {
+        "title": "To improve the Indian School Equalization Formula and Indian School Equalization Program of the Bureau of Indian Education, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9973",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9974_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9974",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9974: To amend the Higher Education Act of 1965 to include certain individuals who work on farms or ranches as individuals who are employed in public service jobs for purposes of eligibility for loan forgiveness under the Federal Direct Loan program.",
+      "after": {
+        "title": "To amend the Higher Education Act of 1965 to include certain individuals who work on farms or ranches as individuals who are employed in public service jobs for purposes of eligibility for loan forgiveness under the Federal Direct Loan program.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9974",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hr-9975_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9975",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9975: Carbon Dioxide Removal Leadership Act of 2026",
+      "after": {
+        "title": "Carbon Dioxide Removal Leadership Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9975",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hres-1459_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1459",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1459: Expressing support for the designation of July 2026 as \"American Grown Flower and Foliage Month\".",
+      "after": {
+        "title": "Expressing support for the designation of July 2026 as \"American Grown Flower and Foliage Month\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1459",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hres-1460_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1460",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1460: Acknowledging the courage and sacrifice of veterans of the Korean War and Korean Defense Veterans.",
+      "after": {
+        "title": "Acknowledging the courage and sacrifice of veterans of the Korean War and Korean Defense Veterans.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1460",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hres-1461_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1461",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1461: The Original Resolution honoring the life, public service, and legacy of the Honorable Congressman Craig Anthony Washington, a distinguished legislator, superior attorney, civil rights advocate, and champion for justice.",
+      "after": {
+        "title": "The Original Resolution honoring the life, public service, and legacy of the Honorable Congressman Craig Anthony Washington, a distinguished legislator, superior attorney, civil rights advocate, and champion for justice.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1461",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hres-1462_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1462",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1462: Recognizing the historic significance of Medicare on the 61st anniversary of its enactment.",
+      "after": {
+        "title": "Recognizing the historic significance of Medicare on the 61st anniversary of its enactment.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1462",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hres-1463_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1463",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1463: Expressing support for July to be designated as \"Disability Pride Month\".",
+      "after": {
+        "title": "Expressing support for July to be designated as \"Disability Pride Month\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1463",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_119-hres-1464_bill.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1464",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1464: Celebrating the opening of the Gordie Howe International Bridge and the friendship between the United States and Canada.",
+      "after": {
+        "title": "Celebrating the opening of the Gordie Howe International Bridge and the friendship between the United States and Canada.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1464",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_B001318_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "B001318",
+      "changeType": "member.added",
+      "summary": "Started tracking Becca Balint",
+      "after": {
+        "name": "Becca Balint",
+        "party": "D",
+        "chamber": "House",
+        "state": "VT"
+      },
+      "officialUrl": "https://balint.house.gov",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_B001321_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "B001321",
+      "changeType": "member.added",
+      "summary": "Started tracking Tom Barrett",
+      "after": {
+        "name": "Tom Barrett",
+        "party": "R",
+        "chamber": "House",
+        "state": "MI"
+      },
+      "officialUrl": "https://barrett.house.gov/",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_B001323_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "B001323",
+      "changeType": "member.added",
+      "summary": "Started tracking Nicholas J. Begich III",
+      "after": {
+        "name": "Nicholas J. Begich III",
+        "party": "R",
+        "chamber": "House",
+        "state": "AK"
+      },
+      "officialUrl": "https://begich.house.gov/",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_C001112_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "C001112",
+      "changeType": "member.added",
+      "summary": "Started tracking Salud O. Carbajal",
+      "after": {
+        "name": "Salud O. Carbajal",
+        "party": "D",
+        "chamber": "House",
+        "state": "CA"
+      },
+      "officialUrl": "https://carbajal.house.gov",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_D000530_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "D000530",
+      "changeType": "member.added",
+      "summary": "Started tracking Christopher R. Deluzio",
+      "after": {
+        "name": "Christopher R. Deluzio",
+        "party": "D",
+        "chamber": "House",
+        "state": "PA"
+      },
+      "officialUrl": "https://deluzio.house.gov",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_D000623_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "D000623",
+      "changeType": "member.added",
+      "summary": "Started tracking Mark DeSaulnier",
+      "after": {
+        "name": "Mark DeSaulnier",
+        "party": "D",
+        "chamber": "House",
+        "state": "CA"
+      },
+      "officialUrl": "https://desaulnier.house.gov/",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_F000462_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "F000462",
+      "changeType": "member.added",
+      "summary": "Started tracking Lois Frankel",
+      "after": {
+        "name": "Lois Frankel",
+        "party": "D",
+        "chamber": "House",
+        "state": "FL"
+      },
+      "officialUrl": "https://frankel.house.gov",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_F000477_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "F000477",
+      "changeType": "member.added",
+      "summary": "Started tracking Valerie P. Foushee",
+      "after": {
+        "name": "Valerie P. Foushee",
+        "party": "D",
+        "chamber": "House",
+        "state": "NC"
+      },
+      "officialUrl": "https://foushee.house.gov",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_G000553_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "G000553",
+      "changeType": "member.added",
+      "summary": "Started tracking Al Green",
+      "after": {
+        "name": "Al Green",
+        "party": "D",
+        "chamber": "House",
+        "state": "TX"
+      },
+      "officialUrl": "https://algreen.house.gov",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_H001081_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "H001081",
+      "changeType": "member.added",
+      "summary": "Started tracking Jahana Hayes",
+      "after": {
+        "name": "Jahana Hayes",
+        "party": "D",
+        "chamber": "House",
+        "state": "CT"
+      },
+      "officialUrl": "https://hayes.house.gov",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_K000400_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "K000400",
+      "changeType": "member.added",
+      "summary": "Started tracking Sydney Kamlager-Dove",
+      "after": {
+        "name": "Sydney Kamlager-Dove",
+        "party": "D",
+        "chamber": "House",
+        "state": "CA"
+      },
+      "officialUrl": "https://kamlager-dove.house.gov",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_M001143_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "M001143",
+      "changeType": "member.added",
+      "summary": "Started tracking Betty McCollum",
+      "after": {
+        "name": "Betty McCollum",
+        "party": "D",
+        "chamber": "House",
+        "state": "MN"
+      },
+      "officialUrl": "https://mccollum.house.gov",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_M001228_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "M001228",
+      "changeType": "member.added",
+      "summary": "Started tracking Celeste Maloy",
+      "after": {
+        "name": "Celeste Maloy",
+        "party": "R",
+        "chamber": "House",
+        "state": "UT"
+      },
+      "officialUrl": "https://maloy.house.gov",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_M001230_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "M001230",
+      "changeType": "member.added",
+      "summary": "Started tracking Ryan Mackenzie",
+      "after": {
+        "name": "Ryan Mackenzie",
+        "party": "R",
+        "chamber": "House",
+        "state": "PA"
+      },
+      "officialUrl": "https://mackenzie.house.gov/",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_N000147_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "N000147",
+      "changeType": "member.added",
+      "summary": "Started tracking Eleanor Holmes Norton",
+      "after": {
+        "name": "Eleanor Holmes Norton",
+        "party": "D",
+        "chamber": "House",
+        "state": "DC"
+      },
+      "officialUrl": "https://norton.house.gov/",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_P000614_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "P000614",
+      "changeType": "member.added",
+      "summary": "Started tracking Chris Pappas",
+      "after": {
+        "name": "Chris Pappas",
+        "party": "D",
+        "chamber": "House",
+        "state": "NH"
+      },
+      "officialUrl": "https://pappas.house.gov",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_S001218_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "S001218",
+      "changeType": "member.added",
+      "summary": "Started tracking Melanie A. Stansbury",
+      "after": {
+        "name": "Melanie A. Stansbury",
+        "party": "D",
+        "chamber": "House",
+        "state": "NM"
+      },
+      "officialUrl": "https://stansbury.house.gov/",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_T000467_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "T000467",
+      "changeType": "member.added",
+      "summary": "Started tracking Glenn Thompson",
+      "after": {
+        "name": "Glenn Thompson",
+        "party": "R",
+        "chamber": "House",
+        "state": "PA"
+      },
+      "officialUrl": "https://thompson.house.gov",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_T000469_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "T000469",
+      "changeType": "member.added",
+      "summary": "Started tracking Paul Tonko",
+      "after": {
+        "name": "Paul Tonko",
+        "party": "D",
+        "chamber": "House",
+        "state": "NY"
+      },
+      "officialUrl": "https://tonko.house.gov/",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
+    {
+      "id": "evt_2026-07-28T103440769Z_T000488_member.added",
+      "observedAt": "2026-07-28T10:34:40.769Z",
+      "entityType": "member",
+      "entityId": "T000488",
+      "changeType": "member.added",
+      "summary": "Started tracking Shri Thanedar",
+      "after": {
+        "name": "Shri Thanedar",
+        "party": "D",
+        "chamber": "House",
+        "state": "MI"
+      },
+      "officialUrl": "https://thanedar.house.gov",
+      "syncId": "2026-07-28T10:34:40.769Z"
+    },
     {
       "id": "evt_2026-07-27T112034976Z_B001302_member.added",
       "observedAt": "2026-07-27T11:20:34.976Z",
@@ -824,1024 +1526,6 @@
       },
       "officialUrl": "https://www.cortezmasto.senate.gov",
       "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_C001132_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "C001132",
-      "changeType": "member.added",
-      "summary": "Started tracking Elijah Crane",
-      "after": {
-        "name": "Elijah Crane",
-        "party": "R",
-        "chamber": "House",
-        "state": "AZ"
-      },
-      "officialUrl": "https://crane.house.gov",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_D000563_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "D000563",
-      "changeType": "member.added",
-      "summary": "Started tracking Richard J. Durbin",
-      "after": {
-        "name": "Richard J. Durbin",
-        "party": "D",
-        "chamber": "Senate",
-        "state": "IL"
-      },
-      "officialUrl": "https://www.durbin.senate.gov",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_D000618_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "D000618",
-      "changeType": "member.added",
-      "summary": "Started tracking Steve Daines",
-      "after": {
-        "name": "Steve Daines",
-        "party": "R",
-        "chamber": "Senate",
-        "state": "MT"
-      },
-      "officialUrl": "https://www.daines.senate.gov",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_H001046_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "H001046",
-      "changeType": "member.added",
-      "summary": "Started tracking Martin Heinrich",
-      "after": {
-        "name": "Martin Heinrich",
-        "party": "D",
-        "chamber": "Senate",
-        "state": "NM"
-      },
-      "officialUrl": "https://www.heinrich.senate.gov/",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_H001079_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "H001079",
-      "changeType": "member.added",
-      "summary": "Started tracking Cindy Hyde-Smith",
-      "after": {
-        "name": "Cindy Hyde-Smith",
-        "party": "R",
-        "chamber": "Senate",
-        "state": "MS"
-      },
-      "officialUrl": "https://www.hydesmith.senate.gov/",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_L000570_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "L000570",
-      "changeType": "member.added",
-      "summary": "Started tracking Ben Ray Luján",
-      "after": {
-        "name": "Ben Ray Luján",
-        "party": "D",
-        "chamber": "Senate",
-        "state": "NM"
-      },
-      "officialUrl": "https://www.lujan.senate.gov",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_L000571_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "L000571",
-      "changeType": "member.added",
-      "summary": "Started tracking Cynthia M. Lummis",
-      "after": {
-        "name": "Cynthia M. Lummis",
-        "party": "R",
-        "chamber": "Senate",
-        "state": "WY"
-      },
-      "officialUrl": "https://www.lummis.senate.gov",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_L000577_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "L000577",
-      "changeType": "member.added",
-      "summary": "Started tracking Mike Lee",
-      "after": {
-        "name": "Mike Lee",
-        "party": "R",
-        "chamber": "Senate",
-        "state": "UT"
-      },
-      "officialUrl": "https://www.lee.senate.gov/",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_M000871_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "M000871",
-      "changeType": "member.added",
-      "summary": "Started tracking Tracey Mann",
-      "after": {
-        "name": "Tracey Mann",
-        "party": "R",
-        "chamber": "House",
-        "state": "KS"
-      },
-      "officialUrl": "https://mann.house.gov",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_M001153_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "M001153",
-      "changeType": "member.added",
-      "summary": "Started tracking Lisa Murkowski",
-      "after": {
-        "name": "Lisa Murkowski",
-        "party": "R",
-        "chamber": "Senate",
-        "state": "AK"
-      },
-      "officialUrl": "https://www.murkowski.senate.gov/",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_M001206_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "M001206",
-      "changeType": "member.added",
-      "summary": "Started tracking Joseph D. Morelle",
-      "after": {
-        "name": "Joseph D. Morelle",
-        "party": "D",
-        "chamber": "House",
-        "state": "NY"
-      },
-      "officialUrl": "https://morelle.house.gov",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_O000174_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "O000174",
-      "changeType": "member.added",
-      "summary": "Started tracking Jon Ossoff",
-      "after": {
-        "name": "Jon Ossoff",
-        "party": "D",
-        "chamber": "Senate",
-        "state": "GA"
-      },
-      "officialUrl": "https://www.ossoff.senate.gov",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_P000145_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "P000145",
-      "changeType": "member.added",
-      "summary": "Started tracking Alex Padilla",
-      "after": {
-        "name": "Alex Padilla",
-        "party": "D",
-        "chamber": "Senate",
-        "state": "CA"
-      },
-      "officialUrl": "https://www.padilla.senate.gov",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_R000608_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "R000608",
-      "changeType": "member.added",
-      "summary": "Started tracking Jacky Rosen",
-      "after": {
-        "name": "Jacky Rosen",
-        "party": "D",
-        "chamber": "Senate",
-        "state": "NV"
-      },
-      "officialUrl": "https://www.rosen.senate.gov",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_S001196_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "S001196",
-      "changeType": "member.added",
-      "summary": "Started tracking Elise M. Stefanik",
-      "after": {
-        "name": "Elise M. Stefanik",
-        "party": "R",
-        "chamber": "House",
-        "state": "NY"
-      },
-      "officialUrl": "https://stefanik.house.gov/",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-25T094656930Z_T000165_member.added",
-      "observedAt": "2026-07-25T09:46:56.930Z",
-      "entityType": "member",
-      "entityId": "T000165",
-      "changeType": "member.added",
-      "summary": "Started tracking Thomas P. Tiffany",
-      "after": {
-        "name": "Thomas P. Tiffany",
-        "party": "R",
-        "chamber": "House",
-        "state": "WI"
-      },
-      "officialUrl": "https://tiffany.house.gov/",
-      "syncId": "2026-07-25T09:46:56.930Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-259_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-259",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Amendment",
-      "before": {
-        "result": "Failed",
-        "yea": 208,
-        "nay": 219,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Agreeing to the Amendment",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Failed",
-        "yea": 208,
-        "nay": 219,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Agreeing to the Amendment",
-        "description": "On Agreeing to the Amendment",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll259.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-260_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-260",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Amendment",
-      "before": {
-        "result": "Agreed To",
-        "yea": 215,
-        "nay": 214,
-        "present": 0,
-        "notVoting": 8,
-        "question": "On Agreeing to the Amendment",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Agreed To",
-        "yea": 215,
-        "nay": 214,
-        "present": 0,
-        "notVoting": 8,
-        "question": "On Agreeing to the Amendment",
-        "description": "On Agreeing to the Amendment",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll260.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-261_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-261",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Amendment",
-      "before": {
-        "result": "Failed",
-        "yea": 212,
-        "nay": 216,
-        "present": 0,
-        "notVoting": 8,
-        "question": "On Agreeing to the Amendment",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Failed",
-        "yea": 212,
-        "nay": 216,
-        "present": 0,
-        "notVoting": 8,
-        "question": "On Agreeing to the Amendment",
-        "description": "On Agreeing to the Amendment",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll261.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-262_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-262",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Amendment",
-      "before": {
-        "result": "Failed",
-        "yea": 201,
-        "nay": 224,
-        "present": 0,
-        "notVoting": 11,
-        "question": "On Agreeing to the Amendment",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Failed",
-        "yea": 201,
-        "nay": 224,
-        "present": 0,
-        "notVoting": 11,
-        "question": "On Agreeing to the Amendment",
-        "description": "On Agreeing to the Amendment",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll262.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-263_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-263",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Amendment",
-      "before": {
-        "result": "Failed",
-        "yea": 61,
-        "nay": 365,
-        "present": 0,
-        "notVoting": 10,
-        "question": "On Agreeing to the Amendment",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Failed",
-        "yea": 61,
-        "nay": 365,
-        "present": 0,
-        "notVoting": 10,
-        "question": "On Agreeing to the Amendment",
-        "description": "On Agreeing to the Amendment",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll263.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-264_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-264",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Amendment",
-      "before": {
-        "result": "Failed",
-        "yea": 76,
-        "nay": 350,
-        "present": 0,
-        "notVoting": 10,
-        "question": "On Agreeing to the Amendment",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Failed",
-        "yea": 76,
-        "nay": 350,
-        "present": 0,
-        "notVoting": 10,
-        "question": "On Agreeing to the Amendment",
-        "description": "On Agreeing to the Amendment",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll264.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-265_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-265",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Amendment",
-      "before": {
-        "result": "Agreed To",
-        "yea": 215,
-        "nay": 214,
-        "present": 0,
-        "notVoting": 8,
-        "question": "On Agreeing to the Amendment",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Agreed To",
-        "yea": 215,
-        "nay": 214,
-        "present": 0,
-        "notVoting": 8,
-        "question": "On Agreeing to the Amendment",
-        "description": "On Agreeing to the Amendment",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll265.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-266_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-266",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Amendment",
-      "before": {
-        "result": "Failed",
-        "yea": 212,
-        "nay": 217,
-        "present": 0,
-        "notVoting": 7,
-        "question": "On Agreeing to the Amendment",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Failed",
-        "yea": 212,
-        "nay": 217,
-        "present": 0,
-        "notVoting": 7,
-        "question": "On Agreeing to the Amendment",
-        "description": "On Agreeing to the Amendment",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll266.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-267_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-267",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Amendment",
-      "before": {
-        "result": "Agreed To",
-        "yea": 219,
-        "nay": 208,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Agreeing to the Amendment",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Agreed To",
-        "yea": 219,
-        "nay": 208,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Agreeing to the Amendment",
-        "description": "On Agreeing to the Amendment",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll267.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-268_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-268",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Amendment",
-      "before": {
-        "result": "Agreed To",
-        "yea": 221,
-        "nay": 203,
-        "present": 0,
-        "notVoting": 12,
-        "question": "On Agreeing to the Amendment",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Agreed To",
-        "yea": 221,
-        "nay": 203,
-        "present": 0,
-        "notVoting": 12,
-        "question": "On Agreeing to the Amendment",
-        "description": "On Agreeing to the Amendment",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll268.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-269_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-269",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Amendment",
-      "before": {
-        "result": "Failed",
-        "yea": 214,
-        "nay": 216,
-        "present": 0,
-        "notVoting": 7,
-        "question": "On Agreeing to the Amendment",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Failed",
-        "yea": 214,
-        "nay": 216,
-        "present": 0,
-        "notVoting": 7,
-        "question": "On Agreeing to the Amendment",
-        "description": "On Agreeing to the Amendment",
-        "date": "2026-07-21",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll269.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-273_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-273",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Amendment",
-      "before": {
-        "result": "Agreed To",
-        "yea": 221,
-        "nay": 210,
-        "present": 0,
-        "notVoting": 5,
-        "question": "On Agreeing to the Amendment",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-22",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Agreed To",
-        "yea": 221,
-        "nay": 210,
-        "present": 0,
-        "notVoting": 5,
-        "question": "On Agreeing to the Amendment",
-        "description": "On Agreeing to the Amendment",
-        "date": "2026-07-22",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll273.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-274_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-274",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Amendment",
-      "before": {
-        "result": "Failed",
-        "yea": 207,
-        "nay": 224,
-        "present": 0,
-        "notVoting": 6,
-        "question": "On Agreeing to the Amendment",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-22",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Failed",
-        "yea": 207,
-        "nay": 224,
-        "present": 0,
-        "notVoting": 6,
-        "question": "On Agreeing to the Amendment",
-        "description": "On Agreeing to the Amendment",
-        "date": "2026-07-22",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll274.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-275_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-275",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Amendment",
-      "before": {
-        "result": "Agreed To",
-        "yea": 232,
-        "nay": 199,
-        "present": 0,
-        "notVoting": 6,
-        "question": "On Agreeing to the Amendment",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-22",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Agreed To",
-        "yea": 232,
-        "nay": 199,
-        "present": 0,
-        "notVoting": 6,
-        "question": "On Agreeing to the Amendment",
-        "description": "On Agreeing to the Amendment",
-        "date": "2026-07-22",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll275.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-276_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-276",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Amendment",
-      "before": {
-        "result": "Failed",
-        "yea": 175,
-        "nay": 254,
-        "present": 0,
-        "notVoting": 7,
-        "question": "On Agreeing to the Amendment",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-22",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Failed",
-        "yea": 175,
-        "nay": 254,
-        "present": 0,
-        "notVoting": 7,
-        "question": "On Agreeing to the Amendment",
-        "description": "On Agreeing to the Amendment",
-        "date": "2026-07-22",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll276.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-277_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-277",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Motion to Recommit",
-      "before": {
-        "result": "Failed",
-        "yea": 213,
-        "nay": 216,
-        "present": 0,
-        "notVoting": 2,
-        "question": "On Motion to Recommit",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-22",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Failed",
-        "yea": 213,
-        "nay": 216,
-        "present": 0,
-        "notVoting": 2,
-        "question": "On Motion to Recommit",
-        "description": "On Motion to Recommit",
-        "date": "2026-07-22",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll277.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-278_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-278",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Passage",
-      "before": {
-        "result": "Passed",
-        "yea": 216,
-        "nay": 212,
-        "present": 0,
-        "notVoting": 3,
-        "question": "On Passage",
-        "description": "National Defense Authorization Act for Fiscal Year 2027 (HR 8800)",
-        "date": "2026-07-22",
-        "associatedBillId": "119-hr-8800"
-      },
-      "after": {
-        "result": "Passed",
-        "yea": 216,
-        "nay": 212,
-        "present": 0,
-        "notVoting": 3,
-        "question": "On Passage",
-        "description": "On Passage",
-        "date": "2026-07-22",
-        "associatedBillId": "119-hr-8800"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll278.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-282_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-282",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Resolution",
-      "before": {
-        "result": "Passed",
-        "yea": 214,
-        "nay": 208,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Agreeing to the Resolution",
-        "description": "On Agreeing to the Resolution",
-        "date": "2026-07-23",
-        "associatedBillId": null
-      },
-      "after": {
-        "result": "Passed",
-        "yea": 214,
-        "nay": 208,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Agreeing to the Resolution",
-        "description": "On Agreeing to the Resolution",
-        "date": "2026-07-23",
-        "associatedBillId": "119-hconres-89"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll282.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-house-2-283_vote.corrected",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-283",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Passage",
-      "before": {
-        "result": "Passed",
-        "yea": 232,
-        "nay": 188,
-        "present": 0,
-        "notVoting": 11,
-        "question": "On Passage",
-        "description": "On Passage",
-        "date": "2026-07-23",
-        "associatedBillId": null
-      },
-      "after": {
-        "result": "Passed",
-        "yea": 232,
-        "nay": 188,
-        "present": 0,
-        "notVoting": 11,
-        "question": "On Passage",
-        "description": "On Passage",
-        "date": "2026-07-23",
-        "associatedBillId": "119-hr-8884"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll283.xml",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9907_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9907",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9907: To enable the Department of Labor to promote the necessity of artificial intelligence to safeguard the welfare and job security of apprentices.",
-      "after": {
-        "title": "To enable the Department of Labor to promote the necessity of artificial intelligence to safeguard the welfare and job security of apprentices.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9907",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9908_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9908",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9908: To require the development of a comprehensive rural hospital cybersecurity workforce development strategy, and for other purposes.",
-      "after": {
-        "title": "To require the development of a comprehensive rural hospital cybersecurity workforce development strategy, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9908",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9909_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9909",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9909: To direct the Secretary of Defense to establish test and training corridors for small unmanned aircraft systems and associated capabilities, and for other purposes.",
-      "after": {
-        "title": "To direct the Secretary of Defense to establish test and training corridors for small unmanned aircraft systems and associated capabilities, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9909",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9910_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9910",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9910: To amend the Public Health Service Act to require the Secretary of Health and Human Services to enforce certain requirements with respect to for-profit corporations that own health care systems, and for other purposes.",
-      "after": {
-        "title": "To amend the Public Health Service Act to require the Secretary of Health and Human Services to enforce certain requirements with respect to for-profit corporations that own health care systems, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9910",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9911_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9911",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9911: To amend the Internal Revenue Code of 1986 to allow maritime prosperity zones to be designated as qualified opportunity zones, and for other purposes.",
-      "after": {
-        "title": "To amend the Internal Revenue Code of 1986 to allow maritime prosperity zones to be designated as qualified opportunity zones, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9911",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9912_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9912",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9912: To establish a program in the Department of Commerce to support expansion, modernization, and other improvements to critical and emerging technologies operations within the United States, and for other purposes.",
-      "after": {
-        "title": "To establish a program in the Department of Commerce to support expansion, modernization, and other improvements to critical and emerging technologies operations within the United States, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9912",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9914_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9914",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9914: To establish the applicability of antitrust laws to the sharing of artificial intelligence frontier model risks, and for other purposes.",
-      "after": {
-        "title": "To establish the applicability of antitrust laws to the sharing of artificial intelligence frontier model risks, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9914",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9915_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9915",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9915: To prohibit stealth bots, and for other purposes.",
-      "after": {
-        "title": "To prohibit stealth bots, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9915",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9918_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9918",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9918: To direct the Director of the Cybersecurity and Infrastructure Security Agency to establish a School Cybersecurity Improvement Program, and for other purposes.",
-      "after": {
-        "title": "To direct the Director of the Cybersecurity and Infrastructure Security Agency to establish a School Cybersecurity Improvement Program, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9918",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9919_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9919",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9919: To amend the Immigration and Nationality Act to provide for the inadmissibility of certain aliens seeking citizenship for children by giving birth in the United States, and for other purposes.",
-      "after": {
-        "title": "To amend the Immigration and Nationality Act to provide for the inadmissibility of certain aliens seeking citizenship for children by giving birth in the United States, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9919",
-      "syncId": "2026-07-24T10:16:29.155Z"
-    },
-    {
-      "id": "evt_2026-07-24T101629155Z_119-hr-9924_bill.added",
-      "observedAt": "2026-07-24T10:16:29.155Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9924",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9924: To require the Secretary of the Interior to meaningfully involve the public and State, Tribal, and local government officials prior to determining whether to offer certain parcels of land for oil or gas leasing, and for other purposes.",
-      "after": {
-        "title": "To require the Secretary of the Interior to meaningfully involve the public and State, Tribal, and local government officials prior to determining whether to offer certain parcels of land for oil or gas leasing, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9924",
-      "syncId": "2026-07-24T10:16:29.155Z"
     }
   ]
 }
