@@ -1,8 +1,612 @@
 {
-  "generatedAt": "2026-07-31T10:38:34.829Z",
+  "generatedAt": "2026-08-01T09:58:33.476Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-08-01T095833476Z_119-hr-10008_bill.title_changed",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10008",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To promote democracy, defend human rights, and impose accountability on the Government of Turkey for systemic political repression, censorship, transnational repression, and violations of international law."
+      },
+      "after": {
+        "title": "Turkey Human Rights Promotion Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10008",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-hr-10010_bill.title_changed",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10010",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To require the Administrator of the Federal Emergency Management Agency to establish a grant program to provide grants to eligible entities to create housing units and provide direct homelessness response, supportive housing, and transitional services for individuals and families experiencing homelessness or at risk of homelessness, and for other purposes."
+      },
+      "after": {
+        "title": "Build Homes, Not Hate Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10010",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-hr-10011_bill.title_changed",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10011",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To prohibit the Department of Homeland Security from using Federal funds to engage in discriminatory profiling, and for other purposes."
+      },
+      "after": {
+        "title": "No PREJUDICE Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10011",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-hr-9957_bill.title_changed",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9957",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To amend the Higher Education Act of 1965 to provide for comprehensive student achievement information."
+      },
+      "after": {
+        "title": "Time for Completion Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9957",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-hr-9978_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9978",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9978: Homeowners Premium Tax Reduction Act of 2026",
+      "after": {
+        "title": "Homeowners Premium Tax Reduction Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9978",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-hr-9981_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9981",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9981: Foodborne Illness Rapid Response Act",
+      "after": {
+        "title": "Foodborne Illness Rapid Response Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9981",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-hr-9985_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9985",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9985: AI Ads Act",
+      "after": {
+        "title": "AI Ads Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9985",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-hr-9986_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9986",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9986: Read for Reentry Act of 2026",
+      "after": {
+        "title": "Read for Reentry Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9986",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-s-5109_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-s-5109",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5109: Training Rural Law Enforcement Officers Act of 2026",
+      "after": {
+        "title": "Training Rural Law Enforcement Officers Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5109",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-s-5137_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-s-5137",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5137: CARE for Mental Health Professionals Act",
+      "after": {
+        "title": "CARE for Mental Health Professionals Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5137",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-s-5139_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-s-5139",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5139: National Quantum Readiness Act of 2026",
+      "after": {
+        "title": "National Quantum Readiness Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5139",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-s-5142_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-s-5142",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5142: A bill to amend the Internal Revenue Code of 1986 to improve the process for providing refunds to taxpayers.",
+      "after": {
+        "title": "A bill to amend the Internal Revenue Code of 1986 to improve the process for providing refunds to taxpayers.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5142",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-s-5144_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-s-5144",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5144: A bill to amend the Internal Revenue Code of 1986 to eliminate installment agreement fees for certain individuals.",
+      "after": {
+        "title": "A bill to amend the Internal Revenue Code of 1986 to eliminate installment agreement fees for certain individuals.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5144",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-817_bill.action_added_016e259fae10904e",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-817",
+      "changeType": "bill.action_added",
+      "summary": "New action: By unanimous consent agreement, debate and vote mandatory quorum required under Rule XXII waived.",
+      "after": {
+        "date": "2026-07-29",
+        "text": "By unanimous consent agreement, debate and vote mandatory quorum required under Rule XXII waived.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/817",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-817_bill.action_added_3188b4d209f0201c",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-817",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered by Senate. (consideration: CR S4323)",
+      "after": {
+        "date": "2026-07-29",
+        "text": "Considered by Senate. (consideration: CR S4323)",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/817",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-817_bill.action_added_961c9c56ae2b04f8",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-817",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered by Senate. (consideration: CR S4353, S4360)",
+      "after": {
+        "date": "2026-07-30",
+        "text": "Considered by Senate. (consideration: CR S4353, S4360)",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/817",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-817_bill.action_added_967d675d6c976dc1",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-817",
+      "changeType": "bill.action_added",
+      "summary": "New action: Motion to proceed to executive session to consideration of measure agreed to in Senate by Voice Vote.",
+      "after": {
+        "date": "2026-07-27",
+        "text": "Motion to proceed to executive session to consideration of measure agreed to in Senate by Voice Vote.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/817",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-817_bill.action_added_d3df87f893e0cd66",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-817",
+      "changeType": "bill.action_added",
+      "summary": "New action: Cloture motion on the measure presented in Senate. (CR S4276)",
+      "after": {
+        "date": "2026-07-27",
+        "text": "Cloture motion on the measure presented in Senate. (CR S4276)",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/817",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-817_bill.action_added_d6492ce8d198849f",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-817",
+      "changeType": "bill.action_added",
+      "summary": "New action: By unanimous consent agreement, vote 7/30/2026.",
+      "after": {
+        "date": "2026-07-29",
+        "text": "By unanimous consent agreement, vote 7/30/2026.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/817",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-817_bill.action_added_d7ff8183a4e35b53",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-817",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 217.",
+      "after": {
+        "date": "2026-07-30",
+        "text": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 217.",
+        "chamber": "Senate",
+        "actionCode": "17000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/817",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-817_bill.action_added_efefc31d5ee20c34",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-817",
+      "changeType": "bill.action_added",
+      "summary": "New action: Cloture on the measure invoked in Senate by Yea-Nay Vote. 50 - 45. Record Vote Number: 214. (CR S4323)",
+      "after": {
+        "date": "2026-07-29",
+        "text": "Cloture on the measure invoked in Senate by Yea-Nay Vote. 50 - 45. Record Vote Number: 214. (CR S4323)",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/817",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-817_bill.action_added_f68455503de83628",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-817",
+      "changeType": "bill.action_added",
+      "summary": "New action: Measure laid before Senate by motion. (consideration: CR S4276)",
+      "after": {
+        "date": "2026-07-27",
+        "text": "Measure laid before Senate by motion. (consideration: CR S4276)",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/817",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-817_bill.action_added_ff35b27ad9db8058",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-817",
+      "changeType": "bill.action_added",
+      "summary": "New action: Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 217.",
+      "after": {
+        "date": "2026-07-30",
+        "text": "Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 217.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/817",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-818_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-818",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-818: A resolution recognizing the importance of trademarks in the economy and the role of trademarks in protecting consumer safety by designating the month of July as \"National Anti-Counterfeiting and Consumer Education and Awareness Month\".",
+      "after": {
+        "title": "A resolution recognizing the importance of trademarks in the economy and the role of trademarks in protecting consumer safety by designating the month of July as \"National Anti-Counterfeiting and Consumer Education and Awareness Month\".",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/818",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-819_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-819",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-819: A resolution condemning the Government of the Islamic Republic of Iran for its ongoing human rights abuses, including its use of politically motivated espionage claims to justify arbitrary detention and executions.",
+      "after": {
+        "title": "A resolution condemning the Government of the Islamic Republic of Iran for its ongoing human rights abuses, including its use of politically motivated espionage claims to justify arbitrary detention and executions.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/819",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-820_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-820",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-820: A resolution designating August 7, 2026, as \"National Lighthouse Day\".",
+      "after": {
+        "title": "A resolution designating August 7, 2026, as \"National Lighthouse Day\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/820",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-821_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-821",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-821: A resolution designating July 30, 2026, as \"National Whistleblower Appreciation Day\".",
+      "after": {
+        "title": "A resolution designating July 30, 2026, as \"National Whistleblower Appreciation Day\".",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/821",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-822_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-822",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-822: A resolution designating July 2026 as \"American Grown Flower and Foliage Month\".",
+      "after": {
+        "title": "A resolution designating July 2026 as \"American Grown Flower and Foliage Month\".",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/822",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-823_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-823",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-823: A resolution designating the week of August 2 through August 8, 2026, as \"National Farmers Market Week\".",
+      "after": {
+        "title": "A resolution designating the week of August 2 through August 8, 2026, as \"National Farmers Market Week\".",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/823",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-824_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-824",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-824: A resolution designating August 1, 2026, as \"Gold Star Children's Day\".",
+      "after": {
+        "title": "A resolution designating August 1, 2026, as \"Gold Star Children's Day\".",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/824",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-826_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-826",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-826: A resolution honoring the contributions of small manufacturers of firearms to the economy, culture, and recreational heritage of the United States and recognizing the month of August 2026 as \"National Shooting Sports Month\".",
+      "after": {
+        "title": "A resolution honoring the contributions of small manufacturers of firearms to the economy, culture, and recreational heritage of the United States and recognizing the month of August 2026 as \"National Shooting Sports Month\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/826",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_119-sres-827_bill.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "bill",
+      "entityId": "119-sres-827",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-827: A resolution recognizing the 100th anniversary of the creation of the Sporting Arms and Ammunition Manufacturers' Institute, Inc. (SAAMI) and commending its work establishing industry standards that ensure the safe interoperability of firearms and ammunition.",
+      "after": {
+        "title": "A resolution recognizing the 100th anniversary of the creation of the Sporting Arms and Ammunition Manufacturers' Institute, Inc. (SAAMI) and commending its work establishing industry standards that ensure the safe interoperability of firearms and ammunition.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/827",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_B001243_member.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "member",
+      "entityId": "B001243",
+      "changeType": "member.added",
+      "summary": "Started tracking Marsha Blackburn",
+      "after": {
+        "name": "Marsha Blackburn",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "TN"
+      },
+      "officialUrl": "https://www.blackburn.senate.gov",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_G000386_member.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "member",
+      "entityId": "G000386",
+      "changeType": "member.added",
+      "summary": "Started tracking Chuck Grassley",
+      "after": {
+        "name": "Chuck Grassley",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "IA"
+      },
+      "officialUrl": "https://www.grassley.senate.gov",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_G000583_member.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "member",
+      "entityId": "G000583",
+      "changeType": "member.added",
+      "summary": "Started tracking Josh Gottheimer",
+      "after": {
+        "name": "Josh Gottheimer",
+        "party": "D",
+        "chamber": "House",
+        "state": "NJ"
+      },
+      "officialUrl": "https://gottheimer.house.gov",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_K000383_member.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "member",
+      "entityId": "K000383",
+      "changeType": "member.added",
+      "summary": "Started tracking Angus S. King Jr.",
+      "after": {
+        "name": "Angus S. King Jr.",
+        "party": "I",
+        "chamber": "Senate",
+        "state": "ME"
+      },
+      "officialUrl": "https://www.king.senate.gov/",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_L000560_member.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "member",
+      "entityId": "L000560",
+      "changeType": "member.added",
+      "summary": "Started tracking Rick Larsen",
+      "after": {
+        "name": "Rick Larsen",
+        "party": "D",
+        "chamber": "House",
+        "state": "WA"
+      },
+      "officialUrl": "https://larsen.house.gov",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_L000575_member.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "member",
+      "entityId": "L000575",
+      "changeType": "member.added",
+      "summary": "Started tracking James Lankford",
+      "after": {
+        "name": "James Lankford",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "OK"
+      },
+      "officialUrl": "https://www.lankford.senate.gov",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_P000595_member.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "member",
+      "entityId": "P000595",
+      "changeType": "member.added",
+      "summary": "Started tracking Gary C. Peters",
+      "after": {
+        "name": "Gary C. Peters",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "MI"
+      },
+      "officialUrl": "https://www.peters.senate.gov",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
+    {
+      "id": "evt_2026-08-01T095833476Z_R000605_member.added",
+      "observedAt": "2026-08-01T09:58:33.476Z",
+      "entityType": "member",
+      "entityId": "R000605",
+      "changeType": "member.added",
+      "summary": "Started tracking Mike Rounds",
+      "after": {
+        "name": "Mike Rounds",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "SD"
+      },
+      "officialUrl": "https://www.rounds.senate.gov",
+      "syncId": "2026-08-01T09:58:33.476Z"
+    },
     {
       "id": "evt_2026-07-31T103834829Z_119-hr-10000_bill.added",
       "observedAt": "2026-07-31T10:38:34.829Z",
@@ -878,594 +1482,6 @@
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/187",
       "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_119-sjres-199_bill.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "bill",
-      "entityId": "119-sjres-199",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-sjres-199: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Health and Human Services relating to \"Restoring Flexibility in the Child Care and Development Fund (CCDF)\".",
-      "after": {
-        "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Health and Human Services relating to \"Restoring Flexibility in the Child Care and Development Fund (CCDF)\".",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/199",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_G000599_member.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "member",
-      "entityId": "G000599",
-      "changeType": "member.added",
-      "summary": "Started tracking Daniel S. Goldman",
-      "after": {
-        "name": "Daniel S. Goldman",
-        "party": "D",
-        "chamber": "House",
-        "state": "NY"
-      },
-      "officialUrl": "https://goldman.house.gov",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_H001076_member.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "member",
-      "entityId": "H001076",
-      "changeType": "member.added",
-      "summary": "Started tracking Margaret Wood Hassan",
-      "after": {
-        "name": "Margaret Wood Hassan",
-        "party": "D",
-        "chamber": "Senate",
-        "state": "NH"
-      },
-      "officialUrl": "https://www.hassan.senate.gov",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_L000582_member.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "member",
-      "entityId": "L000582",
-      "changeType": "member.added",
-      "summary": "Started tracking Ted Lieu",
-      "after": {
-        "name": "Ted Lieu",
-        "party": "D",
-        "chamber": "House",
-        "state": "CA"
-      },
-      "officialUrl": "https://lieu.house.gov/",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_M001111_member.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "member",
-      "entityId": "M001111",
-      "changeType": "member.added",
-      "summary": "Started tracking Patty Murray",
-      "after": {
-        "name": "Patty Murray",
-        "party": "D",
-        "chamber": "Senate",
-        "state": "WA"
-      },
-      "officialUrl": "https://www.murray.senate.gov/",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_M001213_member.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "member",
-      "entityId": "M001213",
-      "changeType": "member.added",
-      "summary": "Started tracking Blake D. Moore",
-      "after": {
-        "name": "Blake D. Moore",
-        "party": "R",
-        "chamber": "House",
-        "state": "UT"
-      },
-      "officialUrl": "https://blakemoore.house.gov",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_M001219_member.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "member",
-      "entityId": "M001219",
-      "changeType": "member.added",
-      "summary": "Started tracking James C. Moylan",
-      "after": {
-        "name": "James C. Moylan",
-        "party": "R",
-        "chamber": "House",
-        "state": "GU"
-      },
-      "officialUrl": "https://moylan.house.gov",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_M001224_member.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "member",
-      "entityId": "M001224",
-      "changeType": "member.added",
-      "summary": "Started tracking Nathaniel Moran",
-      "after": {
-        "name": "Nathaniel Moran",
-        "party": "R",
-        "chamber": "House",
-        "state": "TX"
-      },
-      "officialUrl": "https://moran.house.gov",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_R000122_member.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "member",
-      "entityId": "R000122",
-      "changeType": "member.added",
-      "summary": "Started tracking Jack Reed",
-      "after": {
-        "name": "Jack Reed",
-        "party": "D",
-        "chamber": "Senate",
-        "state": "RI"
-      },
-      "officialUrl": "https://www.reed.senate.gov/",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_S000033_member.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "member",
-      "entityId": "S000033",
-      "changeType": "member.added",
-      "summary": "Started tracking Bernard Sanders",
-      "after": {
-        "name": "Bernard Sanders",
-        "party": "I",
-        "chamber": "Senate",
-        "state": "VT"
-      },
-      "officialUrl": "https://www.sanders.senate.gov/",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_S001227_member.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "member",
-      "entityId": "S001227",
-      "changeType": "member.added",
-      "summary": "Started tracking Eric Schmitt",
-      "after": {
-        "name": "Eric Schmitt",
-        "party": "R",
-        "chamber": "Senate",
-        "state": "MO"
-      },
-      "officialUrl": "https://www.schmitt.senate.gov/",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_T000278_member.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "member",
-      "entityId": "T000278",
-      "changeType": "member.added",
-      "summary": "Started tracking Tommy Tuberville",
-      "after": {
-        "name": "Tommy Tuberville",
-        "party": "R",
-        "chamber": "Senate",
-        "state": "AL"
-      },
-      "officialUrl": "https://www.tuberville.senate.gov",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_W000802_member.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "member",
-      "entityId": "W000802",
-      "changeType": "member.added",
-      "summary": "Started tracking Sheldon Whitehouse",
-      "after": {
-        "name": "Sheldon Whitehouse",
-        "party": "D",
-        "chamber": "Senate",
-        "state": "RI"
-      },
-      "officialUrl": "https://www.whitehouse.senate.gov/",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-hr-4541_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-hr-4541",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-4541: To reauthorize the Young Women’s Breast Health Education and Awareness Requires Learning Young Act of 2009.",
-      "after": {
-        "title": "To reauthorize the Young Women’s Breast Health Education and Awareness Requires Learning Young Act of 2009.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4541",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-2578_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-2578",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-2578: Strengthening the Rule of Law in the Brazilian Amazon Act",
-      "after": {
-        "title": "Strengthening the Rule of Law in the Brazilian Amazon Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2578",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-3018_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-3018",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-3018: A bill to permit visiting dignitaries and service members from Taiwan to display the flag of the Republic of China.",
-      "after": {
-        "title": "A bill to permit visiting dignitaries and service members from Taiwan to display the flag of the Republic of China.",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3018",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-3050_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-3050",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-3050: PAID OFF Act of 2025",
-      "after": {
-        "title": "PAID OFF Act of 2025",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3050",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-3172_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-3172",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-3172: A bill to repeal certain Acts that impose sanctions upon Syria.",
-      "after": {
-        "title": "A bill to repeal certain Acts that impose sanctions upon Syria.",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3172",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-3676_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-3676",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-3676: American Decade of Sports Act",
-      "after": {
-        "title": "American Decade of Sports Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3676",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-3733_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-3733",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-3733: A bill to amend the Passport Act of June 4, 1920, to authorize certain public libraries to collect and retain a fee for the execution of a passport application.",
-      "after": {
-        "title": "A bill to amend the Passport Act of June 4, 1920, to authorize certain public libraries to collect and retain a fee for the execution of a passport application.",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3733",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-3788_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-3788",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-3788: CLEAR LABELS Act",
-      "after": {
-        "title": "CLEAR LABELS Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3788",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-3794_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-3794",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-3794: SAFE Drugs Act of 2026",
-      "after": {
-        "title": "SAFE Drugs Act of 2026",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3794",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-3900_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-3900",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-3900: Iran Human Rights, Internet Freedom, and Accountability Act of 2026",
-      "after": {
-        "title": "Iran Human Rights, Internet Freedom, and Accountability Act of 2026",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3900",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-3984_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-3984",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-3984: United States Commission on International Religious Freedom Reauthorization Act of 2026",
-      "after": {
-        "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3984",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-4009_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-4009",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-4009: Falun Gong and Victims of Forced Organ Harvesting Protection Act",
-      "after": {
-        "title": "Falun Gong and Victims of Forced Organ Harvesting Protection Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4009",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-4259_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-4259",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-4259: Blue Skies for Taiwan Act of 2026",
-      "after": {
-        "title": "Blue Skies for Taiwan Act of 2026",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4259",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-4392_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-4392",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-4392: Energy Security Pacts Act",
-      "after": {
-        "title": "Energy Security Pacts Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4392",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-4443_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-4443",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-4443: Eastern Mediterranean Gateway Act",
-      "after": {
-        "title": "Eastern Mediterranean Gateway Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4443",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-4570_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-4570",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-4570: U.S. Tech PATH Act",
-      "after": {
-        "title": "U.S. Tech PATH Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4570",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-4577_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-4577",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-4577: Reassessing the United States-Tanzania Bilateral Relationship Act",
-      "after": {
-        "title": "Reassessing the United States-Tanzania Bilateral Relationship Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4577",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-4600_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-4600",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-4600: South China Sea Strategy Act of 2026",
-      "after": {
-        "title": "South China Sea Strategy Act of 2026",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4600",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-4610_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-4610",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-4610: Pacific POWER Act",
-      "after": {
-        "title": "Pacific POWER Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4610",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-4665_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-4665",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-4665: BANNED in Latin America Act",
-      "after": {
-        "title": "BANNED in Latin America Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4665",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-4680_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-4680",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-4680: Expanded Consular Fellows Act of 2026",
-      "after": {
-        "title": "Expanded Consular Fellows Act of 2026",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4680",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-4708_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-4708",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-4708: Arctic Security and Diplomacy Act",
-      "after": {
-        "title": "Arctic Security and Diplomacy Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4708",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-4709_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-4709",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-4709: UNLOCK AUKUS Act",
-      "after": {
-        "title": "UNLOCK AUKUS Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4709",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-4723_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-4723",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-4723: Eliminate PRC Organized Crime Act",
-      "after": {
-        "title": "Eliminate PRC Organized Crime Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4723",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_119-s-4726_bill.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "bill",
-      "entityId": "119-s-4726",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-4726: PEACE in Sudan Act",
-      "after": {
-        "title": "PEACE in Sudan Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4726",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_B001288_member.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "member",
-      "entityId": "B001288",
-      "changeType": "member.added",
-      "summary": "Started tracking Cory A. Booker",
-      "after": {
-        "name": "Cory A. Booker",
-        "party": "D",
-        "chamber": "Senate",
-        "state": "NJ"
-      },
-      "officialUrl": "https://www.booker.senate.gov",
-      "syncId": "2026-07-29T10:38:30.322Z"
-    },
-    {
-      "id": "evt_2026-07-29T103830322Z_B001299_member.added",
-      "observedAt": "2026-07-29T10:38:30.322Z",
-      "entityType": "member",
-      "entityId": "B001299",
-      "changeType": "member.added",
-      "summary": "Started tracking Jim Banks",
-      "after": {
-        "name": "Jim Banks",
-        "party": "R",
-        "chamber": "Senate",
-        "state": "IN"
-      },
-      "officialUrl": "https://www.banks.senate.gov/",
-      "syncId": "2026-07-29T10:38:30.322Z"
     }
   ]
 }
