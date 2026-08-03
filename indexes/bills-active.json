@@ -1,8 +1,177 @@
 {
-  "generatedAt": "2026-08-02T09:56:28.241Z",
+  "generatedAt": "2026-08-03T11:22:04.175Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
+    {
+      "id": "119-s-5123",
+      "billType": "s",
+      "billNumber": 5123,
+      "congress": 119,
+      "title": "Lunar Landing Day Act",
+      "status": "introduced",
+      "chamber": "Senate",
+      "policyArea": "Science, Technology, Communications",
+      "sponsor": {
+        "memberId": "S001232",
+        "name": "Sen. Sheehy, Tim [R-MT]",
+        "party": "R",
+        "state": "MT",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 3,
+      "latestAction": {
+        "date": "2026-07-30",
+        "text": "Message on Senate action sent to the House.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-07-30",
+          "text": "Message on Senate action sent to the House.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4273-4274; text: CR S4273-4274)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4273-4274; text: CR S4273-4274)",
+          "chamber": "Senate",
+          "actionCode": "17000"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Engrossed in Senate",
+          "date": "2026-07-23",
+          "url": "https://www.congress.gov/119/bills/s5123/BILLS-119s5123es.htm"
+        },
+        {
+          "type": "Considered and Passed Senate",
+          "date": "2026-07-23",
+          "url": "https://www.congress.gov/119/bills/s5123/BILLS-119s5123cps.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5123",
+      "updatedAt": "2026-08-03T03:24:41Z",
+      "introducedAt": "2026-07-23"
+    },
+    {
+      "id": "119-sres-817",
+      "billType": "sres",
+      "billNumber": 817,
+      "congress": 119,
+      "title": "An executive resolution authorizing the en bloc consideration in Executive Session of certain nominations on the Executive Calendar.",
+      "status": "introduced",
+      "chamber": "Senate",
+      "policyArea": "Congress",
+      "sponsor": {
+        "memberId": "T000250",
+        "name": "Sen. Thune, John [R-SD]",
+        "party": "R",
+        "state": "SD",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-07-30",
+        "text": "Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 217.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-07-30",
+          "text": "Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 217.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-30",
+          "text": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 217.",
+          "chamber": "Senate",
+          "actionCode": "17000"
+        },
+        {
+          "date": "2026-07-30",
+          "text": "Considered by Senate. (consideration: CR S4353, S4360)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-29",
+          "text": "By unanimous consent agreement, vote 7/30/2026.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-29",
+          "text": "Considered by Senate. (consideration: CR S4323)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-29",
+          "text": "Cloture on the measure invoked in Senate by Yea-Nay Vote. 50 - 45. Record Vote Number: 214. (CR S4323)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-29",
+          "text": "By unanimous consent agreement, debate and vote mandatory quorum required under Rule XXII waived.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-27",
+          "text": "Cloture motion on the measure presented in Senate. (CR S4276)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-27",
+          "text": "Measure laid before Senate by motion. (consideration: CR S4276)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-27",
+          "text": "Motion to proceed to executive session to consideration of measure agreed to in Senate by Voice Vote.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Placed on Senate Executive Calendar under Over, Under the Rule. Calendar No. 6.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Submitted in the Senate Placed on Senate Executive Calendar under Over, Under the Rule. (text: CR S4272-4273)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Submitted in Senate",
+          "chamber": "Senate",
+          "actionCode": "10025"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Agreed to Senate",
+          "date": "2026-07-30",
+          "url": "https://www.congress.gov/119/bills/sres817/BILLS-119sres817ats.htm"
+        },
+        {
+          "type": "Placed on Calendar Senate",
+          "date": "2026-07-23",
+          "url": "https://www.congress.gov/119/bills/sres817/BILLS-119sres817pcs.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/817",
+      "updatedAt": "2026-08-03T03:58:18Z",
+      "introducedAt": "2026-07-23"
+    },
     {
       "id": "119-hr-10011",
       "billType": "hr",
@@ -759,112 +928,6 @@
       "introducedAt": "2026-07-30"
     },
     {
-      "id": "119-sres-817",
-      "billType": "sres",
-      "billNumber": 817,
-      "congress": 119,
-      "title": "An executive resolution authorizing the en bloc consideration in Executive Session of certain nominations on the Executive Calendar.",
-      "status": "introduced",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "T000250",
-        "name": "Sen. Thune, John [R-SD]",
-        "party": "R",
-        "state": "SD",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-07-30",
-        "text": "Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 217.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-30",
-          "text": "Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 217.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 217.",
-          "chamber": "Senate",
-          "actionCode": "17000"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Considered by Senate. (consideration: CR S4353, S4360)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-29",
-          "text": "By unanimous consent agreement, vote 7/30/2026.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-29",
-          "text": "Considered by Senate. (consideration: CR S4323)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-29",
-          "text": "Cloture on the measure invoked in Senate by Yea-Nay Vote. 50 - 45. Record Vote Number: 214. (CR S4323)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-29",
-          "text": "By unanimous consent agreement, debate and vote mandatory quorum required under Rule XXII waived.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-27",
-          "text": "Cloture motion on the measure presented in Senate. (CR S4276)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-27",
-          "text": "Measure laid before Senate by motion. (consideration: CR S4276)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-27",
-          "text": "Motion to proceed to executive session to consideration of measure agreed to in Senate by Voice Vote.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Placed on Senate Executive Calendar under Over, Under the Rule. Calendar No. 6.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Submitted in the Senate Placed on Senate Executive Calendar under Over, Under the Rule. (text: CR S4272-4273)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Submitted in Senate",
-          "chamber": "Senate",
-          "actionCode": "10025"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Agreed to Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/sres817/BILLS-119sres817ats.htm"
-        },
-        {
-          "type": "Placed on Calendar Senate",
-          "date": "2026-07-23",
-          "url": "https://www.congress.gov/119/bills/sres817/BILLS-119sres817pcs.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/817",
-      "updatedAt": "2026-08-01T03:33:18Z",
-      "introducedAt": "2026-07-23"
-    },
-    {
       "id": "119-sres-818",
       "billType": "sres",
       "billNumber": 818,
@@ -1215,102 +1278,57 @@
       "introducedAt": "2026-06-08"
     },
     {
-      "id": "119-hr-9922",
-      "billType": "hr",
-      "billNumber": 9922,
+      "id": "119-hres-1451",
+      "billType": "hres",
+      "billNumber": 1451,
       "congress": 119,
-      "title": "AI Transparency in Elections Act of 2026",
+      "title": "Recognizing Charleston as the appropriate host city for the 2027 annual meeting of the Organization for Security and Cooperation in Europe Parliamentary Assembly.",
       "status": "inCommittee",
       "chamber": "House",
-      "policyArea": "Government Operations and Politics",
+      "policyArea": "International Affairs",
       "sponsor": {
-        "memberId": "M001206",
-        "name": "Rep. Morelle, Joseph D. [D-NY-25]",
-        "party": "D",
-        "state": "NY",
-        "district": "25",
+        "memberId": "W000795",
+        "name": "Rep. Wilson, Joe [R-SC-2]",
+        "party": "R",
+        "state": "SC",
+        "district": "2",
         "chamber": "House"
       },
-      "cosponsorCount": 4,
+      "cosponsorCount": 41,
       "latestAction": {
         "date": "2026-07-23",
-        "text": "Referred to the House Committee on House Administration.",
+        "text": "Referred to the House Committee on Foreign Affairs.",
         "chamber": "House"
       },
       "actions": [
         {
           "date": "2026-07-23",
-          "text": "Referred to the House Committee on House Administration.",
+          "text": "Referred to the House Committee on Foreign Affairs.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
           "date": "2026-07-23",
-          "text": "Introduced in House",
+          "text": "Submitted in House",
           "chamber": "House",
-          "actionCode": "Intro-H"
+          "actionCode": "H11100"
         },
         {
           "date": "2026-07-23",
-          "text": "Introduced in House",
+          "text": "Submitted in House",
           "chamber": "House",
-          "actionCode": "1000"
+          "actionCode": "1025"
         }
       ],
       "textVersions": [
         {
           "type": "Introduced in House",
           "date": "2026-07-23",
-          "url": "https://www.congress.gov/119/bills/hr9922/BILLS-119hr9922ih.htm"
+          "url": "https://www.congress.gov/119/bills/hres1451/BILLS-119hres1451ih.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9922",
-      "updatedAt": "2026-08-01T05:58:16Z",
-      "introducedAt": "2026-07-23"
-    },
-    {
-      "id": "119-s-5109",
-      "billType": "s",
-      "billNumber": 5109,
-      "congress": 119,
-      "title": "Training Rural Law Enforcement Officers Act of 2026",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "L000575",
-        "name": "Sen. Lankford, James [R-OK]",
-        "party": "R",
-        "state": "OK",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-07-23",
-        "text": "Read twice and referred to the Committee on the Judiciary.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-23",
-          "text": "Read twice and referred to the Committee on the Judiciary.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-07-23",
-          "url": "https://www.congress.gov/119/bills/s5109/BILLS-119s5109is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5109",
-      "updatedAt": "2026-08-01T03:38:23Z",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1451",
+      "updatedAt": "2026-08-03T03:27:04Z",
       "introducedAt": "2026-07-23"
     }
   ]

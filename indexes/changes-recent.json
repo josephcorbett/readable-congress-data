@@ -1,8 +1,70 @@
 {
-  "generatedAt": "2026-08-02T09:56:28.241Z",
+  "generatedAt": "2026-08-03T11:22:04.175Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-08-03T112204175Z_119-hres-1451_bill.added",
+      "observedAt": "2026-08-03T11:22:04.175Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1451",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1451: Recognizing Charleston as the appropriate host city for the 2027 annual meeting of the Organization for Security and Cooperation in Europe Parliamentary Assembly.",
+      "after": {
+        "title": "Recognizing Charleston as the appropriate host city for the 2027 annual meeting of the Organization for Security and Cooperation in Europe Parliamentary Assembly.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1451",
+      "syncId": "2026-08-03T11:22:04.175Z"
+    },
+    {
+      "id": "evt_2026-08-03T112204175Z_119-s-5123_bill.action_added_cdf9062f4ddf1801",
+      "observedAt": "2026-08-03T11:22:04.175Z",
+      "entityType": "bill",
+      "entityId": "119-s-5123",
+      "changeType": "bill.action_added",
+      "summary": "New action: Message on Senate action sent to the House.",
+      "after": {
+        "date": "2026-07-30",
+        "text": "Message on Senate action sent to the House.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5123",
+      "syncId": "2026-08-03T11:22:04.175Z"
+    },
+    {
+      "id": "evt_2026-08-03T112204175Z_119-s-5123_bill.title_changed",
+      "observedAt": "2026-08-03T11:22:04.175Z",
+      "entityType": "bill",
+      "entityId": "119-s-5123",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "A bill to amend title 36, United States Code, to designate July 20 as Lunar Landing Day."
+      },
+      "after": {
+        "title": "Lunar Landing Day Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5123",
+      "syncId": "2026-08-03T11:22:04.175Z"
+    },
+    {
+      "id": "evt_2026-08-03T112204175Z_W000795_member.added",
+      "observedAt": "2026-08-03T11:22:04.175Z",
+      "entityType": "member",
+      "entityId": "W000795",
+      "changeType": "member.added",
+      "summary": "Started tracking Joe Wilson",
+      "after": {
+        "name": "Joe Wilson",
+        "party": "R",
+        "chamber": "House",
+        "state": "SC"
+      },
+      "officialUrl": "https://joewilson.house.gov/",
+      "syncId": "2026-08-03T11:22:04.175Z"
+    },
     {
       "id": "evt_2026-08-01T095833476Z_119-hr-10008_bill.title_changed",
       "observedAt": "2026-08-01T09:58:33.476Z",
@@ -1425,62 +1487,6 @@
         "status": "introduced"
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/494",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_119-s-4974_bill.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "bill",
-      "entityId": "119-s-4974",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-4974: Making America's Food Safer Act",
-      "after": {
-        "title": "Making America's Food Safer Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4974",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_119-s-5026_bill.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "bill",
-      "entityId": "119-s-5026",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-5026: Childhood Diabetes Reduction Act of 2026",
-      "after": {
-        "title": "Childhood Diabetes Reduction Act of 2026",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5026",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_119-s-5133_bill.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "bill",
-      "entityId": "119-s-5133",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-5133: Preventing Tax Fraud and Identity Theft Act",
-      "after": {
-        "title": "Preventing Tax Fraud and Identity Theft Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5133",
-      "syncId": "2026-07-30T10:24:46.359Z"
-    },
-    {
-      "id": "evt_2026-07-30T102446359Z_119-sjres-187_bill.added",
-      "observedAt": "2026-07-30T10:24:46.359Z",
-      "entityType": "bill",
-      "entityId": "119-sjres-187",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-sjres-187: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Modification to the Start of the Submission Period for Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS) Reporting and Recordkeeping Under TSCA 8(a)(7)\".",
-      "after": {
-        "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Modification to the Start of the Submission Period for Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS) Reporting and Recordkeeping Under TSCA 8(a)(7)\".",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/187",
       "syncId": "2026-07-30T10:24:46.359Z"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T09:56:28.241Z",
+  "generatedAt": "2026-08-03T11:22:04.175Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
@@ -1772,29 +1772,6 @@
       "officialUrl": "https://www.king.senate.gov/"
     },
     {
-      "id": "L000575",
-      "bioguideId": "L000575",
-      "name": "James Lankford",
-      "firstName": "James",
-      "lastName": "Lankford",
-      "party": "R",
-      "chamber": "Senate",
-      "state": "Oklahoma",
-      "stateCode": "OK",
-      "currentTerm": {
-        "congress": 119,
-        "chamber": "Senate",
-        "state": "Oklahoma",
-        "startYear": 2025
-      },
-      "sponsoredBillIds": [
-        "119-s-5109"
-      ],
-      "cosponsoredBillIds": [],
-      "recentVoteIds": [],
-      "officialUrl": "https://www.lankford.senate.gov"
-    },
-    {
       "id": "L000560",
       "bioguideId": "L000560",
       "name": "Rick Larsen",
@@ -1844,57 +1821,6 @@
         "119-house-2-259"
       ],
       "officialUrl": "https://larsen.house.gov"
-    },
-    {
-      "id": "M001206",
-      "bioguideId": "M001206",
-      "name": "Joseph D. Morelle",
-      "firstName": "Joseph",
-      "lastName": "Morelle",
-      "party": "D",
-      "chamber": "House",
-      "state": "New York",
-      "stateCode": "NY",
-      "district": "25",
-      "currentTerm": {
-        "congress": 119,
-        "chamber": "House",
-        "state": "New York",
-        "district": "25",
-        "startYear": 2025
-      },
-      "sponsoredBillIds": [
-        "119-hr-9922"
-      ],
-      "cosponsoredBillIds": [],
-      "recentVoteIds": [
-        "119-house-2-283",
-        "119-house-2-282",
-        "119-house-2-281",
-        "119-house-2-280",
-        "119-house-2-279",
-        "119-house-2-278",
-        "119-house-2-277",
-        "119-house-2-276",
-        "119-house-2-275",
-        "119-house-2-274",
-        "119-house-2-273",
-        "119-house-2-272",
-        "119-house-2-271",
-        "119-house-2-270",
-        "119-house-2-269",
-        "119-house-2-268",
-        "119-house-2-267",
-        "119-house-2-266",
-        "119-house-2-265",
-        "119-house-2-264",
-        "119-house-2-263",
-        "119-house-2-262",
-        "119-house-2-261",
-        "119-house-2-260",
-        "119-house-2-259"
-      ],
-      "officialUrl": "https://morelle.house.gov"
     },
     {
       "id": "P000145",
@@ -2012,6 +1938,29 @@
       "cosponsoredBillIds": [],
       "recentVoteIds": [],
       "officialUrl": "https://www.rounds.senate.gov"
+    },
+    {
+      "id": "S001232",
+      "bioguideId": "S001232",
+      "name": "Tim Sheehy",
+      "firstName": "Tim",
+      "lastName": "Sheehy",
+      "party": "R",
+      "chamber": "Senate",
+      "state": "Montana",
+      "stateCode": "MT",
+      "currentTerm": {
+        "congress": 119,
+        "chamber": "Senate",
+        "state": "Montana",
+        "startYear": 2025
+      },
+      "sponsoredBillIds": [
+        "119-s-5123"
+      ],
+      "cosponsoredBillIds": [],
+      "recentVoteIds": [],
+      "officialUrl": "https://www.sheehy.senate.gov/"
     },
     {
       "id": "T000250",
@@ -2161,6 +2110,57 @@
       "cosponsoredBillIds": [],
       "recentVoteIds": [],
       "officialUrl": "https://www.wicker.senate.gov"
+    },
+    {
+      "id": "W000795",
+      "bioguideId": "W000795",
+      "name": "Joe Wilson",
+      "firstName": "Joe",
+      "lastName": "Wilson",
+      "party": "R",
+      "chamber": "House",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "district": "2",
+      "currentTerm": {
+        "congress": 119,
+        "chamber": "House",
+        "state": "South Carolina",
+        "district": "2",
+        "startYear": 2025
+      },
+      "sponsoredBillIds": [
+        "119-hres-1451"
+      ],
+      "cosponsoredBillIds": [],
+      "recentVoteIds": [
+        "119-house-2-283",
+        "119-house-2-282",
+        "119-house-2-281",
+        "119-house-2-280",
+        "119-house-2-279",
+        "119-house-2-278",
+        "119-house-2-277",
+        "119-house-2-276",
+        "119-house-2-275",
+        "119-house-2-274",
+        "119-house-2-273",
+        "119-house-2-272",
+        "119-house-2-271",
+        "119-house-2-270",
+        "119-house-2-269",
+        "119-house-2-268",
+        "119-house-2-267",
+        "119-house-2-266",
+        "119-house-2-265",
+        "119-house-2-264",
+        "119-house-2-263",
+        "119-house-2-262",
+        "119-house-2-261",
+        "119-house-2-260",
+        "119-house-2-259"
+      ],
+      "officialUrl": "https://joewilson.house.gov/"
     }
   ]
 }

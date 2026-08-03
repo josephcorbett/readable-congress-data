@@ -3,9 +3,10 @@
   "billType": "s",
   "billNumber": 5123,
   "congress": 119,
-  "title": "A bill to amend title 36, United States Code, to designate July 20 as Lunar Landing Day.",
+  "title": "Lunar Landing Day Act",
   "status": "introduced",
   "chamber": "Senate",
+  "policyArea": "Science, Technology, Communications",
   "sponsor": {
     "memberId": "S001232",
     "name": "Sen. Sheehy, Tim [R-MT]",
@@ -15,11 +16,16 @@
   },
   "cosponsorCount": 3,
   "latestAction": {
-    "date": "2026-07-23",
-    "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4273-4274; text: CR S4273-4274)",
+    "date": "2026-07-30",
+    "text": "Message on Senate action sent to the House.",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-07-30",
+      "text": "Message on Senate action sent to the House.",
+      "chamber": "Senate"
+    },
     {
       "date": "2026-07-23",
       "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4273-4274; text: CR S4273-4274)",
@@ -38,8 +44,19 @@
       "actionCode": "10000"
     }
   ],
-  "textVersions": [],
+  "textVersions": [
+    {
+      "type": "Engrossed in Senate",
+      "date": "2026-07-23",
+      "url": "https://www.congress.gov/119/bills/s5123/BILLS-119s5123es.htm"
+    },
+    {
+      "type": "Considered and Passed Senate",
+      "date": "2026-07-23",
+      "url": "https://www.congress.gov/119/bills/s5123/BILLS-119s5123cps.htm"
+    }
+  ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5123",
-  "updatedAt": "2026-07-25T10:56:25Z",
+  "updatedAt": "2026-08-03T03:24:41Z",
   "introducedAt": "2026-07-23"
 }
