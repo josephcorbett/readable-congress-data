@@ -1,22 +1,24 @@
 {
-  "id": "B001292",
-  "bioguideId": "B001292",
-  "name": "Donald S. Beyer, Jr.",
-  "firstName": "Donald",
-  "lastName": "Beyer",
-  "party": "D",
+  "id": "S001195",
+  "bioguideId": "S001195",
+  "name": "Jason Smith",
+  "firstName": "Jason",
+  "lastName": "Smith",
+  "party": "R",
   "chamber": "House",
-  "state": "Virginia",
-  "stateCode": "VA",
+  "state": "Missouri",
+  "stateCode": "MO",
   "district": "8",
   "currentTerm": {
     "congress": 119,
     "chamber": "House",
-    "state": "Virginia",
+    "state": "Missouri",
     "district": "8",
     "startYear": 2025
   },
-  "sponsoredBillIds": [],
+  "sponsoredBillIds": [
+    "119-hr-6500"
+  ],
   "cosponsoredBillIds": [],
   "recentVoteIds": [
     "119-house-2-283",
@@ -45,5 +47,5 @@
     "119-house-2-260",
     "119-house-2-259"
   ],
-  "officialUrl": "https://beyer.house.gov"
+  "officialUrl": "https://jasonsmith.house.gov"
 }

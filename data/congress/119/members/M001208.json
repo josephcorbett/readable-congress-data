@@ -1,22 +1,24 @@
 {
-  "id": "B001292",
-  "bioguideId": "B001292",
-  "name": "Donald S. Beyer, Jr.",
-  "firstName": "Donald",
-  "lastName": "Beyer",
+  "id": "M001208",
+  "bioguideId": "M001208",
+  "name": "Lucy McBath",
+  "firstName": "Lucy",
+  "lastName": "McBath",
   "party": "D",
   "chamber": "House",
-  "state": "Virginia",
-  "stateCode": "VA",
-  "district": "8",
+  "state": "Georgia",
+  "stateCode": "GA",
+  "district": "6",
   "currentTerm": {
     "congress": 119,
     "chamber": "House",
-    "state": "Virginia",
-    "district": "8",
+    "state": "Georgia",
+    "district": "6",
     "startYear": 2025
   },
-  "sponsoredBillIds": [],
+  "sponsoredBillIds": [
+    "119-hr-10031"
+  ],
   "cosponsoredBillIds": [],
   "recentVoteIds": [
     "119-house-2-283",
@@ -45,5 +47,5 @@
     "119-house-2-260",
     "119-house-2-259"
   ],
-  "officialUrl": "https://beyer.house.gov"
+  "officialUrl": "https://mcbath.house.gov"
 }

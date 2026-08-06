@@ -1,0 +1,536 @@
+{
+  "date": "2026-08-06",
+  "generatedAt": "2026-08-06T10:37:54.368Z",
+  "items": [
+    {
+      "id": "evt_2026-08-06T103754368Z_119-hr-10031_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10031",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10031: READ Act",
+      "after": {
+        "title": "READ Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10031",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-hr-10035_bill.title_changed",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10035",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To amend title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the Fair Labor Standards Act of 1938, the Americans with Disabilities Act of 1990, the Rehabilitation Act of 1973, and the Genetic Information Nondiscrimination Act of 2008 to require that individuals who perform work for employers as independent contractors be treated as employees."
+      },
+      "after": {
+        "title": "Protecting Independent Contractors from Discrimination Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10035",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-hr-10037_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10037",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10037: Virtual-Based Opioid Treatment for Veterans Act",
+      "after": {
+        "title": "Virtual-Based Opioid Treatment for Veterans Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10037",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-hr-6500_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-hr-6500",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-6500: AGOA Extension Act",
+      "after": {
+        "title": "AGOA Extension Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6500",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-2511_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-2511",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2511: College Transparency Act",
+      "after": {
+        "title": "College Transparency Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2511",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-3097_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-3097",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3097: Health Information Privacy Reform Act",
+      "after": {
+        "title": "Health Information Privacy Reform Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3097",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-4472_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-4472",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-4472: Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026",
+      "after": {
+        "title": "Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026",
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4472",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-494_bill.action_added_866ce53e5f5efd44",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-494",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4426-4427; text: CR S4426-4427)",
+      "after": {
+        "date": "2026-08-04",
+        "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4426-4427; text: CR S4426-4427)",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/494",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-494_bill.action_added_ce8398003b6e9c27",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-494",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "after": {
+        "date": "2026-08-04",
+        "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+        "chamber": "Senate",
+        "actionCode": "17000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/494",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-494_bill.status_changed",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-494",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to passedSenate",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/494",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5046_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5046",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5046: A bill to prohibit the transfer of certain offices and functions of the Department of Education to other Federal agencies, and for other purposes.",
+      "after": {
+        "title": "A bill to prohibit the transfer of certain offices and functions of the Department of Education to other Federal agencies, and for other purposes.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5046",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5187_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5187",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5187: PHD Talent Act of 2026",
+      "after": {
+        "title": "PHD Talent Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5187",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5189_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5189",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5189: A bill to amend title 10, United States Code, and the National Defense Authorization Act for Fiscal Year 1994, to codify and clarify gender neutral standards for members of certain Armed Forces, and for other purposes.",
+      "after": {
+        "title": "A bill to amend title 10, United States Code, and the National Defense Authorization Act for Fiscal Year 1994, to codify and clarify gender neutral standards for members of certain Armed Forces, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5189",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5190_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5190",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5190: Restoring Justice for Workers Act",
+      "after": {
+        "title": "Restoring Justice for Workers Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5190",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5191_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5191",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5191: Citizenship for International Adoptees Act of 2026",
+      "after": {
+        "title": "Citizenship for International Adoptees Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5191",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5192_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5192",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5192: Jimmy Deal Trafficking Survivors Assistance Act of 2026",
+      "after": {
+        "title": "Jimmy Deal Trafficking Survivors Assistance Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5192",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5196_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5196",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5196: No Trump Immunity Act",
+      "after": {
+        "title": "No Trump Immunity Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5196",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5198_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5198",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5198: Build to Scale Reauthorization Act of 2026",
+      "after": {
+        "title": "Build to Scale Reauthorization Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5198",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5199_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5199",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5199: GRID Savings Act of 2026",
+      "after": {
+        "title": "GRID Savings Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5199",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5200_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5200",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5200: Spotted Lanternfly Research and Development Act",
+      "after": {
+        "title": "Spotted Lanternfly Research and Development Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5200",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5202_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5202",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5202: Protecting Our Kids from Harmful Research Act",
+      "after": {
+        "title": "Protecting Our Kids from Harmful Research Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5202",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5203_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5203",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5203: TURBO Act",
+      "after": {
+        "title": "TURBO Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5203",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5204_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5204",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5204: SMART Savings Act of 2026",
+      "after": {
+        "title": "SMART Savings Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5204",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5205_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5205",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5205: Turkey Human Rights Promotion Act of 2026",
+      "after": {
+        "title": "Turkey Human Rights Promotion Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5205",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5206_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5206",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5206: Cold War Military Force Repeal Act",
+      "after": {
+        "title": "Cold War Military Force Repeal Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5206",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-s-5239_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-s-5239",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5239: American Glove Act of 2026",
+      "after": {
+        "title": "American Glove Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5239",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_119-sres-830_bill.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "bill",
+      "entityId": "119-sres-830",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-830: A resolution recognizing the 80th anniversary of the Fullbright Program.",
+      "after": {
+        "title": "A resolution recognizing the 80th anniversary of the Fullbright Program.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/830",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_B001236_member.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "member",
+      "entityId": "B001236",
+      "changeType": "member.added",
+      "summary": "Started tracking John Boozman",
+      "after": {
+        "name": "John Boozman",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "AR"
+      },
+      "officialUrl": "https://www.boozman.senate.gov/",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_C001075_member.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "member",
+      "entityId": "C001075",
+      "changeType": "member.added",
+      "summary": "Started tracking Bill Cassidy",
+      "after": {
+        "name": "Bill Cassidy",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "LA"
+      },
+      "officialUrl": "https://www.cassidy.senate.gov",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_H001042_member.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "member",
+      "entityId": "H001042",
+      "changeType": "member.added",
+      "summary": "Started tracking Mazie K. Hirono",
+      "after": {
+        "name": "Mazie K. Hirono",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "HI"
+      },
+      "officialUrl": "https://www.hirono.senate.gov/",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_M001208_member.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "member",
+      "entityId": "M001208",
+      "changeType": "member.added",
+      "summary": "Started tracking Lucy McBath",
+      "after": {
+        "name": "Lucy McBath",
+        "party": "D",
+        "chamber": "House",
+        "state": "GA"
+      },
+      "officialUrl": "https://mcbath.house.gov",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_M001242_member.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "member",
+      "entityId": "M001242",
+      "changeType": "member.added",
+      "summary": "Started tracking Bernie Moreno",
+      "after": {
+        "name": "Bernie Moreno",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "OH"
+      },
+      "officialUrl": "https://www.moreno.senate.gov",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_R000305_member.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "member",
+      "entityId": "R000305",
+      "changeType": "member.added",
+      "summary": "Started tracking Deborah K. Ross",
+      "after": {
+        "name": "Deborah K. Ross",
+        "party": "D",
+        "chamber": "House",
+        "state": "NC"
+      },
+      "officialUrl": "https://ross.house.gov",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_S001195_member.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "member",
+      "entityId": "S001195",
+      "changeType": "member.added",
+      "summary": "Started tracking Jason Smith",
+      "after": {
+        "name": "Jason Smith",
+        "party": "R",
+        "chamber": "House",
+        "state": "MO"
+      },
+      "officialUrl": "https://jasonsmith.house.gov",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_W000805_member.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "member",
+      "entityId": "W000805",
+      "changeType": "member.added",
+      "summary": "Started tracking Mark R. Warner",
+      "after": {
+        "name": "Mark R. Warner",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "VA"
+      },
+      "officialUrl": "https://www.warner.senate.gov",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    },
+    {
+      "id": "evt_2026-08-06T103754368Z_Y000064_member.added",
+      "observedAt": "2026-08-06T10:37:54.368Z",
+      "entityType": "member",
+      "entityId": "Y000064",
+      "changeType": "member.added",
+      "summary": "Started tracking Todd Young",
+      "after": {
+        "name": "Todd Young",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "IN"
+      },
+      "officialUrl": "https://www.young.senate.gov",
+      "syncId": "2026-08-06T10:37:54.368Z"
+    }
+  ]
+}

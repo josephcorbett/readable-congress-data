@@ -4,7 +4,7 @@
   "billNumber": 494,
   "congress": 119,
   "title": "National Plan for Epilepsy Act",
-  "status": "introduced",
+  "status": "passedSenate",
   "chamber": "Senate",
   "policyArea": "Health",
   "sponsor": {
@@ -16,11 +16,22 @@
   },
   "cosponsorCount": 27,
   "latestAction": {
-    "date": "2026-07-28",
-    "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 526.",
+    "date": "2026-08-04",
+    "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4426-4427; text: CR S4426-4427)",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-08-04",
+      "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4426-4427; text: CR S4426-4427)",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-08-04",
+      "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "chamber": "Senate",
+      "actionCode": "17000"
+    },
     {
       "date": "2026-07-28",
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 526.",
@@ -56,6 +67,11 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed in Senate",
+      "date": "2026-08-04",
+      "url": "https://www.congress.gov/119/bills/s494/BILLS-119s494es.htm"
+    },
+    {
       "type": "Reported to Senate",
       "date": "2026-07-28",
       "url": "https://www.congress.gov/119/bills/s494/BILLS-119s494rs.htm"
@@ -71,6 +87,6 @@
   "summary": "National Plan for Epilepsy Act This bill requires the Department of Health and Human Services (HHS) to establish a national plan, form an advisory council, and take other actions to address epilepsy. The requirements sunset on December 31, 2035. Specifically, the bill requires HHS to carry out a National Plan for Epilepsy to prevent, diagnose, treat, and cure epilepsy. In carrying out the plan, HHS must implement activities such as coordinating research and services across all federal agencies and soliciting public comments. Also, HHS must establish an Advisory Council on Epilepsy Research, Care, and Services. The advisory council must report to HHS and Congress every two years with an evaluation of federally funded efforts. Additionally, HHS must annually report to Congress with recommended actions based on its assessments of the nation’s progress on epilepsy.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/494",
-  "updatedAt": "2026-07-30T01:48:23Z",
+  "updatedAt": "2026-08-05T17:58:09Z",
   "introducedAt": "2025-02-10"
 }
