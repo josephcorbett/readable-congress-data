@@ -1,720 +1,239 @@
 {
-  "generatedAt": "2026-08-06T10:37:54.368Z",
+  "generatedAt": "2026-08-07T08:58:27.347Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
     {
-      "id": "119-s-5046",
-      "billType": "s",
-      "billNumber": 5046,
-      "congress": 119,
-      "title": "A bill to prohibit the transfer of certain offices and functions of the Department of Education to other Federal agencies, and for other purposes.",
-      "status": "introduced",
-      "chamber": "Senate",
-      "policyArea": "Education",
-      "sponsor": {
-        "memberId": "K000384",
-        "name": "Sen. Kaine, Tim [D-VA]",
-        "party": "D",
-        "state": "VA",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 5,
-      "latestAction": {
-        "date": "2026-08-04",
-        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 541.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-04",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 541.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-04",
-          "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment. Without written report.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-04",
-          "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment. Without written report.",
-          "chamber": "Senate",
-          "actionCode": "14000"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment favorably.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-21",
-          "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-21",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Reported to Senate",
-          "date": "2026-08-04",
-          "url": "https://www.congress.gov/119/bills/s5046/BILLS-119s5046rs.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-07-21",
-          "url": "https://www.congress.gov/119/bills/s5046/BILLS-119s5046is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5046",
-      "updatedAt": "2026-08-06T02:48:32Z",
-      "introducedAt": "2026-07-21"
-    },
-    {
-      "id": "119-s-3097",
-      "billType": "s",
-      "billNumber": 3097,
-      "congress": 119,
-      "title": "Health Information Privacy Reform Act",
-      "status": "introduced",
-      "chamber": "Senate",
-      "policyArea": "Commerce",
-      "sponsor": {
-        "memberId": "C001075",
-        "name": "Sen. Cassidy, Bill [R-LA]",
-        "party": "R",
-        "state": "LA",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-08-04",
-        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 538.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-04",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 538.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-04",
-          "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-04",
-          "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
-          "chamber": "Senate",
-          "actionCode": "14000"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-11-04",
-          "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-11-04",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Reported to Senate",
-          "date": "2026-08-04",
-          "url": "https://www.congress.gov/119/bills/s3097/BILLS-119s3097rs.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2025-11-04",
-          "url": "https://www.congress.gov/119/bills/s3097/BILLS-119s3097is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3097",
-      "updatedAt": "2026-08-06T02:53:29Z",
-      "introducedAt": "2025-11-04"
-    },
-    {
-      "id": "119-s-2511",
-      "billType": "s",
-      "billNumber": 2511,
-      "congress": 119,
-      "title": "College Transparency Act",
-      "status": "introduced",
-      "chamber": "Senate",
-      "policyArea": "Education",
-      "sponsor": {
-        "memberId": "C001075",
-        "name": "Sen. Cassidy, Bill [R-LA]",
-        "party": "R",
-        "state": "LA",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 25,
-      "latestAction": {
-        "date": "2026-08-04",
-        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 537.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-04",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 537.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-04",
-          "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-04",
-          "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
-          "chamber": "Senate",
-          "actionCode": "14000"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-07-29",
-          "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-07-29",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Reported to Senate",
-          "date": "2026-08-04",
-          "url": "https://www.congress.gov/119/bills/s2511/BILLS-119s2511rs.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2025-07-29",
-          "url": "https://www.congress.gov/119/bills/s2511/BILLS-119s2511is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2511",
-      "updatedAt": "2026-08-06T02:53:29Z",
-      "introducedAt": "2025-07-29"
-    },
-    {
-      "id": "119-hr-6500",
+      "id": "119-hr-10069",
       "billType": "hr",
-      "billNumber": 6500,
+      "billNumber": 10069,
       "congress": 119,
-      "title": "AGOA Extension Act",
-      "status": "introduced",
-      "chamber": "House",
-      "policyArea": "Foreign Trade and International Finance",
-      "sponsor": {
-        "memberId": "S001195",
-        "name": "Rep. Smith, Jason [R-MO-8]",
-        "party": "R",
-        "state": "MO",
-        "district": "8",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-08-04",
-        "text": "Motion to proceed to measure considered in Senate. (CR S4415)",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-08-04",
-          "text": "Motion to proceed to measure considered in Senate. (CR S4415)",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-08-03",
-          "text": "Motion to proceed to measure considered in Senate. (CR S4414)",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-08-03",
-          "text": "Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 89 - 4. Record Vote Number: 218. (CR S4405)",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S4365)",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Motion to proceed to consideration of measure made in Senate. (CR S4360)",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-02-10",
-          "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 320.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-02-09",
-          "text": "Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-01-13",
-          "text": "Received in the Senate.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-01-12",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "House",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-01-12",
-          "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 340 - 54 (Roll no. 14). (text: CR H637)",
-          "chamber": "House",
-          "actionCode": "H37300"
-        },
-        {
-          "date": "2026-01-12",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 340 - 54 (Roll no. 14). (text: CR H637)",
-          "chamber": "House",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-01-12",
-          "text": "Considered as unfinished business. (consideration: CR H646)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-01-12",
-          "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
-          "chamber": "House",
-          "actionCode": "H37220"
-        },
-        {
-          "date": "2026-01-12",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6500.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-01-12",
-          "text": "Considered under suspension of the rules. (consideration: CR H637-642)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-01-12",
-          "text": "Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.",
-          "chamber": "House",
-          "actionCode": "H30300"
-        },
-        {
-          "date": "2025-12-30",
-          "text": "Placed on the Union Calendar, Calendar No. 362.",
-          "chamber": "House",
-          "actionCode": "H12410"
-        },
-        {
-          "date": "2025-12-30",
-          "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-416.",
-          "chamber": "House",
-          "actionCode": "H12200"
-        },
-        {
-          "date": "2025-12-30",
-          "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-416.",
-          "chamber": "House",
-          "actionCode": "5000"
-        },
-        {
-          "date": "2025-12-10",
-          "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 37 - 3.",
-          "chamber": "House",
-          "actionCode": "H19000"
-        },
-        {
-          "date": "2025-12-10",
-          "text": "Committee Consideration and Mark-up Session Held",
-          "chamber": "House",
-          "actionCode": "H15001"
-        },
-        {
-          "date": "2025-12-09",
-          "text": "Referred to the House Committee on Ways and Means.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2025-12-09",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2025-12-09",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Placed on Calendar Senate",
-          "date": "2026-02-10",
-          "url": "https://www.congress.gov/119/bills/hr6500/BILLS-119hr6500pcs.htm"
-        },
-        {
-          "type": "Engrossed in House",
-          "date": "2026-01-12",
-          "url": "https://www.congress.gov/119/bills/hr6500/BILLS-119hr6500eh.htm"
-        },
-        {
-          "type": "Reported in House",
-          "date": "2025-12-30",
-          "url": "https://www.congress.gov/119/bills/hr6500/BILLS-119hr6500rh.htm"
-        },
-        {
-          "type": "Introduced in House",
-          "date": "2025-12-09",
-          "url": "https://www.congress.gov/119/bills/hr6500/BILLS-119hr6500ih.htm"
-        }
-      ],
-      "summaryHtml": "<p><strong>AGOA Extension Act</strong></p><p>This bill extends through December 31, 2028, trade preferences that provide duty-free access to the U.S. market for most exports from eligible countries in sub-Saharan Africa (SSA). The bill also extends through December 31, 2031, customs user fees and merchandise processing fees.</p><p>Specifically, the bill extends through 2028 the duty-free treatment of the products of beneficiary&nbsp;SSA&nbsp;countries under the Trade Act of 1974 (specifically, the Generalized System of Preferences) and the African Growth and Opportunity Act (AGOA). (Currently, there are 32&nbsp;countries eligible for AGOA.)</p><p>Additionally, the extended period applies to the following provisions of AGOA: (1) the duty-free treatment of certain apparel articles from beneficiary SSA countries; and (2) the third-country fabric provision, which allows limited amounts of apparel articles from lesser developed beneficiary&nbsp;SSA countries to qualify for duty-free treatment, even if the yarns and fabrics used in their production are imported from non-AGOA countries (e.g., apparel assembled in Kenya with Chinese fabrics).</p><p>The bill also provides for the refund of duties (i.e., liquidation or reliquidation of entries) on articles from eligible&nbsp;SSA countries that entered into the United States after September 30, 2025, and before the date of this bill's enactment. A refund request must be filed with U.S. Customs and Border Protection (CBP) and must contain sufficient information for CBP to locate the entry or, if the entry cannot be located, reconstruct the entry. CBP must refund any duties previously paid with respect to the entry within 90 days.</p>",
-      "summaryFormat": "html",
-      "summary": "AGOA Extension Act This bill extends through December 31, 2028, trade preferences that provide duty-free access to the U.S. market for most exports from eligible countries in sub-Saharan Africa (SSA). The bill also extends through December 31, 2031, customs user fees and merchandise processing fees. Specifically, the bill extends through 2028 the duty-free treatment of the products of beneficiary SSA countries under the Trade Act of 1974 (specifically, the Generalized System of Preferences) and the African Growth and Opportunity Act (AGOA). (Currently, there are 32 countries eligible for AGOA.) Additionally, the extended period applies to the following provisions of AGOA: (1) the duty-free treatment of certain apparel articles from beneficiary SSA countries; and (2) the third-country fabric provision, which allows limited amounts of apparel articles from lesser developed beneficiary SSA countries to qualify for duty-free treatment, even if the yarns and fabrics used in their production are imported from non-AGOA countries (e.g., apparel assembled in Kenya with Chinese fabrics). The bill also provides for the refund of duties (i.e., liquidation or reliquidation of entries) on articles from eligible SSA countries that entered into the United States after September 30, 2025, and before the date of this bill's enactment. A refund request must be filed with U.S. Customs and Border Protection (CBP) and must contain sufficient information for CBP to locate the entry or, if the entry cannot be located, reconstruct the entry. CBP must refund any duties previously paid with respect to the entry within 90 days.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6500",
-      "updatedAt": "2026-08-05T17:59:28Z",
-      "introducedAt": "2025-12-09"
-    },
-    {
-      "id": "119-s-5239",
-      "billType": "s",
-      "billNumber": 5239,
-      "congress": 119,
-      "title": "American Glove Act of 2026",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "M001242",
-        "name": "Sen. Moreno, Bernie [R-OH]",
-        "party": "R",
-        "state": "OH",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-08-04",
-        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-04",
-          "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-04",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-08-04",
-          "url": "https://www.congress.gov/119/bills/s5239/BILLS-119s5239is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5239",
-      "updatedAt": "2026-08-05T13:53:25Z",
-      "introducedAt": "2026-08-04"
-    },
-    {
-      "id": "119-s-4472",
-      "billType": "s",
-      "billNumber": 4472,
-      "congress": 119,
-      "title": "Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026",
-      "status": "passedSenate",
-      "chamber": "Senate",
-      "policyArea": "Health",
-      "sponsor": {
-        "memberId": "M001153",
-        "name": "Sen. Murkowski, Lisa [R-AK]",
-        "party": "R",
-        "state": "AK",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 15,
-      "latestAction": {
-        "date": "2026-08-04",
-        "text": "Passed Senate with an amendment by Voice Vote. (consideration: CR S4425-4426; text: CR S4425-4426)",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-04",
-          "text": "Passed Senate with an amendment by Voice Vote. (consideration: CR S4425-4426; text: CR S4425-4426)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-04",
-          "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.",
-          "chamber": "Senate",
-          "actionCode": "17000"
-        },
-        {
-          "date": "2026-07-16",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 461.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-16",
-          "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-16",
-          "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
-          "chamber": "Senate",
-          "actionCode": "14000"
-        },
-        {
-          "date": "2026-06-17",
-          "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-04-30",
-          "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-04-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Engrossed in Senate",
-          "date": "2026-08-04",
-          "url": "https://www.congress.gov/119/bills/s4472/BILLS-119s4472es.htm"
-        },
-        {
-          "type": "Reported to Senate",
-          "date": "2026-07-16",
-          "url": "https://www.congress.gov/119/bills/s4472/BILLS-119s4472rs.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-04-30",
-          "url": "https://www.congress.gov/119/bills/s4472/BILLS-119s4472is.htm"
-        }
-      ],
-      "summaryHtml": "<p><strong>Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026</strong></p><p>This bill reauthorizes through FY2031 and revises programs that support research and development of drugs and other therapies to address&nbsp;amyotrophic lateral sclerosis (also known as ALS or Lou Gehrig's disease) and other neurodegenerative diseases.</p><p>The bill reauthorizes</p><ul><li>grants from the National Institutes of Health (NIH) for scientific research on investigational drugs to prevent or treat ALS for individuals not otherwise eligible for clinical trials,</li><li>grants from the Food and Drug Administration (FDA) for research and development of therapies to prevent and treat ALS and other neurodegenerative diseases, and</li><li>a Public-Private Partnership including the FDA and NIH that supports development and regulatory review of treatments for neurodegenerative diseases.&nbsp;</li></ul><p>Also, the bill revises the NIH grants to require (1) the NIH, in considering grant renewal, to assess available information on the safety and efficacy of the investigational drugs; (2) grantees to promptly report available safety data from ongoing clinical trials; and (3) the NIH to determine the timeframe for enrollment in clinical trials for the investigational drugs.</p><p>Additionally, every five years, the FDA must publish a plan describing actions it will take over a five-year period to foster development of safe and effective drugs, and facilitate access to&nbsp;investigational drugs, for ALS and other rare neurodegenerative diseases. Each plan must include the FDA's previous actions and recommendations for improvements.</p><p>Finally, the Government Accountability Office and the Department of Health and Human Services must report on the impacts of these grants.&nbsp;</p>",
-      "summaryFormat": "html",
-      "summary": "Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026 This bill reauthorizes through FY2031 and revises programs that support research and development of drugs and other therapies to address amyotrophic lateral sclerosis (also known as ALS or Lou Gehrig's disease) and other neurodegenerative diseases. The bill reauthorizes grants from the National Institutes of Health (NIH) for scientific research on investigational drugs to prevent or treat ALS for individuals not otherwise eligible for clinical trials, grants from the Food and Drug Administration (FDA) for research and development of therapies to prevent and treat ALS and other neurodegenerative diseases, and a Public-Private Partnership including the FDA and NIH that supports development and regulatory review of treatments for neurodegenerative diseases. Also, the bill revises the NIH grants to require (1) the NIH, in considering grant renewal, to assess available information on the safety and efficacy of the investigational drugs; (2) grantees to promptly report available safety data from ongoing clinical trials; and (3) the NIH to determine the timeframe for enrollment in clinical trials for the investigational drugs. Additionally, every five years, the FDA must publish a plan describing actions it will take over a five-year period to foster development of safe and effective drugs, and facilitate access to investigational drugs, for ALS and other rare neurodegenerative diseases. Each plan must include the FDA's previous actions and recommendations for improvements. Finally, the Government Accountability Office and the Department of Health and Human Services must report on the impacts of these grants.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4472",
-      "updatedAt": "2026-08-05T17:52:56Z",
-      "introducedAt": "2026-04-30"
-    },
-    {
-      "id": "119-sres-830",
-      "billType": "sres",
-      "billNumber": 830,
-      "congress": 119,
-      "title": "A resolution recognizing the 80th anniversary of the Fullbright Program.",
-      "status": "introduced",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "B001236",
-        "name": "Sen. Boozman, John [R-AR]",
-        "party": "R",
-        "state": "AR",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 3,
-      "latestAction": {
-        "date": "2026-08-04",
-        "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4425; text: CR S4436-4437)",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-04",
-          "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4425; text: CR S4436-4437)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-04",
-          "text": "Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
-          "chamber": "Senate",
-          "actionCode": "17000"
-        }
-      ],
-      "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/830",
-      "updatedAt": "2026-08-05T17:07:36Z",
-      "introducedAt": "2026-08-04"
-    },
-    {
-      "id": "119-s-494",
-      "billType": "s",
-      "billNumber": 494,
-      "congress": 119,
-      "title": "National Plan for Epilepsy Act",
-      "status": "passedSenate",
-      "chamber": "Senate",
-      "policyArea": "Health",
-      "sponsor": {
-        "memberId": "S001227",
-        "name": "Sen. Schmitt, Eric [R-MO]",
-        "party": "R",
-        "state": "MO",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 27,
-      "latestAction": {
-        "date": "2026-08-04",
-        "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4426-4427; text: CR S4426-4427)",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-04",
-          "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4426-4427; text: CR S4426-4427)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-04",
-          "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
-          "chamber": "Senate",
-          "actionCode": "17000"
-        },
-        {
-          "date": "2026-07-28",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 526.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-28",
-          "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-28",
-          "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
-          "chamber": "Senate",
-          "actionCode": "14000"
-        },
-        {
-          "date": "2026-07-22",
-          "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-02-10",
-          "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-02-10",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Engrossed in Senate",
-          "date": "2026-08-04",
-          "url": "https://www.congress.gov/119/bills/s494/BILLS-119s494es.htm"
-        },
-        {
-          "type": "Reported to Senate",
-          "date": "2026-07-28",
-          "url": "https://www.congress.gov/119/bills/s494/BILLS-119s494rs.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2025-02-10",
-          "url": "https://www.congress.gov/119/bills/s494/BILLS-119s494is.htm"
-        }
-      ],
-      "summaryHtml": "<p><strong>National Plan for Epilepsy Act</strong></p><p>This bill requires the Department of Health and Human Services (HHS) to establish a national plan, form an advisory council, and take other actions to address epilepsy. The requirements sunset on December 31, 2035.</p><p>Specifically, the bill requires&nbsp;HHS to carry out a National Plan for Epilepsy to prevent, diagnose, treat, and cure epilepsy. In carrying out the plan,&nbsp;HHS must implement activities such as coordinating research and services across all federal agencies and soliciting public comments.</p><p>Also,&nbsp;HHS must establish an Advisory Council on Epilepsy Research, Care, and Services. The advisory council must report to&nbsp;HHS and Congress every two years with an evaluation of federally funded efforts.</p><p>Additionally,&nbsp;HHS must annually report to Congress with recommended actions based on its assessments of the nation’s progress on epilepsy. </p>",
-      "summaryFormat": "html",
-      "summary": "National Plan for Epilepsy Act This bill requires the Department of Health and Human Services (HHS) to establish a national plan, form an advisory council, and take other actions to address epilepsy. The requirements sunset on December 31, 2035. Specifically, the bill requires HHS to carry out a National Plan for Epilepsy to prevent, diagnose, treat, and cure epilepsy. In carrying out the plan, HHS must implement activities such as coordinating research and services across all federal agencies and soliciting public comments. Also, HHS must establish an Advisory Council on Epilepsy Research, Care, and Services. The advisory council must report to HHS and Congress every two years with an evaluation of federally funded efforts. Additionally, HHS must annually report to Congress with recommended actions based on its assessments of the nation’s progress on epilepsy.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/494",
-      "updatedAt": "2026-08-05T17:58:09Z",
-      "introducedAt": "2025-02-10"
-    },
-    {
-      "id": "119-hr-10037",
-      "billType": "hr",
-      "billNumber": 10037,
-      "congress": 119,
-      "title": "Virtual-Based Opioid Treatment for Veterans Act",
+      "title": "To amend the Sikes Act to make certain improvements to integrated natural resources management plans of the Department of Defense for military installations, and for other purposes.",
       "status": "inCommittee",
       "chamber": "House",
       "sponsor": {
-        "memberId": "R000305",
-        "name": "Rep. Ross, Deborah K. [D-NC-2]",
+        "memberId": "W000830",
+        "name": "Rep. Whitesides, George [D-CA-27]",
         "party": "D",
-        "state": "NC",
-        "district": "2",
+        "state": "CA",
+        "district": "27",
         "chamber": "House"
       },
       "cosponsorCount": 2,
       "latestAction": {
-        "date": "2026-08-03",
-        "text": "Referred to the House Committee on Veterans' Affairs.",
+        "date": "2026-08-06",
+        "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
         "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-08-03",
-          "text": "Referred to the House Committee on Veterans' Affairs.",
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2026-08-03",
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "Intro-H"
         },
         {
-          "date": "2026-08-03",
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10069",
+      "updatedAt": "2026-08-07T08:05:54Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10068",
+      "billType": "hr",
+      "billNumber": 10068,
+      "congress": 119,
+      "title": "To amend the Public Health Service Act to provide for a Reducing Youth Use of E-Cigarettes Initiative.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "W000797",
+        "name": "Rep. Wasserman Schultz, Debbie [D-FL-25]",
+        "party": "D",
+        "state": "FL",
+        "district": "25",
+        "chamber": "House"
+      },
+      "cosponsorCount": 2,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on Energy and Commerce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on Energy and Commerce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10068",
+      "updatedAt": "2026-08-07T08:05:56Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10067",
+      "billType": "hr",
+      "billNumber": 10067,
+      "congress": 119,
+      "title": "To prohibit the District of Columbia from requiring a person to wear a protective helmet to operate, or ride on, a motorcycle or motor-driven cycle.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "V000135",
+        "name": "Rep. Van Orden, Derrick [R-WI-3]",
+        "party": "R",
+        "state": "WI",
+        "district": "3",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on Oversight and Government Reform.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on Oversight and Government Reform.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10067",
+      "updatedAt": "2026-08-07T08:05:43Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10066",
+      "billType": "hr",
+      "billNumber": 10066,
+      "congress": 119,
+      "title": "To prohibit the purchase, sale, or exchange of nonpublic information, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "S001226",
+        "name": "Rep. Salinas, Andrea [D-OR-6]",
+        "party": "D",
+        "state": "OR",
+        "district": "6",
+        "chamber": "House"
+      },
+      "cosponsorCount": 3,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on the Judiciary.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on the Judiciary.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10066",
+      "updatedAt": "2026-08-07T08:06:11Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10064",
+      "billType": "hr",
+      "billNumber": 10064,
+      "congress": 119,
+      "title": "To amend the Foreign Service Act of 1980 to require a list of critical foreign languages for purposes of that Act.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "O000176",
+        "name": "Rep. Olszewski, Johnny [D-MD-2]",
+        "party": "D",
+        "state": "MD",
+        "district": "2",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on Foreign Affairs.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on Foreign Affairs.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "1000"
@@ -723,20 +242,67 @@
       "textVersions": [
         {
           "type": "Introduced in House",
-          "date": "2026-08-03",
-          "url": "https://www.congress.gov/119/bills/hr10037/BILLS-119hr10037ih.htm"
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/hr10064/BILLS-119hr10064ih.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10037",
-      "updatedAt": "2026-08-06T02:53:30Z",
-      "introducedAt": "2026-08-03"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10064",
+      "updatedAt": "2026-08-07T08:05:53Z",
+      "introducedAt": "2026-08-06"
     },
     {
-      "id": "119-hr-10035",
+      "id": "119-hr-10063",
       "billType": "hr",
-      "billNumber": 10035,
+      "billNumber": 10063,
       "congress": 119,
-      "title": "Protecting Independent Contractors from Discrimination Act of 2026",
+      "title": "To provide economic empowerment opportunities in the United States through the modernization of public housing, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "O000172",
+        "name": "Rep. Ocasio-Cortez, Alexandria [D-NY-14]",
+        "party": "D",
+        "state": "NY",
+        "district": "14",
+        "chamber": "House"
+      },
+      "cosponsorCount": 40,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on Financial Services.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on Financial Services.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10063",
+      "updatedAt": "2026-08-07T08:06:01Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10062",
+      "billType": "hr",
+      "billNumber": 10062,
+      "congress": 119,
+      "title": "To provide for supplemental appropriations to increase the number of Americorps members and to increase the living allowances of such members, and for other purposes.",
       "status": "inCommittee",
       "chamber": "House",
       "sponsor": {
@@ -748,84 +314,661 @@
       },
       "cosponsorCount": 0,
       "latestAction": {
-        "date": "2026-08-03",
-        "text": "Referred to the House Committee on Education and Workforce.",
+        "date": "2026-08-06",
+        "text": "Referred to the Committee on Appropriations, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
         "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-08-03",
-          "text": "Referred to the House Committee on Education and Workforce.",
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Appropriations, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2026-08-03",
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Appropriations, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "Intro-H"
         },
         {
-          "date": "2026-08-03",
-          "text": "Sponsor introductory remarks on measure. (CR E766)",
-          "chamber": "House",
-          "actionCode": "B00100"
-        },
-        {
-          "date": "2026-08-03",
+          "date": "2026-08-06",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "1000"
         }
       ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-08-03",
-          "url": "https://www.congress.gov/119/bills/hr10035/BILLS-119hr10035ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10035",
-      "updatedAt": "2026-08-06T02:53:30Z",
-      "introducedAt": "2026-08-03"
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10062",
+      "updatedAt": "2026-08-07T08:06:15Z",
+      "introducedAt": "2026-08-06"
     },
     {
-      "id": "119-hr-10031",
+      "id": "119-hr-10061",
       "billType": "hr",
-      "billNumber": 10031,
+      "billNumber": 10061,
       "congress": 119,
-      "title": "READ Act",
+      "title": "To address wildfire readiness and recovery, safe communities, and wildland firefighter safety.",
       "status": "inCommittee",
       "chamber": "House",
       "sponsor": {
-        "memberId": "M001208",
-        "name": "Rep. McBath, Lucy [D-GA-6]",
+        "memberId": "N000191",
+        "name": "Rep. Neguse, Joe [D-CO-2]",
         "party": "D",
-        "state": "GA",
-        "district": "6",
+        "state": "CO",
+        "district": "2",
         "chamber": "House"
       },
       "cosponsorCount": 5,
       "latestAction": {
-        "date": "2026-08-03",
-        "text": "Referred to the House Committee on Education and Workforce.",
+        "date": "2026-08-06",
+        "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, Small Business, Science, Space, and Technology, Energy and Commerce, Education and Workforce, Veterans' Affairs, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
         "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-08-03",
-          "text": "Referred to the House Committee on Education and Workforce.",
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, Small Business, Science, Space, and Technology, Energy and Commerce, Education and Workforce, Veterans' Affairs, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2026-08-03",
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, Small Business, Science, Space, and Technology, Energy and Commerce, Education and Workforce, Veterans' Affairs, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, Small Business, Science, Space, and Technology, Energy and Commerce, Education and Workforce, Veterans' Affairs, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, Small Business, Science, Space, and Technology, Energy and Commerce, Education and Workforce, Veterans' Affairs, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, Small Business, Science, Space, and Technology, Energy and Commerce, Education and Workforce, Veterans' Affairs, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, Small Business, Science, Space, and Technology, Energy and Commerce, Education and Workforce, Veterans' Affairs, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, Small Business, Science, Space, and Technology, Energy and Commerce, Education and Workforce, Veterans' Affairs, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, Small Business, Science, Space, and Technology, Energy and Commerce, Education and Workforce, Veterans' Affairs, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, Small Business, Science, Space, and Technology, Energy and Commerce, Education and Workforce, Veterans' Affairs, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "Intro-H"
         },
         {
-          "date": "2026-08-03",
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10061",
+      "updatedAt": "2026-08-07T08:06:06Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10060",
+      "billType": "hr",
+      "billNumber": 10060,
+      "congress": 119,
+      "title": "To amend the Internal Revenue Code of 1986 to prohibit orders or agreements relating to the release of tax claims by the President and related persons, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "N000015",
+        "name": "Rep. Neal, Richard E. [D-MA-1]",
+        "party": "D",
+        "state": "MA",
+        "district": "1",
+        "chamber": "House"
+      },
+      "cosponsorCount": 18,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on Ways and Means.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on Ways and Means.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10060",
+      "updatedAt": "2026-08-07T08:06:09Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10059",
+      "billType": "hr",
+      "billNumber": 10059,
+      "congress": 119,
+      "title": "To provide for consideration of all modes of transportation and all road users in certain highway and transit programs, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "M001196",
+        "name": "Rep. Moulton, Seth [D-MA-6]",
+        "party": "D",
+        "state": "MA",
+        "district": "6",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on Transportation and Infrastructure.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on Transportation and Infrastructure.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10059",
+      "updatedAt": "2026-08-07T08:06:07Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10058",
+      "billType": "hr",
+      "billNumber": 10058,
+      "congress": 119,
+      "title": "To create a new Federal grant program that provides grants to State libraries to allow schools with summer lunch programs to keep their libraries open for student use during the summer months.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "M001206",
+        "name": "Rep. Morelle, Joseph D. [D-NY-25]",
+        "party": "D",
+        "state": "NY",
+        "district": "25",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on Education and Workforce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on Education and Workforce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10058",
+      "updatedAt": "2026-08-07T08:06:13Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10057",
+      "billType": "hr",
+      "billNumber": 10057,
+      "congress": 119,
+      "title": "To authorize the Secretary of Health and Human Services to make grants to States to improve the knowledge, credentials, compensation, and professional development of early childhood educators working with children in early childhood education programs, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "M001188",
+        "name": "Rep. Meng, Grace [D-NY-6]",
+        "party": "D",
+        "state": "NY",
+        "district": "6",
+        "chamber": "House"
+      },
+      "cosponsorCount": 4,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on Education and Workforce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on Education and Workforce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10057",
+      "updatedAt": "2026-08-07T08:05:52Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10056",
+      "billType": "hr",
+      "billNumber": 10056,
+      "congress": 119,
+      "title": "To amend title XVIII of the Social Security Act to provide for patient protection by limiting the number of mandatory overtime hours a nurse may be required to work in certain providers of services to which payments are made under the Medicare Program.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "M001163",
+        "name": "Rep. Matsui, Doris O. [D-CA-7]",
+        "party": "D",
+        "state": "CA",
+        "district": "7",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10056",
+      "updatedAt": "2026-08-07T08:06:10Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10055",
+      "billType": "hr",
+      "billNumber": 10055,
+      "congress": 119,
+      "title": "To amend titles 5, 18, and 40, United States Code, to prohibit the renaming of Federal property except through a provision of law enacted by Congress, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "L000582",
+        "name": "Rep. Lieu, Ted [D-CA-36]",
+        "party": "D",
+        "state": "CA",
+        "district": "36",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10055",
+      "updatedAt": "2026-08-07T08:06:03Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10054",
+      "billType": "hr",
+      "billNumber": 10054,
+      "congress": 119,
+      "title": "To withdraw certain Federal land in the Rio Chama Watershed area of the State of New Mexico from mineral entry, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "L000273",
+        "name": "Rep. Leger Fernandez, Teresa [D-NM-3]",
+        "party": "D",
+        "state": "NM",
+        "district": "3",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on Natural Resources.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on Natural Resources.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10054",
+      "updatedAt": "2026-08-07T08:06:11Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10053",
+      "billType": "hr",
+      "billNumber": 10053,
+      "congress": 119,
+      "title": "To authorize the Secretary of Housing and Urban Development to issue loans to certain public employees, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "L000599",
+        "name": "Rep. Lawler, Michael [R-NY-17]",
+        "party": "R",
+        "state": "NY",
+        "district": "17",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on Financial Services.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on Financial Services.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10053",
+      "updatedAt": "2026-08-07T08:05:56Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10052",
+      "billType": "hr",
+      "billNumber": 10052,
+      "congress": 119,
+      "title": "To protect the right to the free exercise of religion.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "K000405",
+        "name": "Rep. Knott, Brad [R-NC-13]",
+        "party": "R",
+        "state": "NC",
+        "district": "13",
+        "chamber": "House"
+      },
+      "cosponsorCount": 3,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on the Judiciary.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on the Judiciary.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10052",
+      "updatedAt": "2026-08-07T08:06:08Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10051",
+      "billType": "hr",
+      "billNumber": 10051,
+      "congress": 119,
+      "title": "To establish and collect fees for an optional program to expedite the processing of forms required to obtain a permanent labor certification, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "G000576",
+        "name": "Rep. Grothman, Glenn [R-WI-6]",
+        "party": "R",
+        "state": "WI",
+        "district": "6",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on the Judiciary.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on the Judiciary.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10051",
+      "updatedAt": "2026-08-07T08:06:01Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10050",
+      "billType": "hr",
+      "billNumber": 10050,
+      "congress": 119,
+      "title": "To amend title 49, United States Code, to prohibit liability at common law for failure to manufacture or equip a motor vehicle to an extent that exceeds applicable motor vehicle safety standards.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "F000474",
+        "name": "Rep. Flood, Mike [R-NE-1]",
+        "party": "R",
+        "state": "NE",
+        "district": "1",
+        "chamber": "House"
+      },
+      "cosponsorCount": 3,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on Energy and Commerce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on Energy and Commerce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "1000"
@@ -834,643 +977,319 @@
       "textVersions": [
         {
           "type": "Introduced in House",
-          "date": "2026-08-03",
-          "url": "https://www.congress.gov/119/bills/hr10031/BILLS-119hr10031ih.htm"
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/hr10050/BILLS-119hr10050ih.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10031",
-      "updatedAt": "2026-08-06T02:53:30Z",
-      "introducedAt": "2026-08-03"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10050",
+      "updatedAt": "2026-08-07T08:06:13Z",
+      "introducedAt": "2026-08-06"
     },
     {
-      "id": "119-s-5206",
-      "billType": "s",
-      "billNumber": 5206,
+      "id": "119-hr-10049",
+      "billType": "hr",
+      "billNumber": 10049,
       "congress": 119,
-      "title": "Cold War Military Force Repeal Act",
+      "title": "To amend the Internal Revenue Code of 1986 to improve the low-income housing credit.",
       "status": "inCommittee",
-      "chamber": "Senate",
+      "chamber": "House",
       "sponsor": {
-        "memberId": "K000384",
-        "name": "Sen. Kaine, Tim [D-VA]",
-        "party": "D",
-        "state": "VA",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 3,
-      "latestAction": {
-        "date": "2026-07-30",
-        "text": "Read twice and referred to the Committee on Foreign Relations.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-30",
-          "text": "Read twice and referred to the Committee on Foreign Relations.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/s5206/BILLS-119s5206is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5206",
-      "updatedAt": "2026-08-06T02:53:29Z",
-      "introducedAt": "2026-07-30"
-    },
-    {
-      "id": "119-s-5205",
-      "billType": "s",
-      "billNumber": 5205,
-      "congress": 119,
-      "title": "Turkey Human Rights Promotion Act of 2026",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "M000133",
-        "name": "Sen. Markey, Edward J. [D-MA]",
-        "party": "D",
-        "state": "MA",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-07-30",
-        "text": "Read twice and referred to the Committee on Foreign Relations.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-30",
-          "text": "Read twice and referred to the Committee on Foreign Relations.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/s5205/BILLS-119s5205is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5205",
-      "updatedAt": "2026-08-06T02:53:29Z",
-      "introducedAt": "2026-07-30"
-    },
-    {
-      "id": "119-s-5204",
-      "billType": "s",
-      "billNumber": 5204,
-      "congress": 119,
-      "title": "SMART Savings Act of 2026",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "B001261",
-        "name": "Sen. Barrasso, John [R-WY]",
-        "party": "R",
-        "state": "WY",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-07-30",
-        "text": "Read twice and referred to the Committee on Finance. (text: CR S4390)",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-30",
-          "text": "Read twice and referred to the Committee on Finance. (text: CR S4390)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/s5204/BILLS-119s5204is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5204",
-      "updatedAt": "2026-08-06T02:53:30Z",
-      "introducedAt": "2026-07-30"
-    },
-    {
-      "id": "119-s-5203",
-      "billType": "s",
-      "billNumber": 5203,
-      "congress": 119,
-      "title": "TURBO Act",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "M001243",
-        "name": "Sen. McCormick, David [R-PA]",
-        "party": "R",
-        "state": "PA",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-07-30",
-        "text": "Read twice and referred to the Committee on Finance.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-30",
-          "text": "Read twice and referred to the Committee on Finance.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/s5203/BILLS-119s5203is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5203",
-      "updatedAt": "2026-08-06T02:53:30Z",
-      "introducedAt": "2026-07-30"
-    },
-    {
-      "id": "119-s-5202",
-      "billType": "s",
-      "billNumber": 5202,
-      "congress": 119,
-      "title": "Protecting Our Kids from Harmful Research Act",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "L000577",
-        "name": "Sen. Lee, Mike [R-UT]",
-        "party": "R",
-        "state": "UT",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 6,
-      "latestAction": {
-        "date": "2026-07-30",
-        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-30",
-          "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/s5202/BILLS-119s5202is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5202",
-      "updatedAt": "2026-08-06T02:53:29Z",
-      "introducedAt": "2026-07-30"
-    },
-    {
-      "id": "119-s-5200",
-      "billType": "s",
-      "billNumber": 5200,
-      "congress": 119,
-      "title": "Spotted Lanternfly Research and Development Act",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "F000479",
-        "name": "Sen. Fetterman, John [D-PA]",
+        "memberId": "E000296",
+        "name": "Rep. Evans, Dwight [D-PA-3]",
         "party": "D",
         "state": "PA",
-        "chamber": "Senate"
+        "district": "3",
+        "chamber": "House"
       },
-      "cosponsorCount": 4,
+      "cosponsorCount": 1,
       "latestAction": {
-        "date": "2026-07-30",
-        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-        "chamber": "Senate"
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on Ways and Means.",
+        "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-07-30",
-          "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-          "chamber": "Senate"
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on Ways and Means.",
+          "chamber": "House",
+          "actionCode": "H11100"
         },
         {
-          "date": "2026-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
         }
       ],
       "textVersions": [
         {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/s5200/BILLS-119s5200is.htm"
+          "type": "Introduced in House",
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/hr10049/BILLS-119hr10049ih.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5200",
-      "updatedAt": "2026-08-06T02:53:30Z",
-      "introducedAt": "2026-07-30"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10049",
+      "updatedAt": "2026-08-07T08:05:42Z",
+      "introducedAt": "2026-08-06"
     },
     {
-      "id": "119-s-5199",
-      "billType": "s",
-      "billNumber": 5199,
+      "id": "119-hr-10048",
+      "billType": "hr",
+      "billNumber": 10048,
       "congress": 119,
-      "title": "GRID Savings Act of 2026",
+      "title": "To create national standards for labeling of covered materials as recyclable, compostable, reusable, and refillable, and for other purposes.",
       "status": "inCommittee",
-      "chamber": "Senate",
+      "chamber": "House",
       "sponsor": {
-        "memberId": "H001046",
-        "name": "Sen. Heinrich, Martin [D-NM]",
+        "memberId": "C001110",
+        "name": "Rep. Correa, J. Luis [D-CA-46]",
         "party": "D",
-        "state": "NM",
-        "chamber": "Senate"
+        "state": "CA",
+        "district": "46",
+        "chamber": "House"
       },
       "cosponsorCount": 0,
       "latestAction": {
-        "date": "2026-07-30",
-        "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
-        "chamber": "Senate"
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on Energy and Commerce.",
+        "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-07-30",
-          "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
-          "chamber": "Senate"
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on Energy and Commerce.",
+          "chamber": "House",
+          "actionCode": "H11100"
         },
         {
-          "date": "2026-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
         {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/s5199/BILLS-119s5199is.htm"
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5199",
-      "updatedAt": "2026-08-06T02:53:30Z",
-      "introducedAt": "2026-07-30"
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10048",
+      "updatedAt": "2026-08-07T08:06:14Z",
+      "introducedAt": "2026-08-06"
     },
     {
-      "id": "119-s-5198",
-      "billType": "s",
-      "billNumber": 5198,
+      "id": "119-hr-10047",
+      "billType": "hr",
+      "billNumber": 10047,
       "congress": 119,
-      "title": "Build to Scale Reauthorization Act of 2026",
+      "title": "To modify the report on limitations on performance of depot-level maintenance to include information on each facility.",
       "status": "inCommittee",
-      "chamber": "Senate",
+      "chamber": "House",
       "sponsor": {
-        "memberId": "Y000064",
-        "name": "Sen. Young, Todd [R-IN]",
+        "memberId": "C001115",
+        "name": "Rep. Cloud, Michael [R-TX-27]",
         "party": "R",
-        "state": "IN",
-        "chamber": "Senate"
+        "state": "TX",
+        "district": "27",
+        "chamber": "House"
       },
       "cosponsorCount": 1,
       "latestAction": {
-        "date": "2026-07-30",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-        "chamber": "Senate"
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on Armed Services.",
+        "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-07-30",
-          "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-          "chamber": "Senate"
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on Armed Services.",
+          "chamber": "House",
+          "actionCode": "H11100"
         },
         {
-          "date": "2026-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
         }
       ],
       "textVersions": [
         {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/s5198/BILLS-119s5198is.htm"
+          "type": "Introduced in House",
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/hr10047/BILLS-119hr10047ih.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5198",
-      "updatedAt": "2026-08-06T02:53:30Z",
-      "introducedAt": "2026-07-30"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10047",
+      "updatedAt": "2026-08-07T08:06:02Z",
+      "introducedAt": "2026-08-06"
     },
     {
-      "id": "119-s-5196",
-      "billType": "s",
-      "billNumber": 5196,
+      "id": "119-hr-10045",
+      "billType": "hr",
+      "billNumber": 10045,
       "congress": 119,
-      "title": "No Trump Immunity Act",
+      "title": "To provide that no Federal funds may be used to carry out the final rule of the Department of Homeland Security entitled \"Public Charge Ground of Inadmissibility\", and for other purposes.",
       "status": "inCommittee",
-      "chamber": "Senate",
+      "chamber": "House",
       "sponsor": {
-        "memberId": "L000570",
-        "name": "Sen. Luján, Ben Ray [D-NM]",
+        "memberId": "C001080",
+        "name": "Rep. Chu, Judy [D-CA-28]",
         "party": "D",
-        "state": "NM",
-        "chamber": "Senate"
+        "state": "CA",
+        "district": "28",
+        "chamber": "House"
+      },
+      "cosponsorCount": 53,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on the Judiciary.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on the Judiciary.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10045",
+      "updatedAt": "2026-08-07T08:05:51Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hr-10044",
+      "billType": "hr",
+      "billNumber": 10044,
+      "congress": 119,
+      "title": "To impose a tax on artificial intelligence token usage and establish a Work Protection Administration within the Department of Labor, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "C001131",
+        "name": "Rep. Casar, Greg [D-TX-35]",
+        "party": "D",
+        "state": "TX",
+        "district": "35",
+        "chamber": "House"
+      },
+      "cosponsorCount": 2,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10044",
+      "updatedAt": "2026-08-07T08:06:15Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-hres-1479",
+      "billType": "hres",
+      "billNumber": 1479,
+      "congress": 119,
+      "title": "Impeaching Russell Thurlow Vought, Director of the Office of Management and Budget, for high crimes and misdemeanors.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "K000400",
+        "name": "Rep. Kamlager-Dove, Sydney [D-CA-37]",
+        "party": "D",
+        "state": "CA",
+        "district": "37",
+        "chamber": "House"
       },
       "cosponsorCount": 0,
       "latestAction": {
-        "date": "2026-07-30",
-        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-        "chamber": "Senate"
+        "date": "2026-08-06",
+        "text": "Referred to the House Committee on the Judiciary.",
+        "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-07-30",
-          "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-          "chamber": "Senate"
+          "date": "2026-08-06",
+          "text": "Referred to the House Committee on the Judiciary.",
+          "chamber": "House",
+          "actionCode": "H11100"
         },
         {
-          "date": "2026-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
+          "date": "2026-08-06",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
         }
       ],
       "textVersions": [
         {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/s5196/BILLS-119s5196is.htm"
+          "type": "Introduced in House",
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/hres1479/BILLS-119hres1479ih.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5196",
-      "updatedAt": "2026-08-06T02:53:30Z",
-      "introducedAt": "2026-07-30"
-    },
-    {
-      "id": "119-s-5192",
-      "billType": "s",
-      "billNumber": 5192,
-      "congress": 119,
-      "title": "Jimmy Deal Trafficking Survivors Assistance Act of 2026",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "C001113",
-        "name": "Sen. Cortez Masto, Catherine [D-NV]",
-        "party": "D",
-        "state": "NV",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-07-30",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-30",
-          "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/s5192/BILLS-119s5192is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5192",
-      "updatedAt": "2026-08-06T02:53:30Z",
-      "introducedAt": "2026-07-30"
-    },
-    {
-      "id": "119-s-5191",
-      "billType": "s",
-      "billNumber": 5191,
-      "congress": 119,
-      "title": "Citizenship for International Adoptees Act of 2026",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "L000577",
-        "name": "Sen. Lee, Mike [R-UT]",
-        "party": "R",
-        "state": "UT",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-07-30",
-        "text": "Read twice and referred to the Committee on the Judiciary.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-30",
-          "text": "Read twice and referred to the Committee on the Judiciary.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/s5191/BILLS-119s5191is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5191",
-      "updatedAt": "2026-08-06T02:53:29Z",
-      "introducedAt": "2026-07-30"
-    },
-    {
-      "id": "119-s-5190",
-      "billType": "s",
-      "billNumber": 5190,
-      "congress": 119,
-      "title": "Restoring Justice for Workers Act",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "M001111",
-        "name": "Sen. Murray, Patty [D-WA]",
-        "party": "D",
-        "state": "WA",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 17,
-      "latestAction": {
-        "date": "2026-07-30",
-        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-30",
-          "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/s5190/BILLS-119s5190is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5190",
-      "updatedAt": "2026-08-06T02:53:30Z",
-      "introducedAt": "2026-07-30"
-    },
-    {
-      "id": "119-s-5189",
-      "billType": "s",
-      "billNumber": 5189,
-      "congress": 119,
-      "title": "A bill to amend title 10, United States Code, and the National Defense Authorization Act for Fiscal Year 1994, to codify and clarify gender neutral standards for members of certain Armed Forces, and for other purposes.",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "H001042",
-        "name": "Sen. Hirono, Mazie K. [D-HI]",
-        "party": "D",
-        "state": "HI",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 21,
-      "latestAction": {
-        "date": "2026-07-30",
-        "text": "Read twice and referred to the Committee on Armed Services.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-30",
-          "text": "Read twice and referred to the Committee on Armed Services.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/s5189/BILLS-119s5189is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5189",
-      "updatedAt": "2026-08-06T02:48:34Z",
-      "introducedAt": "2026-07-30"
-    },
-    {
-      "id": "119-s-5187",
-      "billType": "s",
-      "billNumber": 5187,
-      "congress": 119,
-      "title": "PHD Talent Act of 2026",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "W000805",
-        "name": "Sen. Warner, Mark R. [D-VA]",
-        "party": "D",
-        "state": "VA",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-07-30",
-        "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-30",
-          "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/s5187/BILLS-119s5187is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5187",
-      "updatedAt": "2026-08-06T02:53:30Z",
-      "introducedAt": "2026-07-30"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1479",
+      "updatedAt": "2026-08-07T08:05:56Z",
+      "introducedAt": "2026-08-06"
     }
   ]
 }
