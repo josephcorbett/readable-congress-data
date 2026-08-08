@@ -1,8 +1,450 @@
 {
-  "generatedAt": "2026-08-07T08:58:27.347Z",
+  "generatedAt": "2026-08-08T08:39:55.178Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-08-08T083955178Z_119-house-2-279_vote.corrected",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-279",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Recommit",
+      "before": {
+        "result": "Failed",
+        "yea": 211,
+        "nay": 218,
+        "present": 0,
+        "notVoting": 2,
+        "question": "On Motion to Recommit",
+        "description": "On Motion to Recommit",
+        "date": "2026-07-22",
+        "associatedBillId": "119-hr-7008"
+      },
+      "after": {
+        "result": "Failed",
+        "yea": 211,
+        "nay": 218,
+        "present": 0,
+        "notVoting": 2,
+        "question": "On Motion to Recommit",
+        "description": "Stop Insider Trading Act (HR 7008)",
+        "date": "2026-07-22",
+        "associatedBillId": "119-hr-7008"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll279.xml",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-house-2-280_vote.corrected",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-280",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Passage",
+      "before": {
+        "result": "Passed",
+        "yea": 232,
+        "nay": 198,
+        "present": 0,
+        "notVoting": 1,
+        "question": "On Passage",
+        "description": "On Passage",
+        "date": "2026-07-22",
+        "associatedBillId": "119-hr-7008"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 232,
+        "nay": 198,
+        "present": 0,
+        "notVoting": 1,
+        "question": "On Passage",
+        "description": "Stop Insider Trading Act (HR 7008)",
+        "date": "2026-07-22",
+        "associatedBillId": "119-hr-7008"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll280.xml",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-hr-10065_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10065",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10065: Methane Pollution Accountability Act",
+      "after": {
+        "title": "Methane Pollution Accountability Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10065",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-hr-10066_bill.title_changed",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10066",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To prohibit the purchase, sale, or exchange of nonpublic information, and for other purposes."
+      },
+      "after": {
+        "title": "Stop Corrupt Trading Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10066",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-hr-10069_bill.title_changed",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10069",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To amend the Sikes Act to make certain improvements to integrated natural resources management plans of the Department of Defense for military installations, and for other purposes."
+      },
+      "after": {
+        "title": "Military Readiness Through Resilient Lands Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10069",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-hr-7008_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-hr-7008",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-7008: Stop Insider Trading Act",
+      "after": {
+        "title": "Stop Insider Trading Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7008",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-1838_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-1838",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1838: DeOndra Dixon INCLUDE Project Act of 2026",
+      "after": {
+        "title": "DeOndra Dixon INCLUDE Project Act of 2026",
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1838",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-2398_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-2398",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2398: Kay Hagan Tick Reauthorization Act",
+      "after": {
+        "title": "Kay Hagan Tick Reauthorization Act",
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2398",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-2542_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-2542",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2542: Federal Building Threat Notification Act",
+      "after": {
+        "title": "Federal Building Threat Notification Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2542",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-3266_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-3266",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3266: USMMA Athletics Act of 2026",
+      "after": {
+        "title": "USMMA Athletics Act of 2026",
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3266",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-3977_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-3977",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3977: Bankruptcy Threshold Adjustment Act of 2026",
+      "after": {
+        "title": "Bankruptcy Threshold Adjustment Act of 2026",
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3977",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-434_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-434",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-434: Space Commerce Advisory Committee Act",
+      "after": {
+        "title": "Space Commerce Advisory Committee Act",
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/434",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-4505_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-4505",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-4505: A bill to require the United States Postal Service to designate ZIP Codes for certain communities.",
+      "after": {
+        "title": "A bill to require the United States Postal Service to designate ZIP Codes for certain communities.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4505",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-5220_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-5220",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5220: Clean Transportation Jobs and Development Act of 2026",
+      "after": {
+        "title": "Clean Transportation Jobs and Development Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5220",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sjres-207_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sjres-207",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sjres-207: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle Pollution Control Standards; Notice of Decision Granting a Waiver of Clean Air Act Preemption for California's Advanced Clean Car Program and a Within the Scope Conformation for California's Zero Emission Vehicle Amendments for 2017 and Earlier Model Years\".",
+      "after": {
+        "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle Pollution Control Standards; Notice of Decision Granting a Waiver of Clean Air Act Preemption for California's Advanced Clean Car Program and a Within the Scope Conformation for California's Zero Emission Vehicle Amendments for 2017 and Earlier Model Years\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/207",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sjres-209_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sjres-209",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sjres-209: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision\".",
+      "after": {
+        "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/209",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sjres-210_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sjres-210",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sjres-210: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating \"California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision\".",
+      "after": {
+        "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating \"California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/210",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sjres-211_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sjres-211",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sjres-211: A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
+      "after": {
+        "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/211",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sres-833_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sres-833",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-833: A resolution recognizing the 1960 University of Missouri Tigers Football Team for its undefeated regular season, Orange Bowl victory, and claim to the 1960 National Championship.",
+      "after": {
+        "title": "A resolution recognizing the 1960 University of Missouri Tigers Football Team for its undefeated regular season, Orange Bowl victory, and claim to the 1960 National Championship.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/833",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sres-836_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sres-836",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-836: A resolution designating August 16, 2026, as \"National Airborne Day\".",
+      "after": {
+        "title": "A resolution designating August 16, 2026, as \"National Airborne Day\".",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/836",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sres-837_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sres-837",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-837: A resolution designating the week of August 22 through August 30, 2026, as \"National Park Week\".",
+      "after": {
+        "title": "A resolution designating the week of August 22 through August 30, 2026, as \"National Park Week\".",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/837",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sres-838_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sres-838",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-838: A resolution commemorating the first anniversary of the mass shooting at Fort Stewart, Georgia, on August 6, 2025.",
+      "after": {
+        "title": "A resolution commemorating the first anniversary of the mass shooting at Fort Stewart, Georgia, on August 6, 2025.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/838",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sres-840_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sres-840",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-840: A resolution to authorize testimony and representation by the Senate Legal Counsel.",
+      "after": {
+        "title": "A resolution to authorize testimony and representation by the Senate Legal Counsel.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/840",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_C001035_member.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "member",
+      "entityId": "C001035",
+      "changeType": "member.added",
+      "summary": "Started tracking Susan M. Collins",
+      "after": {
+        "name": "Susan M. Collins",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "ME"
+      },
+      "officialUrl": "https://www.collins.senate.gov",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_E000295_member.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "member",
+      "entityId": "E000295",
+      "changeType": "member.added",
+      "summary": "Started tracking Joni Ernst",
+      "after": {
+        "name": "Joni Ernst",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "IA"
+      },
+      "officialUrl": "https://www.ernst.senate.gov",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_R000620_member.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "member",
+      "entityId": "R000620",
+      "changeType": "member.added",
+      "summary": "Started tracking Luz M. Rivas",
+      "after": {
+        "name": "Luz M. Rivas",
+        "party": "D",
+        "chamber": "House",
+        "state": "CA"
+      },
+      "officialUrl": "https://rivas.house.gov/",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_S001198_member.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "member",
+      "entityId": "S001198",
+      "changeType": "member.added",
+      "summary": "Started tracking Dan Sullivan",
+      "after": {
+        "name": "Dan Sullivan",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "AK"
+      },
+      "officialUrl": "https://www.sullivan.senate.gov",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_S001213_member.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "member",
+      "entityId": "S001213",
+      "changeType": "member.added",
+      "summary": "Started tracking Bryan Steil",
+      "after": {
+        "name": "Bryan Steil",
+        "party": "R",
+        "chamber": "House",
+        "state": "WI"
+      },
+      "officialUrl": "https://steil.house.gov",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
     {
       "id": "evt_2026-08-07T085827347Z_119-hr-10044_bill.added",
       "observedAt": "2026-08-07T08:58:27.347Z",
@@ -1058,414 +1500,6 @@
       },
       "officialUrl": "https://www.warner.senate.gov",
       "syncId": "2026-08-06T10:37:54.368Z"
-    },
-    {
-      "id": "evt_2026-08-06T103754368Z_Y000064_member.added",
-      "observedAt": "2026-08-06T10:37:54.368Z",
-      "entityType": "member",
-      "entityId": "Y000064",
-      "changeType": "member.added",
-      "summary": "Started tracking Todd Young",
-      "after": {
-        "name": "Todd Young",
-        "party": "R",
-        "chamber": "Senate",
-        "state": "IN"
-      },
-      "officialUrl": "https://www.young.senate.gov",
-      "syncId": "2026-08-06T10:37:54.368Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10013_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10013",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10013: Compassionate Care Act",
-      "after": {
-        "title": "Compassionate Care Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10013",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10014_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10014",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10014: Restoring Accountability in Appropriations Act",
-      "after": {
-        "title": "Restoring Accountability in Appropriations Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10014",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10015_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10015",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10015: Great American Healthcare Act",
-      "after": {
-        "title": "Great American Healthcare Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10015",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10017_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10017",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10017: To permanently prohibit the Board of Governors of the Federal Reserve System or a Federal reserve bank from issuing or creating a central bank digital currency, and for other purposes.",
-      "after": {
-        "title": "To permanently prohibit the Board of Governors of the Federal Reserve System or a Federal reserve bank from issuing or creating a central bank digital currency, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10017",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10026_bill.title_changed",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10026",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To designate courtroom 201 at the Howard T. Markey National Courts Building located at 717 Madison Place NW, Washington, DC, as the \"Pauline Newman Courtroom\"."
-      },
-      "after": {
-        "title": "Honoring Circuit Judge Pauline Newman Act of 2026"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10026",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10027_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10027",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10027: Stop ICE’s Medical Neglect Act of 2026",
-      "after": {
-        "title": "Stop ICE’s Medical Neglect Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10027",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10028_bill.title_changed",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10028",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To require the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation to begin purchasing and securitizing portable mortgages, and for other purposes."
-      },
-      "after": {
-        "title": "MOVE Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10028",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10029_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10029",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10029: Supporting Students and Families Act",
-      "after": {
-        "title": "Supporting Students and Families Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10029",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10030_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10030",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10030: Supporting Our Educators Act of 2026",
-      "after": {
-        "title": "Supporting Our Educators Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10030",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10032_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10032",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10032: No Payoffs for Pardons Act",
-      "after": {
-        "title": "No Payoffs for Pardons Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10032",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10033_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10033",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10033: AV Emergency Response Coordination Act",
-      "after": {
-        "title": "AV Emergency Response Coordination Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10033",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10034_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10034",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10034: To amend the Consolidated Appropriations Act, 2017 to extend the availability of identity protection coverage to individuals whose personally identifiable information was compromised during recent data breaches at Federal agencies, and for other purposes.",
-      "after": {
-        "title": "To amend the Consolidated Appropriations Act, 2017 to extend the availability of identity protection coverage to individuals whose personally identifiable information was compromised during recent data breaches at Federal agencies, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10034",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10035_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10035",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10035: To amend title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the Fair Labor Standards Act of 1938, the Americans with Disabilities Act of 1990, the Rehabilitation Act of 1973, and the Genetic Information Nondiscrimination Act of 2008 to require that individuals who perform work for employers as independent contractors be treated as employees.",
-      "after": {
-        "title": "To amend title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the Fair Labor Standards Act of 1938, the Americans with Disabilities Act of 1990, the Rehabilitation Act of 1973, and the Genetic Information Nondiscrimination Act of 2008 to require that individuals who perform work for employers as independent contractors be treated as employees.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10035",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10038_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10038",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10038: FORK Act of 2026",
-      "after": {
-        "title": "FORK Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10038",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10040_bill.title_changed",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10040",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To amend the Homeland Security Act of 2002 to prohibit the Secretary of Homeland Security from accessing or utilizing certain information to carry out certain functions of U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement and from carrying out certain actions regarding Trusted Traveler programs, and for other purposes."
-      },
-      "after": {
-        "title": "No TSA Data for ICE Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10040",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10041_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10041",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10041: Smart Data Center Policy Act",
-      "after": {
-        "title": "Smart Data Center Policy Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10041",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10042_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10042",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10042: Understanding AI in the Classroom Act",
-      "after": {
-        "title": "Understanding AI in the Classroom Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10042",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-10043_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10043",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10043: Heritage Legacy Act",
-      "after": {
-        "title": "Heritage Legacy Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10043",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-hr-3620_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-hr-3620",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-3620: Southcentral Foundation Land Transfer Act of 2025",
-      "after": {
-        "title": "Southcentral Foundation Land Transfer Act of 2025",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3620",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-s-2098_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-s-2098",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-2098: Southcentral Foundation Land Transfer Act of 2025",
-      "after": {
-        "title": "Southcentral Foundation Land Transfer Act of 2025",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2098",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-s-5194_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-s-5194",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-5194: Judicial Space and Facilities Management Effectiveness Act of 2026",
-      "after": {
-        "title": "Judicial Space and Facilities Management Effectiveness Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5194",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-s-5212_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-s-5212",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-5212: A bill to amend title 18, United States Code, to reform executive clemency.",
-      "after": {
-        "title": "A bill to amend title 18, United States Code, to reform executive clemency.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5212",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_119-sjres-204_bill.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "bill",
-      "entityId": "119-sjres-204",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-sjres-204: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the United States Fish and Wildlife Service and the National Oceanic and Atmospheric Administration relating to \"Rescinding the Definition of 'Harm' Under the Endangered Species Act\".",
-      "after": {
-        "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the United States Fish and Wildlife Service and the National Oceanic and Atmospheric Administration relating to \"Rescinding the Definition of 'Harm' Under the Endangered Species Act\".",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/204",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_B001316_member.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "member",
-      "entityId": "B001316",
-      "changeType": "member.added",
-      "summary": "Started tracking Eric Burlison",
-      "after": {
-        "name": "Eric Burlison",
-        "party": "R",
-        "chamber": "House",
-        "state": "MO"
-      },
-      "officialUrl": "https://burlison.house.gov",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_C001115_member.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "member",
-      "entityId": "C001115",
-      "changeType": "member.added",
-      "summary": "Started tracking Michael Cloud",
-      "after": {
-        "name": "Michael Cloud",
-        "party": "R",
-        "chamber": "House",
-        "state": "TX"
-      },
-      "officialUrl": "https://cloud.house.gov",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_L000599_member.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "member",
-      "entityId": "L000599",
-      "changeType": "member.added",
-      "summary": "Started tracking Michael Lawler",
-      "after": {
-        "name": "Michael Lawler",
-        "party": "R",
-        "chamber": "House",
-        "state": "NY"
-      },
-      "officialUrl": "https://lawler.house.gov",
-      "syncId": "2026-08-05T10:34:12.378Z"
-    },
-    {
-      "id": "evt_2026-08-05T103412378Z_M001225_member.added",
-      "observedAt": "2026-08-05T10:34:12.378Z",
-      "entityType": "member",
-      "entityId": "M001225",
-      "changeType": "member.added",
-      "summary": "Started tracking Kevin Mullin",
-      "after": {
-        "name": "Kevin Mullin",
-        "party": "D",
-        "chamber": "House",
-        "state": "CA"
-      },
-      "officialUrl": "https://kevinmullin.house.gov",
-      "syncId": "2026-08-05T10:34:12.378Z"
     }
   ]
 }

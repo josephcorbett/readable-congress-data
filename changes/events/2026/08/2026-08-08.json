@@ -1,0 +1,448 @@
+{
+  "date": "2026-08-08",
+  "generatedAt": "2026-08-08T08:39:55.178Z",
+  "items": [
+    {
+      "id": "evt_2026-08-08T083955178Z_119-house-2-279_vote.corrected",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-279",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Recommit",
+      "before": {
+        "result": "Failed",
+        "yea": 211,
+        "nay": 218,
+        "present": 0,
+        "notVoting": 2,
+        "question": "On Motion to Recommit",
+        "description": "On Motion to Recommit",
+        "date": "2026-07-22",
+        "associatedBillId": "119-hr-7008"
+      },
+      "after": {
+        "result": "Failed",
+        "yea": 211,
+        "nay": 218,
+        "present": 0,
+        "notVoting": 2,
+        "question": "On Motion to Recommit",
+        "description": "Stop Insider Trading Act (HR 7008)",
+        "date": "2026-07-22",
+        "associatedBillId": "119-hr-7008"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll279.xml",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-house-2-280_vote.corrected",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-280",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Passage",
+      "before": {
+        "result": "Passed",
+        "yea": 232,
+        "nay": 198,
+        "present": 0,
+        "notVoting": 1,
+        "question": "On Passage",
+        "description": "On Passage",
+        "date": "2026-07-22",
+        "associatedBillId": "119-hr-7008"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 232,
+        "nay": 198,
+        "present": 0,
+        "notVoting": 1,
+        "question": "On Passage",
+        "description": "Stop Insider Trading Act (HR 7008)",
+        "date": "2026-07-22",
+        "associatedBillId": "119-hr-7008"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll280.xml",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-hr-10065_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10065",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10065: Methane Pollution Accountability Act",
+      "after": {
+        "title": "Methane Pollution Accountability Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10065",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-hr-10066_bill.title_changed",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10066",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To prohibit the purchase, sale, or exchange of nonpublic information, and for other purposes."
+      },
+      "after": {
+        "title": "Stop Corrupt Trading Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10066",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-hr-10069_bill.title_changed",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10069",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To amend the Sikes Act to make certain improvements to integrated natural resources management plans of the Department of Defense for military installations, and for other purposes."
+      },
+      "after": {
+        "title": "Military Readiness Through Resilient Lands Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10069",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-hr-7008_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-hr-7008",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-7008: Stop Insider Trading Act",
+      "after": {
+        "title": "Stop Insider Trading Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7008",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-1838_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-1838",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1838: DeOndra Dixon INCLUDE Project Act of 2026",
+      "after": {
+        "title": "DeOndra Dixon INCLUDE Project Act of 2026",
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1838",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-2398_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-2398",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2398: Kay Hagan Tick Reauthorization Act",
+      "after": {
+        "title": "Kay Hagan Tick Reauthorization Act",
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2398",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-2542_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-2542",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2542: Federal Building Threat Notification Act",
+      "after": {
+        "title": "Federal Building Threat Notification Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2542",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-3266_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-3266",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3266: USMMA Athletics Act of 2026",
+      "after": {
+        "title": "USMMA Athletics Act of 2026",
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3266",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-3977_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-3977",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3977: Bankruptcy Threshold Adjustment Act of 2026",
+      "after": {
+        "title": "Bankruptcy Threshold Adjustment Act of 2026",
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3977",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-434_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-434",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-434: Space Commerce Advisory Committee Act",
+      "after": {
+        "title": "Space Commerce Advisory Committee Act",
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/434",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-4505_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-4505",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-4505: A bill to require the United States Postal Service to designate ZIP Codes for certain communities.",
+      "after": {
+        "title": "A bill to require the United States Postal Service to designate ZIP Codes for certain communities.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4505",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-s-5220_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-s-5220",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5220: Clean Transportation Jobs and Development Act of 2026",
+      "after": {
+        "title": "Clean Transportation Jobs and Development Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5220",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sjres-207_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sjres-207",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sjres-207: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle Pollution Control Standards; Notice of Decision Granting a Waiver of Clean Air Act Preemption for California's Advanced Clean Car Program and a Within the Scope Conformation for California's Zero Emission Vehicle Amendments for 2017 and Earlier Model Years\".",
+      "after": {
+        "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle Pollution Control Standards; Notice of Decision Granting a Waiver of Clean Air Act Preemption for California's Advanced Clean Car Program and a Within the Scope Conformation for California's Zero Emission Vehicle Amendments for 2017 and Earlier Model Years\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/207",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sjres-209_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sjres-209",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sjres-209: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision\".",
+      "after": {
+        "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/209",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sjres-210_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sjres-210",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sjres-210: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating \"California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision\".",
+      "after": {
+        "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating \"California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/210",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sjres-211_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sjres-211",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sjres-211: A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
+      "after": {
+        "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/211",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sres-833_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sres-833",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-833: A resolution recognizing the 1960 University of Missouri Tigers Football Team for its undefeated regular season, Orange Bowl victory, and claim to the 1960 National Championship.",
+      "after": {
+        "title": "A resolution recognizing the 1960 University of Missouri Tigers Football Team for its undefeated regular season, Orange Bowl victory, and claim to the 1960 National Championship.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/833",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sres-836_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sres-836",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-836: A resolution designating August 16, 2026, as \"National Airborne Day\".",
+      "after": {
+        "title": "A resolution designating August 16, 2026, as \"National Airborne Day\".",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/836",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sres-837_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sres-837",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-837: A resolution designating the week of August 22 through August 30, 2026, as \"National Park Week\".",
+      "after": {
+        "title": "A resolution designating the week of August 22 through August 30, 2026, as \"National Park Week\".",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/837",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sres-838_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sres-838",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-838: A resolution commemorating the first anniversary of the mass shooting at Fort Stewart, Georgia, on August 6, 2025.",
+      "after": {
+        "title": "A resolution commemorating the first anniversary of the mass shooting at Fort Stewart, Georgia, on August 6, 2025.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/838",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_119-sres-840_bill.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "bill",
+      "entityId": "119-sres-840",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-840: A resolution to authorize testimony and representation by the Senate Legal Counsel.",
+      "after": {
+        "title": "A resolution to authorize testimony and representation by the Senate Legal Counsel.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/840",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_C001035_member.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "member",
+      "entityId": "C001035",
+      "changeType": "member.added",
+      "summary": "Started tracking Susan M. Collins",
+      "after": {
+        "name": "Susan M. Collins",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "ME"
+      },
+      "officialUrl": "https://www.collins.senate.gov",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_E000295_member.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "member",
+      "entityId": "E000295",
+      "changeType": "member.added",
+      "summary": "Started tracking Joni Ernst",
+      "after": {
+        "name": "Joni Ernst",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "IA"
+      },
+      "officialUrl": "https://www.ernst.senate.gov",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_R000620_member.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "member",
+      "entityId": "R000620",
+      "changeType": "member.added",
+      "summary": "Started tracking Luz M. Rivas",
+      "after": {
+        "name": "Luz M. Rivas",
+        "party": "D",
+        "chamber": "House",
+        "state": "CA"
+      },
+      "officialUrl": "https://rivas.house.gov/",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_S001198_member.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "member",
+      "entityId": "S001198",
+      "changeType": "member.added",
+      "summary": "Started tracking Dan Sullivan",
+      "after": {
+        "name": "Dan Sullivan",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "AK"
+      },
+      "officialUrl": "https://www.sullivan.senate.gov",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    },
+    {
+      "id": "evt_2026-08-08T083955178Z_S001213_member.added",
+      "observedAt": "2026-08-08T08:39:55.178Z",
+      "entityType": "member",
+      "entityId": "S001213",
+      "changeType": "member.added",
+      "summary": "Started tracking Bryan Steil",
+      "after": {
+        "name": "Bryan Steil",
+        "party": "R",
+        "chamber": "House",
+        "state": "WI"
+      },
+      "officialUrl": "https://steil.house.gov",
+      "syncId": "2026-08-08T08:39:55.178Z"
+    }
+  ]
+}
