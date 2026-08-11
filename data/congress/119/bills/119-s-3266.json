@@ -4,7 +4,7 @@
   "billNumber": 3266,
   "congress": 119,
   "title": "USMMA Athletics Act of 2026",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "Senate",
   "policyArea": "Transportation and Public Works",
   "sponsor": {
@@ -16,11 +16,23 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-08-06",
-    "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4492-4493; text: CR S4492-4493)",
+    "date": "2026-08-10",
+    "text": "Held at the desk.",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-08-10",
+      "text": "Held at the desk.",
+      "chamber": "Senate",
+      "actionCode": "H15000"
+    },
+    {
+      "date": "2026-08-10",
+      "text": "Received in the House.",
+      "chamber": "Senate",
+      "actionCode": "H14000"
+    },
     {
       "date": "2026-08-06",
       "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4492-4493; text: CR S4492-4493)",
@@ -28,7 +40,7 @@
     },
     {
       "date": "2026-08-06",
-      "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4492-4493; text: CR S4492-4493)",
       "chamber": "Senate",
       "actionCode": "17000"
     },
@@ -83,6 +95,6 @@
     }
   ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3266",
-  "updatedAt": "2026-08-07T18:23:28Z",
+  "updatedAt": "2026-08-11T08:05:29Z",
   "introducedAt": "2025-11-20"
 }

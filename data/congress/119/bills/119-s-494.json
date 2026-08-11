@@ -4,7 +4,7 @@
   "billNumber": 494,
   "congress": 119,
   "title": "National Plan for Epilepsy Act",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "Senate",
   "policyArea": "Health",
   "sponsor": {
@@ -16,11 +16,23 @@
   },
   "cosponsorCount": 27,
   "latestAction": {
-    "date": "2026-08-04",
-    "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4426-4427; text: CR S4426-4427)",
+    "date": "2026-08-10",
+    "text": "Held at the desk.",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-08-10",
+      "text": "Held at the desk.",
+      "chamber": "Senate",
+      "actionCode": "H15000"
+    },
+    {
+      "date": "2026-08-10",
+      "text": "Received in the House.",
+      "chamber": "Senate",
+      "actionCode": "H14000"
+    },
     {
       "date": "2026-08-04",
       "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4426-4427; text: CR S4426-4427)",
@@ -87,6 +99,6 @@
   "summary": "National Plan for Epilepsy Act This bill requires the Department of Health and Human Services (HHS) to establish a national plan, form an advisory council, and take other actions to address epilepsy. The requirements sunset on December 31, 2035. Specifically, the bill requires HHS to carry out a National Plan for Epilepsy to prevent, diagnose, treat, and cure epilepsy. In carrying out the plan, HHS must implement activities such as coordinating research and services across all federal agencies and soliciting public comments. Also, HHS must establish an Advisory Council on Epilepsy Research, Care, and Services. The advisory council must report to HHS and Congress every two years with an evaluation of federally funded efforts. Additionally, HHS must annually report to Congress with recommended actions based on its assessments of the nation’s progress on epilepsy.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/494",
-  "updatedAt": "2026-08-05T17:58:09Z",
+  "updatedAt": "2026-08-11T08:05:34Z",
   "introducedAt": "2025-02-10"
 }

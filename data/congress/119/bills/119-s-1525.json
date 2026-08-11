@@ -4,7 +4,7 @@
   "billNumber": 1525,
   "congress": 119,
   "title": "Common Cents Act",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "Senate",
   "policyArea": "Finance and Financial Sector",
   "sponsor": {
@@ -16,14 +16,26 @@
   },
   "cosponsorCount": 3,
   "latestAction": {
-    "date": "2026-08-07",
-    "text": "Passed Senate with an amendment by Unanimous Consent.",
+    "date": "2026-08-10",
+    "text": "Held at the desk.",
     "chamber": "Senate"
   },
   "actions": [
     {
+      "date": "2026-08-10",
+      "text": "Held at the desk.",
+      "chamber": "Senate",
+      "actionCode": "H15000"
+    },
+    {
+      "date": "2026-08-10",
+      "text": "Received in the House.",
+      "chamber": "Senate",
+      "actionCode": "H14000"
+    },
+    {
       "date": "2026-08-07",
-      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "text": "Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S4586-4588)",
       "chamber": "Senate"
     },
     {
@@ -34,7 +46,7 @@
     },
     {
       "date": "2026-08-07",
-      "text": "Measure laid before Senate by unanimous consent.",
+      "text": "Measure laid before Senate by unanimous consent. (consideration: CR S4551)",
       "chamber": "Senate"
     },
     {
@@ -73,6 +85,6 @@
     }
   ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1525",
-  "updatedAt": "2026-08-08T16:48:21Z",
+  "updatedAt": "2026-08-11T08:05:33Z",
   "introducedAt": "2025-04-30"
 }

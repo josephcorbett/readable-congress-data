@@ -4,7 +4,7 @@
   "billNumber": 434,
   "congress": 119,
   "title": "Space Commerce Advisory Committee Act",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "Senate",
   "policyArea": "Science, Technology, Communications",
   "sponsor": {
@@ -16,11 +16,23 @@
   },
   "cosponsorCount": 2,
   "latestAction": {
-    "date": "2026-08-06",
-    "text": "Passed Senate with an amendment by Unanimous Consent. (text: CR S4493-4494)",
+    "date": "2026-08-10",
+    "text": "Held at the desk.",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-08-10",
+      "text": "Held at the desk.",
+      "chamber": "Senate",
+      "actionCode": "H15000"
+    },
+    {
+      "date": "2026-08-10",
+      "text": "Received in the House.",
+      "chamber": "Senate",
+      "actionCode": "H14000"
+    },
     {
       "date": "2026-08-06",
       "text": "Passed Senate with an amendment by Unanimous Consent. (text: CR S4493-4494)",
@@ -28,9 +40,14 @@
     },
     {
       "date": "2026-08-06",
-      "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (text: CR S4493-4494)",
       "chamber": "Senate",
       "actionCode": "17000"
+    },
+    {
+      "date": "2026-08-06",
+      "text": "The committee substitute withdrawn by Unanimous Consent.",
+      "chamber": "Senate"
     },
     {
       "date": "2026-08-06",
@@ -92,6 +109,6 @@
   "summary": "Space Commerce Advisory Committee Act This bill requires the Office of Space Commerce to establish a Commercial Space Activity Advisory Committee to provide information and recommendations on nongovernmental space activities and promoting a robust and innovative commercial space sector. Among other duties, the committee is directed to identify challenges to the U.S. commercial space sector and to review best practices for commercial space entities with respect to avoiding harmful contamination of the Moon and other celestial bodies and adverse impacts to the Earth’s environment from extraterrestrial matter. The committee must be comprised of representatives from varying fields with significant experience in the commercial space industry. The committee must terminate ten years after it is established.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/434",
-  "updatedAt": "2026-08-07T18:23:37Z",
+  "updatedAt": "2026-08-11T08:05:33Z",
   "introducedAt": "2025-02-05"
 }
