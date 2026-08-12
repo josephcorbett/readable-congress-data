@@ -4,8 +4,9 @@
   "billNumber": 820,
   "congress": 119,
   "title": "A resolution designating August 7, 2026, as \"National Lighthouse Day\".",
-  "status": "inCommittee",
+  "status": "introduced",
   "chamber": "Senate",
+  "policyArea": "Transportation and Public Works",
   "sponsor": {
     "memberId": "P000595",
     "name": "Sen. Peters, Gary C. [D-MI]",
@@ -15,11 +16,33 @@
   },
   "cosponsorCount": 2,
   "latestAction": {
-    "date": "2026-07-30",
-    "text": "Referred to the Committee on the Judiciary. (text: CR S4390-4391)",
+    "date": "2026-08-07",
+    "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4553)",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-08-07",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4553)",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-08-07",
+      "text": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "chamber": "Senate",
+      "actionCode": "17000"
+    },
+    {
+      "date": "2026-08-07",
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-08-07",
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "chamber": "Senate",
+      "actionCode": "14500"
+    },
     {
       "date": "2026-07-30",
       "text": "Referred to the Committee on the Judiciary. (text: CR S4390-4391)",
@@ -34,12 +57,17 @@
   ],
   "textVersions": [
     {
+      "type": "Agreed to Senate",
+      "date": "2026-08-07",
+      "url": "https://www.congress.gov/119/bills/sres820/BILLS-119sres820ats.htm"
+    },
+    {
       "type": "Introduced in Senate",
       "date": "2026-07-30",
       "url": "https://www.congress.gov/119/bills/sres820/BILLS-119sres820is.htm"
     }
   ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/820",
-  "updatedAt": "2026-08-01T03:33:20Z",
+  "updatedAt": "2026-08-12T06:03:22Z",
   "introducedAt": "2026-07-30"
 }

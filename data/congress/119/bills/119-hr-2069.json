@@ -4,7 +4,7 @@
   "billNumber": 2069,
   "congress": 119,
   "title": "Stop Secret Spending Act of 2025",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "House",
   "policyArea": "Government Operations and Politics",
   "sponsor": {
@@ -17,14 +17,19 @@
   },
   "cosponsorCount": 3,
   "latestAction": {
-    "date": "2026-08-07",
-    "text": "Passed Senate without amendment by Unanimous Consent.",
+    "date": "2026-08-10",
+    "text": "Message on Senate action sent to the House.",
     "chamber": "House"
   },
   "actions": [
     {
+      "date": "2026-08-10",
+      "text": "Message on Senate action sent to the House.",
+      "chamber": "House"
+    },
+    {
       "date": "2026-08-07",
-      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4547)",
       "chamber": "House"
     },
     {
@@ -107,6 +112,16 @@
   ],
   "textVersions": [
     {
+      "type": "Enrolled Bill",
+      "date": "1970-01-01",
+      "url": "https://www.congress.gov/119/bills/hr2069/BILLS-119hr2069enr.htm"
+    },
+    {
+      "type": "Received in Senate",
+      "date": "2026-07-21",
+      "url": "https://www.congress.gov/119/bills/hr2069/BILLS-119hr2069rds.htm"
+    },
+    {
       "type": "Engrossed in House",
       "date": "2026-07-20",
       "url": "https://www.congress.gov/119/bills/hr2069/BILLS-119hr2069eh.htm"
@@ -122,6 +137,6 @@
   "summary": "Stop Secret Spending Act of 2025 This bill expands a requirement for federal agencies to report expenditures on the USAspending.gov website to include other transaction agreement expenditures. (Other transaction agreements, or OTAs, are contractual instruments other than standard procurement contracts, grants, or cooperative agreements; they are exempt from many federal procurement laws and regulations). Under current law, federal agencies must report expenditures on federal awards to USAspending.gov with the term federal award defined as federal grants, loans, cooperative agreements, contracts, and certain other types of expenditures. This bill expands the definition of federal award to include expenditures under OTAs, and therefore such expenditures must be included on the USAspending.gov website. The Department of the Treasury must ensure that data relating to OTAs are automatically transmitted to the website and a centralized view of this data is available on the website. Treasury must also annually post on the USAspending.gov website a report that includes (1) the total amount of federal spending on federal awards for which data has not been posted on the website, and (2) the reason why such spending data was not posted. For 10 years after enactment, the Office of Inspector General of specified federal agencies must periodically submit to Congress and make publicly available a report assessing the agency's spending data and use of data standards.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2069",
-  "updatedAt": "2026-08-08T16:37:38Z",
+  "updatedAt": "2026-08-12T06:03:36Z",
   "introducedAt": "2025-03-11"
 }

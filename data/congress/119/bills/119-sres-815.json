@@ -4,8 +4,9 @@
   "billNumber": 815,
   "congress": 119,
   "title": "A resolution commending the Chicago Cubs baseball teams as it celebrates its 150th anniversary on August 29, 2026.",
-  "status": "inCommittee",
+  "status": "introduced",
   "chamber": "Senate",
+  "policyArea": "Sports and Recreation",
   "sponsor": {
     "memberId": "D000563",
     "name": "Sen. Durbin, Richard J. [D-IL]",
@@ -15,11 +16,38 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-07-23",
-    "text": "Referred to the Committee on Commerce, Science, and Transportation. (text: CR S4271)",
+    "date": "2026-08-07",
+    "text": "Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text of amendment in the nature of a substitute: CR S4552-4553)",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-08-07",
+      "text": "Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text of amendment in the nature of a substitute: CR S4552-4553)",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-08-07",
+      "text": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.",
+      "chamber": "Senate",
+      "actionCode": "17000"
+    },
+    {
+      "date": "2026-08-07",
+      "text": "Measure laid before Senate by unanimous consent. (consideration: CR S4552)",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-08-07",
+      "text": "Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-08-07",
+      "text": "Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.",
+      "chamber": "Senate",
+      "actionCode": "14500"
+    },
     {
       "date": "2026-07-23",
       "text": "Referred to the Committee on Commerce, Science, and Transportation. (text: CR S4271)",
@@ -32,8 +60,19 @@
       "actionCode": "10025"
     }
   ],
-  "textVersions": [],
+  "textVersions": [
+    {
+      "type": "Agreed to Senate",
+      "date": "2026-08-07",
+      "url": "https://www.congress.gov/119/bills/sres815/BILLS-119sres815ats.htm"
+    },
+    {
+      "type": "Introduced in Senate",
+      "date": "2026-07-23",
+      "url": "https://www.congress.gov/119/bills/sres815/BILLS-119sres815is.htm"
+    }
+  ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/815",
-  "updatedAt": "2026-07-25T10:56:22Z",
+  "updatedAt": "2026-08-12T06:03:22Z",
   "introducedAt": "2026-07-23"
 }
