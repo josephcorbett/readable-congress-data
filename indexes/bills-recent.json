@@ -1,36 +1,401 @@
 {
-  "generatedAt": "2026-08-12T09:10:38.478Z",
+  "generatedAt": "2026-08-13T09:11:31.249Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
     {
-      "id": "119-s-1525",
-      "billType": "s",
-      "billNumber": 1525,
+      "id": "119-hr-10081",
+      "billType": "hr",
+      "billNumber": 10081,
       "congress": 119,
-      "title": "Common Cents Act",
+      "title": "No Utility Junk Fees Act",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "V000138",
+        "name": "Rep. Vindman, Eugene Simon [D-VA-7]",
+        "party": "D",
+        "state": "VA",
+        "district": "7",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-08-10",
+        "text": "Referred to the House Committee on Energy and Commerce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-10",
+          "text": "Referred to the House Committee on Energy and Commerce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-10",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-10",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-08-10",
+          "url": "https://www.congress.gov/119/bills/hr10081/BILLS-119hr10081ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10081",
+      "updatedAt": "2026-08-13T05:23:42Z",
+      "introducedAt": "2026-08-10"
+    },
+    {
+      "id": "119-hr-10080",
+      "billType": "hr",
+      "billNumber": 10080,
+      "congress": 119,
+      "title": "Energy Utility Lobbying Ban Act",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "V000138",
+        "name": "Rep. Vindman, Eugene Simon [D-VA-7]",
+        "party": "D",
+        "state": "VA",
+        "district": "7",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-08-10",
+        "text": "Referred to the House Committee on Energy and Commerce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-10",
+          "text": "Referred to the House Committee on Energy and Commerce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-10",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-10",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-08-10",
+          "url": "https://www.congress.gov/119/bills/hr10080/BILLS-119hr10080ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10080",
+      "updatedAt": "2026-08-13T05:23:42Z",
+      "introducedAt": "2026-08-10"
+    },
+    {
+      "id": "119-hr-10077",
+      "billType": "hr",
+      "billNumber": 10077,
+      "congress": 119,
+      "title": "Safety Starts at the Top Act of 2026",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "S000510",
+        "name": "Rep. Smith, Adam [D-WA-9]",
+        "party": "D",
+        "state": "WA",
+        "district": "9",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-08-10",
+        "text": "Referred to the House Committee on Transportation and Infrastructure.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-10",
+          "text": "Referred to the House Committee on Transportation and Infrastructure.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-10",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-10",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-08-10",
+          "url": "https://www.congress.gov/119/bills/hr10077/BILLS-119hr10077ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10077",
+      "updatedAt": "2026-08-13T05:23:42Z",
+      "introducedAt": "2026-08-10"
+    },
+    {
+      "id": "119-hr-10075",
+      "billType": "hr",
+      "billNumber": 10075,
+      "congress": 119,
+      "title": "First-Time Homebuyer Affordability Act",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "L000585",
+        "name": "Rep. LaHood, Darin [R-IL-16]",
+        "party": "R",
+        "state": "IL",
+        "district": "16",
+        "chamber": "House"
+      },
+      "cosponsorCount": 3,
+      "latestAction": {
+        "date": "2026-08-10",
+        "text": "Referred to the House Committee on Ways and Means.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-10",
+          "text": "Referred to the House Committee on Ways and Means.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-10",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-10",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-08-10",
+          "url": "https://www.congress.gov/119/bills/hr10075/BILLS-119hr10075ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10075",
+      "updatedAt": "2026-08-13T05:23:42Z",
+      "introducedAt": "2026-08-10"
+    },
+    {
+      "id": "119-hr-10072",
+      "billType": "hr",
+      "billNumber": 10072,
+      "congress": 119,
+      "title": "Hardworking Seniors Act",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "F000470",
+        "name": "Rep. Fischbach, Michelle [R-MN-7]",
+        "party": "R",
+        "state": "MN",
+        "district": "7",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-08-10",
+        "text": "Referred to the House Committee on Ways and Means.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-10",
+          "text": "Referred to the House Committee on Ways and Means.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-10",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-10",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-08-10",
+          "url": "https://www.congress.gov/119/bills/hr10072/BILLS-119hr10072ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10072",
+      "updatedAt": "2026-08-13T05:08:41Z",
+      "introducedAt": "2026-08-10"
+    },
+    {
+      "id": "119-hr-10074",
+      "billType": "hr",
+      "billNumber": 10074,
+      "congress": 119,
+      "title": "Affordable Power for the Northern Marianas Act",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "K000404",
+        "name": "Del. King-Hinds, Kimberlyn [R-MP-At Large]",
+        "party": "R",
+        "state": "MP",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-08-10",
+        "text": "Referred to the House Committee on Natural Resources.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-10",
+          "text": "Referred to the House Committee on Natural Resources.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-10",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-10",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-08-10",
+          "url": "https://www.congress.gov/119/bills/hr10074/BILLS-119hr10074ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10074",
+      "updatedAt": "2026-08-13T04:53:42Z",
+      "introducedAt": "2026-08-10"
+    },
+    {
+      "id": "119-hr-10073",
+      "billType": "hr",
+      "billNumber": 10073,
+      "congress": 119,
+      "title": "Critically Endangered Animals Conservation Act of 2026",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "H001068",
+        "name": "Rep. Huffman, Jared [D-CA-2]",
+        "party": "D",
+        "state": "CA",
+        "district": "2",
+        "chamber": "House"
+      },
+      "cosponsorCount": 4,
+      "latestAction": {
+        "date": "2026-08-10",
+        "text": "Referred to the House Committee on Natural Resources.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-10",
+          "text": "Referred to the House Committee on Natural Resources.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-10",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-10",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-08-10",
+          "url": "https://www.congress.gov/119/bills/hr10073/BILLS-119hr10073ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10073",
+      "updatedAt": "2026-08-13T04:53:42Z",
+      "introducedAt": "2026-08-10"
+    },
+    {
+      "id": "119-s-2666",
+      "billType": "s",
+      "billNumber": 2666,
+      "congress": 119,
+      "title": "Foreign Robocall Elimination Act",
       "status": "introduced",
       "chamber": "Senate",
-      "policyArea": "Finance and Financial Sector",
+      "policyArea": "Science, Technology, Communications",
       "sponsor": {
-        "memberId": "L000571",
-        "name": "Sen. Lummis, Cynthia M. [R-WY]",
+        "memberId": "B001305",
+        "name": "Sen. Budd, Ted [R-NC]",
         "party": "R",
-        "state": "WY",
+        "state": "NC",
         "chamber": "Senate"
       },
       "cosponsorCount": 3,
       "latestAction": {
         "date": "2026-08-10",
-        "text": "Message on Senate action sent to the House.",
+        "text": "Held at the desk.",
         "chamber": "Senate"
       },
       "actions": [
-        {
-          "date": "2026-08-10",
-          "text": "Message on Senate action sent to the House.",
-          "chamber": "Senate"
-        },
         {
           "date": "2026-08-10",
           "text": "Held at the desk.",
@@ -44,39 +409,49 @@
           "actionCode": "H14000"
         },
         {
-          "date": "2026-08-07",
-          "text": "Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S4586-4588)",
+          "date": "2026-08-10",
+          "text": "Message on Senate action sent to the House.",
           "chamber": "Senate"
         },
         {
-          "date": "2026-08-07",
+          "date": "2026-08-03",
+          "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4412-4414; text: CR S4412-4414)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-08-03",
           "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
           "chamber": "Senate",
           "actionCode": "17000"
         },
         {
-          "date": "2026-08-07",
-          "text": "Measure laid before Senate by unanimous consent. (consideration: CR S4551)",
+          "date": "2026-06-01",
+          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 422.",
           "chamber": "Senate"
         },
         {
-          "date": "2026-08-07",
-          "text": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.",
+          "date": "2026-06-01",
+          "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-122.",
           "chamber": "Senate"
         },
         {
-          "date": "2026-08-07",
-          "text": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.",
+          "date": "2026-06-01",
+          "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-122.",
           "chamber": "Senate",
-          "actionCode": "14500"
+          "actionCode": "14000"
         },
         {
-          "date": "2025-04-30",
-          "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+          "date": "2025-10-21",
+          "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
           "chamber": "Senate"
         },
         {
-          "date": "2025-04-30",
+          "date": "2025-08-01",
+          "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2025-08-01",
           "text": "Introduced in Senate",
           "chamber": "Senate",
           "actionCode": "10000"
@@ -85,242 +460,51 @@
       "textVersions": [
         {
           "type": "Engrossed in Senate",
-          "date": "2026-08-07",
-          "url": "https://www.congress.gov/119/bills/s1525/BILLS-119s1525es.htm"
+          "date": "2026-08-03",
+          "url": "https://www.congress.gov/119/bills/s2666/BILLS-119s2666es.htm"
+        },
+        {
+          "type": "Reported to Senate",
+          "date": "2026-06-01",
+          "url": "https://www.congress.gov/119/bills/s2666/BILLS-119s2666rs.htm"
         },
         {
           "type": "Introduced in Senate",
-          "date": "2025-04-30",
-          "url": "https://www.congress.gov/119/bills/s1525/BILLS-119s1525is.htm"
+          "date": "2025-08-01",
+          "url": "https://www.congress.gov/119/bills/s2666/BILLS-119s2666is.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1525",
-      "updatedAt": "2026-08-12T08:12:03Z",
-      "introducedAt": "2025-04-30"
-    },
-    {
-      "id": "119-hr-2069",
-      "billType": "hr",
-      "billNumber": 2069,
-      "congress": 119,
-      "title": "Stop Secret Spending Act of 2025",
-      "status": "introduced",
-      "chamber": "House",
-      "policyArea": "Government Operations and Politics",
-      "sponsor": {
-        "memberId": "M001212",
-        "name": "Rep. Moore, Barry [R-AL-1]",
-        "party": "R",
-        "state": "AL",
-        "district": "1",
-        "chamber": "House"
-      },
-      "cosponsorCount": 3,
-      "latestAction": {
-        "date": "2026-08-10",
-        "text": "Message on Senate action sent to the House.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-08-10",
-          "text": "Message on Senate action sent to the House.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4547)",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
-          "chamber": "House",
-          "actionCode": "17000"
-        },
-        {
-          "date": "2026-07-21",
-          "text": "Received in the Senate, read twice.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-07-20",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "House",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-07-20",
-          "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4657-4658)",
-          "chamber": "House",
-          "actionCode": "H37300"
-        },
-        {
-          "date": "2026-07-20",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4657-4658)",
-          "chamber": "House",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-07-20",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2069.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-07-20",
-          "text": "Considered under suspension of the rules. (consideration: CR H4657-4659)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-07-20",
-          "text": "Mr. Burlison moved to suspend the rules and pass the bill.",
-          "chamber": "House",
-          "actionCode": "H30300"
-        },
-        {
-          "date": "2026-03-18",
-          "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 40 - 0.",
-          "chamber": "House",
-          "actionCode": "H19000"
-        },
-        {
-          "date": "2026-03-18",
-          "text": "Committee Consideration and Mark-up Session Held",
-          "chamber": "House",
-          "actionCode": "H15001"
-        },
-        {
-          "date": "2025-03-11",
-          "text": "Referred to the House Committee on Oversight and Government Reform.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2025-03-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2025-03-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Enrolled Bill",
-          "date": "1970-01-01",
-          "url": "https://www.congress.gov/119/bills/hr2069/BILLS-119hr2069enr.htm"
-        },
-        {
-          "type": "Received in Senate",
-          "date": "2026-07-21",
-          "url": "https://www.congress.gov/119/bills/hr2069/BILLS-119hr2069rds.htm"
-        },
-        {
-          "type": "Engrossed in House",
-          "date": "2026-07-20",
-          "url": "https://www.congress.gov/119/bills/hr2069/BILLS-119hr2069eh.htm"
-        },
-        {
-          "type": "Introduced in House",
-          "date": "2025-03-11",
-          "url": "https://www.congress.gov/119/bills/hr2069/BILLS-119hr2069ih.htm"
-        }
-      ],
-      "summaryHtml": "<p><strong>Stop Secret Spending Act of 2025</strong></p><p>This bill expands a requirement for federal agencies to report expenditures on the USAspending.gov website to include <em>other transaction agreement </em>expenditures. (Other transaction agreements, or OTAs, are contractual instruments other than standard procurement contracts, grants, or cooperative agreements; they are exempt from many federal procurement laws and regulations).</p><p>Under current law, federal agencies must report expenditures on federal awards to USAspending.gov with the term <em>federal award</em> defined as federal grants, loans, cooperative agreements, contracts, and certain other types of expenditures. This bill expands the definition of federal award to include expenditures under OTAs, and therefore such expenditures must be included on the USAspending.gov website.</p><p>The Department of the Treasury must ensure that data relating to OTAs are automatically transmitted to the website and a centralized view of this data is available on the website.&nbsp;Treasury must also annually post on the&nbsp;USAspending.gov website a report that includes (1) the total amount of federal spending on federal awards for which data has not been posted on the website, and (2) the reason why such spending data was not posted.</p><p>For 10 years after enactment, the Office of Inspector General of specified federal agencies must periodically submit to Congress and make publicly available a report assessing the agency's spending data and use of data standards.</p>",
+      "summaryHtml": "<p><strong>Foreign Robocall Elimination Act</strong></p><p>This bill establishes an interagency task force on unlawful&nbsp;robocalls to advise federal agencies and Congress on combating robocalls made from outside of the United States.</p><p>The bill also increases the term applicable to the Federal Communications Commission’s designation of an industry-led consortium to trace the origin of suspected unlawful&nbsp;robocalls. Under current law, the commission must annually seek applications from industry groups to serve as the designated consortium; under the bill, the commission must seek applications once every three years.</p>",
       "summaryFormat": "html",
-      "summary": "Stop Secret Spending Act of 2025 This bill expands a requirement for federal agencies to report expenditures on the USAspending.gov website to include other transaction agreement expenditures. (Other transaction agreements, or OTAs, are contractual instruments other than standard procurement contracts, grants, or cooperative agreements; they are exempt from many federal procurement laws and regulations). Under current law, federal agencies must report expenditures on federal awards to USAspending.gov with the term federal award defined as federal grants, loans, cooperative agreements, contracts, and certain other types of expenditures. This bill expands the definition of federal award to include expenditures under OTAs, and therefore such expenditures must be included on the USAspending.gov website. The Department of the Treasury must ensure that data relating to OTAs are automatically transmitted to the website and a centralized view of this data is available on the website. Treasury must also annually post on the USAspending.gov website a report that includes (1) the total amount of federal spending on federal awards for which data has not been posted on the website, and (2) the reason why such spending data was not posted. For 10 years after enactment, the Office of Inspector General of specified federal agencies must periodically submit to Congress and make publicly available a report assessing the agency's spending data and use of data standards.",
+      "summary": "Foreign Robocall Elimination Act This bill establishes an interagency task force on unlawful robocalls to advise federal agencies and Congress on combating robocalls made from outside of the United States. The bill also increases the term applicable to the Federal Communications Commission’s designation of an industry-led consortium to trace the origin of suspected unlawful robocalls. Under current law, the commission must annually seek applications from industry groups to serve as the designated consortium; under the bill, the commission must seek applications once every three years.",
       "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2069",
-      "updatedAt": "2026-08-12T06:03:36Z",
-      "introducedAt": "2025-03-11"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2666",
+      "updatedAt": "2026-08-12T18:52:47Z",
+      "introducedAt": "2025-08-01"
     },
     {
-      "id": "119-hr-10070",
-      "billType": "hr",
-      "billNumber": 10070,
-      "congress": 119,
-      "title": "Border Patrol Overtime Parity Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "B001282",
-        "name": "Rep. Barr, Andy [R-KY-6]",
-        "party": "R",
-        "state": "KY",
-        "district": "6",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-08-10",
-        "text": "Referred to the House Committee on Oversight and Government Reform.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-08-10",
-          "text": "Referred to the House Committee on Oversight and Government Reform.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-08-10",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-08-10",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-08-10",
-          "url": "https://www.congress.gov/119/bills/hr10070/BILLS-119hr10070ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10070",
-      "updatedAt": "2026-08-12T06:03:17Z",
-      "introducedAt": "2026-08-10"
-    },
-    {
-      "id": "119-s-289",
+      "id": "119-s-4850",
       "billType": "s",
-      "billNumber": 289,
+      "billNumber": 4850,
       "congress": 119,
-      "title": "Youth Poisoning Protection Act",
+      "title": "Diversity Jurisdiction Inflation Adjustment Act",
       "status": "introduced",
       "chamber": "Senate",
-      "policyArea": "Commerce",
+      "policyArea": "Law",
       "sponsor": {
-        "memberId": "D000622",
-        "name": "Sen. Duckworth, Tammy [D-IL]",
-        "party": "D",
-        "state": "IL",
+        "memberId": "K000393",
+        "name": "Sen. Kennedy, John [R-LA]",
+        "party": "R",
+        "state": "LA",
         "chamber": "Senate"
       },
-      "cosponsorCount": 3,
+      "cosponsorCount": 4,
       "latestAction": {
         "date": "2026-08-10",
-        "text": "Message on Senate action sent to the House.",
+        "text": "Held at the desk.",
         "chamber": "Senate"
       },
       "actions": [
-        {
-          "date": "2026-08-10",
-          "text": "Message on Senate action sent to the House.",
-          "chamber": "Senate"
-        },
         {
           "date": "2026-08-10",
           "text": "Held at the desk.",
@@ -334,44 +518,39 @@
           "actionCode": "H14000"
         },
         {
-          "date": "2026-08-03",
-          "text": "Passed Senate without amendment by Voice Vote. (consideration: CR S4411-4412; text: CR S4411-4412)",
+          "date": "2026-08-10",
+          "text": "Message on Senate action sent to the House.",
           "chamber": "Senate"
         },
         {
-          "date": "2026-08-03",
-          "text": "Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.",
+          "date": "2026-08-07",
+          "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4550-4551; text: CR S4551)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-08-07",
+          "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
           "chamber": "Senate",
           "actionCode": "17000"
         },
         {
-          "date": "2025-07-29",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 132.",
+          "date": "2026-08-07",
+          "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
           "chamber": "Senate"
         },
         {
-          "date": "2025-07-29",
-          "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-49.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-07-29",
-          "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-49.",
+          "date": "2026-08-07",
+          "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
           "chamber": "Senate",
-          "actionCode": "14000"
+          "actionCode": "14500"
         },
         {
-          "date": "2025-03-12",
-          "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.",
+          "date": "2026-06-22",
+          "text": "Read twice and referred to the Committee on the Judiciary.",
           "chamber": "Senate"
         },
         {
-          "date": "2025-01-29",
-          "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-01-29",
+          "date": "2026-06-22",
           "text": "Introduced in Senate",
           "chamber": "Senate",
           "actionCode": "10000"
@@ -380,364 +559,27 @@
       "textVersions": [
         {
           "type": "Engrossed in Senate",
-          "date": "2026-08-03",
-          "url": "https://www.congress.gov/119/bills/s289/BILLS-119s289es.htm"
-        },
-        {
-          "type": "Reported to Senate",
-          "date": "2025-07-29",
-          "url": "https://www.congress.gov/119/bills/s289/BILLS-119s289rs.htm"
+          "date": "2026-08-07",
+          "url": "https://www.congress.gov/119/bills/s4850/BILLS-119s4850es.htm"
         },
         {
           "type": "Introduced in Senate",
-          "date": "2025-01-29",
-          "url": "https://www.congress.gov/119/bills/s289/BILLS-119s289is.htm"
+          "date": "2026-06-22",
+          "url": "https://www.congress.gov/119/bills/s4850/BILLS-119s4850is.htm"
         }
       ],
-      "summaryHtml": "<p><strong>Youth Poisoning Protection Act</strong></p><p>This bill makes a consumer product with a concentration of sodium nitrite of 10% or greater a banned hazardous product.</p><p>The restriction does not apply to specified drugs, medical devices, cosmetics, or food products.</p>",
-      "summaryFormat": "html",
-      "summary": "Youth Poisoning Protection Act This bill makes a consumer product with a concentration of sodium nitrite of 10% or greater a banned hazardous product. The restriction does not apply to specified drugs, medical devices, cosmetics, or food products.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/289",
-      "updatedAt": "2026-08-11T20:26:08Z",
-      "introducedAt": "2025-01-29"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4850",
+      "updatedAt": "2026-08-12T17:32:22Z",
+      "introducedAt": "2026-06-22"
     },
     {
-      "id": "119-sres-848",
-      "billType": "sres",
-      "billNumber": 848,
-      "congress": 119,
-      "title": "A resolution celebrating the 80th anniversary of the Centers for Disease Control and Prevention, the premier public health institute of the United States.",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "W000790",
-        "name": "Sen. Warnock, Raphael G. [D-GA]",
-        "party": "D",
-        "state": "GA",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-08-08",
-        "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S4570-4571)",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-08",
-          "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S4570-4571)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-08",
-          "text": "Submitted in Senate",
-          "chamber": "Senate",
-          "actionCode": "10025"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-08-08",
-          "url": "https://www.congress.gov/119/bills/sres848/BILLS-119sres848is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/848",
-      "updatedAt": "2026-08-12T06:03:26Z",
-      "introducedAt": "2026-08-08"
-    },
-    {
-      "id": "119-sres-849",
-      "billType": "sres",
-      "billNumber": 849,
-      "congress": 119,
-      "title": "A resolution expressing support for the designation of the week of September 11 through September 17, 2026, as \"Patriot Week\".",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "P000595",
-        "name": "Sen. Peters, Gary C. [D-MI]",
-        "party": "D",
-        "state": "MI",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-08-08",
-        "text": "Referred to the Committee on the Judiciary. (text: CR S4571)",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-08",
-          "text": "Referred to the Committee on the Judiciary. (text: CR S4571)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-08",
-          "text": "Submitted in Senate",
-          "chamber": "Senate",
-          "actionCode": "10025"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-08-08",
-          "url": "https://www.congress.gov/119/bills/sres849/BILLS-119sres849is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/849",
-      "updatedAt": "2026-08-12T06:03:25Z",
-      "introducedAt": "2026-08-08"
-    },
-    {
-      "id": "119-sres-847",
-      "billType": "sres",
-      "billNumber": 847,
-      "congress": 119,
-      "title": "A resolution commending and congratulating the Pennsylvania State University Nittany Lions men's wrestling team for winning the 2026 National Collegiate Athletic Association Division I National Championship.",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "M001243",
-        "name": "Sen. McCormick, David [R-PA]",
-        "party": "R",
-        "state": "PA",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-08-08",
-        "text": "Referred to the Committee on Commerce, Science, and Transportation. (text: CR S4570)",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-08",
-          "text": "Referred to the Committee on Commerce, Science, and Transportation. (text: CR S4570)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-08",
-          "text": "Submitted in Senate",
-          "chamber": "Senate",
-          "actionCode": "10025"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-08-08",
-          "url": "https://www.congress.gov/119/bills/sres847/BILLS-119sres847is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/847",
-      "updatedAt": "2026-08-12T06:03:25Z",
-      "introducedAt": "2026-08-08"
-    },
-    {
-      "id": "119-s-5271",
+      "id": "119-s-5356",
       "billType": "s",
-      "billNumber": 5271,
+      "billNumber": 5356,
       "congress": 119,
-      "title": "A bill to amend the Help America Vote Act of 2002 to require voters to provide photo identification.",
-      "status": "introduced",
+      "title": "Lebanon Sanctions, Stabilization, and Support Act",
+      "status": "inCommittee",
       "chamber": "Senate",
-      "policyArea": "Government Operations and Politics",
-      "sponsor": {
-        "memberId": "H001104",
-        "name": "Sen. Husted, Jon [R-OH]",
-        "party": "R",
-        "state": "OH",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 2,
-      "latestAction": {
-        "date": "2026-08-08",
-        "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 231.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-08",
-          "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 231.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-08",
-          "text": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S4556)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-08",
-          "text": "Motion to proceed to consideration of measure made in Senate. (CR S4556)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-06",
-          "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 547.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-05",
-          "text": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-05",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Placed on Calendar Senate",
-          "date": "2026-08-06",
-          "url": "https://www.congress.gov/119/bills/s5271/BILLS-119s5271pcs.htm"
-        }
-      ],
-      "summaryHtml": "<p><strong></strong>This bill establishes certain photo identification requirements for voting in federal elections.</p><p>Specifically, the bill prohibits a state or local election official from providing a ballot for a federal election to an individual who does not present valid physical photo identification.</p><p>Next, the bill outlines the availability of provisional ballots and the requirements for counting those ballots. An individual who does not present a valid photo identification must be permitted to cast a provisional ballot. However, an election official may not determine that the individual is eligible under state law to vote in the election unless, not later than three days after casting the provisional ballot, the individual presents (1) the identification required, or (2) an affidavit attesting that the individual does not possess the identification because of a religious objection to being photographed.</p><p>An election official may not allow for voting methods other than in-person voting unless the individual submits with the ballot (1) a copy of their photo identification, or (2) the last four digits of their Social Security number with an affidavit attesting that the individual is unable to obtain a copy of a valid photo identification after making reasonable efforts to obtain a copy. This prohibition shall not apply to overseas military voters and certain disabled or elderly voters.</p><p>States must, to the extent practicable, ensure public access to digital imaging devices for individuals to make a free copy of their valid photo identification.</p><p>These requirements take effect one day after the bill's enactment.</p>",
-      "summaryFormat": "html",
-      "summary": "This bill establishes certain photo identification requirements for voting in federal elections. Specifically, the bill prohibits a state or local election official from providing a ballot for a federal election to an individual who does not present valid physical photo identification. Next, the bill outlines the availability of provisional ballots and the requirements for counting those ballots. An individual who does not present a valid photo identification must be permitted to cast a provisional ballot. However, an election official may not determine that the individual is eligible under state law to vote in the election unless, not later than three days after casting the provisional ballot, the individual presents (1) the identification required, or (2) an affidavit attesting that the individual does not possess the identification because of a religious objection to being photographed. An election official may not allow for voting methods other than in-person voting unless the individual submits with the ballot (1) a copy of their photo identification, or (2) the last four digits of their Social Security number with an affidavit attesting that the individual is unable to obtain a copy of a valid photo identification after making reasonable efforts to obtain a copy. This prohibition shall not apply to overseas military voters and certain disabled or elderly voters. States must, to the extent practicable, ensure public access to digital imaging devices for individuals to make a free copy of their valid photo identification. These requirements take effect one day after the bill's enactment.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5271",
-      "updatedAt": "2026-08-11T21:02:38Z",
-      "introducedAt": "2026-08-05"
-    },
-    {
-      "id": "119-sconres-39",
-      "billType": "sconres",
-      "billNumber": 39,
-      "congress": 119,
-      "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036.",
-      "status": "introduced",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "P000603",
-        "name": "Sen. Paul, Rand [R-KY]",
-        "party": "R",
-        "state": "KY",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-08-07",
-        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 551. (text: CR S4577-4583)",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-07",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 551. (text: CR S4577-4583)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.",
-          "chamber": "Senate",
-          "actionCode": "14500"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Referred to the Committee on the Budget.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Submitted in Senate",
-          "chamber": "Senate",
-          "actionCode": "10025"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Placed on Calendar Senate",
-          "date": "2026-08-07",
-          "url": "https://www.congress.gov/119/bills/sconres39/BILLS-119sconres39pcs.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/39",
-      "updatedAt": "2026-08-12T08:11:59Z",
-      "introducedAt": "2026-08-07"
-    },
-    {
-      "id": "119-sconres-38",
-      "billType": "sconres",
-      "billNumber": 38,
-      "congress": 119,
-      "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036.",
-      "status": "introduced",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "J000293",
-        "name": "Sen. Johnson, Ron [R-WI]",
-        "party": "R",
-        "state": "WI",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-08-07",
-        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 550. (text: CR S4571-4577)",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-07",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 550. (text: CR S4571-4577)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.",
-          "chamber": "Senate",
-          "actionCode": "14500"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Read twice and referred to the Committee on the Budget.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Submitted in Senate",
-          "chamber": "Senate",
-          "actionCode": "10025"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Placed on Calendar Senate",
-          "date": "2026-08-07",
-          "url": "https://www.congress.gov/119/bills/sconres38/BILLS-119sconres38pcs.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/38",
-      "updatedAt": "2026-08-12T08:11:59Z",
-      "introducedAt": "2026-08-07"
-    },
-    {
-      "id": "119-s-4189",
-      "billType": "s",
-      "billNumber": 4189,
-      "congress": 119,
-      "title": "INSULIN Act of 2026",
-      "status": "introduced",
-      "chamber": "Senate",
-      "policyArea": "Health",
       "sponsor": {
         "memberId": "S001181",
         "name": "Sen. Shaheen, Jeanne [D-NH]",
@@ -745,226 +587,20 @@
         "state": "NH",
         "chamber": "Senate"
       },
-      "cosponsorCount": 28,
-      "latestAction": {
-        "date": "2026-08-07",
-        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 552.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-07",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 552.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
-          "chamber": "Senate",
-          "actionCode": "14000"
-        },
-        {
-          "date": "2026-07-22",
-          "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-03-25",
-          "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-03-25",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Reported to Senate",
-          "date": "2026-08-07",
-          "url": "https://www.congress.gov/119/bills/s4189/BILLS-119s4189rs.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-03-25",
-          "url": "https://www.congress.gov/119/bills/s4189/BILLS-119s4189is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4189",
-      "updatedAt": "2026-08-12T06:03:35Z",
-      "introducedAt": "2026-03-25"
-    },
-    {
-      "id": "119-sres-844",
-      "billType": "sres",
-      "billNumber": 844,
-      "congress": 119,
-      "title": "A resolution honoring the lives and service of Emily Barker, Nicholas Hutcherson, Sydney Watson, Nathan Matthews, Nicholas Dale, and all those who serve on the front lines of wildland firefighting efforts in the United States.",
-      "status": "introduced",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "B001267",
-        "name": "Sen. Bennet, Michael F. [D-CO]",
-        "party": "D",
-        "state": "CO",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 3,
-      "latestAction": {
-        "date": "2026-08-07",
-        "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4553; text: CR S4569)",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-07",
-          "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4553; text: CR S4569)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
-          "chamber": "Senate",
-          "actionCode": "17000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Agreed to Senate",
-          "date": "2026-08-07",
-          "url": "https://www.congress.gov/119/bills/sres844/BILLS-119sres844ats.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/844",
-      "updatedAt": "2026-08-12T06:03:26Z",
-      "introducedAt": "2026-08-07"
-    },
-    {
-      "id": "119-sres-845",
-      "billType": "sres",
-      "billNumber": 845,
-      "congress": 119,
-      "title": "A resolution designating September 2026 as \"National Child Awareness Month\" to promote awareness of charities that benefit children as well as youth-serving organizations throughout the United States and recognizing the efforts made by those charities and organizations on behalf of children and youth as critical contributions to the future of the United States.",
-      "status": "introduced",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "L000575",
-        "name": "Sen. Lankford, James [R-OK]",
-        "party": "R",
-        "state": "OK",
-        "chamber": "Senate"
-      },
       "cosponsorCount": 1,
       "latestAction": {
-        "date": "2026-08-07",
-        "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4553; text: CR S4569)",
+        "date": "2026-08-06",
+        "text": "Read twice and referred to the Committee on Foreign Relations.",
         "chamber": "Senate"
       },
       "actions": [
         {
-          "date": "2026-08-07",
-          "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4553; text: CR S4569)",
+          "date": "2026-08-06",
+          "text": "Read twice and referred to the Committee on Foreign Relations.",
           "chamber": "Senate"
         },
         {
-          "date": "2026-08-07",
-          "text": "Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
-          "chamber": "Senate",
-          "actionCode": "17000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Agreed to Senate",
-          "date": "2026-08-07",
-          "url": "https://www.congress.gov/119/bills/sres845/BILLS-119sres845ats.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/845",
-      "updatedAt": "2026-08-12T06:03:25Z",
-      "introducedAt": "2026-08-07"
-    },
-    {
-      "id": "119-sres-842",
-      "billType": "sres",
-      "billNumber": 842,
-      "congress": 119,
-      "title": "A resolution expressing recognition and appreciation for the contributions of hotel employees and supporting the goals and ideals of National Hotel Employee Day.",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "M001244",
-        "name": "Sen. Moody, Ashley [R-FL]",
-        "party": "R",
-        "state": "FL",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-08-07",
-        "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S4568)",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-07",
-          "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S4568)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Submitted in Senate",
-          "chamber": "Senate",
-          "actionCode": "10025"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-08-07",
-          "url": "https://www.congress.gov/119/bills/sres842/BILLS-119sres842is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/842",
-      "updatedAt": "2026-08-12T06:03:24Z",
-      "introducedAt": "2026-08-07"
-    },
-    {
-      "id": "119-sjres-212",
-      "billType": "sjres",
-      "billNumber": 212,
-      "congress": 119,
-      "title": "A joint resolution proposing an amendment to the Constitution of the United States to ensure that only citizens are eligible to vote Federal in elections.",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "S001227",
-        "name": "Sen. Schmitt, Eric [R-MO]",
-        "party": "R",
-        "state": "MO",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-08-07",
-        "text": "Read twice and referred to the Committee on the Judiciary.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-07",
-          "text": "Read twice and referred to the Committee on the Judiciary.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
+          "date": "2026-08-06",
           "text": "Introduced in Senate",
           "chamber": "Senate",
           "actionCode": "10000"
@@ -973,172 +609,111 @@
       "textVersions": [
         {
           "type": "Introduced in Senate",
-          "date": "2026-08-07",
-          "url": "https://www.congress.gov/119/bills/sjres212/BILLS-119sjres212is.htm"
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/s5356/BILLS-119s5356is.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/212",
-      "updatedAt": "2026-08-12T06:03:24Z",
-      "introducedAt": "2026-08-07"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5356",
+      "updatedAt": "2026-08-13T02:53:44Z",
+      "introducedAt": "2026-08-06"
     },
     {
-      "id": "119-sres-820",
-      "billType": "sres",
-      "billNumber": 820,
+      "id": "119-s-5352",
+      "billType": "s",
+      "billNumber": 5352,
       "congress": 119,
-      "title": "A resolution designating August 7, 2026, as \"National Lighthouse Day\".",
-      "status": "introduced",
+      "title": "Desalination Reauthorization Act",
+      "status": "inCommittee",
       "chamber": "Senate",
-      "policyArea": "Transportation and Public Works",
       "sponsor": {
-        "memberId": "P000595",
-        "name": "Sen. Peters, Gary C. [D-MI]",
+        "memberId": "P000145",
+        "name": "Sen. Padilla, Alex [D-CA]",
         "party": "D",
-        "state": "MI",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 2,
-      "latestAction": {
-        "date": "2026-08-07",
-        "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4553)",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-07",
-          "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4553)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
-          "chamber": "Senate",
-          "actionCode": "17000"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
-          "chamber": "Senate",
-          "actionCode": "14500"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Referred to the Committee on the Judiciary. (text: CR S4390-4391)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Submitted in Senate",
-          "chamber": "Senate",
-          "actionCode": "10025"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Agreed to Senate",
-          "date": "2026-08-07",
-          "url": "https://www.congress.gov/119/bills/sres820/BILLS-119sres820ats.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/sres820/BILLS-119sres820is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/820",
-      "updatedAt": "2026-08-12T06:03:22Z",
-      "introducedAt": "2026-07-30"
-    },
-    {
-      "id": "119-sres-815",
-      "billType": "sres",
-      "billNumber": 815,
-      "congress": 119,
-      "title": "A resolution commending the Chicago Cubs baseball teams as it celebrates its 150th anniversary on August 29, 2026.",
-      "status": "introduced",
-      "chamber": "Senate",
-      "policyArea": "Sports and Recreation",
-      "sponsor": {
-        "memberId": "D000563",
-        "name": "Sen. Durbin, Richard J. [D-IL]",
-        "party": "D",
-        "state": "IL",
+        "state": "CA",
         "chamber": "Senate"
       },
       "cosponsorCount": 1,
       "latestAction": {
-        "date": "2026-08-07",
-        "text": "Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text of amendment in the nature of a substitute: CR S4552-4553)",
+        "date": "2026-08-06",
+        "text": "Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S4521)",
         "chamber": "Senate"
       },
       "actions": [
         {
-          "date": "2026-08-07",
-          "text": "Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text of amendment in the nature of a substitute: CR S4552-4553)",
+          "date": "2026-08-06",
+          "text": "Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S4521)",
           "chamber": "Senate"
         },
         {
-          "date": "2026-08-07",
-          "text": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.",
+          "date": "2026-08-06",
+          "text": "Introduced in Senate",
           "chamber": "Senate",
-          "actionCode": "17000"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Measure laid before Senate by unanimous consent. (consideration: CR S4552)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.",
-          "chamber": "Senate",
-          "actionCode": "14500"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Referred to the Committee on Commerce, Science, and Transportation. (text: CR S4271)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-23",
-          "text": "Submitted in Senate",
-          "chamber": "Senate",
-          "actionCode": "10025"
+          "actionCode": "10000"
         }
       ],
       "textVersions": [
         {
-          "type": "Agreed to Senate",
-          "date": "2026-08-07",
-          "url": "https://www.congress.gov/119/bills/sres815/BILLS-119sres815ats.htm"
-        },
-        {
           "type": "Introduced in Senate",
-          "date": "2026-07-23",
-          "url": "https://www.congress.gov/119/bills/sres815/BILLS-119sres815is.htm"
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/s5352/BILLS-119s5352is.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/815",
-      "updatedAt": "2026-08-12T06:03:22Z",
-      "introducedAt": "2026-07-23"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5352",
+      "updatedAt": "2026-08-13T02:53:44Z",
+      "introducedAt": "2026-08-06"
     },
     {
-      "id": "119-sres-843",
-      "billType": "sres",
-      "billNumber": 843,
+      "id": "119-s-5350",
+      "billType": "s",
+      "billNumber": 5350,
       "congress": 119,
-      "title": "A resolution expressing support for the designation of the first week of August 2026, as \"National Community Health Center Week\", encouraging all people of the United States to participate by visiting their local community health center, and celebrating the important partnership between community health centers and the communities they serve.",
-      "status": "introduced",
+      "title": "American Energy Independence and Tax Fairness Act",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "sponsor": {
+        "memberId": "H001046",
+        "name": "Sen. Heinrich, Martin [D-NM]",
+        "party": "D",
+        "state": "NM",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Read twice and referred to the Committee on Finance.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Read twice and referred to the Committee on Finance.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in Senate",
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/s5350/BILLS-119s5350is.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5350",
+      "updatedAt": "2026-08-13T02:53:44Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-s-5349",
+      "billType": "s",
+      "billNumber": 5349,
+      "congress": 119,
+      "title": "DEPOTS Act",
+      "status": "inCommittee",
       "chamber": "Senate",
       "sponsor": {
         "memberId": "C001056",
@@ -1147,51 +722,6 @@
         "state": "TX",
         "chamber": "Senate"
       },
-      "cosponsorCount": 16,
-      "latestAction": {
-        "date": "2026-08-07",
-        "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4553; text: CR S4568-4569)",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-07",
-          "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4553; text: CR S4568-4569)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-07",
-          "text": "Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
-          "chamber": "Senate",
-          "actionCode": "17000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Agreed to Senate",
-          "date": "2026-08-07",
-          "url": "https://www.congress.gov/119/bills/sres843/BILLS-119sres843ats.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/843",
-      "updatedAt": "2026-08-12T06:03:21Z",
-      "introducedAt": "2026-08-07"
-    },
-    {
-      "id": "119-s-5343",
-      "billType": "s",
-      "billNumber": 5343,
-      "congress": 119,
-      "title": "Military Leadership Removal Transparency Act of 2026",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "S001208",
-        "name": "Sen. Slotkin, Elissa [D-MI]",
-        "party": "D",
-        "state": "MI",
-        "chamber": "Senate"
-      },
       "cosponsorCount": 0,
       "latestAction": {
         "date": "2026-08-06",
@@ -1215,333 +745,551 @@
         {
           "type": "Introduced in Senate",
           "date": "2026-08-06",
-          "url": "https://www.congress.gov/119/bills/s5343/BILLS-119s5343is.htm"
+          "url": "https://www.congress.gov/119/bills/s5349/BILLS-119s5349is.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5343",
-      "updatedAt": "2026-08-12T06:03:38Z",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5349",
+      "updatedAt": "2026-08-13T02:53:44Z",
       "introducedAt": "2026-08-06"
     },
     {
-      "id": "119-s-5342",
+      "id": "119-s-5348",
       "billType": "s",
-      "billNumber": 5342,
+      "billNumber": 5348,
       "congress": 119,
-      "title": "A bill to require a report on the advisability and feasibility of establishing a Drone Center of Excellence within the Army National Guard.",
+      "title": "Depot Data Transparency Act",
       "status": "inCommittee",
       "chamber": "Senate",
       "sponsor": {
-        "memberId": "S001208",
-        "name": "Sen. Slotkin, Elissa [D-MI]",
-        "party": "D",
-        "state": "MI",
+        "memberId": "C001056",
+        "name": "Sen. Cornyn, John [R-TX]",
+        "party": "R",
+        "state": "TX",
         "chamber": "Senate"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-08-06",
-        "text": "Read twice and referred to the Committee on Armed Services.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-08-06",
-          "text": "Read twice and referred to the Committee on Armed Services.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-08-06",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-08-06",
-          "url": "https://www.congress.gov/119/bills/s5342/BILLS-119s5342is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5342",
-      "updatedAt": "2026-08-12T06:03:37Z",
-      "introducedAt": "2026-08-06"
-    },
-    {
-      "id": "119-hr-10045",
-      "billType": "hr",
-      "billNumber": 10045,
-      "congress": 119,
-      "title": "Protect American Values Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "C001080",
-        "name": "Rep. Chu, Judy [D-CA-28]",
-        "party": "D",
-        "state": "CA",
-        "district": "28",
-        "chamber": "House"
-      },
-      "cosponsorCount": 53,
-      "latestAction": {
-        "date": "2026-08-06",
-        "text": "Referred to the House Committee on the Judiciary.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-08-06",
-          "text": "Referred to the House Committee on the Judiciary.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-08-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-08-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-08-06",
-          "url": "https://www.congress.gov/119/bills/hr10045/BILLS-119hr10045ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10045",
-      "updatedAt": "2026-08-12T06:03:20Z",
-      "introducedAt": "2026-08-06"
-    },
-    {
-      "id": "119-hr-10068",
-      "billType": "hr",
-      "billNumber": 10068,
-      "congress": 119,
-      "title": "PROTECT Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "W000797",
-        "name": "Rep. Wasserman Schultz, Debbie [D-FL-25]",
-        "party": "D",
-        "state": "FL",
-        "district": "25",
-        "chamber": "House"
-      },
-      "cosponsorCount": 2,
-      "latestAction": {
-        "date": "2026-08-06",
-        "text": "Referred to the House Committee on Energy and Commerce.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-08-06",
-          "text": "Referred to the House Committee on Energy and Commerce.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-08-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-08-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-08-06",
-          "url": "https://www.congress.gov/119/bills/hr10068/BILLS-119hr10068ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10068",
-      "updatedAt": "2026-08-12T06:03:19Z",
-      "introducedAt": "2026-08-06"
-    },
-    {
-      "id": "119-hr-10055",
-      "billType": "hr",
-      "billNumber": 10055,
-      "congress": 119,
-      "title": "Congressional Authorization for Federal Building Names Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "L000582",
-        "name": "Rep. Lieu, Ted [D-CA-36]",
-        "party": "D",
-        "state": "CA",
-        "district": "36",
-        "chamber": "House"
       },
       "cosponsorCount": 1,
       "latestAction": {
         "date": "2026-08-06",
-        "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-        "chamber": "House"
+        "text": "Read twice and referred to the Committee on Armed Services.",
+        "chamber": "Senate"
       },
       "actions": [
         {
           "date": "2026-08-06",
-          "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
+          "text": "Read twice and referred to the Committee on Armed Services.",
+          "chamber": "Senate"
         },
         {
           "date": "2026-08-06",
-          "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-08-06",
-          "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-08-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-08-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
         }
       ],
       "textVersions": [
         {
-          "type": "Introduced in House",
+          "type": "Introduced in Senate",
           "date": "2026-08-06",
-          "url": "https://www.congress.gov/119/bills/hr10055/BILLS-119hr10055ih.htm"
+          "url": "https://www.congress.gov/119/bills/s5348/BILLS-119s5348is.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10055",
-      "updatedAt": "2026-08-12T06:03:19Z",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5348",
+      "updatedAt": "2026-08-13T02:53:44Z",
       "introducedAt": "2026-08-06"
     },
     {
-      "id": "119-hr-10052",
-      "billType": "hr",
-      "billNumber": 10052,
+      "id": "119-s-5347",
+      "billType": "s",
+      "billNumber": 5347,
       "congress": 119,
-      "title": "Right to Worship Act",
+      "title": "Circuit Court of Appeals Reorganization Act of 2026",
       "status": "inCommittee",
-      "chamber": "House",
+      "chamber": "Senate",
       "sponsor": {
-        "memberId": "K000405",
-        "name": "Rep. Knott, Brad [R-NC-13]",
+        "memberId": "L000577",
+        "name": "Sen. Lee, Mike [R-UT]",
         "party": "R",
-        "state": "NC",
-        "district": "13",
-        "chamber": "House"
+        "state": "UT",
+        "chamber": "Senate"
       },
-      "cosponsorCount": 3,
+      "cosponsorCount": 6,
       "latestAction": {
         "date": "2026-08-06",
-        "text": "Referred to the House Committee on the Judiciary.",
-        "chamber": "House"
+        "text": "Read twice and referred to the Committee on the Judiciary.",
+        "chamber": "Senate"
       },
       "actions": [
         {
           "date": "2026-08-06",
-          "text": "Referred to the House Committee on the Judiciary.",
-          "chamber": "House",
-          "actionCode": "H11100"
+          "text": "Read twice and referred to the Committee on the Judiciary.",
+          "chamber": "Senate"
         },
         {
           "date": "2026-08-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-08-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
         }
       ],
       "textVersions": [
         {
-          "type": "Introduced in House",
+          "type": "Introduced in Senate",
           "date": "2026-08-06",
-          "url": "https://www.congress.gov/119/bills/hr10052/BILLS-119hr10052ih.htm"
+          "url": "https://www.congress.gov/119/bills/s5347/BILLS-119s5347is.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10052",
-      "updatedAt": "2026-08-12T06:03:18Z",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5347",
+      "updatedAt": "2026-08-13T02:53:44Z",
       "introducedAt": "2026-08-06"
     },
     {
-      "id": "119-hr-10048",
-      "billType": "hr",
-      "billNumber": 10048,
+      "id": "119-s-5346",
+      "billType": "s",
+      "billNumber": 5346,
       "congress": 119,
-      "title": "Truth in Labeling Act of 2026",
+      "title": "EGG SAVE Act of 2026",
       "status": "inCommittee",
-      "chamber": "House",
+      "chamber": "Senate",
       "sponsor": {
-        "memberId": "C001110",
-        "name": "Rep. Correa, J. Luis [D-CA-46]",
+        "memberId": "Y000064",
+        "name": "Sen. Young, Todd [R-IN]",
+        "party": "R",
+        "state": "IN",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Read twice and referred to the Committee on Finance.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Read twice and referred to the Committee on Finance.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in Senate",
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/s5346/BILLS-119s5346is.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5346",
+      "updatedAt": "2026-08-13T02:53:44Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-s-5335",
+      "billType": "s",
+      "billNumber": 5335,
+      "congress": 119,
+      "title": "Fair Audits and Inspections for Regulators' Exams Act",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "sponsor": {
+        "memberId": "M000934",
+        "name": "Sen. Moran, Jerry [R-KS]",
+        "party": "R",
+        "state": "KS",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 2,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in Senate",
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/s5335/BILLS-119s5335is.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5335",
+      "updatedAt": "2026-08-13T02:53:44Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-s-5324",
+      "billType": "s",
+      "billNumber": 5324,
+      "congress": 119,
+      "title": "Fairness to Freedom Act of 2026",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "sponsor": {
+        "memberId": "S001150",
+        "name": "Sen. Schiff, Adam B. [D-CA]",
         "party": "D",
         "state": "CA",
-        "district": "46",
-        "chamber": "House"
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 8,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Read twice and referred to the Committee on the Judiciary.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Read twice and referred to the Committee on the Judiciary.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in Senate",
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/s5324/BILLS-119s5324is.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5324",
+      "updatedAt": "2026-08-13T02:53:44Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-s-5353",
+      "billType": "s",
+      "billNumber": 5353,
+      "congress": 119,
+      "title": "No Bonuses for Utility Executives Act",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "sponsor": {
+        "memberId": "B001277",
+        "name": "Sen. Blumenthal, Richard [D-CT]",
+        "party": "D",
+        "state": "CT",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in Senate",
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/s5353/BILLS-119s5353is.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5353",
+      "updatedAt": "2026-08-13T02:53:43Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-s-5336",
+      "billType": "s",
+      "billNumber": 5336,
+      "congress": 119,
+      "title": "Uniform Vehicle Safety Standards Act of 2026",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "sponsor": {
+        "memberId": "F000463",
+        "name": "Sen. Fischer, Deb [R-NE]",
+        "party": "R",
+        "state": "NE",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in Senate",
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/s5336/BILLS-119s5336is.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5336",
+      "updatedAt": "2026-08-13T02:53:43Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-s-5321",
+      "billType": "s",
+      "billNumber": 5321,
+      "congress": 119,
+      "title": "HCBS Access Act",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "sponsor": {
+        "memberId": "L000570",
+        "name": "Sen. Luján, Ben Ray [D-NM]",
+        "party": "D",
+        "state": "NM",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 16,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Read twice and referred to the Committee on Finance.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Read twice and referred to the Committee on Finance.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in Senate",
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/s5321/BILLS-119s5321is.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5321",
+      "updatedAt": "2026-08-13T02:53:43Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-s-5317",
+      "billType": "s",
+      "billNumber": 5317,
+      "congress": 119,
+      "title": "INSPIRES Act",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "sponsor": {
+        "memberId": "S001194",
+        "name": "Sen. Schatz, Brian [D-HI]",
+        "party": "D",
+        "state": "HI",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in Senate",
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/s5317/BILLS-119s5317is.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5317",
+      "updatedAt": "2026-08-13T02:53:43Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-s-5309",
+      "billType": "s",
+      "billNumber": 5309,
+      "congress": 119,
+      "title": "COWS Act of 2026",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "sponsor": {
+        "memberId": "P000145",
+        "name": "Sen. Padilla, Alex [D-CA]",
+        "party": "D",
+        "state": "CA",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 2,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (Sponsor introductory remarks on measure: CR S4520)",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (Sponsor introductory remarks on measure: CR S4520)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in Senate",
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/s5309/BILLS-119s5309is.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5309",
+      "updatedAt": "2026-08-13T02:53:43Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-s-5345",
+      "billType": "s",
+      "billNumber": 5345,
+      "congress": 119,
+      "title": "A bill to provide for the delivery of artificial intelligence functional bills of materials, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "sponsor": {
+        "memberId": "S001208",
+        "name": "Sen. Slotkin, Elissa [D-MI]",
+        "party": "D",
+        "state": "MI",
+        "chamber": "Senate"
       },
       "cosponsorCount": 0,
       "latestAction": {
         "date": "2026-08-06",
-        "text": "Referred to the House Committee on Energy and Commerce.",
-        "chamber": "House"
+        "text": "Read twice and referred to the Committee on Armed Services.",
+        "chamber": "Senate"
       },
       "actions": [
         {
           "date": "2026-08-06",
-          "text": "Referred to the House Committee on Energy and Commerce.",
-          "chamber": "House",
-          "actionCode": "H11100"
+          "text": "Read twice and referred to the Committee on Armed Services.",
+          "chamber": "Senate"
         },
         {
           "date": "2026-08-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-08-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
         }
       ],
       "textVersions": [
         {
-          "type": "Introduced in House",
+          "type": "Introduced in Senate",
           "date": "2026-08-06",
-          "url": "https://www.congress.gov/119/bills/hr10048/BILLS-119hr10048ih.htm"
+          "url": "https://www.congress.gov/119/bills/s5345/BILLS-119s5345is.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10048",
-      "updatedAt": "2026-08-12T06:03:18Z",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5345",
+      "updatedAt": "2026-08-13T02:48:57Z",
+      "introducedAt": "2026-08-06"
+    },
+    {
+      "id": "119-s-5344",
+      "billType": "s",
+      "billNumber": 5344,
+      "congress": 119,
+      "title": "A bill to require the Secretary of the Army to submit a report on efforts to support the production, testing, and sustainment of autonomous maneuver systems, components for such systems, and low-cost interceptors.",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "sponsor": {
+        "memberId": "S001208",
+        "name": "Sen. Slotkin, Elissa [D-MI]",
+        "party": "D",
+        "state": "MI",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-08-06",
+        "text": "Read twice and referred to the Committee on Armed Services.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-08-06",
+          "text": "Read twice and referred to the Committee on Armed Services.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-08-06",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in Senate",
+          "date": "2026-08-06",
+          "url": "https://www.congress.gov/119/bills/s5344/BILLS-119s5344is.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5344",
+      "updatedAt": "2026-08-13T02:48:46Z",
       "introducedAt": "2026-08-06"
     }
   ]

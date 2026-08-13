@@ -4,7 +4,7 @@
   "billNumber": 4850,
   "congress": 119,
   "title": "Diversity Jurisdiction Inflation Adjustment Act",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "Senate",
   "policyArea": "Law",
   "sponsor": {
@@ -16,8 +16,8 @@
   },
   "cosponsorCount": 4,
   "latestAction": {
-    "date": "2026-08-07",
-    "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4550-4551; text: CR S4551)",
+    "date": "2026-08-10",
+    "text": "Held at the desk.",
     "chamber": "Senate"
   },
   "actions": [
@@ -32,6 +32,11 @@
       "text": "Received in the House.",
       "chamber": "Senate",
       "actionCode": "H14000"
+    },
+    {
+      "date": "2026-08-10",
+      "text": "Message on Senate action sent to the House.",
+      "chamber": "Senate"
     },
     {
       "date": "2026-08-07",
@@ -80,6 +85,6 @@
     }
   ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4850",
-  "updatedAt": "2026-08-10T17:59:42Z",
+  "updatedAt": "2026-08-12T17:32:22Z",
   "introducedAt": "2026-06-22"
 }
