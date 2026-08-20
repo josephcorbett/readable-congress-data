@@ -1,8 +1,186 @@
 {
-  "generatedAt": "2026-08-19T08:36:00.568Z",
+  "generatedAt": "2026-08-20T08:37:03.845Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-08-20T083703845Z_119-hr-10061_bill.title_changed",
+      "observedAt": "2026-08-20T08:37:03.845Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10061",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To address wildfire readiness and recovery, safe communities, and wildland firefighter safety."
+      },
+      "after": {
+        "title": "Wildfire Response and Readiness Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10061",
+      "syncId": "2026-08-20T08:37:03.845Z"
+    },
+    {
+      "id": "evt_2026-08-20T083703845Z_119-hr-10067_bill.title_changed",
+      "observedAt": "2026-08-20T08:37:03.845Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10067",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To prohibit the District of Columbia from requiring a person to wear a protective helmet to operate, or ride on, a motorcycle or motor-driven cycle."
+      },
+      "after": {
+        "title": "Ride in Freedom Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10067",
+      "syncId": "2026-08-20T08:37:03.845Z"
+    },
+    {
+      "id": "evt_2026-08-20T083703845Z_119-hr-10078_bill.added",
+      "observedAt": "2026-08-20T08:37:03.845Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10078",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10078: Dollar-for-Dollar Deficit Reduction Act",
+      "after": {
+        "title": "Dollar-for-Dollar Deficit Reduction Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10078",
+      "syncId": "2026-08-20T08:37:03.845Z"
+    },
+    {
+      "id": "evt_2026-08-20T083703845Z_119-hr-10115_bill.title_changed",
+      "observedAt": "2026-08-20T08:37:03.845Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10115",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To amend the Radiation Exposure Compensation Act to provide for certain claims related to atmospheric testing, and for other purposes."
+      },
+      "after": {
+        "title": "Radiation Exposure Compensation Reauthorization Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10115",
+      "syncId": "2026-08-20T08:37:03.845Z"
+    },
+    {
+      "id": "evt_2026-08-20T083703845Z_119-s-5354_bill.added",
+      "observedAt": "2026-08-20T08:37:03.845Z",
+      "entityType": "bill",
+      "entityId": "119-s-5354",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5354: Native American Housing Assistance and Self-Determination Modernization Act of 2026",
+      "after": {
+        "title": "Native American Housing Assistance and Self-Determination Modernization Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5354",
+      "syncId": "2026-08-20T08:37:03.845Z"
+    },
+    {
+      "id": "evt_2026-08-20T083703845Z_119-s-5360_bill.added",
+      "observedAt": "2026-08-20T08:37:03.845Z",
+      "entityType": "bill",
+      "entityId": "119-s-5360",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5360: Rural and Municipal Utility Cybersecurity Act",
+      "after": {
+        "title": "Rural and Municipal Utility Cybersecurity Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5360",
+      "syncId": "2026-08-20T08:37:03.845Z"
+    },
+    {
+      "id": "evt_2026-08-20T083703845Z_119-s-5362_bill.added",
+      "observedAt": "2026-08-20T08:37:03.845Z",
+      "entityType": "bill",
+      "entityId": "119-s-5362",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5362: Assuring the Future of Tibet Act of 2026",
+      "after": {
+        "title": "Assuring the Future of Tibet Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5362",
+      "syncId": "2026-08-20T08:37:03.845Z"
+    },
+    {
+      "id": "evt_2026-08-20T083703845Z_119-s-5363_bill.added",
+      "observedAt": "2026-08-20T08:37:03.845Z",
+      "entityType": "bill",
+      "entityId": "119-s-5363",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5363: New Source Review Permitting Improvement Act",
+      "after": {
+        "title": "New Source Review Permitting Improvement Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5363",
+      "syncId": "2026-08-20T08:37:03.845Z"
+    },
+    {
+      "id": "evt_2026-08-20T083703845Z_119-s-5364_bill.title_changed",
+      "observedAt": "2026-08-20T08:37:03.845Z",
+      "entityType": "bill",
+      "entityId": "119-s-5364",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "A bill to support rural families."
+      },
+      "after": {
+        "title": "Rural Mothers and Fathers Choice Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5364",
+      "syncId": "2026-08-20T08:37:03.845Z"
+    },
+    {
+      "id": "evt_2026-08-20T083703845Z_119-s-5365_bill.title_changed",
+      "observedAt": "2026-08-20T08:37:03.845Z",
+      "entityType": "bill",
+      "entityId": "119-s-5365",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "A bill to authorize the Secretary of Health and Human Services, acting through the Assistant Secretary for Mental Health and Substance Use, to award grants to train community mental wellness workers, and for other purposes."
+      },
+      "after": {
+        "title": "Community Mental Wellness Worker Training Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5365",
+      "syncId": "2026-08-20T08:37:03.845Z"
+    },
+    {
+      "id": "evt_2026-08-20T083703845Z_119-s-5372_bill.added",
+      "observedAt": "2026-08-20T08:37:03.845Z",
+      "entityType": "bill",
+      "entityId": "119-s-5372",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5372: Kayleigh’s Law Act of 2026",
+      "after": {
+        "title": "Kayleigh’s Law Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5372",
+      "syncId": "2026-08-20T08:37:03.845Z"
+    },
+    {
+      "id": "evt_2026-08-20T083703845Z_119-sres-846_bill.added",
+      "observedAt": "2026-08-20T08:37:03.845Z",
+      "entityType": "bill",
+      "entityId": "119-sres-846",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-846: A resolution designating August 21, 2026, as \"Fentanyl Prevention and Awareness Day\".",
+      "after": {
+        "title": "A resolution designating August 21, 2026, as \"Fentanyl Prevention and Awareness Day\".",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/846",
+      "syncId": "2026-08-20T08:37:03.845Z"
+    },
     {
       "id": "evt_2026-08-19T083600568Z_119-hr-10058_bill.summary_changed",
       "observedAt": "2026-08-19T08:36:00.568Z",
@@ -1325,174 +1503,6 @@
         "status": "inCommittee"
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10093",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10094_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10094",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10094: To require persons who undertake federally funded research and development of a biomedical product or service to enter into reasonable pricing agreements with the Secretary of Health and Human Services, and for other purposes.",
-      "after": {
-        "title": "To require persons who undertake federally funded research and development of a biomedical product or service to enter into reasonable pricing agreements with the Secretary of Health and Human Services, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10094",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10095_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10095",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10095: To amend the Foreign Service Act of 1980 to provide per diem eligibility for required leave of members of the Foreign Service.",
-      "after": {
-        "title": "To amend the Foreign Service Act of 1980 to provide per diem eligibility for required leave of members of the Foreign Service.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10095",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10096_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10096",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10096: To establish the Task Force on the Impact of the Affordable Housing Crisis, and for other purposes.",
-      "after": {
-        "title": "To establish the Task Force on the Impact of the Affordable Housing Crisis, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10096",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10097_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10097",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10097: To establish a matched savings program for low-income students.",
-      "after": {
-        "title": "To establish a matched savings program for low-income students.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10097",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10098_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10098",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10098: To provide for the imposition of the death penalty for certain crimes committed in the District of Columbia, and for other purposes.",
-      "after": {
-        "title": "To provide for the imposition of the death penalty for certain crimes committed in the District of Columbia, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10098",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10099_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10099",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10099: To direct the Administrator of the Federal Motor Carrier Safety Administration to issue certain regulations to extend the time period for the waiver of the commercial driver's license skills test for certain members of the military, and for other purposes.",
-      "after": {
-        "title": "To direct the Administrator of the Federal Motor Carrier Safety Administration to issue certain regulations to extend the time period for the waiver of the commercial driver's license skills test for certain members of the military, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10099",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10101_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10101",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10101: To amend the Foreign Service Act of 1980 to ensure that the Secretary of State improves outreach and recruitment efforts at nontraditional institutions of higher education, and for other purposes.",
-      "after": {
-        "title": "To amend the Foreign Service Act of 1980 to ensure that the Secretary of State improves outreach and recruitment efforts at nontraditional institutions of higher education, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10101",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10102_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10102",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10102: To amend the Internal Revenue Code of 1986 to establish the data center electricity excise tax.",
-      "after": {
-        "title": "To amend the Internal Revenue Code of 1986 to establish the data center electricity excise tax.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10102",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10105_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10105",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10105: To impose a cap on the price of items sold at the immigration detention facility commissary, and for other purposes.",
-      "after": {
-        "title": "To impose a cap on the price of items sold at the immigration detention facility commissary, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10105",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10106_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10106",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10106: To authorize amounts collected in certain visa fees to be made available to reduce visa wait times, and for other purposes.",
-      "after": {
-        "title": "To authorize amounts collected in certain visa fees to be made available to reduce visa wait times, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10106",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10107_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10107",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10107: To establish Federal policies and procedures to notify the next-of-kin or other emergency contact upon the death, serious illness, serious injury, or hospitalization of an individual in the custody of U.S. Immigration and Customs Enforcement, and for other purposes.",
-      "after": {
-        "title": "To establish Federal policies and procedures to notify the next-of-kin or other emergency contact upon the death, serious illness, serious injury, or hospitalization of an individual in the custody of U.S. Immigration and Customs Enforcement, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10107",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10108_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10108",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10108: To direct the Secretary of Defense to establish guidance governing community engagement and emergency preparedness for defense industrial facilities, and for other purposes.",
-      "after": {
-        "title": "To direct the Secretary of Defense to establish guidance governing community engagement and emergency preparedness for defense industrial facilities, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10108",
       "syncId": "2026-08-14T09:06:46.508Z"
     }
   ]
