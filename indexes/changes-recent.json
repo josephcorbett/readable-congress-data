@@ -1,8 +1,464 @@
 {
-  "generatedAt": "2026-08-20T08:37:03.845Z",
+  "generatedAt": "2026-08-21T08:39:37.117Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-10044_bill.title_changed",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10044",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To impose a tax on artificial intelligence token usage and establish a Work Protection Administration within the Department of Labor, and for other purposes."
+      },
+      "after": {
+        "title": "AI Tax and Work Protection Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10044",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-10124_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10124",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10124: To improve coordination and prosecution of organized mail theft and related fraud offenses, to direct the United States Sentencing Commission to review and amend sentencing guidelines applicable to such offenses, and for other purposes.",
+      "after": {
+        "title": "To improve coordination and prosecution of organized mail theft and related fraud offenses, to direct the United States Sentencing Commission to review and amend sentencing guidelines applicable to such offenses, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10124",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-10125_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10125",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10125: To prohibit the purchase or sale of securities while aware of nonpublic information contained in certain social media accounts controlled by Government officials, and for other purposes.",
+      "after": {
+        "title": "To prohibit the purchase or sale of securities while aware of nonpublic information contained in certain social media accounts controlled by Government officials, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10125",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-10127_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10127",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10127: To prohibit the use of Federal funds to conduct, support, or fund research that studies the effects of gender-related medical treatment, and for other purposes.",
+      "after": {
+        "title": "To prohibit the use of Federal funds to conduct, support, or fund research that studies the effects of gender-related medical treatment, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10127",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-10128_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10128",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10128: To codify Secretary's Order 3434 of the Department of the Interior.",
+      "after": {
+        "title": "To codify Secretary's Order 3434 of the Department of the Interior.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10128",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-10129_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10129",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10129: To authorize the Director of the Bureau of Prisons to provide postage stamps to indigent inmates.",
+      "after": {
+        "title": "To authorize the Director of the Bureau of Prisons to provide postage stamps to indigent inmates.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10129",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-10132_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10132",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10132: To provide for congressional approval of national emergency declarations.",
+      "after": {
+        "title": "To provide for congressional approval of national emergency declarations.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10132",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-10133_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10133",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10133: To amend title XXVII of the Public Health Service Act, the Employee Retirement Income Security Act of 1974, and the Internal Revenue Code of 1986 to ensure cost sharing for a drug does not exceed the nationwide average of consumer purchase prices for such drug.",
+      "after": {
+        "title": "To amend title XXVII of the Public Health Service Act, the Employee Retirement Income Security Act of 1974, and the Internal Revenue Code of 1986 to ensure cost sharing for a drug does not exceed the nationwide average of consumer purchase prices for such drug.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10133",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-10134_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10134",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10134: To establish an eligibility exception for the drug discount program due to cuts to the Medicaid program.",
+      "after": {
+        "title": "To establish an eligibility exception for the drug discount program due to cuts to the Medicaid program.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10134",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-10135_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10135",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10135: To prohibit the exercise of eminent domain over agricultural land, and for other purposes.",
+      "after": {
+        "title": "To prohibit the exercise of eminent domain over agricultural land, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10135",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-10136_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10136",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10136: To require the Secretary of Agriculture to convey the Crossett Experimental Forest to the State of Arkansas, and for other purposes.",
+      "after": {
+        "title": "To require the Secretary of Agriculture to convey the Crossett Experimental Forest to the State of Arkansas, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10136",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-10137_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10137",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10137: To direct the Inspector General of the Department of Defense to report to Congress regarding complaints of insider trading on prediction and energy markets during Operation Epic Fury, and for other purposes.",
+      "after": {
+        "title": "To direct the Inspector General of the Department of Defense to report to Congress regarding complaints of insider trading on prediction and energy markets during Operation Epic Fury, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10137",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-2406_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2406",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-2406: National Oceanic and Atmospheric Administration Sexual Harassment and Assault Prevention Improvements Act of 2025",
+      "after": {
+        "title": "National Oceanic and Atmospheric Administration Sexual Harassment and Assault Prevention Improvements Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2406",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-309_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-309",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-309: National Law Enforcement Officers Remembrance, Support, and Community Outreach Act",
+      "after": {
+        "title": "National Law Enforcement Officers Remembrance, Support, and Community Outreach Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/309",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-6893_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-6893",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-6893: Chesapeake Bay Watershed Advancement for Training, Education, Restoration, and Science (WATERS) Act",
+      "after": {
+        "title": "Chesapeake Bay Watershed Advancement for Training, Education, Restoration, and Science (WATERS) Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6893",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-8476_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8476",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-8476: No Antisemitism in Education Act of 2026",
+      "after": {
+        "title": "No Antisemitism in Education Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8476",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-9471_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9471",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9471: SAFE Banking Act of 2026",
+      "after": {
+        "title": "SAFE Banking Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9471",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-9605_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9605",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9605: Less Bureaucracy, Better Foreign Medical Accreditation Act",
+      "after": {
+        "title": "Less Bureaucracy, Better Foreign Medical Accreditation Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9605",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-9641_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9641",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9641: Essential Caregivers Act of 2026",
+      "after": {
+        "title": "Essential Caregivers Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9641",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-9830_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9830",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9830: Lawful Hemp Protection Act",
+      "after": {
+        "title": "Lawful Hemp Protection Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9830",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hr-9965_bill.title_changed",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9965",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To direct the National Nuclear Security Administration through the Secretary of Energy to establish the Advanced Artificial Intelligence Nuclear Evaluation Program, and for other purposes."
+      },
+      "after": {
+        "title": "AI Threat Output and Monitoring Incident Containment Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9965",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_119-hres-1485_bill.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1485",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1485: Untitled Bill",
+      "after": {
+        "title": "Untitled Bill",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1485",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_F000484_member.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "member",
+      "entityId": "F000484",
+      "changeType": "member.added",
+      "summary": "Started tracking Randy Fine",
+      "after": {
+        "name": "Randy Fine",
+        "party": "R",
+        "chamber": "House",
+        "state": "FL"
+      },
+      "officialUrl": "https://fine.house.gov/",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_H001047_member.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "member",
+      "entityId": "H001047",
+      "changeType": "member.added",
+      "summary": "Started tracking James A. Himes",
+      "after": {
+        "name": "James A. Himes",
+        "party": "D",
+        "chamber": "House",
+        "state": "CT"
+      },
+      "officialUrl": "https://himes.house.gov/",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_H001090_member.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "member",
+      "entityId": "H001090",
+      "changeType": "member.added",
+      "summary": "Started tracking Josh Harder",
+      "after": {
+        "name": "Josh Harder",
+        "party": "D",
+        "chamber": "House",
+        "state": "CA"
+      },
+      "officialUrl": "https://harder.house.gov/",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_J000295_member.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "member",
+      "entityId": "J000295",
+      "changeType": "member.added",
+      "summary": "Started tracking David P. Joyce",
+      "after": {
+        "name": "David P. Joyce",
+        "party": "R",
+        "chamber": "House",
+        "state": "OH"
+      },
+      "officialUrl": "https://joyce.house.gov",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_M001177_member.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "member",
+      "entityId": "M001177",
+      "changeType": "member.added",
+      "summary": "Started tracking Tom McClintock",
+      "after": {
+        "name": "Tom McClintock",
+        "party": "R",
+        "chamber": "House",
+        "state": "CA"
+      },
+      "officialUrl": "https://mcclintock.house.gov/",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_N000026_member.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "member",
+      "entityId": "N000026",
+      "changeType": "member.added",
+      "summary": "Started tracking Troy E. Nehls",
+      "after": {
+        "name": "Troy E. Nehls",
+        "party": "R",
+        "chamber": "House",
+        "state": "TX"
+      },
+      "officialUrl": "https://nehls.house.gov",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_R000614_member.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "member",
+      "entityId": "R000614",
+      "changeType": "member.added",
+      "summary": "Started tracking Chip Roy",
+      "after": {
+        "name": "Chip Roy",
+        "party": "R",
+        "chamber": "House",
+        "state": "TX"
+      },
+      "officialUrl": "https://roy.house.gov",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_S000185_member.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "member",
+      "entityId": "S000185",
+      "changeType": "member.added",
+      "summary": "Started tracking Robert C. \"Bobby\" Scott",
+      "after": {
+        "name": "Robert C. \"Bobby\" Scott",
+        "party": "D",
+        "chamber": "House",
+        "state": "VA"
+      },
+      "officialUrl": "https://bobbyscott.house.gov",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
+    {
+      "id": "evt_2026-08-21T083937117Z_W000821_member.added",
+      "observedAt": "2026-08-21T08:39:37.117Z",
+      "entityType": "member",
+      "entityId": "W000821",
+      "changeType": "member.added",
+      "summary": "Started tracking Bruce Westerman",
+      "after": {
+        "name": "Bruce Westerman",
+        "party": "R",
+        "chamber": "House",
+        "state": "AR"
+      },
+      "officialUrl": "https://westerman.house.gov/",
+      "syncId": "2026-08-21T08:39:37.117Z"
+    },
     {
       "id": "evt_2026-08-20T083703845Z_119-hr-10061_bill.title_changed",
       "observedAt": "2026-08-20T08:37:03.845Z",
@@ -1038,472 +1494,6 @@
       },
       "officialUrl": "https://norcross.house.gov",
       "syncId": "2026-08-18T08:35:33.855Z"
-    },
-    {
-      "id": "evt_2026-08-18T083533855Z_R000606_member.added",
-      "observedAt": "2026-08-18T08:35:33.855Z",
-      "entityType": "member",
-      "entityId": "R000606",
-      "changeType": "member.added",
-      "summary": "Started tracking Jamie Raskin",
-      "after": {
-        "name": "Jamie Raskin",
-        "party": "D",
-        "chamber": "House",
-        "state": "MD"
-      },
-      "officialUrl": "https://raskin.house.gov",
-      "syncId": "2026-08-18T08:35:33.855Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10084_bill.title_changed",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10084",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To require that certain payments to Federal student loans to the buyer of a home be classified as a financial concession by the Federal National Mortgage Association and the Federal Home Loan Mortgage Association."
-      },
-      "after": {
-        "title": "First Time Homebuyer Debt Reduction Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10084",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10085_bill.title_changed",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10085",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To amend the Workforce Innovation and Opportunity Act to permit greater flexibility in carrying out incumbent worker training programs, and for other purposes."
-      },
-      "after": {
-        "title": "Lifelong Learning Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10085",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10086_bill.title_changed",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10086",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To reauthorize the National Diabetes Prevention Program."
-      },
-      "after": {
-        "title": "Diabetes Prevention Program Reauthorization Act of 2026"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10086",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10087_bill.title_changed",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10087",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To amend title XVIII of the Social Security Act to provide for coverage of cancer care planning and coordination under the Medicare program."
-      },
-      "after": {
-        "title": "Cancer Care Planning and Communications Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10087",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10089_bill.title_changed",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10089",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To prohibit States from dividing documented communities of interest into multiple congressional districts, and for other purposes."
-      },
-      "after": {
-        "title": "Representation Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10089",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10091_bill.title_changed",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10091",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To designate the 26-mile portion of Interstate 17 in the State of Arizona between milepost 237 near New River and milepost 263 at the junction with State Route 69 near Cordes Junction as the \"Kayla Jean Mueller and Charles H. Keating IV Memorial Highway\", and for other purposes."
-      },
-      "after": {
-        "title": "Mueller-Keating Memorial Highway Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10091",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10092_bill.added",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10092",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10092: To prohibit National Laboratories from admitting certain foreign nationals, and for other purposes.",
-      "after": {
-        "title": "To prohibit National Laboratories from admitting certain foreign nationals, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10092",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10093_bill.title_changed",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10093",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To establish a cancer research trust fund, and for other purposes."
-      },
-      "after": {
-        "title": "Cancer Research Trust Fund Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10093",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10094_bill.title_changed",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10094",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To require persons who undertake federally funded research and development of a biomedical product or service to enter into reasonable pricing agreements with the Secretary of Health and Human Services, and for other purposes."
-      },
-      "after": {
-        "title": "Affordable Pricing for Taxpayer-Funded Prescription Drugs Act of 2026"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10094",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10100_bill.added",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10100",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10100: To amend titles XVIII and XIX of the Social Security Act and title XXVII of the Public Health Service Act to provide for no-cost coverage for annual screening mammography beginning at 30 years of age.",
-      "after": {
-        "title": "To amend titles XVIII and XIX of the Social Security Act and title XXVII of the Public Health Service Act to provide for no-cost coverage for annual screening mammography beginning at 30 years of age.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10100",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10101_bill.title_changed",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10101",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To amend the Foreign Service Act of 1980 to ensure that the Secretary of State improves outreach and recruitment efforts at nontraditional institutions of higher education, and for other purposes."
-      },
-      "after": {
-        "title": "Open Doors to Diplomacy Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10101",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10102_bill.title_changed",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10102",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To amend the Internal Revenue Code of 1986 to establish the data center electricity excise tax."
-      },
-      "after": {
-        "title": "Data Center Community Reinvestment Act of 2026"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10102",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10103_bill.added",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10103",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10103: To direct the Secretary of Housing and Urban Development to establish a grant program to award grants to units of general local government to establish or expand eviction diversion programs, and for other purposes.",
-      "after": {
-        "title": "To direct the Secretary of Housing and Urban Development to establish a grant program to award grants to units of general local government to establish or expand eviction diversion programs, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10103",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10104_bill.added",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10104",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10104: To amend the Internal Revenue Code of 1986 to eliminate the penalties for sale for use and use of dyed fuel in taxable use.",
-      "after": {
-        "title": "To amend the Internal Revenue Code of 1986 to eliminate the penalties for sale for use and use of dyed fuel in taxable use.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10104",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10106_bill.title_changed",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10106",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To authorize amounts collected in certain visa fees to be made available to reduce visa wait times, and for other purposes."
-      },
-      "after": {
-        "title": "VISITOR Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10106",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10107_bill.title_changed",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10107",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To establish Federal policies and procedures to notify the next-of-kin or other emergency contact upon the death, serious illness, serious injury, or hospitalization of an individual in the custody of U.S. Immigration and Customs Enforcement, and for other purposes."
-      },
-      "after": {
-        "title": "Families Deserve to Know Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10107",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_119-hr-10108_bill.title_changed",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10108",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To direct the Secretary of Defense to establish guidance governing community engagement and emergency preparedness for defense industrial facilities, and for other purposes."
-      },
-      "after": {
-        "title": "Hazardous Materials Transparency Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10108",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_H001101_member.added",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "member",
-      "entityId": "H001101",
-      "changeType": "member.added",
-      "summary": "Started tracking Pat Harrigan",
-      "after": {
-        "name": "Pat Harrigan",
-        "party": "R",
-        "chamber": "House",
-        "state": "NC"
-      },
-      "officialUrl": "https://harrigan.house.gov/",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-15T082658107Z_S001205_member.added",
-      "observedAt": "2026-08-15T08:26:58.107Z",
-      "entityType": "member",
-      "entityId": "S001205",
-      "changeType": "member.added",
-      "summary": "Started tracking Mary Gay Scanlon",
-      "after": {
-        "name": "Mary Gay Scanlon",
-        "party": "D",
-        "chamber": "House",
-        "state": "PA"
-      },
-      "officialUrl": "https://scanlon.house.gov/",
-      "syncId": "2026-08-15T08:26:58.107Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10082_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10082",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10082: To amend the Federal Credit Union Act to expand the investment authority of Federal credit unions.",
-      "after": {
-        "title": "To amend the Federal Credit Union Act to expand the investment authority of Federal credit unions.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10082",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10083_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10083",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10083: To reauthorize appropriations for the advanced drinking water technology grant program under the Safe Drinking Water Act, and for other purposes.",
-      "after": {
-        "title": "To reauthorize appropriations for the advanced drinking water technology grant program under the Safe Drinking Water Act, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10083",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10084_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10084",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10084: To require that certain payments to Federal student loans to the buyer of a home be classified as a financial concession by the Federal National Mortgage Association and the Federal Home Loan Mortgage Association.",
-      "after": {
-        "title": "To require that certain payments to Federal student loans to the buyer of a home be classified as a financial concession by the Federal National Mortgage Association and the Federal Home Loan Mortgage Association.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10084",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10085_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10085",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10085: To amend the Workforce Innovation and Opportunity Act to permit greater flexibility in carrying out incumbent worker training programs, and for other purposes.",
-      "after": {
-        "title": "To amend the Workforce Innovation and Opportunity Act to permit greater flexibility in carrying out incumbent worker training programs, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10085",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10086_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10086",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10086: To reauthorize the National Diabetes Prevention Program.",
-      "after": {
-        "title": "To reauthorize the National Diabetes Prevention Program.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10086",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10087_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10087",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10087: To amend title XVIII of the Social Security Act to provide for coverage of cancer care planning and coordination under the Medicare program.",
-      "after": {
-        "title": "To amend title XVIII of the Social Security Act to provide for coverage of cancer care planning and coordination under the Medicare program.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10087",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10088_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10088",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10088: To direct the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, to conduct a study to assess the potential for expanding the safe and effective use of reprocessed single-use devices, and for other purposes.",
-      "after": {
-        "title": "To direct the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, to conduct a study to assess the potential for expanding the safe and effective use of reprocessed single-use devices, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10088",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10089_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10089",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10089: To prohibit States from dividing documented communities of interest into multiple congressional districts, and for other purposes.",
-      "after": {
-        "title": "To prohibit States from dividing documented communities of interest into multiple congressional districts, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10089",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10090_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10090",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10090: To amend the Internal Revenue Code of 1986 to impose an excise tax on certain institutions of higher education that allow male participation in female intercollegiate athletic programs or events.",
-      "after": {
-        "title": "To amend the Internal Revenue Code of 1986 to impose an excise tax on certain institutions of higher education that allow male participation in female intercollegiate athletic programs or events.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10090",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10091_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10091",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10091: To designate the 26-mile portion of Interstate 17 in the State of Arizona between milepost 237 near New River and milepost 263 at the junction with State Route 69 near Cordes Junction as the \"Kayla Jean Mueller and Charles H. Keating IV Memorial Highway\", and for other purposes.",
-      "after": {
-        "title": "To designate the 26-mile portion of Interstate 17 in the State of Arizona between milepost 237 near New River and milepost 263 at the junction with State Route 69 near Cordes Junction as the \"Kayla Jean Mueller and Charles H. Keating IV Memorial Highway\", and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10091",
-      "syncId": "2026-08-14T09:06:46.508Z"
-    },
-    {
-      "id": "evt_2026-08-14T090646508Z_119-hr-10093_bill.added",
-      "observedAt": "2026-08-14T09:06:46.508Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10093",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10093: To establish a cancer research trust fund, and for other purposes.",
-      "after": {
-        "title": "To establish a cancer research trust fund, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10093",
-      "syncId": "2026-08-14T09:06:46.508Z"
     }
   ]
 }
