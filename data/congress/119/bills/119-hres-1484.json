@@ -3,17 +3,19 @@
   "billType": "hres",
   "billNumber": 1484,
   "congress": 119,
-  "title": "Untitled Bill",
+  "title": "Recognizing the nonprofit sector and the contributions of nonprofit employees, and expressing support for August 17, 2026, to be designated as \"National Nonprofit Day\".",
   "status": "inCommittee",
   "chamber": "House",
+  "policyArea": "Government Operations and Politics",
   "sponsor": {
-    "memberId": "UNKNOWN_MEMBER",
-    "name": "Unknown Member",
+    "memberId": "M001143",
+    "name": "Rep. McCollum, Betty [D-MN-4]",
     "party": "D",
-    "state": "NA",
+    "state": "MN",
+    "district": "4",
     "chamber": "House"
   },
-  "cosponsorCount": 0,
+  "cosponsorCount": 4,
   "latestAction": {
     "date": "2026-08-17",
     "text": "Referred to the House Committee on Oversight and Government Reform.",
@@ -31,6 +33,12 @@
       "text": "Submitted in House",
       "chamber": "House",
       "actionCode": "H11100"
+    },
+    {
+      "date": "2026-08-17",
+      "text": "Submitted in House",
+      "chamber": "House",
+      "actionCode": "1025"
     }
   ],
   "textVersions": [
@@ -41,6 +49,6 @@
     }
   ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1484",
-  "updatedAt": "2026-08-18T08:05:40Z",
+  "updatedAt": "2026-08-25T22:02:56Z",
   "introducedAt": "2026-08-17"
 }
