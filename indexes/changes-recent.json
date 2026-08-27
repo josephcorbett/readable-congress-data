@@ -1,8 +1,308 @@
 {
-  "generatedAt": "2026-08-26T08:41:35.207Z",
+  "generatedAt": "2026-08-27T18:52:15.545Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-08-27T185215545Z_119-hr-10056_bill.summary_changed",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10056",
+      "changeType": "bill.summary_changed",
+      "summary": "Official summary added",
+      "before": {
+        "summary": null,
+        "summaryFormat": null
+      },
+      "after": {
+        "summary": "Nurse Overtime and Patient Safety Act of 2026 This bill requires certain providers, as a condition of Medicare participation, to limit mandatory overtime for nurses. Specifically, the bill prohibits hospitals, ambulatory surgical centers, home health agencies, rural health clinics, federally qualified health centers, and other specified providers from requiring nurses to work (1) more than a previously scheduled shift, 48 hours in a workweek, or 12 consecutive hours in a 24-hour period; or (2) during the 10 hours immediately following the 12th hour worked in a shift during a 24-hour period. Qualifying work hours include time spent in training, on call, and on standby. The bill's provisions do not apply during declared emergencies or disasters, subject to specified conditions, and do not preclude voluntary overtime. The bill also establishes (1) certain protections for nurses who file complaints against providers, (2) documentation and notice requirements for providers, and (3) potential civil penalties for violations.",
+        "summaryFormat": "html"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10056",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-hr-10056_bill.title_changed",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10056",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To amend title XVIII of the Social Security Act to provide for patient protection by limiting the number of mandatory overtime hours a nurse may be required to work in certain providers of services to which payments are made under the Medicare Program."
+      },
+      "after": {
+        "title": "Nurse Overtime and Patient Safety Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10056",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-hr-10076_bill.title_changed",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10076",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To impose sanctions and other measures with respect to the Russian Federation, and for other purposes."
+      },
+      "after": {
+        "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10076",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-hr-10083_bill.title_changed",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10083",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To reauthorize appropriations for the advanced drinking water technology grant program under the Safe Drinking Water Act, and for other purposes."
+      },
+      "after": {
+        "title": "Water Technology and Resilience Reauthorization Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10083",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-hr-10087_bill.summary_changed",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10087",
+      "changeType": "bill.summary_changed",
+      "summary": "Official summary added",
+      "before": {
+        "summary": null,
+        "summaryFormat": null
+      },
+      "after": {
+        "summary": "Cancer Care Planning and Communications Act This bill provides for Medicare coverage and payment of cancer care planning and coordination services for individuals who are diagnosed with or treated for cancer, including the development of treatment plans, follow-up care, and any necessary revisions.",
+        "summaryFormat": "html"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10087",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-hr-10138_bill.added",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10138",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10138: CCP Fentanyl Sanctions Act",
+      "after": {
+        "title": "CCP Fentanyl Sanctions Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10138",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-hr-5334_bill.action_added_5a2f484e933604d9",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered by Senate. (consideration: CR S4538-4540)",
+      "after": {
+        "date": "2026-08-07",
+        "text": "Considered by Senate. (consideration: CR S4538-4540)",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-hr-5334_bill.action_added_619244cadda3640c",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.action_added",
+      "summary": "New action: Message on Senate action sent to the House.",
+      "after": {
+        "date": "2026-08-10",
+        "text": "Message on Senate action sent to the House.",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-hr-5334_bill.status_changed",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from passedSenate to introduced",
+      "before": {
+        "status": "passedSenate"
+      },
+      "after": {
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-hr-7889_bill.added",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-hr-7889",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-7889: AWRC Act of 2025",
+      "after": {
+        "title": "AWRC Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7889",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-s-3333_bill.added",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-s-3333",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3333: Emergency Savings Enhancement Act of 2025",
+      "after": {
+        "title": "Emergency Savings Enhancement Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3333",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-s-3977_bill.action_added_619244cadda3640c",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-s-3977",
+      "changeType": "bill.action_added",
+      "summary": "New action: Message on Senate action sent to the House.",
+      "after": {
+        "date": "2026-08-10",
+        "text": "Message on Senate action sent to the House.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3977",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-s-3977_bill.action_added_96812fbb2820e922",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-s-3977",
+      "changeType": "bill.action_added",
+      "summary": "New action: Held at the desk.",
+      "after": {
+        "date": "2026-08-10",
+        "text": "Held at the desk.",
+        "chamber": "Senate",
+        "actionCode": "H15000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3977",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-s-3977_bill.action_added_c94ff92374d8db24",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-s-3977",
+      "changeType": "bill.action_added",
+      "summary": "New action: Received in the House.",
+      "after": {
+        "date": "2026-08-10",
+        "text": "Received in the House.",
+        "chamber": "Senate",
+        "actionCode": "H14000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3977",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-s-3977_bill.status_changed",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-s-3977",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from passedSenate to introduced",
+      "before": {
+        "status": "passedSenate"
+      },
+      "after": {
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3977",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-s-3977_bill.summary_changed",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-s-3977",
+      "changeType": "bill.summary_changed",
+      "summary": "Official summary added",
+      "before": {
+        "summary": null,
+        "summaryFormat": null
+      },
+      "after": {
+        "summary": "Bankruptcy Threshold Adjustment Act of 2026 This bill restores changes that expired in 2024 applicable to debt limits for Subchapter V (small business reorganization) and Chapter 13 (the wage earner's plan) bankruptcies. Specifically, the bill increases the debt limit under Subchapter V from approximately $3.4 million to $7.5 million and increases the cumulative debt limit under Chapter 13 from approximately $2.1 million to $2.75 million. The bill also applies both secured and unsecured debt towards the Chapter 13 limit. (Currently, separate limits apply to secured and unsecured debt under Chapter 13 bankruptcy.)",
+        "summaryFormat": "html"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3977",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-s-5263_bill.added",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-s-5263",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5263: Workforce Recovery and Resilience Act",
+      "after": {
+        "title": "Workforce Recovery and Resilience Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5263",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_119-s-5319_bill.added",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "bill",
+      "entityId": "119-s-5319",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5319: Nurse Overtime and Patient Safety Act",
+      "after": {
+        "title": "Nurse Overtime and Patient Safety Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5319",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
+    {
+      "id": "evt_2026-08-27T185215545Z_W000804_member.added",
+      "observedAt": "2026-08-27T18:52:15.545Z",
+      "entityType": "member",
+      "entityId": "W000804",
+      "changeType": "member.added",
+      "summary": "Started tracking Robert J. Wittman",
+      "after": {
+        "name": "Robert J. Wittman",
+        "party": "R",
+        "chamber": "House",
+        "state": "VA"
+      },
+      "officialUrl": "https://wittman.house.gov/",
+      "syncId": "2026-08-27T18:52:15.545Z"
+    },
     {
       "id": "evt_2026-08-26T084135207Z_119-hr-10092_bill.title_changed",
       "observedAt": "2026-08-26T08:41:35.207Z",
@@ -1218,296 +1518,6 @@
       },
       "officialUrl": "https://westerman.house.gov/",
       "syncId": "2026-08-21T08:39:37.117Z"
-    },
-    {
-      "id": "evt_2026-08-20T083703845Z_119-hr-10061_bill.title_changed",
-      "observedAt": "2026-08-20T08:37:03.845Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10061",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To address wildfire readiness and recovery, safe communities, and wildland firefighter safety."
-      },
-      "after": {
-        "title": "Wildfire Response and Readiness Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10061",
-      "syncId": "2026-08-20T08:37:03.845Z"
-    },
-    {
-      "id": "evt_2026-08-20T083703845Z_119-hr-10067_bill.title_changed",
-      "observedAt": "2026-08-20T08:37:03.845Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10067",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To prohibit the District of Columbia from requiring a person to wear a protective helmet to operate, or ride on, a motorcycle or motor-driven cycle."
-      },
-      "after": {
-        "title": "Ride in Freedom Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10067",
-      "syncId": "2026-08-20T08:37:03.845Z"
-    },
-    {
-      "id": "evt_2026-08-20T083703845Z_119-hr-10078_bill.added",
-      "observedAt": "2026-08-20T08:37:03.845Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10078",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10078: Dollar-for-Dollar Deficit Reduction Act",
-      "after": {
-        "title": "Dollar-for-Dollar Deficit Reduction Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10078",
-      "syncId": "2026-08-20T08:37:03.845Z"
-    },
-    {
-      "id": "evt_2026-08-20T083703845Z_119-hr-10115_bill.title_changed",
-      "observedAt": "2026-08-20T08:37:03.845Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10115",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To amend the Radiation Exposure Compensation Act to provide for certain claims related to atmospheric testing, and for other purposes."
-      },
-      "after": {
-        "title": "Radiation Exposure Compensation Reauthorization Act of 2026"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10115",
-      "syncId": "2026-08-20T08:37:03.845Z"
-    },
-    {
-      "id": "evt_2026-08-20T083703845Z_119-s-5354_bill.added",
-      "observedAt": "2026-08-20T08:37:03.845Z",
-      "entityType": "bill",
-      "entityId": "119-s-5354",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-5354: Native American Housing Assistance and Self-Determination Modernization Act of 2026",
-      "after": {
-        "title": "Native American Housing Assistance and Self-Determination Modernization Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5354",
-      "syncId": "2026-08-20T08:37:03.845Z"
-    },
-    {
-      "id": "evt_2026-08-20T083703845Z_119-s-5360_bill.added",
-      "observedAt": "2026-08-20T08:37:03.845Z",
-      "entityType": "bill",
-      "entityId": "119-s-5360",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-5360: Rural and Municipal Utility Cybersecurity Act",
-      "after": {
-        "title": "Rural and Municipal Utility Cybersecurity Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5360",
-      "syncId": "2026-08-20T08:37:03.845Z"
-    },
-    {
-      "id": "evt_2026-08-20T083703845Z_119-s-5362_bill.added",
-      "observedAt": "2026-08-20T08:37:03.845Z",
-      "entityType": "bill",
-      "entityId": "119-s-5362",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-5362: Assuring the Future of Tibet Act of 2026",
-      "after": {
-        "title": "Assuring the Future of Tibet Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5362",
-      "syncId": "2026-08-20T08:37:03.845Z"
-    },
-    {
-      "id": "evt_2026-08-20T083703845Z_119-s-5363_bill.added",
-      "observedAt": "2026-08-20T08:37:03.845Z",
-      "entityType": "bill",
-      "entityId": "119-s-5363",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-5363: New Source Review Permitting Improvement Act",
-      "after": {
-        "title": "New Source Review Permitting Improvement Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5363",
-      "syncId": "2026-08-20T08:37:03.845Z"
-    },
-    {
-      "id": "evt_2026-08-20T083703845Z_119-s-5364_bill.title_changed",
-      "observedAt": "2026-08-20T08:37:03.845Z",
-      "entityType": "bill",
-      "entityId": "119-s-5364",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "A bill to support rural families."
-      },
-      "after": {
-        "title": "Rural Mothers and Fathers Choice Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5364",
-      "syncId": "2026-08-20T08:37:03.845Z"
-    },
-    {
-      "id": "evt_2026-08-20T083703845Z_119-s-5365_bill.title_changed",
-      "observedAt": "2026-08-20T08:37:03.845Z",
-      "entityType": "bill",
-      "entityId": "119-s-5365",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "A bill to authorize the Secretary of Health and Human Services, acting through the Assistant Secretary for Mental Health and Substance Use, to award grants to train community mental wellness workers, and for other purposes."
-      },
-      "after": {
-        "title": "Community Mental Wellness Worker Training Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5365",
-      "syncId": "2026-08-20T08:37:03.845Z"
-    },
-    {
-      "id": "evt_2026-08-20T083703845Z_119-s-5372_bill.added",
-      "observedAt": "2026-08-20T08:37:03.845Z",
-      "entityType": "bill",
-      "entityId": "119-s-5372",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-5372: Kayleigh’s Law Act of 2026",
-      "after": {
-        "title": "Kayleigh’s Law Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5372",
-      "syncId": "2026-08-20T08:37:03.845Z"
-    },
-    {
-      "id": "evt_2026-08-20T083703845Z_119-sres-846_bill.added",
-      "observedAt": "2026-08-20T08:37:03.845Z",
-      "entityType": "bill",
-      "entityId": "119-sres-846",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-sres-846: A resolution designating August 21, 2026, as \"Fentanyl Prevention and Awareness Day\".",
-      "after": {
-        "title": "A resolution designating August 21, 2026, as \"Fentanyl Prevention and Awareness Day\".",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/846",
-      "syncId": "2026-08-20T08:37:03.845Z"
-    },
-    {
-      "id": "evt_2026-08-19T083600568Z_119-hr-10058_bill.summary_changed",
-      "observedAt": "2026-08-19T08:36:00.568Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10058",
-      "changeType": "bill.summary_changed",
-      "summary": "Official summary added",
-      "before": {
-        "summary": null,
-        "summaryFormat": null
-      },
-      "after": {
-        "summary": "Summer Meals and Learning Act of 2026 This bill establishes a grant program to support summer early reading programs held at schools with a summer lunch site. Specifically, the Department of Education must use funds provided for the program to award competitive grants to state library administrative agencies to enable them to award subgrants to eligible local educational agencies for summer early reading programs held at schools with a summer lunch site. The program is open to local educational agencies that include schools where at least 50% of the students in prekindergarten through grade 3 are (1) reading below grade level at grade 3, or (2) at risk of reading below grade level at grade 3.",
-        "summaryFormat": "html"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10058",
-      "syncId": "2026-08-19T08:36:00.568Z"
-    },
-    {
-      "id": "evt_2026-08-19T083600568Z_119-hr-10058_bill.title_changed",
-      "observedAt": "2026-08-19T08:36:00.568Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10058",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To create a new Federal grant program that provides grants to State libraries to allow schools with summer lunch programs to keep their libraries open for student use during the summer months."
-      },
-      "after": {
-        "title": "Summer Meals and Learning Act of 2026"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10058",
-      "syncId": "2026-08-19T08:36:00.568Z"
-    },
-    {
-      "id": "evt_2026-08-19T083600568Z_119-hr-10079_bill.added",
-      "observedAt": "2026-08-19T08:36:00.568Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10079",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10079: Beverage Regulatory Parity Act",
-      "after": {
-        "title": "Beverage Regulatory Parity Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10079",
-      "syncId": "2026-08-19T08:36:00.568Z"
-    },
-    {
-      "id": "evt_2026-08-19T083600568Z_119-hr-10109_bill.title_changed",
-      "observedAt": "2026-08-19T08:36:00.568Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10109",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To amend the Commodity Exchange Act to prohibit wildfire event contracts on prediction markets, and for other purposes."
-      },
-      "after": {
-        "title": "Wildfire Event Contract Prohibition Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10109",
-      "syncId": "2026-08-19T08:36:00.568Z"
-    },
-    {
-      "id": "evt_2026-08-19T083600568Z_119-hr-10110_bill.title_changed",
-      "observedAt": "2026-08-19T08:36:00.568Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10110",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To require the disclosure of algorithmic price fixing in the housing rental market, and for other purposes."
-      },
-      "after": {
-        "title": "Housing Price Transparency Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10110",
-      "syncId": "2026-08-19T08:36:00.568Z"
-    },
-    {
-      "id": "evt_2026-08-19T083600568Z_119-hr-10111_bill.title_changed",
-      "observedAt": "2026-08-19T08:36:00.568Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10111",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To prohibit the Secretary of Homeland Security from preventing Members of Congress, or employees accompanying a Member, from entering, for the purpose of conducting oversight, any facility operated by or for the Department of Homeland Security used to detain or otherwise house aliens, and for other purposes."
-      },
-      "after": {
-        "title": "Oversight Access Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10111",
-      "syncId": "2026-08-19T08:36:00.568Z"
-    },
-    {
-      "id": "evt_2026-08-19T083600568Z_119-hr-10112_bill.title_changed",
-      "observedAt": "2026-08-19T08:36:00.568Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10112",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To amend the Investor Protection and Securities Reform Act of 2010 to provide grants to States for enhanced protection of senior investors and senior policyholders, and for other purposes."
-      },
-      "after": {
-        "title": "Empowering States to Protect Seniors from Bad Actors Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10112",
-      "syncId": "2026-08-19T08:36:00.568Z"
     }
   ]
 }

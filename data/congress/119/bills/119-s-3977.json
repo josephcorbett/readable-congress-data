@@ -4,7 +4,7 @@
   "billNumber": 3977,
   "congress": 119,
   "title": "Bankruptcy Threshold Adjustment Act of 2026",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "Senate",
   "policyArea": "Finance and Financial Sector",
   "sponsor": {
@@ -16,11 +16,28 @@
   },
   "cosponsorCount": 5,
   "latestAction": {
-    "date": "2026-08-03",
-    "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4412; text: CR S4412)",
+    "date": "2026-08-10",
+    "text": "Held at the desk.",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-08-10",
+      "text": "Held at the desk.",
+      "chamber": "Senate",
+      "actionCode": "H15000"
+    },
+    {
+      "date": "2026-08-10",
+      "text": "Received in the House.",
+      "chamber": "Senate",
+      "actionCode": "H14000"
+    },
+    {
+      "date": "2026-08-10",
+      "text": "Message on Senate action sent to the House.",
+      "chamber": "Senate"
+    },
     {
       "date": "2026-08-03",
       "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4412; text: CR S4412)",
@@ -61,7 +78,11 @@
       "url": "https://www.congress.gov/119/bills/s3977/BILLS-119s3977pcs.htm"
     }
   ],
+  "summaryHtml": "<p><strong>Bankruptcy Threshold Adjustment Act of 2026</strong></p><p>This bill restores changes that expired in 2024 applicable to debt limits for Subchapter V (small business reorganization) and Chapter 13 (the wage earner's plan) bankruptcies.</p><p>Specifically, the bill increases the debt limit under Subchapter&nbsp;V from approximately $3.4 million to $7.5 million and increases the cumulative debt limit under Chapter 13 from approximately $2.1 million to $2.75 million.</p><p>The bill also applies both secured and unsecured debt towards the Chapter 13 limit. (Currently, separate limits apply to secured and unsecured debt under Chapter 13 bankruptcy.)</p>",
+  "summaryFormat": "html",
+  "summary": "Bankruptcy Threshold Adjustment Act of 2026 This bill restores changes that expired in 2024 applicable to debt limits for Subchapter V (small business reorganization) and Chapter 13 (the wage earner's plan) bankruptcies. Specifically, the bill increases the debt limit under Subchapter V from approximately $3.4 million to $7.5 million and increases the cumulative debt limit under Chapter 13 from approximately $2.1 million to $2.75 million. The bill also applies both secured and unsecured debt towards the Chapter 13 limit. (Currently, separate limits apply to secured and unsecured debt under Chapter 13 bankruptcy.)",
+  "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3977",
-  "updatedAt": "2026-08-07T18:55:56Z",
+  "updatedAt": "2026-08-26T21:48:11Z",
   "introducedAt": "2026-03-03"
 }
