@@ -1,8 +1,98 @@
 {
-  "generatedAt": "2026-08-28T19:54:27.648Z",
+  "generatedAt": "2026-08-29T13:38:41.341Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-08-29T133841341Z_119-hr-10152_bill.added",
+      "observedAt": "2026-08-29T13:38:41.341Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10152",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10152: Open-Source AI Leadership Act",
+      "after": {
+        "title": "Open-Source AI Leadership Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10152",
+      "syncId": "2026-08-29T13:38:41.341Z"
+    },
+    {
+      "id": "evt_2026-08-29T133841341Z_119-hr-10158_bill.added",
+      "observedAt": "2026-08-29T13:38:41.341Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10158",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10158: Automotive National and Economic Security Act of 2026",
+      "after": {
+        "title": "Automotive National and Economic Security Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10158",
+      "syncId": "2026-08-29T13:38:41.341Z"
+    },
+    {
+      "id": "evt_2026-08-29T133841341Z_119-hr-10163_bill.title_changed",
+      "observedAt": "2026-08-29T13:38:41.341Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10163",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To direct the Secretary of Commerce to promote trusted quantum supply chains and the commercial leadership of the United States with respect to quantum technology, and for other purposes."
+      },
+      "after": {
+        "title": "American Quantum Competitiveness Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10163",
+      "syncId": "2026-08-29T13:38:41.341Z"
+    },
+    {
+      "id": "evt_2026-08-29T133841341Z_119-hr-10170_bill.title_changed",
+      "observedAt": "2026-08-29T13:38:41.341Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10170",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To require the Secretary of Commerce to conduct a study on the marketplace for advanced memory technology, and for other purposes."
+      },
+      "after": {
+        "title": "Memory Chip Competitiveness Assessment Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10170",
+      "syncId": "2026-08-29T13:38:41.341Z"
+    },
+    {
+      "id": "evt_2026-08-29T133841341Z_119-hres-1490_bill.added",
+      "observedAt": "2026-08-29T13:38:41.341Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1490",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1490: Providing for the condemnation and denouncement of socialism in all its forms, and for other purposes.",
+      "after": {
+        "title": "Providing for the condemnation and denouncement of socialism in all its forms, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1490",
+      "syncId": "2026-08-29T13:38:41.341Z"
+    },
+    {
+      "id": "evt_2026-08-29T133841341Z_H001086_member.added",
+      "observedAt": "2026-08-29T13:38:41.341Z",
+      "entityType": "member",
+      "entityId": "H001086",
+      "changeType": "member.added",
+      "summary": "Started tracking Diana Harshbarger",
+      "after": {
+        "name": "Diana Harshbarger",
+        "party": "R",
+        "chamber": "House",
+        "state": "TN"
+      },
+      "officialUrl": "https://harshbarger.house.gov",
+      "syncId": "2026-08-29T13:38:41.341Z"
+    },
     {
       "id": "evt_2026-08-28T195427648Z_119-hr-10159_bill.added",
       "observedAt": "2026-08-28T19:54:27.648Z",
@@ -1417,96 +1507,6 @@
         "status": "inCommittee"
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10123",
-      "syncId": "2026-08-22T08:28:25.452Z"
-    },
-    {
-      "id": "evt_2026-08-22T082825452Z_119-hr-10124_bill.title_changed",
-      "observedAt": "2026-08-22T08:28:25.452Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10124",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To improve coordination and prosecution of organized mail theft and related fraud offenses, to direct the United States Sentencing Commission to review and amend sentencing guidelines applicable to such offenses, and for other purposes."
-      },
-      "after": {
-        "title": "Mail Theft and Postal Key Crime Prevention Act of 2026"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10124",
-      "syncId": "2026-08-22T08:28:25.452Z"
-    },
-    {
-      "id": "evt_2026-08-22T082825452Z_119-hr-10125_bill.title_changed",
-      "observedAt": "2026-08-22T08:28:25.452Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10125",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To prohibit the purchase or sale of securities while aware of nonpublic information contained in certain social media accounts controlled by Government officials, and for other purposes."
-      },
-      "after": {
-        "title": "NO PROFIT Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10125",
-      "syncId": "2026-08-22T08:28:25.452Z"
-    },
-    {
-      "id": "evt_2026-08-22T082825452Z_119-hr-10126_bill.added",
-      "observedAt": "2026-08-22T08:28:25.452Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10126",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10126: DEMAND Act of 2026",
-      "after": {
-        "title": "DEMAND Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10126",
-      "syncId": "2026-08-22T08:28:25.452Z"
-    },
-    {
-      "id": "evt_2026-08-22T082825452Z_119-hr-10130_bill.added",
-      "observedAt": "2026-08-22T08:28:25.452Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10130",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10130: To direct the Secretary of the Army to establish an Army Quantum Readiness and Advanced Computing Initiative, and for other purposes.",
-      "after": {
-        "title": "To direct the Secretary of the Army to establish an Army Quantum Readiness and Advanced Computing Initiative, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10130",
-      "syncId": "2026-08-22T08:28:25.452Z"
-    },
-    {
-      "id": "evt_2026-08-22T082825452Z_119-hr-10131_bill.added",
-      "observedAt": "2026-08-22T08:28:25.452Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10131",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10131: National Archives Protection Act",
-      "after": {
-        "title": "National Archives Protection Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10131",
-      "syncId": "2026-08-22T08:28:25.452Z"
-    },
-    {
-      "id": "evt_2026-08-22T082825452Z_119-hr-10134_bill.title_changed",
-      "observedAt": "2026-08-22T08:28:25.452Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10134",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To establish an eligibility exception for the drug discount program due to cuts to the Medicaid program."
-      },
-      "after": {
-        "title": "Local Health Care Protection Act of 2026"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10134",
       "syncId": "2026-08-22T08:28:25.452Z"
     }
   ]
