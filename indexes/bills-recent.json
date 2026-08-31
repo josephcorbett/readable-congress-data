@@ -1,8 +1,68 @@
 {
-  "generatedAt": "2026-08-30T13:35:07.012Z",
+  "generatedAt": "2026-08-31T15:52:18.371Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
+    {
+      "id": "119-hr-10158",
+      "billType": "hr",
+      "billNumber": 10158,
+      "congress": 119,
+      "title": "Automotive National and Economic Security Act of 2026",
+      "status": "inCommittee",
+      "chamber": "House",
+      "policyArea": "Transportation and Public Works",
+      "sponsor": {
+        "memberId": "H001086",
+        "name": "Rep. Harshbarger, Diana [R-TN-1]",
+        "party": "R",
+        "state": "TN",
+        "district": "1",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-08-27",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-08-27",
+          "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-27",
+          "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-27",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-08-27",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-08-27",
+          "url": "https://www.congress.gov/119/bills/hr10158/BILLS-119hr10158ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10158",
+      "updatedAt": "2026-08-31T15:15:17Z",
+      "introducedAt": "2026-08-27"
+    },
     {
       "id": "119-hr-10170",
       "billType": "hr",
@@ -106,65 +166,6 @@
         }
       ],
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10163",
-      "updatedAt": "2026-08-29T02:23:21Z",
-      "introducedAt": "2026-08-27"
-    },
-    {
-      "id": "119-hr-10158",
-      "billType": "hr",
-      "billNumber": 10158,
-      "congress": 119,
-      "title": "Automotive National and Economic Security Act of 2026",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "H001086",
-        "name": "Rep. Harshbarger, Diana [R-TN-1]",
-        "party": "R",
-        "state": "TN",
-        "district": "1",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-08-27",
-        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-08-27",
-          "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-08-27",
-          "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-08-27",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-08-27",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-08-27",
-          "url": "https://www.congress.gov/119/bills/hr10158/BILLS-119hr10158ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10158",
       "updatedAt": "2026-08-29T02:23:21Z",
       "introducedAt": "2026-08-27"
     },
@@ -286,43 +287,73 @@
       "introducedAt": "2026-08-27"
     },
     {
-      "id": "119-hr-10164",
+      "id": "119-hr-9436",
       "billType": "hr",
-      "billNumber": 10164,
+      "billNumber": 9436,
       "congress": 119,
-      "title": "BEDROCK Act",
-      "status": "inCommittee",
+      "title": "Northeast Lobsterman Protection Act of 2026",
+      "status": "introduced",
       "chamber": "House",
-      "policyArea": "Health",
+      "policyArea": "Animals",
       "sponsor": {
-        "memberId": "L000566",
-        "name": "Rep. Latta, Robert E. [R-OH-5]",
+        "memberId": "L000599",
+        "name": "Rep. Lawler, Michael [R-NY-17]",
         "party": "R",
-        "state": "OH",
-        "district": "5",
+        "state": "NY",
+        "district": "17",
         "chamber": "House"
       },
       "cosponsorCount": 1,
       "latestAction": {
         "date": "2026-08-27",
-        "text": "Referred to the House Committee on Energy and Commerce.",
+        "text": "Placed on the Union Calendar, Calendar No. 667.",
         "chamber": "House"
       },
       "actions": [
         {
           "date": "2026-08-27",
-          "text": "Referred to the House Committee on Energy and Commerce.",
+          "text": "Placed on the Union Calendar, Calendar No. 667.",
+          "chamber": "House",
+          "actionCode": "H12410"
+        },
+        {
+          "date": "2026-08-27",
+          "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-766.",
+          "chamber": "House",
+          "actionCode": "H12200"
+        },
+        {
+          "date": "2026-08-27",
+          "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-766.",
+          "chamber": "House",
+          "actionCode": "5000"
+        },
+        {
+          "date": "2026-07-15",
+          "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 22 - 13.",
+          "chamber": "House",
+          "actionCode": "H19000"
+        },
+        {
+          "date": "2026-07-15",
+          "text": "Committee Consideration and Mark-up Session Held",
+          "chamber": "House",
+          "actionCode": "H15001"
+        },
+        {
+          "date": "2026-06-24",
+          "text": "Referred to the House Committee on Natural Resources.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2026-08-27",
+          "date": "2026-06-24",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "Intro-H"
         },
         {
-          "date": "2026-08-27",
+          "date": "2026-06-24",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "1000"
@@ -330,14 +361,23 @@
       ],
       "textVersions": [
         {
-          "type": "Introduced in House",
+          "type": "Reported in House",
           "date": "2026-08-27",
-          "url": "https://www.congress.gov/119/bills/hr10164/BILLS-119hr10164ih.htm"
+          "url": "https://www.congress.gov/119/bills/hr9436/BILLS-119hr9436rh.htm"
+        },
+        {
+          "type": "Introduced in House",
+          "date": "2026-06-24",
+          "url": "https://www.congress.gov/119/bills/hr9436/BILLS-119hr9436ih.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10164",
-      "updatedAt": "2026-08-28T14:03:01Z",
-      "introducedAt": "2026-08-27"
+      "summaryHtml": "<p><strong>Northeast Lobsterman Protection Act of 2026</strong></p><p>This bill extends the deadline from 2028 to 2035 for the National Marine Fisheries Service to issue new regulations that protect the endangered Atlantic large whale from certain lobster and crab fishing gear. Under current law, the new regulations must include requirements for the American lobster and Jonah crab fisheries to utilize existing and innovative fishing gear technologies as appropriate to reduce the risk of whales becoming entangled in their gear.</p>",
+      "summaryFormat": "html",
+      "summary": "Northeast Lobsterman Protection Act of 2026 This bill extends the deadline from 2028 to 2035 for the National Marine Fisheries Service to issue new regulations that protect the endangered Atlantic large whale from certain lobster and crab fishing gear. Under current law, the new regulations must include requirements for the American lobster and Jonah crab fisheries to utilize existing and innovative fishing gear technologies as appropriate to reduce the risk of whales becoming entangled in their gear.",
+      "summarySource": "official",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9436",
+      "updatedAt": "2026-08-28T21:48:08Z",
+      "introducedAt": "2026-06-24"
     },
     {
       "id": "119-hr-10177",
@@ -1234,62 +1274,68 @@
       "introducedAt": "2026-08-27"
     },
     {
-      "id": "119-hr-10162",
-      "billType": "hr",
-      "billNumber": 10162,
+      "id": "119-hres-1496",
+      "billType": "hres",
+      "billNumber": 1496,
       "congress": 119,
-      "title": "STORMWATER Act",
+      "title": "Commemorating the fifth anniversary of the evacuation of Afghanistan, the Gulf war era, and honoring Gulf war era veterans.",
       "status": "inCommittee",
       "chamber": "House",
       "sponsor": {
-        "memberId": "K000402",
-        "name": "Rep. Kennedy, Timothy M. [D-NY-26]",
-        "party": "D",
-        "state": "NY",
-        "district": "26",
+        "memberId": "M001240",
+        "name": "Rep. McDowell, Addison P. [R-NC-6]",
+        "party": "R",
+        "state": "NC",
+        "district": "6",
         "chamber": "House"
       },
-      "cosponsorCount": 2,
+      "cosponsorCount": 4,
       "latestAction": {
         "date": "2026-08-27",
-        "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
         "chamber": "House"
       },
       "actions": [
         {
           "date": "2026-08-27",
-          "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
           "date": "2026-08-27",
-          "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
           "date": "2026-08-27",
-          "text": "Introduced in House",
+          "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
           "chamber": "House",
-          "actionCode": "Intro-H"
+          "actionCode": "H11100"
         },
         {
           "date": "2026-08-27",
-          "text": "Introduced in House",
+          "text": "Submitted in House",
           "chamber": "House",
-          "actionCode": "1000"
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-08-27",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
         }
       ],
       "textVersions": [
         {
           "type": "Introduced in House",
           "date": "2026-08-27",
-          "url": "https://www.congress.gov/119/bills/hr10162/BILLS-119hr10162ih.htm"
+          "url": "https://www.congress.gov/119/bills/hres1496/BILLS-119hres1496ih.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10162",
-      "updatedAt": "2026-08-28T11:13:50Z",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1496",
+      "updatedAt": "2026-08-28T08:48:49Z",
       "introducedAt": "2026-08-27"
     }
   ]

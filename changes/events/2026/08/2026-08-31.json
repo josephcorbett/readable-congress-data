@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-31T15:52:18.371Z",
+  "items": [
+    {
+      "id": "evt_2026-08-31T155218371Z_119-hr-9436_bill.added",
+      "observedAt": "2026-08-31T15:52:18.371Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9436",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9436: Northeast Lobsterman Protection Act of 2026",
+      "after": {
+        "title": "Northeast Lobsterman Protection Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9436",
+      "syncId": "2026-08-31T15:52:18.371Z"
+    },
+    {
+      "id": "evt_2026-08-31T155218371Z_119-hres-1496_bill.added",
+      "observedAt": "2026-08-31T15:52:18.371Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1496",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1496: Commemorating the fifth anniversary of the evacuation of Afghanistan, the Gulf war era, and honoring Gulf war era veterans.",
+      "after": {
+        "title": "Commemorating the fifth anniversary of the evacuation of Afghanistan, the Gulf war era, and honoring Gulf war era veterans.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1496",
+      "syncId": "2026-08-31T15:52:18.371Z"
+    },
+    {
+      "id": "evt_2026-08-31T155218371Z_M001240_member.added",
+      "observedAt": "2026-08-31T15:52:18.371Z",
+      "entityType": "member",
+      "entityId": "M001240",
+      "changeType": "member.added",
+      "summary": "Started tracking Addison P. McDowell",
+      "after": {
+        "name": "Addison P. McDowell",
+        "party": "R",
+        "chamber": "House",
+        "state": "NC"
+      },
+      "officialUrl": "https://mcdowell.house.gov/",
+      "syncId": "2026-08-31T15:52:18.371Z"
+    }
+  ]
+}
