@@ -1,0 +1,512 @@
+{
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T13:08:12.897Z",
+  "items": [
+    {
+      "id": "evt_2026-09-01T130812897Z_119-house-2-284_vote.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-284",
+      "changeType": "vote.added",
+      "summary": "New House vote: On Motion to Suspend the Rules and Pass (Passed)",
+      "after": {
+        "date": "2026-08-31",
+        "question": "On Motion to Suspend the Rules and Pass",
+        "result": "Passed",
+        "yea": 376,
+        "nay": 8
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll284.xml",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-house-2-285_vote.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-285",
+      "changeType": "vote.added",
+      "summary": "New House vote: On Motion to Suspend the Rules and Pass (Passed)",
+      "after": {
+        "date": "2026-08-31",
+        "question": "On Motion to Suspend the Rules and Pass",
+        "result": "Passed",
+        "yea": 378,
+        "nay": 10
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll285.xml",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-10020_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10020",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10020: Medicare at Home Act",
+      "after": {
+        "title": "Medicare at Home Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10020",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-10175_bill.title_changed",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10175",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To repeal section 338 of the Tariff Act of 1930 and nullify certain Presidential proclamations imposing a tariff or other duty pursuant to such section, and for other purposes."
+      },
+      "after": {
+        "title": "Banning Antiquated Duties and Delivering Equitable American Levies (BAD DEAL) Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10175",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-10184_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10184",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10184: Consumer Financial Protection Accountability and Reform Act of 2026",
+      "after": {
+        "title": "Consumer Financial Protection Accountability and Reform Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10184",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-10185_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10185",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10185: Part D Premium Protection Act of 2026",
+      "after": {
+        "title": "Part D Premium Protection Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10185",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-10186_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10186",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10186: Hands Off Our Great Lakes Act",
+      "after": {
+        "title": "Hands Off Our Great Lakes Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10186",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-10187_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10187",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10187: Missed Paychecks for Missed Deadlines Act",
+      "after": {
+        "title": "Missed Paychecks for Missed Deadlines Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10187",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-10188_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10188",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10188: Protecting Pentagon Press Access Act",
+      "after": {
+        "title": "Protecting Pentagon Press Access Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10188",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-10198_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10198",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10198: To limit the use of nondisclosure agreements that restrict whistleblowing by Federal employees and contractors, and for other purposes.",
+      "after": {
+        "title": "To limit the use of nondisclosure agreements that restrict whistleblowing by Federal employees and contractors, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10198",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-1501_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1501",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1501: Protecting Domestic Mining Act of 2025",
+      "after": {
+        "title": "Protecting Domestic Mining Act of 2025",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-4219_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-4219",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-4219: National Wildlife Refuge System Invasive Species Strike Team Act of 2025",
+      "after": {
+        "title": "National Wildlife Refuge System Invasive Species Strike Team Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4219",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-4795_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-4795",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-4795: Protect Economic and Academic Freedom Act of 2026",
+      "after": {
+        "title": "Protect Economic and Academic Freedom Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4795",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-5185_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5185",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-5185: To make improvements in the enactment of title 41, United States Code, into a positive law title and to improve the Code.",
+      "after": {
+        "title": "To make improvements in the enactment of title 41, United States Code, into a positive law title and to improve the Code.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5185",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-6048_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-6048",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-6048: NDO Fairness Act",
+      "after": {
+        "title": "NDO Fairness Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6048",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-8121_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8121",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-8121: To designate the Christiansted Bandstand at the Christiansted National Historic Site, St. Croix, Virgin Islands, as the \"Peter G. Thurland, Sr., Bandstand\".",
+      "after": {
+        "title": "To designate the Christiansted Bandstand at the Christiansted National Historic Site, St. Croix, Virgin Islands, as the \"Peter G. Thurland, Sr., Bandstand\".",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8121",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-9436_bill.action_added_44c9e919369fa4e3",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9436",
+      "changeType": "bill.action_added",
+      "summary": "New action: Rules Committee Resolution H. Res. 1499 Reported to House. Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.",
+      "after": {
+        "date": "2026-08-31",
+        "text": "Rules Committee Resolution H. Res. 1499 Reported to House. Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.",
+        "chamber": "House",
+        "actionCode": "H1L210"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9436",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hr-9436_bill.status_changed",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9436",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to inCommittee",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9436",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hres-1490_bill.action_added_44c9e919369fa4e3",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1490",
+      "changeType": "bill.action_added",
+      "summary": "New action: Rules Committee Resolution H. Res. 1499 Reported to House. Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.",
+      "after": {
+        "date": "2026-08-31",
+        "text": "Rules Committee Resolution H. Res. 1499 Reported to House. Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.",
+        "chamber": "House",
+        "actionCode": "H1L210"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1490",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hres-1498_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1498",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1498: In the matter of allegations relating to Representative Chuck Edwards.",
+      "after": {
+        "title": "In the matter of allegations relating to Representative Chuck Edwards.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1498",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hres-1499_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1499",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1499: Providing for consideration of the bill (H.R. 1501) to amend the FAST Act to include certain mineral production activities as a covered project, and for other purposes; providing for consideration of the bill (H.R. 9436) to amend the Consolidated Appropriations Act, 2023 to extend the time period for which certain regulations concerning the North Atlantic right whale are effective; providing for consideration of the resolution (H. Res. 1490) providing for the condemnation and denouncement of socialism in all its forms, and for other purposes; providing for consideration of the bill (H.R. 4795) to amend the Higher Education Act of 1965 to prohibit an institution that participates in a nonexpressive commercial boycott of Israel from being eligible for certain funds under that Act, to require an institution that participates in certain programs under that Act to certify that students are not unreasonably obstructed from participating in academic programs in Israel, and for other purposes; and relating to consideration of motions to suspend the rules.",
+      "after": {
+        "title": "Providing for consideration of the bill (H.R. 1501) to amend the FAST Act to include certain mineral production activities as a covered project, and for other purposes; providing for consideration of the bill (H.R. 9436) to amend the Consolidated Appropriations Act, 2023 to extend the time period for which certain regulations concerning the North Atlantic right whale are effective; providing for consideration of the resolution (H. Res. 1490) providing for the condemnation and denouncement of socialism in all its forms, and for other purposes; providing for consideration of the bill (H.R. 4795) to amend the Higher Education Act of 1965 to prohibit an institution that participates in a nonexpressive commercial boycott of Israel from being eligible for certain funds under that Act, to require an institution that participates in certain programs under that Act to certify that students are not unreasonably obstructed from participating in academic programs in Israel, and for other purposes; and relating to consideration of motions to suspend the rules.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1499",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hres-1500_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1500",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1500: Congratulating the University of Oklahoma baseball team for winning the 2026 Men's College World Series.",
+      "after": {
+        "title": "Congratulating the University of Oklahoma baseball team for winning the 2026 Men's College World Series.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1500",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hres-1501_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1501",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1501: Recognizing the 80th anniversary of the Fulbright Program.",
+      "after": {
+        "title": "Recognizing the 80th anniversary of the Fulbright Program.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1501",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hres-1502_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1502",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1502: Expressing support for the designation of September 2026 as \"Peace Month\" and calling on Congress to take action to promote peace.",
+      "after": {
+        "title": "Expressing support for the designation of September 2026 as \"Peace Month\" and calling on Congress to take action to promote peace.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1502",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-hres-1503_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1503",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1503: Supporting the goals of Overdose Awareness Day and strengthening efforts to combat the opioid crisis in the United States.",
+      "after": {
+        "title": "Supporting the goals of Overdose Awareness Day and strengthening efforts to combat the opioid crisis in the United States.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1503",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_119-s-32_bill.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "bill",
+      "entityId": "119-s-32",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-32: LACA",
+      "after": {
+        "title": "LACA",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/32",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_C001055_member.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "member",
+      "entityId": "C001055",
+      "changeType": "member.added",
+      "summary": "Started tracking Ed Case",
+      "after": {
+        "name": "Ed Case",
+        "party": "D",
+        "chamber": "House",
+        "state": "HI"
+      },
+      "officialUrl": "https://case.house.gov/",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_F000246_member.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "member",
+      "entityId": "F000246",
+      "changeType": "member.added",
+      "summary": "Started tracking Pat Fallon",
+      "after": {
+        "name": "Pat Fallon",
+        "party": "R",
+        "chamber": "House",
+        "state": "TX"
+      },
+      "officialUrl": "https://fallon.house.gov",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_F000450_member.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "member",
+      "entityId": "F000450",
+      "changeType": "member.added",
+      "summary": "Started tracking Virginia Foxx",
+      "after": {
+        "name": "Virginia Foxx",
+        "party": "R",
+        "chamber": "House",
+        "state": "NC"
+      },
+      "officialUrl": "https://foxx.house.gov/",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_F000471_member.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "member",
+      "entityId": "F000471",
+      "changeType": "member.added",
+      "summary": "Started tracking Scott Fitzgerald",
+      "after": {
+        "name": "Scott Fitzgerald",
+        "party": "R",
+        "chamber": "House",
+        "state": "WI"
+      },
+      "officialUrl": "https://fitzgerald.house.gov",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_G000591_member.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "member",
+      "entityId": "G000591",
+      "changeType": "member.added",
+      "summary": "Started tracking Michael Guest",
+      "after": {
+        "name": "Michael Guest",
+        "party": "R",
+        "chamber": "House",
+        "state": "MS"
+      },
+      "officialUrl": "https://guest.house.gov",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_J000305_member.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "member",
+      "entityId": "J000305",
+      "changeType": "member.added",
+      "summary": "Started tracking Sara Jacobs",
+      "after": {
+        "name": "Sara Jacobs",
+        "party": "D",
+        "chamber": "House",
+        "state": "CA"
+      },
+      "officialUrl": "https://sarajacobs.house.gov",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_P000610_member.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "member",
+      "entityId": "P000610",
+      "changeType": "member.added",
+      "summary": "Started tracking Stacey E. Plaskett",
+      "after": {
+        "name": "Stacey E. Plaskett",
+        "party": "D",
+        "chamber": "House",
+        "state": "VI"
+      },
+      "officialUrl": "https://plaskett.house.gov/",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    },
+    {
+      "id": "evt_2026-09-01T130812897Z_S001229_member.added",
+      "observedAt": "2026-09-01T13:08:12.897Z",
+      "entityType": "member",
+      "entityId": "S001229",
+      "changeType": "member.added",
+      "summary": "Started tracking Jefferson Shreve",
+      "after": {
+        "name": "Jefferson Shreve",
+        "party": "R",
+        "chamber": "House",
+        "state": "IN"
+      },
+      "officialUrl": "https://shreve.house.gov/",
+      "syncId": "2026-09-01T13:08:12.897Z"
+    }
+  ]
+}
