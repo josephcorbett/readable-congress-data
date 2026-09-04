@@ -1,8 +1,567 @@
 {
-  "generatedAt": "2026-09-03T12:37:48.975Z",
+  "generatedAt": "2026-09-04T12:32:07.046Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-09-04T123207046Z_119-house-2-286_vote.corrected",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-286",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Suspend the Rules and Concur in the Senate Amendments",
+      "before": {
+        "result": "Passed",
+        "yea": 370,
+        "nay": 48,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "description": "Continuing Appropriations and Extensions Act, 2027 (HR 6500)",
+        "date": "2026-09-01",
+        "associatedBillId": "119-hr-6500"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 370,
+        "nay": 48,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "description": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "date": "2026-09-01",
+        "associatedBillId": "119-hr-6500"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll286.xml",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-house-2-294_vote.corrected",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-294",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Passage",
+      "before": {
+        "result": "Passed",
+        "yea": 218,
+        "nay": 201,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Passage",
+        "description": "Protecting Domestic Mining Act of 2025 (HR 1501)",
+        "date": "2026-09-02",
+        "associatedBillId": "119-hr-1501"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 218,
+        "nay": 201,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Passage",
+        "description": "On Passage",
+        "date": "2026-09-02",
+        "associatedBillId": "119-hr-1501"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll294.xml",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-house-2-295_vote.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-295",
+      "changeType": "vote.added",
+      "summary": "New House vote: On Passage (Passed)",
+      "after": {
+        "date": "2026-09-03",
+        "question": "On Passage",
+        "result": "Passed",
+        "yea": 237,
+        "nay": 169
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll295.xml",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10271_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10271",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10271: Mobile Workforce State Income Tax Simplification Act of 2026",
+      "after": {
+        "title": "Mobile Workforce State Income Tax Simplification Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10271",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10272_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10272",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10272: End Gas Station Heroin Act",
+      "after": {
+        "title": "End Gas Station Heroin Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10272",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10273_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10273",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10273: Fairness for Farm Workers Act",
+      "after": {
+        "title": "Fairness for Farm Workers Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10273",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10274_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10274",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10274: Partnerships for Better Health Act",
+      "after": {
+        "title": "Partnerships for Better Health Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10274",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10275_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10275",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10275: Puerto Rico Energy Opportunity and Geothermal Assessment Act of 2026",
+      "after": {
+        "title": "Puerto Rico Energy Opportunity and Geothermal Assessment Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10275",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10276_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10276",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10276: Ballots by Election Day Act",
+      "after": {
+        "title": "Ballots by Election Day Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10276",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10277_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10277",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10277: Access to School Supplies Act of 2026",
+      "after": {
+        "title": "Access to School Supplies Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10277",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10278_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10278",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10278: REAL Sugar Act",
+      "after": {
+        "title": "REAL Sugar Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10278",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10279_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10279",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10279: To designate the facility of the United States Postal Service located at 9995 Southeast Federal Highway in Hobe Sound, Florida, as the \"Special Operations Chief Petty Officer Aaron Carson Vaughn Post Office Building\".",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 9995 Southeast Federal Highway in Hobe Sound, Florida, as the \"Special Operations Chief Petty Officer Aaron Carson Vaughn Post Office Building\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10279",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10280_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10280",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10280: 9–8–8 Implementation Act of 2026",
+      "after": {
+        "title": "9–8–8 Implementation Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10280",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10281_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10281",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10281: FEMA for Safe Recovery Act",
+      "after": {
+        "title": "FEMA for Safe Recovery Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10281",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10282_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10282",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10282: Stronger Start for Working Families Act",
+      "after": {
+        "title": "Stronger Start for Working Families Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10282",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10283_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10283",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10283: Congressional Pension Accountability Act",
+      "after": {
+        "title": "Congressional Pension Accountability Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10283",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10284_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10284",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10284: Smart Meter Data Privacy Protection Act",
+      "after": {
+        "title": "Smart Meter Data Privacy Protection Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10284",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10285_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10285",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10285: Telecommunications GAP Act",
+      "after": {
+        "title": "Telecommunications GAP Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10285",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10286_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10286",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10286: Consumer Affordability and Pricing Concessions Act",
+      "after": {
+        "title": "Consumer Affordability and Pricing Concessions Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10286",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10287_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10287",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10287: 9-8-8 Crisis Response Act",
+      "after": {
+        "title": "9-8-8 Crisis Response Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10287",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10288_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10288",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10288: Rural Broadband Modernization Act",
+      "after": {
+        "title": "Rural Broadband Modernization Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10288",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10289_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10289",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10289: Government Travel Transparency Act",
+      "after": {
+        "title": "Government Travel Transparency Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10289",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10290_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10290",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10290: No Pardon Paydays Act of 2026",
+      "after": {
+        "title": "No Pardon Paydays Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10290",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10291_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10291",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10291: JARED Act",
+      "after": {
+        "title": "JARED Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10291",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10292_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10292",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10292: Southern Nevada Wastewater Infrastructure Lands Act",
+      "after": {
+        "title": "Southern Nevada Wastewater Infrastructure Lands Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10292",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10294_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10294",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10294: Better Pay for American Workers Act",
+      "after": {
+        "title": "Better Pay for American Workers Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10294",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10295_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10295",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10295: 9-8-8 Call Center Improvement Act",
+      "after": {
+        "title": "9-8-8 Call Center Improvement Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10295",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10296_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10296",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10296: To designate the facility of the United States Postal Service located at 4650 East Rosedale Street in Fort Worth, Texas, as the \"Dionne Phillips Bagsby Post Office Building\".",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 4650 East Rosedale Street in Fort Worth, Texas, as the \"Dionne Phillips Bagsby Post Office Building\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10296",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_G000589_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "G000589",
+      "changeType": "member.added",
+      "summary": "Started tracking Lance Gooden",
+      "after": {
+        "name": "Lance Gooden",
+        "party": "R",
+        "chamber": "House",
+        "state": "TX"
+      },
+      "officialUrl": "https://gooden.house.gov",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_G000606_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "G000606",
+      "changeType": "member.added",
+      "summary": "Started tracking Adelita S. Grijalva",
+      "after": {
+        "name": "Adelita S. Grijalva",
+        "party": "D",
+        "chamber": "House",
+        "state": "AZ"
+      },
+      "officialUrl": "https://grijalva.house.gov/",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_H001103_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "H001103",
+      "changeType": "member.added",
+      "summary": "Started tracking Pablo José Hernández",
+      "after": {
+        "name": "Pablo José Hernández",
+        "party": "D",
+        "chamber": "House",
+        "state": "PR"
+      },
+      "officialUrl": "https://hernandez.house.gov/",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_L000602_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "L000602",
+      "changeType": "member.added",
+      "summary": "Started tracking Summer L. Lee",
+      "after": {
+        "name": "Summer L. Lee",
+        "party": "D",
+        "chamber": "House",
+        "state": "PA"
+      },
+      "officialUrl": "https://summerlee.house.gov",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_R000622_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "R000622",
+      "changeType": "member.added",
+      "summary": "Started tracking Josh Riley",
+      "after": {
+        "name": "Josh Riley",
+        "party": "D",
+        "chamber": "House",
+        "state": "NY"
+      },
+      "officialUrl": "https://riley.house.gov/",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_S001183_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "S001183",
+      "changeType": "member.added",
+      "summary": "Started tracking David Schweikert",
+      "after": {
+        "name": "David Schweikert",
+        "party": "R",
+        "chamber": "House",
+        "state": "AZ"
+      },
+      "officialUrl": "https://schweikert.house.gov/",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_S001216_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "S001216",
+      "changeType": "member.added",
+      "summary": "Started tracking Kim Schrier",
+      "after": {
+        "name": "Kim Schrier",
+        "party": "D",
+        "chamber": "House",
+        "state": "WA"
+      },
+      "officialUrl": "https://schrier.house.gov",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_V000131_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "V000131",
+      "changeType": "member.added",
+      "summary": "Started tracking Marc A. Veasey",
+      "after": {
+        "name": "Marc A. Veasey",
+        "party": "D",
+        "chamber": "House",
+        "state": "TX"
+      },
+      "officialUrl": "https://veasey.house.gov",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
     {
       "id": "evt_2026-09-03T123748975Z_119-house-2-286_vote.corrected",
       "observedAt": "2026-09-03T12:37:48.975Z",
@@ -1060,551 +1619,6 @@
         "associatedBillId": "119-s-32"
       },
       "officialUrl": "https://clerk.house.gov/evs/2026/roll285.xml",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-house-2-286_vote.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-286",
-      "changeType": "vote.added",
-      "summary": "New House vote: On Motion to Suspend the Rules and Concur in the Senate Amendments (Passed)",
-      "after": {
-        "date": "2026-09-01",
-        "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
-        "result": "Passed",
-        "yea": 370,
-        "nay": 48
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll286.xml",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-house-2-287_vote.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-287",
-      "changeType": "vote.added",
-      "summary": "New House vote: On Ordering the Previous Question (Passed)",
-      "after": {
-        "date": "2026-09-01",
-        "question": "On Ordering the Previous Question",
-        "result": "Passed",
-        "yea": 212,
-        "nay": 205
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll287.xml",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-house-2-288_vote.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-288",
-      "changeType": "vote.added",
-      "summary": "New House vote: On Agreeing to the Resolution (Passed)",
-      "after": {
-        "date": "2026-09-01",
-        "question": "On Agreeing to the Resolution",
-        "result": "Passed",
-        "yea": 210,
-        "nay": 208
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll288.xml",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-house-2-289_vote.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-289",
-      "changeType": "vote.added",
-      "summary": "New House vote: On Agreeing to the Resolution (Passed)",
-      "after": {
-        "date": "2026-09-01",
-        "question": "On Agreeing to the Resolution",
-        "result": "Passed",
-        "yea": 220,
-        "nay": 192
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll289.xml",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-house-2-290_vote.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-290",
-      "changeType": "vote.added",
-      "summary": "New House vote: On Motion to Recommit (Failed)",
-      "after": {
-        "date": "2026-09-01",
-        "question": "On Motion to Recommit",
-        "result": "Failed",
-        "yea": 202,
-        "nay": 212
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll290.xml",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-house-2-291_vote.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-291",
-      "changeType": "vote.added",
-      "summary": "New House vote: On Passage (Passed)",
-      "after": {
-        "date": "2026-09-01",
-        "question": "On Passage",
-        "result": "Passed",
-        "yea": 219,
-        "nay": 196
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll291.xml",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-house-2-292_vote.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-292",
-      "changeType": "vote.added",
-      "summary": "New House vote: On Agreeing to the Resolution (Passed)",
-      "after": {
-        "date": "2026-09-01",
-        "question": "On Agreeing to the Resolution",
-        "result": "Passed",
-        "yea": 413,
-        "nay": 2
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll292.xml",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-10203_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10203",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10203: Improving Access to Higher Education Act",
-      "after": {
-        "title": "Improving Access to Higher Education Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10203",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-10204_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10204",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10204: Legislative Branch Agencies Clarification Act",
-      "after": {
-        "title": "Legislative Branch Agencies Clarification Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10204",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-10205_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10205",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10205: To amend the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994 to establish a budgetary Tribal Government consultation process at the Department of Agriculture, and for other purposes.",
-      "after": {
-        "title": "To amend the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994 to establish a budgetary Tribal Government consultation process at the Department of Agriculture, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10205",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-10208_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10208",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10208: To provide for the continued use of certain trust land in San Diego County for healthcare purposes.",
-      "after": {
-        "title": "To provide for the continued use of certain trust land in San Diego County for healthcare purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10208",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-10211_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10211",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10211: To codify Executive Order 14418 (relating to continuing to protect the meaning and value of American citizenship).",
-      "after": {
-        "title": "To codify Executive Order 14418 (relating to continuing to protect the meaning and value of American citizenship).",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10211",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-10212_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10212",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10212: To direct the Secretary of Veterans Affairs to study the potential benefits of peptide-based therapies for veterans receiving care through the Department of Veterans Affairs, and for other purposes.",
-      "after": {
-        "title": "To direct the Secretary of Veterans Affairs to study the potential benefits of peptide-based therapies for veterans receiving care through the Department of Veterans Affairs, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10212",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-10214_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10214",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10214: To amend the Public Lands Corps Act of 1993 to modify the cost-sharing requirement for conservation projects carried out by a qualified youth or conservation corps, and for other purposes.",
-      "after": {
-        "title": "To amend the Public Lands Corps Act of 1993 to modify the cost-sharing requirement for conservation projects carried out by a qualified youth or conservation corps, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10214",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-10215_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10215",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10215: To prohibit certain noncompete agreements, and for other purposes.",
-      "after": {
-        "title": "To prohibit certain noncompete agreements, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10215",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-10217_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10217",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10217: To amend the John D. Dingell, Jr. Conservation, Management, and Recreation Act to designate as a component of the National Heritage Area System the Kentucky Wildlands National Heritage Area in the State of Kentucky, and for other purposes.",
-      "after": {
-        "title": "To amend the John D. Dingell, Jr. Conservation, Management, and Recreation Act to designate as a component of the National Heritage Area System the Kentucky Wildlands National Heritage Area in the State of Kentucky, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10217",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-4465_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-4465",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-4465: To amend chapters 4, 10, and 131 of title 5, United States Code, as necessary to keep those chapters current and to correct related technical errors.",
-      "after": {
-        "title": "To amend chapters 4, 10, and 131 of title 5, United States Code, as necessary to keep those chapters current and to correct related technical errors.",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4465",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-4523_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-4523",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-4523: To make technical amendments to title 49, United States Code, as necessary to improve the Code.",
-      "after": {
-        "title": "To make technical amendments to title 49, United States Code, as necessary to improve the Code.",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4523",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-4646_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-4646",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-4646: Whistleblower Protection Act of 2025",
-      "after": {
-        "title": "Whistleblower Protection Act of 2025",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4646",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-4795_bill.action_added_fe158d6194f82802",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-4795",
-      "changeType": "bill.action_added",
-      "summary": "New action: Rule H. Res. 1499 passed House.",
-      "after": {
-        "date": "2026-09-01",
-        "text": "Rule H. Res. 1499 passed House.",
-        "chamber": "House",
-        "actionCode": "H1L220"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4795",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-4795_bill.status_changed",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-4795",
-      "changeType": "bill.status_changed",
-      "summary": "Status changed from inCommittee to passedHouse",
-      "before": {
-        "status": "inCommittee"
-      },
-      "after": {
-        "status": "passedHouse"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4795",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-4950_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-4950",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-4950: Data BRIDGE Act",
-      "after": {
-        "title": "Data BRIDGE Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4950",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-5174_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-5174",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-5174: To make revisions in title 51, United States Code, as necessary to keep the title current, and to make technical amendments to improve the United States Code.",
-      "after": {
-        "title": "To make revisions in title 51, United States Code, as necessary to keep the title current, and to make technical amendments to improve the United States Code.",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5174",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-5402_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-5402",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-5402: Credit Access and Inclusion Act of 2026",
-      "after": {
-        "title": "Credit Access and Inclusion Act of 2026",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5402",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-6048_bill.title_changed",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-6048",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "NDO Fairness Act"
-      },
-      "after": {
-        "title": "NDO Fairness Act of 2025"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6048",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-6152_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-6152",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-6152: Foreign Robocall Elimination Act",
-      "after": {
-        "title": "Foreign Robocall Elimination Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6152",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-8141_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-8141",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-8141: Fair Credit Reporting Reseller Accuracy Act",
-      "after": {
-        "title": "Fair Credit Reporting Reseller Accuracy Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8141",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-8481_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-8481",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-8481: Kayleigh’s Law Act of 2026",
-      "after": {
-        "title": "Kayleigh’s Law Act of 2026",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8481",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-9330_bill.added",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9330",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9330: Earned Wage Access Consumer Protection Act",
-      "after": {
-        "title": "Earned Wage Access Consumer Protection Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9330",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-9436_bill.action_added_047af9bb14b3206d",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9436",
-      "changeType": "bill.action_added",
-      "summary": "New action: Considered as unfinished business.",
-      "after": {
-        "date": "2026-09-01",
-        "text": "Considered as unfinished business.",
-        "chamber": "House",
-        "actionCode": "H30000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9436",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-9436_bill.action_added_0e38c5acfce86859",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9436",
-      "changeType": "bill.action_added",
-      "summary": "New action: The previous question was ordered pursuant to the rule.",
-      "after": {
-        "date": "2026-09-01",
-        "text": "The previous question was ordered pursuant to the rule.",
-        "chamber": "House",
-        "actionCode": "H35000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9436",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-9436_bill.action_added_0ea5d8d3c9ef32f6",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9436",
-      "changeType": "bill.action_added",
-      "summary": "New action: On motion to recommit Failed by the Yeas and Nays: 202 - 212 (Roll no. 290).",
-      "after": {
-        "date": "2026-09-01",
-        "text": "On motion to recommit Failed by the Yeas and Nays: 202 - 212 (Roll no. 290).",
-        "chamber": "House",
-        "actionCode": "H36210"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9436",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-9436_bill.action_added_2d952a0e11c16d51",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9436",
-      "changeType": "bill.action_added",
-      "summary": "New action: Considered under the provisions of rule H. Res. 1499.",
-      "after": {
-        "date": "2026-09-01",
-        "text": "Considered under the provisions of rule H. Res. 1499.",
-        "chamber": "House",
-        "actionCode": "H30000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9436",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-9436_bill.action_added_444817c2bafdc783",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9436",
-      "changeType": "bill.action_added",
-      "summary": "New action: Motion to reconsider laid on the table Agreed to without objection.",
-      "after": {
-        "date": "2026-09-01",
-        "text": "Motion to reconsider laid on the table Agreed to without objection.",
-        "chamber": "House",
-        "actionCode": "H38310"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9436",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-9436_bill.action_added_a426242b335fa5f4",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9436",
-      "changeType": "bill.action_added",
-      "summary": "New action: Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.",
-      "after": {
-        "date": "2026-09-01",
-        "text": "Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.",
-        "chamber": "House",
-        "actionCode": "H8D000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9436",
-      "syncId": "2026-09-02T12:34:40.697Z"
-    },
-    {
-      "id": "evt_2026-09-02T123440697Z_119-hr-9436_bill.action_added_b641e7055657558c",
-      "observedAt": "2026-09-02T12:34:40.697Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9436",
-      "changeType": "bill.action_added",
-      "summary": "New action: The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
-      "after": {
-        "date": "2026-09-01",
-        "text": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
-        "chamber": "House",
-        "actionCode": "H8A000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9436",
       "syncId": "2026-09-02T12:34:40.697Z"
     }
   ]

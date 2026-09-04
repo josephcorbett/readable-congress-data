@@ -1,0 +1,565 @@
+{
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-04T12:32:07.046Z",
+  "items": [
+    {
+      "id": "evt_2026-09-04T123207046Z_119-house-2-286_vote.corrected",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-286",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Suspend the Rules and Concur in the Senate Amendments",
+      "before": {
+        "result": "Passed",
+        "yea": 370,
+        "nay": 48,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "description": "Continuing Appropriations and Extensions Act, 2027 (HR 6500)",
+        "date": "2026-09-01",
+        "associatedBillId": "119-hr-6500"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 370,
+        "nay": 48,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "description": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "date": "2026-09-01",
+        "associatedBillId": "119-hr-6500"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll286.xml",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-house-2-294_vote.corrected",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-294",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Passage",
+      "before": {
+        "result": "Passed",
+        "yea": 218,
+        "nay": 201,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Passage",
+        "description": "Protecting Domestic Mining Act of 2025 (HR 1501)",
+        "date": "2026-09-02",
+        "associatedBillId": "119-hr-1501"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 218,
+        "nay": 201,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Passage",
+        "description": "On Passage",
+        "date": "2026-09-02",
+        "associatedBillId": "119-hr-1501"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll294.xml",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-house-2-295_vote.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-295",
+      "changeType": "vote.added",
+      "summary": "New House vote: On Passage (Passed)",
+      "after": {
+        "date": "2026-09-03",
+        "question": "On Passage",
+        "result": "Passed",
+        "yea": 237,
+        "nay": 169
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll295.xml",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10271_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10271",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10271: Mobile Workforce State Income Tax Simplification Act of 2026",
+      "after": {
+        "title": "Mobile Workforce State Income Tax Simplification Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10271",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10272_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10272",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10272: End Gas Station Heroin Act",
+      "after": {
+        "title": "End Gas Station Heroin Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10272",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10273_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10273",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10273: Fairness for Farm Workers Act",
+      "after": {
+        "title": "Fairness for Farm Workers Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10273",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10274_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10274",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10274: Partnerships for Better Health Act",
+      "after": {
+        "title": "Partnerships for Better Health Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10274",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10275_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10275",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10275: Puerto Rico Energy Opportunity and Geothermal Assessment Act of 2026",
+      "after": {
+        "title": "Puerto Rico Energy Opportunity and Geothermal Assessment Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10275",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10276_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10276",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10276: Ballots by Election Day Act",
+      "after": {
+        "title": "Ballots by Election Day Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10276",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10277_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10277",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10277: Access to School Supplies Act of 2026",
+      "after": {
+        "title": "Access to School Supplies Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10277",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10278_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10278",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10278: REAL Sugar Act",
+      "after": {
+        "title": "REAL Sugar Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10278",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10279_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10279",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10279: To designate the facility of the United States Postal Service located at 9995 Southeast Federal Highway in Hobe Sound, Florida, as the \"Special Operations Chief Petty Officer Aaron Carson Vaughn Post Office Building\".",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 9995 Southeast Federal Highway in Hobe Sound, Florida, as the \"Special Operations Chief Petty Officer Aaron Carson Vaughn Post Office Building\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10279",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10280_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10280",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10280: 9–8–8 Implementation Act of 2026",
+      "after": {
+        "title": "9–8–8 Implementation Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10280",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10281_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10281",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10281: FEMA for Safe Recovery Act",
+      "after": {
+        "title": "FEMA for Safe Recovery Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10281",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10282_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10282",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10282: Stronger Start for Working Families Act",
+      "after": {
+        "title": "Stronger Start for Working Families Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10282",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10283_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10283",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10283: Congressional Pension Accountability Act",
+      "after": {
+        "title": "Congressional Pension Accountability Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10283",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10284_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10284",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10284: Smart Meter Data Privacy Protection Act",
+      "after": {
+        "title": "Smart Meter Data Privacy Protection Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10284",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10285_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10285",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10285: Telecommunications GAP Act",
+      "after": {
+        "title": "Telecommunications GAP Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10285",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10286_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10286",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10286: Consumer Affordability and Pricing Concessions Act",
+      "after": {
+        "title": "Consumer Affordability and Pricing Concessions Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10286",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10287_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10287",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10287: 9-8-8 Crisis Response Act",
+      "after": {
+        "title": "9-8-8 Crisis Response Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10287",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10288_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10288",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10288: Rural Broadband Modernization Act",
+      "after": {
+        "title": "Rural Broadband Modernization Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10288",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10289_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10289",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10289: Government Travel Transparency Act",
+      "after": {
+        "title": "Government Travel Transparency Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10289",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10290_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10290",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10290: No Pardon Paydays Act of 2026",
+      "after": {
+        "title": "No Pardon Paydays Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10290",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10291_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10291",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10291: JARED Act",
+      "after": {
+        "title": "JARED Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10291",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10292_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10292",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10292: Southern Nevada Wastewater Infrastructure Lands Act",
+      "after": {
+        "title": "Southern Nevada Wastewater Infrastructure Lands Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10292",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10294_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10294",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10294: Better Pay for American Workers Act",
+      "after": {
+        "title": "Better Pay for American Workers Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10294",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10295_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10295",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10295: 9-8-8 Call Center Improvement Act",
+      "after": {
+        "title": "9-8-8 Call Center Improvement Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10295",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_119-hr-10296_bill.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10296",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10296: To designate the facility of the United States Postal Service located at 4650 East Rosedale Street in Fort Worth, Texas, as the \"Dionne Phillips Bagsby Post Office Building\".",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 4650 East Rosedale Street in Fort Worth, Texas, as the \"Dionne Phillips Bagsby Post Office Building\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10296",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_G000589_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "G000589",
+      "changeType": "member.added",
+      "summary": "Started tracking Lance Gooden",
+      "after": {
+        "name": "Lance Gooden",
+        "party": "R",
+        "chamber": "House",
+        "state": "TX"
+      },
+      "officialUrl": "https://gooden.house.gov",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_G000606_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "G000606",
+      "changeType": "member.added",
+      "summary": "Started tracking Adelita S. Grijalva",
+      "after": {
+        "name": "Adelita S. Grijalva",
+        "party": "D",
+        "chamber": "House",
+        "state": "AZ"
+      },
+      "officialUrl": "https://grijalva.house.gov/",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_H001103_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "H001103",
+      "changeType": "member.added",
+      "summary": "Started tracking Pablo José Hernández",
+      "after": {
+        "name": "Pablo José Hernández",
+        "party": "D",
+        "chamber": "House",
+        "state": "PR"
+      },
+      "officialUrl": "https://hernandez.house.gov/",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_L000602_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "L000602",
+      "changeType": "member.added",
+      "summary": "Started tracking Summer L. Lee",
+      "after": {
+        "name": "Summer L. Lee",
+        "party": "D",
+        "chamber": "House",
+        "state": "PA"
+      },
+      "officialUrl": "https://summerlee.house.gov",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_R000622_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "R000622",
+      "changeType": "member.added",
+      "summary": "Started tracking Josh Riley",
+      "after": {
+        "name": "Josh Riley",
+        "party": "D",
+        "chamber": "House",
+        "state": "NY"
+      },
+      "officialUrl": "https://riley.house.gov/",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_S001183_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "S001183",
+      "changeType": "member.added",
+      "summary": "Started tracking David Schweikert",
+      "after": {
+        "name": "David Schweikert",
+        "party": "R",
+        "chamber": "House",
+        "state": "AZ"
+      },
+      "officialUrl": "https://schweikert.house.gov/",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_S001216_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "S001216",
+      "changeType": "member.added",
+      "summary": "Started tracking Kim Schrier",
+      "after": {
+        "name": "Kim Schrier",
+        "party": "D",
+        "chamber": "House",
+        "state": "WA"
+      },
+      "officialUrl": "https://schrier.house.gov",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    },
+    {
+      "id": "evt_2026-09-04T123207046Z_V000131_member.added",
+      "observedAt": "2026-09-04T12:32:07.046Z",
+      "entityType": "member",
+      "entityId": "V000131",
+      "changeType": "member.added",
+      "summary": "Started tracking Marc A. Veasey",
+      "after": {
+        "name": "Marc A. Veasey",
+        "party": "D",
+        "chamber": "House",
+        "state": "TX"
+      },
+      "officialUrl": "https://veasey.house.gov",
+      "syncId": "2026-09-04T12:32:07.046Z"
+    }
+  ]
+}
