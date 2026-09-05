@@ -1,0 +1,506 @@
+{
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-05T11:40:12.167Z",
+  "items": [
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hjres-1_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hjres-1",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hjres-1: Proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices.",
+      "after": {
+        "title": "Proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices.",
+        "status": "failedHouse"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/1",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-house-2-286_vote.corrected",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-286",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Suspend the Rules and Concur in the Senate Amendments",
+      "before": {
+        "result": "Passed",
+        "yea": 370,
+        "nay": 48,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "description": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "date": "2026-09-01",
+        "associatedBillId": "119-hr-6500"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 370,
+        "nay": 48,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "description": "Continuing Appropriations and Extensions Act, 2027 (HR 6500)",
+        "date": "2026-09-01",
+        "associatedBillId": "119-hr-6500"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll286.xml",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-house-2-293_vote.corrected",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-293",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Suspend the Rules and Pass",
+      "before": {
+        "result": "Failed",
+        "yea": 212,
+        "nay": 206,
+        "present": 0,
+        "notVoting": 15,
+        "question": "On Motion to Suspend the Rules and Pass",
+        "description": "On Motion to Suspend the Rules and Pass",
+        "date": "2026-09-02",
+        "associatedBillId": "119-hjres-1"
+      },
+      "after": {
+        "result": "Failed",
+        "yea": 212,
+        "nay": 206,
+        "present": 0,
+        "notVoting": 15,
+        "question": "On Motion to Suspend the Rules and Pass",
+        "description": "Proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices. (HJRES 1)",
+        "date": "2026-09-02",
+        "associatedBillId": "119-hjres-1"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll293.xml",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10169_bill.title_changed",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10169",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To prohibit the provision of federal financial benefit for the construction, expansion, or substantial rehabilitation of data centers on prime farmland and other certain farmland."
+      },
+      "after": {
+        "title": "To prohibit the provision of Federal financial benefit for the construction, expansion, or substantial rehabilitation of data centers on prime farmland and other certain farmland."
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10169",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10224_bill.summary_changed",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10224",
+      "changeType": "bill.summary_changed",
+      "summary": "Official summary added",
+      "before": {
+        "summary": null,
+        "summaryFormat": null
+      },
+      "after": {
+        "summary": "This bill designates the facility of the United States Postal Service located at 6 Pennsylvania Avenue in Matamoras, Pennsylvania, as the \"PFC Edward Kuhn Memorial Post Office\".",
+        "summaryFormat": "plain"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10224",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10250_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10250",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10250: No Preference Act",
+      "after": {
+        "title": "No Preference Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10250",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10251_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10251",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10251: Back-to-School Supplies Affordability Act",
+      "after": {
+        "title": "Back-to-School Supplies Affordability Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10251",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10253_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10253",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10253: To designate the facility of the United States Postal Service located at 1706 South Burnside Avenue in Gonzales, Louisiana, as the \"Cpl. Lawrence Brown Post Office Building\".",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 1706 South Burnside Avenue in Gonzales, Louisiana, as the \"Cpl. Lawrence Brown Post Office Building\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10253",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10268_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10268",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10268: Ending Restaurant Purchases with SNAP Act of 2026",
+      "after": {
+        "title": "Ending Restaurant Purchases with SNAP Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10268",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10279_bill.summary_changed",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10279",
+      "changeType": "bill.summary_changed",
+      "summary": "Official summary added",
+      "before": {
+        "summary": null,
+        "summaryFormat": null
+      },
+      "after": {
+        "summary": "This bill designates the facility of the United States Postal Service located at 9995 Southeast Federal Highway in Hobe Sound, Florida, as the \"Special Operations Chief Petty Officer Aaron Carson Vaughn Post Office Building\".",
+        "summaryFormat": "plain"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10279",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10293_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10293",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10293: Rural Emergency Hospital Designation Improvement Act",
+      "after": {
+        "title": "Rural Emergency Hospital Designation Improvement Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10293",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10296_bill.summary_changed",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10296",
+      "changeType": "bill.summary_changed",
+      "summary": "Official summary added",
+      "before": {
+        "summary": null,
+        "summaryFormat": null
+      },
+      "after": {
+        "summary": "This bill designates the facility of the United States Postal Service located at 4650 East Rosedale Street in Fort Worth, Texas, as the \"Dionne Phillips Bagsby Post Office Building\".",
+        "summaryFormat": "plain"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10296",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10297_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10297",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10297: El Salvador TPS Act of 2026",
+      "after": {
+        "title": "El Salvador TPS Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10297",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10298_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10298",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10298: To amend the Higher Education Act of 1965 to allow certain payments made by public service employees to qualify for public service repayment, and for other purposes.",
+      "after": {
+        "title": "To amend the Higher Education Act of 1965 to allow certain payments made by public service employees to qualify for public service repayment, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10298",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10299_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10299",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10299: To designate the facility of the United States Postal Service located at 83 East Park Street in Alamo, Tennessee, as the \"Kenneth Nolen Davis Post Office\".",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 83 East Park Street in Alamo, Tennessee, as the \"Kenneth Nolen Davis Post Office\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10299",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10300_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10300",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10300: To foster accountability for digital content providers.",
+      "after": {
+        "title": "To foster accountability for digital content providers.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10300",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10301_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10301",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10301: To award a Congressional Gold Medal to Peter McGuire in recognition of his contributions to the American Labor Movement.",
+      "after": {
+        "title": "To award a Congressional Gold Medal to Peter McGuire in recognition of his contributions to the American Labor Movement.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10301",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10302_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10302",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10302: To amend the Federal Power Act with respect to the coordination of Federal authorizations for transmission facilities, and for other purposes.",
+      "after": {
+        "title": "To amend the Federal Power Act with respect to the coordination of Federal authorizations for transmission facilities, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10302",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-10303_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10303",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10303: To direct the Administrator of the Federal Aviation Administration to establish a flight deck training program for certain employees of the Federal Aviation Administration, and for other purposes.",
+      "after": {
+        "title": "To direct the Administrator of the Federal Aviation Administration to establish a flight deck training program for certain employees of the Federal Aviation Administration, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10303",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-6500_bill.action_added_34c51bba92d81d4d",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-6500",
+      "changeType": "bill.action_added",
+      "summary": "New action: Became Public Law No: 119-103.",
+      "after": {
+        "date": "2026-09-02",
+        "text": "Became Public Law No: 119-103.",
+        "chamber": "House",
+        "actionCode": "E40000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6500",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-6500_bill.action_added_784e393ea7a0f790",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-6500",
+      "changeType": "bill.action_added",
+      "summary": "New action: Became Public Law No: 119-103.",
+      "after": {
+        "date": "2026-09-02",
+        "text": "Became Public Law No: 119-103.",
+        "chamber": "House",
+        "actionCode": "36000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6500",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hr-7945_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hr-7945",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-7945: Nitrous Oxide Safety Act of 2026",
+      "after": {
+        "title": "Nitrous Oxide Safety Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7945",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hres-1511_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1511",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1511: Recognizing the 25th anniversary of the terrorist attacks of September 11, 2001, honoring the memory of the victims, recognizing the courage and sacrifice of the heroes who answered the call to serve, acknowledging the charitable organizations that continue to support survivors and victims' families, and reaffirming the enduring commitment of the United States to never forget.",
+      "after": {
+        "title": "Recognizing the 25th anniversary of the terrorist attacks of September 11, 2001, honoring the memory of the victims, recognizing the courage and sacrifice of the heroes who answered the call to serve, acknowledging the charitable organizations that continue to support survivors and victims' families, and reaffirming the enduring commitment of the United States to never forget.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1511",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hres-1512_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1512",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1512: Celebrating the 50th anniversary of the admission of women to the United States service academies and honoring the pioneering women of the Class of 1980.",
+      "after": {
+        "title": "Celebrating the 50th anniversary of the admission of women to the United States service academies and honoring the pioneering women of the Class of 1980.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1512",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_119-hres-1513_bill.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1513",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1513: Expressing support for the designation of the week beginning on September 6, 2026, as \"Celebrate Community Week\".",
+      "after": {
+        "title": "Expressing support for the designation of the week beginning on September 6, 2026, as \"Celebrate Community Week\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1513",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_G000597_member.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "member",
+      "entityId": "G000597",
+      "changeType": "member.added",
+      "summary": "Started tracking Andrew R. Garbarino",
+      "after": {
+        "name": "Andrew R. Garbarino",
+        "party": "R",
+        "chamber": "House",
+        "state": "NY"
+      },
+      "officialUrl": "https://garbarino.house.gov",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_G000603_member.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "member",
+      "entityId": "G000603",
+      "changeType": "member.added",
+      "summary": "Started tracking Brandon Gill",
+      "after": {
+        "name": "Brandon Gill",
+        "party": "R",
+        "chamber": "House",
+        "state": "TX"
+      },
+      "officialUrl": "https://gill.house.gov/",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_K000392_member.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "member",
+      "entityId": "K000392",
+      "changeType": "member.added",
+      "summary": "Started tracking David Kustoff",
+      "after": {
+        "name": "David Kustoff",
+        "party": "R",
+        "chamber": "House",
+        "state": "TN"
+      },
+      "officialUrl": "https://kustoff.house.gov",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_M000312_member.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "member",
+      "entityId": "M000312",
+      "changeType": "member.added",
+      "summary": "Started tracking James P. McGovern",
+      "after": {
+        "name": "James P. McGovern",
+        "party": "D",
+        "chamber": "House",
+        "state": "MA"
+      },
+      "officialUrl": "https://mcgovern.house.gov/",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_P000621_member.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "member",
+      "entityId": "P000621",
+      "changeType": "member.added",
+      "summary": "Started tracking Nellie Pou",
+      "after": {
+        "name": "Nellie Pou",
+        "party": "D",
+        "chamber": "House",
+        "state": "NJ"
+      },
+      "officialUrl": "https://pou.house.gov/",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    },
+    {
+      "id": "evt_2026-09-05T114012167Z_T000487_member.added",
+      "observedAt": "2026-09-05T11:40:12.167Z",
+      "entityType": "member",
+      "entityId": "T000487",
+      "changeType": "member.added",
+      "summary": "Started tracking Jill N. Tokuda",
+      "after": {
+        "name": "Jill N. Tokuda",
+        "party": "D",
+        "chamber": "House",
+        "state": "HI"
+      },
+      "officialUrl": "https://tokuda.house.gov",
+      "syncId": "2026-09-05T11:40:12.167Z"
+    }
+  ]
+}

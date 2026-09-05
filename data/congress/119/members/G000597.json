@@ -1,22 +1,24 @@
 {
-  "id": "B001301",
-  "bioguideId": "B001301",
-  "name": "Jack Bergman",
-  "firstName": "Jack",
-  "lastName": "Bergman",
+  "id": "G000597",
+  "bioguideId": "G000597",
+  "name": "Andrew R. Garbarino",
+  "firstName": "Andrew",
+  "lastName": "Garbarino",
   "party": "R",
   "chamber": "House",
-  "state": "Michigan",
-  "stateCode": "MI",
-  "district": "1",
+  "state": "New York",
+  "stateCode": "NY",
+  "district": "2",
   "currentTerm": {
     "congress": 119,
     "chamber": "House",
-    "state": "Michigan",
-    "district": "1",
+    "state": "New York",
+    "district": "2",
     "startYear": 2025
   },
-  "sponsoredBillIds": [],
+  "sponsoredBillIds": [
+    "119-hres-1511"
+  ],
   "cosponsoredBillIds": [],
   "recentVoteIds": [
     "119-house-2-295",
@@ -45,5 +47,5 @@
     "119-house-2-272",
     "119-house-2-271"
   ],
-  "officialUrl": "https://bergman.house.gov"
+  "officialUrl": "https://garbarino.house.gov"
 }
