@@ -1,8 +1,72 @@
 {
-  "generatedAt": "2026-09-05T11:40:12.167Z",
+  "generatedAt": "2026-09-06T11:58:57.057Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-09-06T115857057Z_119-house-2-286_vote.corrected",
+      "observedAt": "2026-09-06T11:58:57.057Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-286",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Suspend the Rules and Concur in the Senate Amendments",
+      "before": {
+        "result": "Passed",
+        "yea": 370,
+        "nay": 48,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "description": "Continuing Appropriations and Extensions Act, 2027 (HR 6500)",
+        "date": "2026-09-01",
+        "associatedBillId": "119-hr-6500"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 370,
+        "nay": 48,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "description": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "date": "2026-09-01",
+        "associatedBillId": "119-hr-6500"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll286.xml",
+      "syncId": "2026-09-06T11:58:57.057Z"
+    },
+    {
+      "id": "evt_2026-09-06T115857057Z_119-house-2-293_vote.corrected",
+      "observedAt": "2026-09-06T11:58:57.057Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-293",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Suspend the Rules and Pass",
+      "before": {
+        "result": "Failed",
+        "yea": 212,
+        "nay": 206,
+        "present": 0,
+        "notVoting": 15,
+        "question": "On Motion to Suspend the Rules and Pass",
+        "description": "Proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices. (HJRES 1)",
+        "date": "2026-09-02",
+        "associatedBillId": "119-hjres-1"
+      },
+      "after": {
+        "result": "Failed",
+        "yea": 212,
+        "nay": 206,
+        "present": 0,
+        "notVoting": 15,
+        "question": "On Motion to Suspend the Rules and Pass",
+        "description": "On Motion to Suspend the Rules and Pass",
+        "date": "2026-09-02",
+        "associatedBillId": "119-hjres-1"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll293.xml",
+      "syncId": "2026-09-06T11:58:57.057Z"
+    },
     {
       "id": "evt_2026-09-05T114012167Z_119-hjres-1_bill.added",
       "observedAt": "2026-09-05T11:40:12.167Z",
@@ -1580,38 +1644,6 @@
         "text": "The previous question was ordered pursuant to the rule.",
         "chamber": "House",
         "actionCode": "H35000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-1501_bill.action_added_c1982772e4e2e9e4",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-1501",
-      "changeType": "bill.action_added",
-      "summary": "New action: Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.",
-      "after": {
-        "date": "2026-09-02",
-        "text": "Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.",
-        "chamber": "House",
-        "actionCode": "H8D000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-1501_bill.action_added_ec8d945a17b96d4c",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-1501",
-      "changeType": "bill.action_added",
-      "summary": "New action: POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1501, the Chair put the question on passage and by voice vote, announced the ayes had prevailed. Mr. Huffman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
-      "after": {
-        "date": "2026-09-02",
-        "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1501, the Chair put the question on passage and by voice vote, announced the ayes had prevailed. Mr. Huffman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
-        "chamber": "House",
-        "actionCode": "H8D000"
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
       "syncId": "2026-09-03T12:37:48.975Z"

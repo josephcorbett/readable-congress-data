@@ -1,0 +1,70 @@
+{
+  "date": "2026-09-06",
+  "generatedAt": "2026-09-06T11:58:57.057Z",
+  "items": [
+    {
+      "id": "evt_2026-09-06T115857057Z_119-house-2-286_vote.corrected",
+      "observedAt": "2026-09-06T11:58:57.057Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-286",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Suspend the Rules and Concur in the Senate Amendments",
+      "before": {
+        "result": "Passed",
+        "yea": 370,
+        "nay": 48,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "description": "Continuing Appropriations and Extensions Act, 2027 (HR 6500)",
+        "date": "2026-09-01",
+        "associatedBillId": "119-hr-6500"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 370,
+        "nay": 48,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "description": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "date": "2026-09-01",
+        "associatedBillId": "119-hr-6500"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll286.xml",
+      "syncId": "2026-09-06T11:58:57.057Z"
+    },
+    {
+      "id": "evt_2026-09-06T115857057Z_119-house-2-293_vote.corrected",
+      "observedAt": "2026-09-06T11:58:57.057Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-293",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Suspend the Rules and Pass",
+      "before": {
+        "result": "Failed",
+        "yea": 212,
+        "nay": 206,
+        "present": 0,
+        "notVoting": 15,
+        "question": "On Motion to Suspend the Rules and Pass",
+        "description": "Proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices. (HJRES 1)",
+        "date": "2026-09-02",
+        "associatedBillId": "119-hjres-1"
+      },
+      "after": {
+        "result": "Failed",
+        "yea": 212,
+        "nay": 206,
+        "present": 0,
+        "notVoting": 15,
+        "question": "On Motion to Suspend the Rules and Pass",
+        "description": "On Motion to Suspend the Rules and Pass",
+        "date": "2026-09-02",
+        "associatedBillId": "119-hjres-1"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll293.xml",
+      "syncId": "2026-09-06T11:58:57.057Z"
+    }
+  ]
+}
