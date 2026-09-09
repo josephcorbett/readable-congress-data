@@ -1,8 +1,398 @@
 {
-  "generatedAt": "2026-09-08T12:39:08.599Z",
+  "generatedAt": "2026-09-09T12:45:32.951Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hconres-113_bill.added",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hconres-113",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hconres-113: Establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036.",
+      "after": {
+        "title": "Establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/113",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-house-2-281_vote.corrected",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-281",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Agreeing to the Resolution",
+      "before": {
+        "result": "Passed",
+        "yea": 216,
+        "nay": 214,
+        "present": 0,
+        "notVoting": 1,
+        "question": "On Agreeing to the Resolution",
+        "description": "On Agreeing to the Resolution",
+        "date": "2026-07-22",
+        "associatedBillId": "119-hconres-113"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 216,
+        "nay": 214,
+        "present": 0,
+        "notVoting": 1,
+        "question": "On Agreeing to the Resolution",
+        "description": "Establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036. (HCONRES 113)",
+        "date": "2026-07-22",
+        "associatedBillId": "119-hconres-113"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll281.xml",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hr-10078_bill.summary_changed",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10078",
+      "changeType": "bill.summary_changed",
+      "summary": "Official summary added",
+      "before": {
+        "summary": null,
+        "summaryFormat": null
+      },
+      "after": {
+        "summary": "Dollar-for-Dollar Deficit Reduction Act The bill establishes a framework to require legislation that increases or suspends the public debt limit to include spending reductions that are equal to or greater than the projected increase in debt that will occur under the legislation. The bill allows the spending reductions to be phased in over the period that includes the current and next 10 fiscal years. Specifically, the bill requires the Department of the Treasury to notify the House Ways and Means Committee and the Senate Finance Committee when it determines that the federal government will reach the debt limit within 60 days without the implementation of extraordinary measures. The notification must also indicate when extraordinary measures may be necessary to prolong the funding of the federal government in the absence of a debt limit increase. In addition, the bill requires any formal presidential request to increase the debt limit to include (1) the amount of the proposed increase, and (2) proposed legislation to reduce spending by an amount that is equal to or greater than the amount of the requested increase. Finally, the bill establishes budget points of order that may be raised in the House of Representatives and the Senate against legislation that increases or suspends the debt limit and does not contain net spending reductions that are equal to or greater than the increase in the debt that will occur under the legislation.",
+        "summaryFormat": "html"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10078",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hr-10193_bill.added",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10193",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10193: We Can't Wait Act of 2026",
+      "after": {
+        "title": "We Can't Wait Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10193",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hr-10298_bill.title_changed",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10298",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To amend the Higher Education Act of 1965 to allow certain payments made by public service employees to qualify for public service repayment, and for other purposes."
+      },
+      "after": {
+        "title": "Public Service Loan Forgiveness Inclusion Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10298",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hr-10300_bill.title_changed",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10300",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To foster accountability for digital content providers."
+      },
+      "after": {
+        "title": "Big Tech Accountability Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10300",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hr-10301_bill.title_changed",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10301",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To award a Congressional Gold Medal to Peter McGuire in recognition of his contributions to the American Labor Movement."
+      },
+      "after": {
+        "title": "Peter McGuire Congressional Gold Medal Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10301",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hr-10302_bill.title_changed",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10302",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To amend the Federal Power Act with respect to the coordination of Federal authorizations for transmission facilities, and for other purposes."
+      },
+      "after": {
+        "title": "Certainty in Litigation for Electric Asset Reliability (CLEAR) Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10302",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hr-10303_bill.title_changed",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10303",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To direct the Administrator of the Federal Aviation Administration to establish a flight deck training program for certain employees of the Federal Aviation Administration, and for other purposes."
+      },
+      "after": {
+        "title": "FLIGHT DECK Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10303",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hr-5174_bill.action_added_6c9f1c128174ed1d",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5174",
+      "changeType": "bill.action_added",
+      "summary": "New action: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5319-5335)",
+      "after": {
+        "date": "2026-08-31",
+        "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5319-5335)",
+        "chamber": "House",
+        "actionCode": "H37300"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5174",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hr-5174_bill.action_added_b9b6dff60787f325",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5174",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered under suspension of the rules. (consideration: CR H5319-5335)",
+      "after": {
+        "date": "2026-08-31",
+        "text": "Considered under suspension of the rules. (consideration: CR H5319-5335)",
+        "chamber": "House",
+        "actionCode": "H30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5174",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hr-5576_bill.added",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5576",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-5576: Enhancing Geothermal Production on Federal Lands Act",
+      "after": {
+        "title": "Enhancing Geothermal Production on Federal Lands Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5576",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hr-7730_bill.added",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hr-7730",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-7730: Bankruptcy Threshold Adjustment Act",
+      "after": {
+        "title": "Bankruptcy Threshold Adjustment Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7730",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hr-9721_bill.added",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9721",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9721: Fiscal Sponsorship Transparency Act of 2026",
+      "after": {
+        "title": "Fiscal Sponsorship Transparency Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9721",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hr-9772_bill.added",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9772",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9772: Foreign Funding Transparency Act",
+      "after": {
+        "title": "Foreign Funding Transparency Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9772",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hr-9877_bill.added",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9877",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9877: To improve the health of minority individuals, and for other purposes.",
+      "after": {
+        "title": "To improve the health of minority individuals, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9877",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hr-9879_bill.added",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9879",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9879: Super Pay-As-You-Go Act of 2026",
+      "after": {
+        "title": "Super Pay-As-You-Go Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9879",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-hres-1461_bill.title_changed",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1461",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "The Original Resolution honoring the life, public service, and legacy of the Honorable Congressman Craig Anthony Washington, a distinguished legislator, superior attorney, civil rights advocate, and champion for justice."
+      },
+      "after": {
+        "title": "Original Resolution Honoring the Life, Public Service, and Legacy of the Honorable Craig Anthony Washington"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1461",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-s-3788_bill.summary_changed",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-s-3788",
+      "changeType": "bill.summary_changed",
+      "summary": "Official summary added",
+      "before": {
+        "summary": null,
+        "summaryFormat": null
+      },
+      "after": {
+        "summary": "Consumer Labeling for Enhanced API Reporting and Legitimate Accountability for Base Entity Listings Act or the CLEAR LABELS Act This bill requires drugs and active pharmaceutical ingredients made available in the U.S. market to be labeled with the names and locations of their manufacturers. Specifically, a finished, packaged drug product must be labeled with the name and place of business of (1) the original manufacturer (or manufacturers) of each active pharmaceutical ingredient; (2) the original manufacturer of the finished drug product; and (3) the packer or distributor, if any. This information must be printed on the product label or made available electronically. Active pharmaceutical ingredients (which are generally sold to manufacturers and researchers, not consumers) must also be labeled with the name and place of business of their original manufacturers. Under the bill, the original manufacturer is the establishment that conducts the majority of the significant phases of manufacturing to produce the ingredient or product. The Food and Drug Administration (FDA) has discretion to determine whether a violation of these requirements constitutes misbranding and to assess a civil fine. The FDA must consider certain factors in determining whether to assess a fine, including whether the violator was notified of their noncompliance and was provided an opportunity to correct the violation. Finally, the FDA must coordinate with U.S. Customs and Border Protection to address any overlap between these requirements and existing requirements for imported drugs. These provisions take effect five years after the bill is enacted.",
+        "summaryFormat": "html"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3788",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_119-s-5026_bill.summary_changed",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "bill",
+      "entityId": "119-s-5026",
+      "changeType": "bill.summary_changed",
+      "summary": "Official summary added",
+      "before": {
+        "summary": null,
+        "summaryFormat": null
+      },
+      "after": {
+        "summary": "Childhood Diabetes Reduction Act of 2026 This bill requires health warnings on labels and in advertisements for food and beverages that are sweetened, processed, or contain a high level of certain nutrients of concern, and it prohibits specifically advertising such products to children. It also expands research and outreach on proper nutrition. The bill requires various Food and Drug Administration (FDA) warnings on labels for (1) sugar-sweetened beverages, (2) food and beverages with non-sugar sweeteners, and (3) ultra-processed food and beverages. These warnings must contain specified information regarding the risks of developing certain health conditions (e.g., diabetes); warnings for sweetened food and beverages must specifically say that these products are not recommended for children. If a food or beverage contains a nutrient of concern (e.g., added sugar, saturated fat, or sodium) at a level that poses health risks, its label must indicate that the product is high in the relevant nutrient. Additionally, the bill prohibits marketing or advertising these products to children under the Federal Food, Drug, and Cosmetic Act, which is primarily enforced by the FDA. Further, marketing or advertising these products to children, or without including the required warnings, is considered an unfair or deceptive trade practice that is subject to action by the Federal Trade Commission (FTC). The bill specifically restores the FTC's statutory authority to regulate advertising targeting children. (This authority was limited in 1980.) Finally, the bill expands research on nutrition science and requires a public education campaign about nutrition and exercise.",
+        "summaryFormat": "html"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5026",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_C001118_member.added",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "member",
+      "entityId": "C001118",
+      "changeType": "member.added",
+      "summary": "Started tracking Ben Cline",
+      "after": {
+        "name": "Ben Cline",
+        "party": "R",
+        "chamber": "House",
+        "state": "VA"
+      },
+      "officialUrl": "https://cline.house.gov",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_R000599_member.added",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "member",
+      "entityId": "R000599",
+      "changeType": "member.added",
+      "summary": "Started tracking Raul Ruiz",
+      "after": {
+        "name": "Raul Ruiz",
+        "party": "D",
+        "chamber": "House",
+        "state": "CA"
+      },
+      "officialUrl": "https://ruiz.house.gov",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_S001199_member.added",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "member",
+      "entityId": "S001199",
+      "changeType": "member.added",
+      "summary": "Started tracking Lloyd Smucker",
+      "after": {
+        "name": "Lloyd Smucker",
+        "party": "R",
+        "chamber": "House",
+        "state": "PA"
+      },
+      "officialUrl": "https://smucker.house.gov/",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
+    {
+      "id": "evt_2026-09-09T124532951Z_S001224_member.added",
+      "observedAt": "2026-09-09T12:45:32.951Z",
+      "entityType": "member",
+      "entityId": "S001224",
+      "changeType": "member.added",
+      "summary": "Started tracking Keith Self",
+      "after": {
+        "name": "Keith Self",
+        "party": "R",
+        "chamber": "House",
+        "state": "TX"
+      },
+      "officialUrl": "https://keithself.house.gov",
+      "syncId": "2026-09-09T12:45:32.951Z"
+    },
     {
       "id": "evt_2026-09-06T115857057Z_119-house-2-286_vote.corrected",
       "observedAt": "2026-09-06T11:58:57.057Z",
@@ -1300,352 +1690,6 @@
         "status": "inCommittee"
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10220",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10221_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10221",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10221: Flock-Off Act",
-      "after": {
-        "title": "Flock-Off Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10221",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10222_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10222",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10222: No HUD Funding for Sanctuary Cities Act",
-      "after": {
-        "title": "No HUD Funding for Sanctuary Cities Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10222",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10223_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10223",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10223: End Tuberculosis Now Act of 2026",
-      "after": {
-        "title": "End Tuberculosis Now Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10223",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10224_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10224",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10224: To designate the facility of the United States Postal Service located at 6 Pennsylvania Avenue in Matamoras, Pennsylvania, as the \"PFC Edward Kuhn Memorial Post Office\".",
-      "after": {
-        "title": "To designate the facility of the United States Postal Service located at 6 Pennsylvania Avenue in Matamoras, Pennsylvania, as the \"PFC Edward Kuhn Memorial Post Office\".",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10224",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10225_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10225",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10225: No Federal Taxpayer-Funded Housing for Illegal Aliens Act of 2026",
-      "after": {
-        "title": "No Federal Taxpayer-Funded Housing for Illegal Aliens Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10225",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10226_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10226",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10226: To prohibit the use of shock gloves by Federal law enforcement officers to enforce the immigration laws, and for other purposes.",
-      "after": {
-        "title": "To prohibit the use of shock gloves by Federal law enforcement officers to enforce the immigration laws, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10226",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10227_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10227",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10227: INSULIN Act of 2026",
-      "after": {
-        "title": "INSULIN Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10227",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10228_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10228",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10228: Strengthening Protections for Children with Food Allergies Act",
-      "after": {
-        "title": "Strengthening Protections for Children with Food Allergies Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10228",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10229_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10229",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10229: Protecting American Beef Producers Act",
-      "after": {
-        "title": "Protecting American Beef Producers Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10229",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10230_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10230",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10230: Strengthening Oversight for the Financial Sector Act of 2026",
-      "after": {
-        "title": "Strengthening Oversight for the Financial Sector Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10230",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10231_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10231",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10231: No Homeless Detention Centers Act",
-      "after": {
-        "title": "No Homeless Detention Centers Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10231",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10232_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10232",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10232: To prohibit the transfer of certain offices and functions of the Department of Education to other Federal agencies, and for other purposes.",
-      "after": {
-        "title": "To prohibit the transfer of certain offices and functions of the Department of Education to other Federal agencies, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10232",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10233_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10233",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10233: SMASH 2.0 Act",
-      "after": {
-        "title": "SMASH 2.0 Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10233",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10234_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10234",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10234: CLEAR Forms Act",
-      "after": {
-        "title": "CLEAR Forms Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10234",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10235_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10235",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10235: Protecting Our Widows and Widowers in Retirement Act",
-      "after": {
-        "title": "Protecting Our Widows and Widowers in Retirement Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10235",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10236_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10236",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10236: Protecting Student Athletes from Unexpected Tax Liability Act",
-      "after": {
-        "title": "Protecting Student Athletes from Unexpected Tax Liability Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10236",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10237_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10237",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10237: REVOKE Act",
-      "after": {
-        "title": "REVOKE Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10237",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10238_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10238",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10238: Cybersecurity for Small Businesses Act of 2026",
-      "after": {
-        "title": "Cybersecurity for Small Businesses Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10238",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-10239_bill.added",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10239",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10239: Equal Pay for Equal Work Act",
-      "after": {
-        "title": "Equal Pay for Equal Work Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10239",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-1501_bill.action_added_0035ee24643f8d5d",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-1501",
-      "changeType": "bill.action_added",
-      "summary": "New action: Considered under the provisions of rule H. Res. 1499.",
-      "after": {
-        "date": "2026-09-02",
-        "text": "Considered under the provisions of rule H. Res. 1499.",
-        "chamber": "House",
-        "actionCode": "H30000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-1501_bill.action_added_7f8b3dd9205b2e68",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-1501",
-      "changeType": "bill.action_added",
-      "summary": "New action: Considered as unfinished business.",
-      "after": {
-        "date": "2026-09-02",
-        "text": "Considered as unfinished business.",
-        "chamber": "House",
-        "actionCode": "H30000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-1501_bill.action_added_800a9f2c0466d17f",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-1501",
-      "changeType": "bill.action_added",
-      "summary": "New action: On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294).",
-      "after": {
-        "date": "2026-09-02",
-        "text": "On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294).",
-        "chamber": "House",
-        "actionCode": "H37100"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-1501_bill.action_added_9fcf2def7aec5dd0",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-1501",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294).",
-      "after": {
-        "date": "2026-09-02",
-        "text": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294).",
-        "chamber": "House",
-        "actionCode": "8000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
-      "syncId": "2026-09-03T12:37:48.975Z"
-    },
-    {
-      "id": "evt_2026-09-03T123748975Z_119-hr-1501_bill.action_added_bb3e172eebcbc4b0",
-      "observedAt": "2026-09-03T12:37:48.975Z",
-      "entityType": "bill",
-      "entityId": "119-hr-1501",
-      "changeType": "bill.action_added",
-      "summary": "New action: The previous question was ordered pursuant to the rule.",
-      "after": {
-        "date": "2026-09-02",
-        "text": "The previous question was ordered pursuant to the rule.",
-        "chamber": "House",
-        "actionCode": "H35000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
       "syncId": "2026-09-03T12:37:48.975Z"
     }
   ]
