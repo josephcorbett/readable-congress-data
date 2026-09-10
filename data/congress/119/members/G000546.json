@@ -1,22 +1,24 @@
 {
-  "id": "B001282",
-  "bioguideId": "B001282",
-  "name": "Andy Barr",
-  "firstName": "Andy",
-  "lastName": "Barr",
+  "id": "G000546",
+  "bioguideId": "G000546",
+  "name": "Sam Graves",
+  "firstName": "Sam",
+  "lastName": "Graves",
   "party": "R",
   "chamber": "House",
-  "state": "Kentucky",
-  "stateCode": "KY",
+  "state": "Missouri",
+  "stateCode": "MO",
   "district": "6",
   "currentTerm": {
     "congress": 119,
     "chamber": "House",
-    "state": "Kentucky",
+    "state": "Missouri",
     "district": "6",
     "startYear": 2025
   },
-  "sponsoredBillIds": [],
+  "sponsoredBillIds": [
+    "119-hr-9497"
+  ],
   "cosponsoredBillIds": [],
   "recentVoteIds": [
     "119-house-2-295",
@@ -45,5 +47,5 @@
     "119-house-2-272",
     "119-house-2-271"
   ],
-  "officialUrl": "https://barr.house.gov/"
+  "officialUrl": "https://graves.house.gov/"
 }

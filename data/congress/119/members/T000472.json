@@ -1,22 +1,24 @@
 {
-  "id": "B001282",
-  "bioguideId": "B001282",
-  "name": "Andy Barr",
-  "firstName": "Andy",
-  "lastName": "Barr",
-  "party": "R",
+  "id": "T000472",
+  "bioguideId": "T000472",
+  "name": "Mark Takano",
+  "firstName": "Mark",
+  "lastName": "Takano",
+  "party": "D",
   "chamber": "House",
-  "state": "Kentucky",
-  "stateCode": "KY",
-  "district": "6",
+  "state": "California",
+  "stateCode": "CA",
+  "district": "39",
   "currentTerm": {
     "congress": 119,
     "chamber": "House",
-    "state": "Kentucky",
-    "district": "6",
+    "state": "California",
+    "district": "39",
     "startYear": 2025
   },
-  "sponsoredBillIds": [],
+  "sponsoredBillIds": [
+    "119-hr-10323"
+  ],
   "cosponsoredBillIds": [],
   "recentVoteIds": [
     "119-house-2-295",
@@ -45,5 +47,5 @@
     "119-house-2-272",
     "119-house-2-271"
   ],
-  "officialUrl": "https://barr.house.gov/"
+  "officialUrl": "https://takano.house.gov"
 }

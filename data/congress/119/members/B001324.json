@@ -1,22 +1,24 @@
 {
-  "id": "B001282",
-  "bioguideId": "B001282",
-  "name": "Andy Barr",
-  "firstName": "Andy",
-  "lastName": "Barr",
-  "party": "R",
+  "id": "B001324",
+  "bioguideId": "B001324",
+  "name": "Wesley Bell",
+  "firstName": "Wesley",
+  "lastName": "Bell",
+  "party": "D",
   "chamber": "House",
-  "state": "Kentucky",
-  "stateCode": "KY",
-  "district": "6",
+  "state": "Missouri",
+  "stateCode": "MO",
+  "district": "1",
   "currentTerm": {
     "congress": 119,
     "chamber": "House",
-    "state": "Kentucky",
-    "district": "6",
+    "state": "Missouri",
+    "district": "1",
     "startYear": 2025
   },
-  "sponsoredBillIds": [],
+  "sponsoredBillIds": [
+    "119-hres-1514"
+  ],
   "cosponsoredBillIds": [],
   "recentVoteIds": [
     "119-house-2-295",
@@ -45,5 +47,5 @@
     "119-house-2-272",
     "119-house-2-271"
   ],
-  "officialUrl": "https://barr.house.gov/"
+  "officialUrl": "https://bell.house.gov/"
 }

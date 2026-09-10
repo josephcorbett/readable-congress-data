@@ -1,22 +1,24 @@
 {
-  "id": "B001282",
-  "bioguideId": "B001282",
-  "name": "Andy Barr",
-  "firstName": "Andy",
-  "lastName": "Barr",
-  "party": "R",
+  "id": "M001227",
+  "bioguideId": "M001227",
+  "name": "Jennifer L. McClellan",
+  "firstName": "Jennifer",
+  "lastName": "McClellan",
+  "party": "D",
   "chamber": "House",
-  "state": "Kentucky",
-  "stateCode": "KY",
-  "district": "6",
+  "state": "Virginia",
+  "stateCode": "VA",
+  "district": "4",
   "currentTerm": {
     "congress": 119,
     "chamber": "House",
-    "state": "Kentucky",
-    "district": "6",
+    "state": "Virginia",
+    "district": "4",
     "startYear": 2025
   },
-  "sponsoredBillIds": [],
+  "sponsoredBillIds": [
+    "119-hr-10240"
+  ],
   "cosponsoredBillIds": [],
   "recentVoteIds": [
     "119-house-2-295",
@@ -45,5 +47,5 @@
     "119-house-2-272",
     "119-house-2-271"
   ],
-  "officialUrl": "https://barr.house.gov/"
+  "officialUrl": "https://mcclellan.house.gov/"
 }
