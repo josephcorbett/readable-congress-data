@@ -1,22 +1,24 @@
 {
-  "id": "A000370",
-  "bioguideId": "A000370",
-  "name": "Alma S. Adams",
-  "firstName": "Alma",
-  "lastName": "Adams",
-  "party": "D",
+  "id": "C001108",
+  "bioguideId": "C001108",
+  "name": "James Comer",
+  "firstName": "James",
+  "lastName": "Comer",
+  "party": "R",
   "chamber": "House",
-  "state": "North Carolina",
-  "stateCode": "NC",
-  "district": "12",
+  "state": "Kentucky",
+  "stateCode": "KY",
+  "district": "1",
   "currentTerm": {
     "congress": 119,
     "chamber": "House",
-    "state": "North Carolina",
-    "district": "12",
+    "state": "Kentucky",
+    "district": "1",
     "startYear": 2025
   },
-  "sponsoredBillIds": [],
+  "sponsoredBillIds": [
+    "119-hr-1276"
+  ],
   "cosponsoredBillIds": [],
   "recentVoteIds": [
     "119-house-2-295",
@@ -45,5 +47,5 @@
     "119-house-2-272",
     "119-house-2-271"
   ],
-  "officialUrl": "https://adams.house.gov"
+  "officialUrl": "https://comer.house.gov/"
 }

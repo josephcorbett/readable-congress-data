@@ -4,7 +4,7 @@
   "billNumber": 5366,
   "congress": 119,
   "title": "Doug LaMalfa Federal Disaster Tax Relief Certainty Act",
-  "status": "passedSenate",
+  "status": "becameLaw",
   "chamber": "House",
   "policyArea": "Taxation",
   "sponsor": {
@@ -17,14 +17,43 @@
   },
   "cosponsorCount": 14,
   "latestAction": {
-    "date": "2026-08-07",
-    "text": "Passed Senate without amendment by Unanimous Consent.",
+    "date": "2026-09-11",
+    "text": "Signed by President.",
     "chamber": "House"
   },
   "actions": [
     {
+      "date": "2026-09-11",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "E30000"
+    },
+    {
+      "date": "2026-09-11",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "36000"
+    },
+    {
+      "date": "2026-09-03",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "E20000"
+    },
+    {
+      "date": "2026-09-03",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "28000"
+    },
+    {
+      "date": "2026-08-10",
+      "text": "Message on Senate action sent to the House.",
+      "chamber": "House"
+    },
+    {
       "date": "2026-08-07",
-      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4547)",
       "chamber": "House"
     },
     {
@@ -136,6 +165,11 @@
   ],
   "textVersions": [
     {
+      "type": "Enrolled Bill",
+      "date": "1970-01-01",
+      "url": "https://www.congress.gov/119/bills/hr5366/BILLS-119hr5366enr.htm"
+    },
+    {
       "type": "Referred in Senate",
       "date": "2026-04-28",
       "url": "https://www.congress.gov/119/bills/hr5366/BILLS-119hr5366rfs.htm"
@@ -161,6 +195,6 @@
   "summary": "Doug LaMalfa Federal Disaster Tax Relief Certainty Act This bill extends the federal tax deduction for qualified disaster-related personal casualty losses and the exclusion from gross income of qualified wildfire relief payments. Under current law, unreimbursed personal casualty losses arising in a qualified disaster area (qualified disaster-related personal casualty losses) are deductible (as an itemized tax deduction or as part of the standard tax deduction) if such losses exceed $500 per casualty. A qualified disaster area is an area with respect to which a major disaster has been declared during the period beginning in 2020 and ending 60 days after July 4, 2025, if the incident period begins on or after December 28, 2019, and on or before July 4, 2025. The bill extends the federal tax deduction for qualified disaster-related personal casualty losses by defining a qualified disaster area as an area with respect to which a major disaster has been declared if the incident period begins on or after December 28, 2019, and before January 1, 2027. The bill provides that the exclusion from gross income of qualified wildfire relief payments applies to such payments attributable to forest or range fires declared a federal disaster after 2014 and before 2027, regardless of when such payments are received. (Currently, qualified wildfire relief payments attributable to forest or range fires declared a federal disaster after 2014 and received after 2019 and before 2026 may be excluded from gross income.) The bill also provides statutory authority for several related tax rules.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5366",
-  "updatedAt": "2026-08-08T16:37:34Z",
+  "updatedAt": "2026-09-11T19:41:59Z",
   "introducedAt": "2025-09-15"
 }

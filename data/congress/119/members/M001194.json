@@ -1,22 +1,24 @@
 {
-  "id": "A000370",
-  "bioguideId": "A000370",
-  "name": "Alma S. Adams",
-  "firstName": "Alma",
-  "lastName": "Adams",
-  "party": "D",
+  "id": "M001194",
+  "bioguideId": "M001194",
+  "name": "John R. Moolenaar",
+  "firstName": "John",
+  "lastName": "Moolenaar",
+  "party": "R",
   "chamber": "House",
-  "state": "North Carolina",
-  "stateCode": "NC",
-  "district": "12",
+  "state": "Michigan",
+  "stateCode": "MI",
+  "district": "2",
   "currentTerm": {
     "congress": 119,
     "chamber": "House",
-    "state": "North Carolina",
-    "district": "12",
+    "state": "Michigan",
+    "district": "2",
     "startYear": 2025
   },
-  "sponsoredBillIds": [],
+  "sponsoredBillIds": [
+    "119-hres-1526"
+  ],
   "cosponsoredBillIds": [],
   "recentVoteIds": [
     "119-house-2-295",
@@ -45,5 +47,5 @@
     "119-house-2-272",
     "119-house-2-271"
   ],
-  "officialUrl": "https://adams.house.gov"
+  "officialUrl": "https://moolenaar.house.gov/"
 }
