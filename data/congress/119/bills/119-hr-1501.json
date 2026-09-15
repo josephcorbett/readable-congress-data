@@ -4,7 +4,7 @@
   "billNumber": 1501,
   "congress": 119,
   "title": "Protecting Domestic Mining Act of 2025",
-  "status": "introduced",
+  "status": "inCommittee",
   "chamber": "House",
   "policyArea": "Energy",
   "sponsor": {
@@ -17,11 +17,16 @@
   },
   "cosponsorCount": 2,
   "latestAction": {
-    "date": "2026-09-02",
-    "text": "Motion to reconsider laid on the table Agreed to without objection.",
+    "date": "2026-09-14",
+    "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-09-14",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "chamber": "House"
+    },
     {
       "date": "2026-09-02",
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
@@ -30,19 +35,19 @@
     },
     {
       "date": "2026-09-02",
-      "text": "On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294).",
+      "text": "On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294). (text: CR H5452)",
       "chamber": "House",
       "actionCode": "H37100"
     },
     {
       "date": "2026-09-02",
-      "text": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294).",
+      "text": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294). (text: CR H5452)",
       "chamber": "House",
       "actionCode": "8000"
     },
     {
       "date": "2026-09-02",
-      "text": "Considered as unfinished business.",
+      "text": "Considered as unfinished business. (consideration: CR H5460-5461)",
       "chamber": "House",
       "actionCode": "H30000"
     },
@@ -72,7 +77,7 @@
     },
     {
       "date": "2026-09-02",
-      "text": "Considered under the provisions of rule H. Res. 1499.",
+      "text": "Considered under the provisions of rule H. Res. 1499. (consideration: CR H5452-5459)",
       "chamber": "House",
       "actionCode": "H30000"
     },
@@ -151,6 +156,11 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed in House",
+      "date": "2026-09-02",
+      "url": "https://www.congress.gov/119/bills/hr1501/BILLS-119hr1501eh.htm"
+    },
+    {
       "type": "Reported in House",
       "date": "2026-06-09",
       "url": "https://www.congress.gov/119/bills/hr1501/BILLS-119hr1501rh.htm"
@@ -166,6 +176,6 @@
   "summary": "Protecting Domestic Mining Act of 2025 This bill provides statutory authority for federal agencies to expedite the environmental review of certain mining infrastructure projects. Specifically, the bill permanently makes certain mining infrastructure projects eligible for expedited environmental review under the Fixing America's Surface Transportation Act (FAST Act). This provides statutory authority for similar authorities that were included in the rule titled Adding Mining as a Sector of Projects Eligible for Coverage Under Title 41 of the Fixing America's Surface Transportation Act and issued by the Federal Permitting Improvement Steering Council (Permitting Council) on January 8, 2021. The bill also prohibits the Permitting Council from finalizing its proposed rule titled Revising Scope of the Mining Sector of Projects That Are Eligible for Coverage Under Title 41 of the Fixing America’s Surface Transportation Act and issued on September 22, 2023. Among other modifications, the rule proposes to limit the types of mining projects that are eligible for the expedited environmental review process. Specifically, the proposed rule limits the expedited process to critical minerals mining projects.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
-  "updatedAt": "2026-09-03T08:09:19Z",
+  "updatedAt": "2026-09-15T10:56:42Z",
   "introducedAt": "2025-02-21"
 }

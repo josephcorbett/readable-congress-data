@@ -1,8 +1,590 @@
 {
-  "generatedAt": "2026-09-14T14:45:42.216Z",
+  "generatedAt": "2026-09-15T13:09:51.287Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-09-15T130951287Z_119-house-2-294_vote.corrected",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-294",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Passage",
+      "before": {
+        "result": "Passed",
+        "yea": 218,
+        "nay": 201,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Passage",
+        "description": "On Passage",
+        "date": "2026-09-02",
+        "associatedBillId": "119-hr-1501"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 218,
+        "nay": 201,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Passage",
+        "description": "Protecting Domestic Mining Act of 2025 (HR 1501)",
+        "date": "2026-09-02",
+        "associatedBillId": "119-hr-1501"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll294.xml",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-house-2-296_vote.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-296",
+      "changeType": "vote.added",
+      "summary": "New House vote: On Motion to Suspend the Rules and Pass, as Amended (Passed)",
+      "after": {
+        "date": "2026-09-14",
+        "question": "On Motion to Suspend the Rules and Pass, as Amended",
+        "result": "Passed",
+        "yea": 371,
+        "nay": 33
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll296.xml",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-house-2-297_vote.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-297",
+      "changeType": "vote.added",
+      "summary": "New House vote: On Motion to Suspend the Rules and Pass, as Amended (Passed)",
+      "after": {
+        "date": "2026-09-14",
+        "question": "On Motion to Suspend the Rules and Pass, as Amended",
+        "result": "Passed",
+        "yea": 345,
+        "nay": 60
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll297.xml",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1008_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1008",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1008: To designate the facility of the United States Postal Service located at 298 Route 292 in Holmes, New York, as the Sheriff Adrian Butch Anderson Post Office Building.",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 298 Route 292 in Holmes, New York, as the Sheriff Adrian Butch Anderson Post Office Building.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1008",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1009_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1009",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1009: To designate the facility of the United States Postal Service located at 86 Main Street in Haverstraw, New York, as the Paul Piperato Post Office Building.",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 86 Main Street in Haverstraw, New York, as the Paul Piperato Post Office Building.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1009",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-10326_bill.action_added_b5ebd77830229315",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10326",
+      "changeType": "bill.action_added",
+      "summary": "New action: Rules Committee Resolution H. Res. 1530 Reported to House. Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
+      "after": {
+        "date": "2026-09-14",
+        "text": "Rules Committee Resolution H. Res. 1530 Reported to House. Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
+        "chamber": "House",
+        "actionCode": "H1L210"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10326",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-10326_bill.summary_changed",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10326",
+      "changeType": "bill.summary_changed",
+      "summary": "Official summary added",
+      "before": {
+        "summary": null,
+        "summaryFormat": null
+      },
+      "after": {
+        "summary": "Preventing Rip-offs and Obtaining Oversight of Funds Act or the PROOF Act This bill requires states to provide such information as the Department of Justice (DOJ) may require for the purpose of investigating or prosecuting alleged fraud committed with regard to certain federally funded programs. Programs covered by this requirement include: Medicaid, Supplemental Nutrition Assistance Program (SNAP), Temporary Assistance for Needy Families (TANF), certain federal payments and grants to state governments related to the coronavirus response, and any other program to which funds are made available to states and identified by DOJ as vulnerable to fraud. A federal agency may only use such information for law enforcement purposes related to fraud and may not disclose it for any unrelated administrative or commercial purpose. DOJ must annually report to Congress on the number of requests for information issued to state agencies under this bill, the programs with respect to which such requests were made, and the number of fraud investigations initiated and convictions secured using the information obtained.",
+        "summaryFormat": "html"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10326",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1372_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1372",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1372: To designate the facility of the United States Postal Service located at 300 Macedonia Lane in Knoxville, Tennessee, as the Reverend Harold Middlebrook Post Office Building.",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 300 Macedonia Lane in Knoxville, Tennessee, as the Reverend Harold Middlebrook Post Office Building.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1372",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1431_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1431",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1431: To designate the facility of the United States Postal Service located at 2407 State Route 71, Suite 1, in Spring Lake, New Jersey, as the James J. Howard Post Office.",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 2407 State Route 71, Suite 1, in Spring Lake, New Jersey, as the James J. Howard Post Office.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1431",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1501_bill.action_added_32fbec87afb351e3",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1501",
+      "changeType": "bill.action_added",
+      "summary": "New action: Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "after": {
+        "date": "2026-09-14",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1501_bill.action_added_3450bca4d1bfcfba",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1501",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered as unfinished business. (consideration: CR H5460-5461)",
+      "after": {
+        "date": "2026-09-02",
+        "text": "Considered as unfinished business. (consideration: CR H5460-5461)",
+        "chamber": "House",
+        "actionCode": "H30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1501_bill.action_added_45e716b9bf4beb16",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1501",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered under the provisions of rule H. Res. 1499. (consideration: CR H5452-5459)",
+      "after": {
+        "date": "2026-09-02",
+        "text": "Considered under the provisions of rule H. Res. 1499. (consideration: CR H5452-5459)",
+        "chamber": "House",
+        "actionCode": "H30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1501_bill.action_added_595f0bd38220caee",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1501",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294). (text: CR H5452)",
+      "after": {
+        "date": "2026-09-02",
+        "text": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294). (text: CR H5452)",
+        "chamber": "House",
+        "actionCode": "8000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1501_bill.action_added_a52d50dbc6b055aa",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1501",
+      "changeType": "bill.action_added",
+      "summary": "New action: On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294). (text: CR H5452)",
+      "after": {
+        "date": "2026-09-02",
+        "text": "On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294). (text: CR H5452)",
+        "chamber": "House",
+        "actionCode": "H37100"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1501_bill.status_changed",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1501",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to inCommittee",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1706_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1706",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1706: To designate the facility of the United States Postal Service located at 1200 William Street, Room 200, in Buffalo, New York, as the William J. Donovan Post Office Building.",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 1200 William Street, Room 200, in Buffalo, New York, as the William J. Donovan Post Office Building.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1706",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1830_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1830",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1830: To designate the facility of the United States Postal Service located at 840 Front Street in Casselton, North Dakota, as the Commander Delbert Austin Olson Post Office.",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 840 Front Street in Casselton, North Dakota, as the Commander Delbert Austin Olson Post Office.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1830",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1869_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1869",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1869: Protecting American Industry and Labor from International Trade Crimes Act of 2026",
+      "after": {
+        "title": "Protecting American Industry and Labor from International Trade Crimes Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1869",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-9576_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9576",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9576: National Fraud Enforcement Division Act of 2026",
+      "after": {
+        "title": "National Fraud Enforcement Division Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9576",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hres-1530_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1530",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1530: Providing for consideration of the bill (H.R. 9576) to establish the National Fraud Enforcement Division of the Department of Justice; providing for consideration of the bill (H.R. 10326) to enhance information-sharing capabilities between Federal law enforcement and State agencies to detect, investigate, and prosecute fraud in certain Federal programs, and to protect individual privacy; providing for consideration of the joint resolution (H.J. Res. 210) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to ''California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision''; providing for consideration of the joint resolution (H.J. Res. 213) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule issued by the Environmental Protection Agency relating to the ''California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision''; and providing for consideration of the Senate amendments to the bill (H.R. 5334) to amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.",
+      "after": {
+        "title": "Providing for consideration of the bill (H.R. 9576) to establish the National Fraud Enforcement Division of the Department of Justice; providing for consideration of the bill (H.R. 10326) to enhance information-sharing capabilities between Federal law enforcement and State agencies to detect, investigate, and prosecute fraud in certain Federal programs, and to protect individual privacy; providing for consideration of the joint resolution (H.J. Res. 210) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to ''California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision''; providing for consideration of the joint resolution (H.J. Res. 213) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule issued by the Environmental Protection Agency relating to the ''California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision''; and providing for consideration of the Senate amendments to the bill (H.R. 5334) to amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1530",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-1513_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-1513",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1513: Lower Elwha Klallam Tribe Project Lands Restoration Act",
+      "after": {
+        "title": "Lower Elwha Klallam Tribe Project Lands Restoration Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1513",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-1962_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-1962",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1962: Secure Space Act of 2025",
+      "after": {
+        "title": "Secure Space Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1962",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-2733_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-2733",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2733: Duplication Scoring Act of 2025",
+      "after": {
+        "title": "Duplication Scoring Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2733",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3175_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3175",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3175: CIPZIP Act of 2025",
+      "after": {
+        "title": "CIPZIP Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3175",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3211_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3211",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3211: Recognizing the Role of Direct Support Professionals Act",
+      "after": {
+        "title": "Recognizing the Role of Direct Support Professionals Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3211",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3257_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3257",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3257: Mental Health in Aviation Act of 2025",
+      "after": {
+        "title": "Mental Health in Aviation Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3257",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3258_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3258",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3258: Aviation Medication Transparency Act of 2025",
+      "after": {
+        "title": "Aviation Medication Transparency Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3258",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3296_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3296",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3296: Improving Access to Workers’ Compensation for Injured Federal Workers Act of 2025",
+      "after": {
+        "title": "Improving Access to Workers’ Compensation for Injured Federal Workers Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3296",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3404_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3404",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3404: Satellite Cybersecurity Act of 2025",
+      "after": {
+        "title": "Satellite Cybersecurity Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3404",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3618_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3618",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3618: No Fentanyl on Social Media Act",
+      "after": {
+        "title": "No Fentanyl on Social Media Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3618",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3700_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3700",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3700: FAA SMS Compliance Review Act of 2026",
+      "after": {
+        "title": "FAA SMS Compliance Review Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3700",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3791_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3791",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3791: Regional Ocean Partnerships Reauthorization Act of 2026",
+      "after": {
+        "title": "Regional Ocean Partnerships Reauthorization Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3791",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-4079_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-4079",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-4079: PEARL Act",
+      "after": {
+        "title": "PEARL Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4079",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-5163_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-5163",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5163: No Bonuses for Bad Service Act",
+      "after": {
+        "title": "No Bonuses for Bad Service Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5163",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_C000127_member.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "member",
+      "entityId": "C000127",
+      "changeType": "member.added",
+      "summary": "Started tracking Maria Cantwell",
+      "after": {
+        "name": "Maria Cantwell",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "WA"
+      },
+      "officialUrl": "https://www.cantwell.senate.gov",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_F000482_member.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "member",
+      "entityId": "F000482",
+      "changeType": "member.added",
+      "summary": "Started tracking Julie Fedorchak",
+      "after": {
+        "name": "Julie Fedorchak",
+        "party": "R",
+        "chamber": "House",
+        "state": "ND"
+      },
+      "officialUrl": "https://fedorchak.house.gov/",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_H001089_member.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "member",
+      "entityId": "H001089",
+      "changeType": "member.added",
+      "summary": "Started tracking Josh Hawley",
+      "after": {
+        "name": "Josh Hawley",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "MO"
+      },
+      "officialUrl": "https://www.hawley.senate.gov",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_P000034_member.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "member",
+      "entityId": "P000034",
+      "changeType": "member.added",
+      "summary": "Started tracking Frank Pallone, Jr.",
+      "after": {
+        "name": "Frank Pallone, Jr.",
+        "party": "D",
+        "chamber": "House",
+        "state": "NJ"
+      },
+      "officialUrl": "https://pallone.house.gov",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
     {
       "id": "evt_2026-09-14T144542216Z_119-hr-9340_bill.summary_changed",
       "observedAt": "2026-09-14T14:45:42.216Z",
@@ -950,564 +1532,6 @@
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10338",
       "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_119-hr-10339_bill.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10339",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10339: To amend the Terrorism Risk Insurance Act of 2002 to clarify the timing of the assessment with respect to the status of whether an entity is an agency or instrumentality of a terrorist party.",
-      "after": {
-        "title": "To amend the Terrorism Risk Insurance Act of 2002 to clarify the timing of the assessment with respect to the status of whether an entity is an agency or instrumentality of a terrorist party.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10339",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_119-hr-10340_bill.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10340",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10340: To establish a program in the Library of Congress for the collection of oral histories related to the terrorist attacks of September 11, 2001, and for other purposes.",
-      "after": {
-        "title": "To establish a program in the Library of Congress for the collection of oral histories related to the terrorist attacks of September 11, 2001, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10340",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_119-hr-10341_bill.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10341",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10341: To amend section 212(l) of the Immigration and Nationality Act with respect to the Guam and Northern Mariana Islands Visa Waiver Program.",
-      "after": {
-        "title": "To amend section 212(l) of the Immigration and Nationality Act with respect to the Guam and Northern Mariana Islands Visa Waiver Program.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10341",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_119-hr-10342_bill.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10342",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10342: To amend the Consolidated Farm and Rural Development Act to expand eligibility of Department of Agriculture loans and grants for fishing and mariculture businesses, and for other purposes.",
-      "after": {
-        "title": "To amend the Consolidated Farm and Rural Development Act to expand eligibility of Department of Agriculture loans and grants for fishing and mariculture businesses, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10342",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_119-hr-10343_bill.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10343",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10343: To amend the Small Business Act to require Federal agencies to provide enhanced debriefing materials to small business concerns for SBIR or STTR award denials, and for other purposes.",
-      "after": {
-        "title": "To amend the Small Business Act to require Federal agencies to provide enhanced debriefing materials to small business concerns for SBIR or STTR award denials, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10343",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_119-hr-10344_bill.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10344",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10344: To amend the Internal Revenue Code of 1986 to require the disclosure of return information to the Small Business Administration for the purposes of carrying out the Disaster Loan Program.",
-      "after": {
-        "title": "To amend the Internal Revenue Code of 1986 to require the disclosure of return information to the Small Business Administration for the purposes of carrying out the Disaster Loan Program.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10344",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_119-hr-10345_bill.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10345",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10345: To require continued participation by the United States in the World Health Organization, and for other purposes.",
-      "after": {
-        "title": "To require continued participation by the United States in the World Health Organization, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10345",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_119-hr-10346_bill.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10346",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10346: To ensure that goods made using or containing cobalt extracted or processed with the use of child or forced labor in the Democratic Republic of the Congo do not enter the United States market.",
-      "after": {
-        "title": "To ensure that goods made using or containing cobalt extracted or processed with the use of child or forced labor in the Democratic Republic of the Congo do not enter the United States market.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10346",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_119-hr-10347_bill.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10347",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10347: To direct the Secretary of Education to make grants for the purpose of increasing access to data literacy education, and for other purposes.",
-      "after": {
-        "title": "To direct the Secretary of Education to make grants for the purpose of increasing access to data literacy education, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10347",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_119-hr-10348_bill.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10348",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10348: To amend title XVIII of the Social Security Act to strengthen program integrity oversight for the Health Care Fraud and Abuse Control Program, and for other purposes.",
-      "after": {
-        "title": "To amend title XVIII of the Social Security Act to strengthen program integrity oversight for the Health Care Fraud and Abuse Control Program, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10348",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_119-hr-10349_bill.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10349",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10349: To amend the Public Health Service Act to direct the Secretary of Health and Human Services to establish a Public Safety Mental Health Fellowship Program, and for other purposes.",
-      "after": {
-        "title": "To amend the Public Health Service Act to direct the Secretary of Health and Human Services to establish a Public Safety Mental Health Fellowship Program, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10349",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_119-hr-10350_bill.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10350",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10350: To protect elders from wire fraud by imposing requirements on covered financial institutions, and for other purposes.",
-      "after": {
-        "title": "To protect elders from wire fraud by imposing requirements on covered financial institutions, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10350",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_E000298_member.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "member",
-      "entityId": "E000298",
-      "changeType": "member.added",
-      "summary": "Started tracking Ron Estes",
-      "after": {
-        "name": "Ron Estes",
-        "party": "R",
-        "chamber": "House",
-        "state": "KS"
-      },
-      "officialUrl": "https://estes.house.gov/",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_M000687_member.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "member",
-      "entityId": "M000687",
-      "changeType": "member.added",
-      "summary": "Started tracking Kweisi Mfume",
-      "after": {
-        "name": "Kweisi Mfume",
-        "party": "D",
-        "chamber": "House",
-        "state": "MD"
-      },
-      "officialUrl": "https://mfume.house.gov/",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_S001201_member.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "member",
-      "entityId": "S001201",
-      "changeType": "member.added",
-      "summary": "Started tracking Thomas R. Suozzi",
-      "after": {
-        "name": "Thomas R. Suozzi",
-        "party": "D",
-        "chamber": "House",
-        "state": "NY"
-      },
-      "officialUrl": "https://suozzi.house.gov",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-11T123759020Z_V000133_member.added",
-      "observedAt": "2026-09-11T12:37:59.020Z",
-      "entityType": "member",
-      "entityId": "V000133",
-      "changeType": "member.added",
-      "summary": "Started tracking Jefferson Van Drew",
-      "after": {
-        "name": "Jefferson Van Drew",
-        "party": "R",
-        "chamber": "House",
-        "state": "NJ"
-      },
-      "officialUrl": "https://vandrew.house.gov",
-      "syncId": "2026-09-11T12:37:59.020Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-house-2-281_vote.corrected",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-281",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Agreeing to the Resolution",
-      "before": {
-        "result": "Passed",
-        "yea": 216,
-        "nay": 214,
-        "present": 0,
-        "notVoting": 1,
-        "question": "On Agreeing to the Resolution",
-        "description": "Establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036. (HCONRES 113)",
-        "date": "2026-07-22",
-        "associatedBillId": "119-hconres-113"
-      },
-      "after": {
-        "result": "Passed",
-        "yea": 216,
-        "nay": 214,
-        "present": 0,
-        "notVoting": 1,
-        "question": "On Agreeing to the Resolution",
-        "description": "On Agreeing to the Resolution",
-        "date": "2026-07-22",
-        "associatedBillId": "119-hconres-113"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll281.xml",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-10240_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10240",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10240: Behavioral Health Crisis Services Expansion Act of 2026",
-      "after": {
-        "title": "Behavioral Health Crisis Services Expansion Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10240",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-10307_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10307",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10307: To clarify surface transportation for subsistence users of Gates of the Arctic National Park and Preserve under the Alaska National Interest Lands Conservation Act.",
-      "after": {
-        "title": "To clarify surface transportation for subsistence users of Gates of the Arctic National Park and Preserve under the Alaska National Interest Lands Conservation Act.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10307",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-10310_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10310",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10310: To direct the Federal Trade Commission to revise the regulations regarding the \"do-not-call\" registry to prohibit politically-oriented recorded message telephone calls to telephone numbers listed on that registry.",
-      "after": {
-        "title": "To direct the Federal Trade Commission to revise the regulations regarding the \"do-not-call\" registry to prohibit politically-oriented recorded message telephone calls to telephone numbers listed on that registry.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10310",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-10317_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10317",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10317: Inventory Act of 2026",
-      "after": {
-        "title": "Inventory Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10317",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-10319_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10319",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10319: To amend title 5, United States Code, to provide for requirements sensitive Government positions relating to gender dysphoria, and for other purposes.",
-      "after": {
-        "title": "To amend title 5, United States Code, to provide for requirements sensitive Government positions relating to gender dysphoria, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10319",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-10320_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10320",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10320: Town Halls for All Act of 2026",
-      "after": {
-        "title": "Town Halls for All Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10320",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-10321_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10321",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10321: Responsible Data Center Siting Act of 2026",
-      "after": {
-        "title": "Responsible Data Center Siting Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10321",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-10322_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10322",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10322: Data Center Fair Share Act",
-      "after": {
-        "title": "Data Center Fair Share Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10322",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-10323_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10323",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10323: Thirty-Two Hour Workweek Act",
-      "after": {
-        "title": "Thirty-Two Hour Workweek Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10323",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-10325_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10325",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10325: To increase the mandatory contribution amount of Federal Home Loan Banks to the Affordable Housing Program, and for other purposes.",
-      "after": {
-        "title": "To increase the mandatory contribution amount of Federal Home Loan Banks to the Affordable Housing Program, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10325",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-3495_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-3495",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-3495: Direct Seller and Real Estate Agent Harmonization Act",
-      "after": {
-        "title": "Direct Seller and Real Estate Agent Harmonization Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3495",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-7834_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-7834",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-7834: Safe Cloud Storage Act",
-      "after": {
-        "title": "Safe Cloud Storage Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7834",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-9098_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9098",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9098: Congressional Records Protection Act of 2026",
-      "after": {
-        "title": "Congressional Records Protection Act of 2026",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9098",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-9203_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9203",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9203: Student Protection and University Accountability Act",
-      "after": {
-        "title": "Student Protection and University Accountability Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9203",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-9496_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9496",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9496: End Tax Penalties on American Hostages Act",
-      "after": {
-        "title": "End Tax Penalties on American Hostages Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9496",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-9497_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9497",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9497: Water Resources Development Act of 2026",
-      "after": {
-        "title": "Water Resources Development Act of 2026",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9497",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hr-9501_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9501",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-9501: AI Tax Integrity Act of 2026",
-      "after": {
-        "title": "AI Tax Integrity Act of 2026",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9501",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hres-1514_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hres-1514",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hres-1514: Recognizing suicide as a serious public health problem, expressing support for the designation of September 8, 2026, as \"988 Day\" and the role of the 988 Suicide and Crisis Lifeline, and for other purposes.",
-      "after": {
-        "title": "Recognizing suicide as a serious public health problem, expressing support for the designation of September 8, 2026, as \"988 Day\" and the role of the 988 Suicide and Crisis Lifeline, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1514",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hres-1515_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hres-1515",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hres-1515: Recognizing New Jersey's first responders, including its law enforcement officers, firefighters, and emergency medical personnel, who responded to the September 11, 2001, attacks at the World Trade Center and who carried out the rescue, recovery, and medical relief efforts in the days and months that followed.",
-      "after": {
-        "title": "Recognizing New Jersey's first responders, including its law enforcement officers, firefighters, and emergency medical personnel, who responded to the September 11, 2001, attacks at the World Trade Center and who carried out the rescue, recovery, and medical relief efforts in the days and months that followed.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1515",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hres-1516_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hres-1516",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hres-1516: Expressing support for the designation of September 9 as \"National African Immigrant and Refugee HIV/AIDS and Hepatitis Awareness (NAIRHHA) Day\".",
-      "after": {
-        "title": "Expressing support for the designation of September 9 as \"National African Immigrant and Refugee HIV/AIDS and Hepatitis Awareness (NAIRHHA) Day\".",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1516",
-      "syncId": "2026-09-10T12:43:58.986Z"
-    },
-    {
-      "id": "evt_2026-09-10T124358986Z_119-hres-1517_bill.added",
-      "observedAt": "2026-09-10T12:43:58.986Z",
-      "entityType": "bill",
-      "entityId": "119-hres-1517",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hres-1517: Expressing support for the recognition of September 7, 2026, as \"Liturgical Dance Day\" and the International Dance Commission, and for other purposes.",
-      "after": {
-        "title": "Expressing support for the recognition of September 7, 2026, as \"Liturgical Dance Day\" and the International Dance Commission, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1517",
-      "syncId": "2026-09-10T12:43:58.986Z"
     }
   ]
 }

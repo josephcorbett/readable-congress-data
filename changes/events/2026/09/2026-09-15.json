@@ -1,0 +1,588 @@
+{
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T13:09:51.287Z",
+  "items": [
+    {
+      "id": "evt_2026-09-15T130951287Z_119-house-2-294_vote.corrected",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-294",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Passage",
+      "before": {
+        "result": "Passed",
+        "yea": 218,
+        "nay": 201,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Passage",
+        "description": "On Passage",
+        "date": "2026-09-02",
+        "associatedBillId": "119-hr-1501"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 218,
+        "nay": 201,
+        "present": 0,
+        "notVoting": 14,
+        "question": "On Passage",
+        "description": "Protecting Domestic Mining Act of 2025 (HR 1501)",
+        "date": "2026-09-02",
+        "associatedBillId": "119-hr-1501"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll294.xml",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-house-2-296_vote.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-296",
+      "changeType": "vote.added",
+      "summary": "New House vote: On Motion to Suspend the Rules and Pass, as Amended (Passed)",
+      "after": {
+        "date": "2026-09-14",
+        "question": "On Motion to Suspend the Rules and Pass, as Amended",
+        "result": "Passed",
+        "yea": 371,
+        "nay": 33
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll296.xml",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-house-2-297_vote.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-297",
+      "changeType": "vote.added",
+      "summary": "New House vote: On Motion to Suspend the Rules and Pass, as Amended (Passed)",
+      "after": {
+        "date": "2026-09-14",
+        "question": "On Motion to Suspend the Rules and Pass, as Amended",
+        "result": "Passed",
+        "yea": 345,
+        "nay": 60
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll297.xml",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1008_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1008",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1008: To designate the facility of the United States Postal Service located at 298 Route 292 in Holmes, New York, as the Sheriff Adrian Butch Anderson Post Office Building.",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 298 Route 292 in Holmes, New York, as the Sheriff Adrian Butch Anderson Post Office Building.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1008",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1009_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1009",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1009: To designate the facility of the United States Postal Service located at 86 Main Street in Haverstraw, New York, as the Paul Piperato Post Office Building.",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 86 Main Street in Haverstraw, New York, as the Paul Piperato Post Office Building.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1009",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-10326_bill.action_added_b5ebd77830229315",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10326",
+      "changeType": "bill.action_added",
+      "summary": "New action: Rules Committee Resolution H. Res. 1530 Reported to House. Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
+      "after": {
+        "date": "2026-09-14",
+        "text": "Rules Committee Resolution H. Res. 1530 Reported to House. Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
+        "chamber": "House",
+        "actionCode": "H1L210"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10326",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-10326_bill.summary_changed",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10326",
+      "changeType": "bill.summary_changed",
+      "summary": "Official summary added",
+      "before": {
+        "summary": null,
+        "summaryFormat": null
+      },
+      "after": {
+        "summary": "Preventing Rip-offs and Obtaining Oversight of Funds Act or the PROOF Act This bill requires states to provide such information as the Department of Justice (DOJ) may require for the purpose of investigating or prosecuting alleged fraud committed with regard to certain federally funded programs. Programs covered by this requirement include: Medicaid, Supplemental Nutrition Assistance Program (SNAP), Temporary Assistance for Needy Families (TANF), certain federal payments and grants to state governments related to the coronavirus response, and any other program to which funds are made available to states and identified by DOJ as vulnerable to fraud. A federal agency may only use such information for law enforcement purposes related to fraud and may not disclose it for any unrelated administrative or commercial purpose. DOJ must annually report to Congress on the number of requests for information issued to state agencies under this bill, the programs with respect to which such requests were made, and the number of fraud investigations initiated and convictions secured using the information obtained.",
+        "summaryFormat": "html"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10326",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1372_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1372",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1372: To designate the facility of the United States Postal Service located at 300 Macedonia Lane in Knoxville, Tennessee, as the Reverend Harold Middlebrook Post Office Building.",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 300 Macedonia Lane in Knoxville, Tennessee, as the Reverend Harold Middlebrook Post Office Building.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1372",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1431_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1431",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1431: To designate the facility of the United States Postal Service located at 2407 State Route 71, Suite 1, in Spring Lake, New Jersey, as the James J. Howard Post Office.",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 2407 State Route 71, Suite 1, in Spring Lake, New Jersey, as the James J. Howard Post Office.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1431",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1501_bill.action_added_32fbec87afb351e3",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1501",
+      "changeType": "bill.action_added",
+      "summary": "New action: Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "after": {
+        "date": "2026-09-14",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1501_bill.action_added_3450bca4d1bfcfba",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1501",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered as unfinished business. (consideration: CR H5460-5461)",
+      "after": {
+        "date": "2026-09-02",
+        "text": "Considered as unfinished business. (consideration: CR H5460-5461)",
+        "chamber": "House",
+        "actionCode": "H30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1501_bill.action_added_45e716b9bf4beb16",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1501",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered under the provisions of rule H. Res. 1499. (consideration: CR H5452-5459)",
+      "after": {
+        "date": "2026-09-02",
+        "text": "Considered under the provisions of rule H. Res. 1499. (consideration: CR H5452-5459)",
+        "chamber": "House",
+        "actionCode": "H30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1501_bill.action_added_595f0bd38220caee",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1501",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294). (text: CR H5452)",
+      "after": {
+        "date": "2026-09-02",
+        "text": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294). (text: CR H5452)",
+        "chamber": "House",
+        "actionCode": "8000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1501_bill.action_added_a52d50dbc6b055aa",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1501",
+      "changeType": "bill.action_added",
+      "summary": "New action: On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294). (text: CR H5452)",
+      "after": {
+        "date": "2026-09-02",
+        "text": "On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294). (text: CR H5452)",
+        "chamber": "House",
+        "actionCode": "H37100"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1501_bill.status_changed",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1501",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to inCommittee",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1501",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1706_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1706",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1706: To designate the facility of the United States Postal Service located at 1200 William Street, Room 200, in Buffalo, New York, as the William J. Donovan Post Office Building.",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 1200 William Street, Room 200, in Buffalo, New York, as the William J. Donovan Post Office Building.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1706",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1830_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1830",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1830: To designate the facility of the United States Postal Service located at 840 Front Street in Casselton, North Dakota, as the Commander Delbert Austin Olson Post Office.",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 840 Front Street in Casselton, North Dakota, as the Commander Delbert Austin Olson Post Office.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1830",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-1869_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1869",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1869: Protecting American Industry and Labor from International Trade Crimes Act of 2026",
+      "after": {
+        "title": "Protecting American Industry and Labor from International Trade Crimes Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1869",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hr-9576_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9576",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9576: National Fraud Enforcement Division Act of 2026",
+      "after": {
+        "title": "National Fraud Enforcement Division Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9576",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-hres-1530_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1530",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1530: Providing for consideration of the bill (H.R. 9576) to establish the National Fraud Enforcement Division of the Department of Justice; providing for consideration of the bill (H.R. 10326) to enhance information-sharing capabilities between Federal law enforcement and State agencies to detect, investigate, and prosecute fraud in certain Federal programs, and to protect individual privacy; providing for consideration of the joint resolution (H.J. Res. 210) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to ''California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision''; providing for consideration of the joint resolution (H.J. Res. 213) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule issued by the Environmental Protection Agency relating to the ''California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision''; and providing for consideration of the Senate amendments to the bill (H.R. 5334) to amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.",
+      "after": {
+        "title": "Providing for consideration of the bill (H.R. 9576) to establish the National Fraud Enforcement Division of the Department of Justice; providing for consideration of the bill (H.R. 10326) to enhance information-sharing capabilities between Federal law enforcement and State agencies to detect, investigate, and prosecute fraud in certain Federal programs, and to protect individual privacy; providing for consideration of the joint resolution (H.J. Res. 210) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to ''California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision''; providing for consideration of the joint resolution (H.J. Res. 213) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule issued by the Environmental Protection Agency relating to the ''California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision''; and providing for consideration of the Senate amendments to the bill (H.R. 5334) to amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1530",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-1513_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-1513",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1513: Lower Elwha Klallam Tribe Project Lands Restoration Act",
+      "after": {
+        "title": "Lower Elwha Klallam Tribe Project Lands Restoration Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1513",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-1962_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-1962",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1962: Secure Space Act of 2025",
+      "after": {
+        "title": "Secure Space Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1962",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-2733_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-2733",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2733: Duplication Scoring Act of 2025",
+      "after": {
+        "title": "Duplication Scoring Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2733",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3175_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3175",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3175: CIPZIP Act of 2025",
+      "after": {
+        "title": "CIPZIP Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3175",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3211_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3211",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3211: Recognizing the Role of Direct Support Professionals Act",
+      "after": {
+        "title": "Recognizing the Role of Direct Support Professionals Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3211",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3257_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3257",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3257: Mental Health in Aviation Act of 2025",
+      "after": {
+        "title": "Mental Health in Aviation Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3257",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3258_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3258",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3258: Aviation Medication Transparency Act of 2025",
+      "after": {
+        "title": "Aviation Medication Transparency Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3258",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3296_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3296",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3296: Improving Access to Workers’ Compensation for Injured Federal Workers Act of 2025",
+      "after": {
+        "title": "Improving Access to Workers’ Compensation for Injured Federal Workers Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3296",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3404_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3404",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3404: Satellite Cybersecurity Act of 2025",
+      "after": {
+        "title": "Satellite Cybersecurity Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3404",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3618_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3618",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3618: No Fentanyl on Social Media Act",
+      "after": {
+        "title": "No Fentanyl on Social Media Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3618",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3700_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3700",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3700: FAA SMS Compliance Review Act of 2026",
+      "after": {
+        "title": "FAA SMS Compliance Review Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3700",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-3791_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-3791",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3791: Regional Ocean Partnerships Reauthorization Act of 2026",
+      "after": {
+        "title": "Regional Ocean Partnerships Reauthorization Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3791",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-4079_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-4079",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-4079: PEARL Act",
+      "after": {
+        "title": "PEARL Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4079",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_119-s-5163_bill.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "bill",
+      "entityId": "119-s-5163",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5163: No Bonuses for Bad Service Act",
+      "after": {
+        "title": "No Bonuses for Bad Service Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5163",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_C000127_member.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "member",
+      "entityId": "C000127",
+      "changeType": "member.added",
+      "summary": "Started tracking Maria Cantwell",
+      "after": {
+        "name": "Maria Cantwell",
+        "party": "D",
+        "chamber": "Senate",
+        "state": "WA"
+      },
+      "officialUrl": "https://www.cantwell.senate.gov",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_F000482_member.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "member",
+      "entityId": "F000482",
+      "changeType": "member.added",
+      "summary": "Started tracking Julie Fedorchak",
+      "after": {
+        "name": "Julie Fedorchak",
+        "party": "R",
+        "chamber": "House",
+        "state": "ND"
+      },
+      "officialUrl": "https://fedorchak.house.gov/",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_H001089_member.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "member",
+      "entityId": "H001089",
+      "changeType": "member.added",
+      "summary": "Started tracking Josh Hawley",
+      "after": {
+        "name": "Josh Hawley",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "MO"
+      },
+      "officialUrl": "https://www.hawley.senate.gov",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    },
+    {
+      "id": "evt_2026-09-15T130951287Z_P000034_member.added",
+      "observedAt": "2026-09-15T13:09:51.287Z",
+      "entityType": "member",
+      "entityId": "P000034",
+      "changeType": "member.added",
+      "summary": "Started tracking Frank Pallone, Jr.",
+      "after": {
+        "name": "Frank Pallone, Jr.",
+        "party": "D",
+        "chamber": "House",
+        "state": "NJ"
+      },
+      "officialUrl": "https://pallone.house.gov",
+      "syncId": "2026-09-15T13:09:51.287Z"
+    }
+  ]
+}
