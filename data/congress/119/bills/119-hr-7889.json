@@ -4,7 +4,7 @@
   "billNumber": 7889,
   "congress": 119,
   "title": "AWRC Act of 2025",
-  "status": "introduced",
+  "status": "inCommittee",
   "chamber": "House",
   "policyArea": "Water Resources Development",
   "sponsor": {
@@ -17,11 +17,52 @@
   },
   "cosponsorCount": 10,
   "latestAction": {
-    "date": "2026-08-20",
-    "text": "Placed on the Union Calendar, Calendar No. 665.",
+    "date": "2026-09-15",
+    "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-09-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-14",
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "chamber": "House",
+      "actionCode": "H38310"
+    },
+    {
+      "date": "2026-09-14",
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "chamber": "House",
+      "actionCode": "H37300"
+    },
+    {
+      "date": "2026-09-14",
+      "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "chamber": "House",
+      "actionCode": "8000"
+    },
+    {
+      "date": "2026-09-14",
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 7889.",
+      "chamber": "House",
+      "actionCode": "H8D000"
+    },
+    {
+      "date": "2026-09-14",
+      "text": "Considered under suspension of the rules.",
+      "chamber": "House",
+      "actionCode": "H30000"
+    },
+    {
+      "date": "2026-09-14",
+      "text": "Mr. Westerman moved to suspend the rules and pass the bill, as amended.",
+      "chamber": "House",
+      "actionCode": "H30300"
+    },
     {
       "date": "2026-08-20",
       "text": "Placed on the Union Calendar, Calendar No. 665.",
@@ -91,6 +132,11 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed in House",
+      "date": "2026-09-14",
+      "url": "https://www.congress.gov/119/bills/hr7889/BILLS-119hr7889eh.htm"
+    },
+    {
       "type": "Reported in House",
       "date": "2026-08-20",
       "url": "https://www.congress.gov/119/bills/hr7889/BILLS-119hr7889rh.htm"
@@ -101,7 +147,11 @@
       "url": "https://www.congress.gov/119/bills/hr7889/BILLS-119hr7889ih.htm"
     }
   ],
+  "summaryHtml": "<p><strong>Advancing Water Research and Collaboration Act of 2025 or the&nbsp;AWRC Act of 2025</strong></p><p>This bill reauthorizes through FY2029 and modifies the Water Resources Research Act Program of the U.S. Geological Survey (USGS). Under the&nbsp;program, USGS provides grants for Water Resources Research Institutes that are in each of the 50 states as well as the District of Columbia, Puerto Rico, the U.S. Virgin Islands, and Guam. Among other activities,&nbsp;the institutes plan and conduct research to improve water supply reliability and address water problems.</p>",
+  "summaryFormat": "html",
+  "summary": "Advancing Water Research and Collaboration Act of 2025 or the AWRC Act of 2025 This bill reauthorizes through FY2029 and modifies the Water Resources Research Act Program of the U.S. Geological Survey (USGS). Under the program, USGS provides grants for Water Resources Research Institutes that are in each of the 50 states as well as the District of Columbia, Puerto Rico, the U.S. Virgin Islands, and Guam. Among other activities, the institutes plan and conduct research to improve water supply reliability and address water problems.",
+  "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7889",
-  "updatedAt": "2026-08-27T16:42:37Z",
+  "updatedAt": "2026-09-16T12:18:32Z",
   "introducedAt": "2026-03-09"
 }

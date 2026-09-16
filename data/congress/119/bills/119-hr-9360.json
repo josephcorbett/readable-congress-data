@@ -4,7 +4,7 @@
   "billNumber": 9360,
   "congress": 119,
   "title": "Advisory Committee on the Records of Congress Sunset Act",
-  "status": "introduced",
+  "status": "inCommittee",
   "chamber": "House",
   "policyArea": "Government Operations and Politics",
   "sponsor": {
@@ -17,11 +17,52 @@
   },
   "cosponsorCount": 0,
   "latestAction": {
-    "date": "2026-09-10",
-    "text": "Placed on the Union Calendar, Calendar No. 707.",
+    "date": "2026-09-15",
+    "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-09-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-14",
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "chamber": "House",
+      "actionCode": "H38310"
+    },
+    {
+      "date": "2026-09-14",
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "chamber": "House",
+      "actionCode": "H37300"
+    },
+    {
+      "date": "2026-09-14",
+      "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "chamber": "House",
+      "actionCode": "8000"
+    },
+    {
+      "date": "2026-09-14",
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9360.",
+      "chamber": "House",
+      "actionCode": "H8D000"
+    },
+    {
+      "date": "2026-09-14",
+      "text": "Considered under suspension of the rules.",
+      "chamber": "House",
+      "actionCode": "H30000"
+    },
+    {
+      "date": "2026-09-14",
+      "text": "Mr. Griffith moved to suspend the rules and pass the bill, as amended.",
+      "chamber": "House",
+      "actionCode": "H30300"
+    },
     {
       "date": "2026-09-10",
       "text": "Placed on the Union Calendar, Calendar No. 707.",
@@ -73,6 +114,11 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed in House",
+      "date": "2026-09-14",
+      "url": "https://www.congress.gov/119/bills/hr9360/BILLS-119hr9360eh.htm"
+    },
+    {
       "type": "Reported in House",
       "date": "2026-09-10",
       "url": "https://www.congress.gov/119/bills/hr9360/BILLS-119hr9360rh.htm"
@@ -88,6 +134,6 @@
   "summary": "Advisory Committee on the Records of Congress Sunset Act This bill eliminates the Advisory Committee on the Records of Congress 60 days after the bill's enactment. Under the bill, the Center for Legislative Archives of the National Archives and Records Administration (NARA) must provide an annual report on the management and preservation of the records of Congress during the previous year to NARA, the Senate, and the House of Representatives. The Archivist, the Secretary of the Senate, and the Clerk of the House of Representatives must regularly meet to review the management and preservation of the records of Congress.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9360",
-  "updatedAt": "2026-09-11T16:55:37Z",
+  "updatedAt": "2026-09-16T12:48:35Z",
   "introducedAt": "2026-06-18"
 }
