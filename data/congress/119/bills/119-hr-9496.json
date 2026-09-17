@@ -4,7 +4,7 @@
   "billNumber": 9496,
   "congress": 119,
   "title": "End Tax Penalties on American Hostages Act",
-  "status": "introduced",
+  "status": "inCommittee",
   "chamber": "House",
   "policyArea": "Taxation",
   "sponsor": {
@@ -17,11 +17,52 @@
   },
   "cosponsorCount": 2,
   "latestAction": {
-    "date": "2026-09-08",
-    "text": "Placed on the Union Calendar, Calendar No. 697.",
+    "date": "2026-09-16",
+    "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-09-16",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-15",
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "chamber": "House",
+      "actionCode": "H38310"
+    },
+    {
+      "date": "2026-09-15",
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "chamber": "House",
+      "actionCode": "H37300"
+    },
+    {
+      "date": "2026-09-15",
+      "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "chamber": "House",
+      "actionCode": "8000"
+    },
+    {
+      "date": "2026-09-15",
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9496.",
+      "chamber": "House",
+      "actionCode": "H8D000"
+    },
+    {
+      "date": "2026-09-15",
+      "text": "Considered under suspension of the rules.",
+      "chamber": "House",
+      "actionCode": "H30000"
+    },
+    {
+      "date": "2026-09-15",
+      "text": "Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.",
+      "chamber": "House",
+      "actionCode": "H30300"
+    },
     {
       "date": "2026-09-08",
       "text": "Placed on the Union Calendar, Calendar No. 697.",
@@ -73,6 +114,11 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed in House",
+      "date": "2026-09-15",
+      "url": "https://www.congress.gov/119/bills/hr9496/BILLS-119hr9496eh.htm"
+    },
+    {
       "type": "Reported in House",
       "date": "2026-09-08",
       "url": "https://www.congress.gov/119/bills/hr9496/BILLS-119hr9496rh.htm"
@@ -83,7 +129,11 @@
       "url": "https://www.congress.gov/119/bills/hr9496/BILLS-119hr9496ih.htm"
     }
   ],
+  "summaryHtml": "<p><strong>End Tax Penalties on American Hostages Act</strong><strong></strong></p><p>This bill extends certain federal tax deadlines for U.S. nationals who are unlawfully or wrongfully detained abroad or held hostage abroad and their spouses. The bill also allows for an abatement and refund of additional taxes, interest, and penalties assessed to such individuals for failing to meet a federal tax deadline during a period of detention.</p><p>Specifically, under the bill, the time period during which a U.S. national is unlawfully or wrongfully detained abroad or held hostage abroad is disregarded in determining certain federal tax deadlines, including deadlines for</p><ul><li>filing a return for and paying federal income, estate, gift, employment, or excise taxes;</li><li>a tax credit or refund claim; and</li><li>the determination, assessment, and collection of additional taxes, interest, or penalties.</li></ul><p>The bill requires the&nbsp;Department of State and the Department of Justice&nbsp;to annually provide the Internal Revenue Service (IRS) with lists&nbsp;to identify U.S. nationals who qualify for an extension.</p><p>The bill also requires the IRS to (1) abate and refund additional taxes, interest, and penalties assessed for&nbsp;any tax year ending during a period of detention for which an extension of a federal tax deadline is permitted; and (2) establish a program allowing U.S. nationals unlawfully or wrongfully detained abroad or taken hostage&nbsp;abroad (or their spouse or dependent) to claim a refund of additional taxes, interest, and penalties assessed for any tax year ending during a period of detention&nbsp;from 2021 to the bill’s enactment date.</p>",
+  "summaryFormat": "html",
+  "summary": "End Tax Penalties on American Hostages Act This bill extends certain federal tax deadlines for U.S. nationals who are unlawfully or wrongfully detained abroad or held hostage abroad and their spouses. The bill also allows for an abatement and refund of additional taxes, interest, and penalties assessed to such individuals for failing to meet a federal tax deadline during a period of detention. Specifically, under the bill, the time period during which a U.S. national is unlawfully or wrongfully detained abroad or held hostage abroad is disregarded in determining certain federal tax deadlines, including deadlines for filing a return for and paying federal income, estate, gift, employment, or excise taxes; a tax credit or refund claim; and the determination, assessment, and collection of additional taxes, interest, or penalties. The bill requires the Department of State and the Department of Justice to annually provide the Internal Revenue Service (IRS) with lists to identify U.S. nationals who qualify for an extension. The bill also requires the IRS to (1) abate and refund additional taxes, interest, and penalties assessed for any tax year ending during a period of detention for which an extension of a federal tax deadline is permitted; and (2) establish a program allowing U.S. nationals unlawfully or wrongfully detained abroad or taken hostage abroad (or their spouse or dependent) to claim a refund of additional taxes, interest, and penalties assessed for any tax year ending during a period of detention from 2021 to the bill’s enactment date.",
+  "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9496",
-  "updatedAt": "2026-09-09T18:17:39Z",
+  "updatedAt": "2026-09-17T12:18:24Z",
   "introducedAt": "2026-06-29"
 }

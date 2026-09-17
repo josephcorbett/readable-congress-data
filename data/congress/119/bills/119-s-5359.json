@@ -3,9 +3,10 @@
   "billType": "s",
   "billNumber": 5359,
   "congress": 119,
-  "title": "A bill to direct the Secretary of Agriculture to convey to Pennington County, South Dakota, certain National Forest System land.",
+  "title": "Pennington County Land Conveyance Act",
   "status": "inCommittee",
   "chamber": "Senate",
+  "policyArea": "Public Lands and Natural Resources",
   "sponsor": {
     "memberId": "T000250",
     "name": "Sen. Thune, John [R-SD]",
@@ -15,14 +16,19 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-08-07",
-    "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+    "date": "2026-09-16",
+    "text": "Committee on Energy and Natural Resources. Hearings held.",
     "chamber": "Senate"
   },
   "actions": [
     {
+      "date": "2026-09-16",
+      "text": "Committee on Energy and Natural Resources. Hearings held.",
+      "chamber": "Senate"
+    },
+    {
       "date": "2026-08-07",
-      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S4567)",
       "chamber": "Senate"
     },
     {
@@ -32,8 +38,14 @@
       "actionCode": "10000"
     }
   ],
-  "textVersions": [],
+  "textVersions": [
+    {
+      "type": "Introduced in Senate",
+      "date": "2026-08-07",
+      "url": "https://www.congress.gov/119/bills/s5359/BILLS-119s5359is.htm"
+    }
+  ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5359",
-  "updatedAt": "2026-08-08T16:37:21Z",
+  "updatedAt": "2026-09-17T11:03:29Z",
   "introducedAt": "2026-08-07"
 }
