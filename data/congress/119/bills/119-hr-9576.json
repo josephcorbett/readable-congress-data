@@ -4,7 +4,7 @@
   "billNumber": 9576,
   "congress": 119,
   "title": "National Fraud Enforcement Division Act of 2026",
-  "status": "inCommittee",
+  "status": "introduced",
   "chamber": "House",
   "policyArea": "Crime and Law Enforcement",
   "sponsor": {
@@ -17,14 +17,73 @@
   },
   "cosponsorCount": 4,
   "latestAction": {
-    "date": "2026-09-14",
-    "text": "Rules Committee Resolution H. Res. 1530 Reported to House. Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
+    "date": "2026-09-17",
+    "text": "Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
     "chamber": "House"
   },
   "actions": [
     {
+      "date": "2026-09-17",
+      "text": "Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-16",
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "chamber": "House",
+      "actionCode": "H38310"
+    },
+    {
+      "date": "2026-09-16",
+      "text": "On passage Passed by the Yeas and Nays: 352 - 72 (Roll no. 309).",
+      "chamber": "House",
+      "actionCode": "H37100"
+    },
+    {
+      "date": "2026-09-16",
+      "text": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 352 - 72 (Roll no. 309).",
+      "chamber": "House",
+      "actionCode": "8000"
+    },
+    {
+      "date": "2026-09-16",
+      "text": "Considered as unfinished business.",
+      "chamber": "House",
+      "actionCode": "H30000"
+    },
+    {
+      "date": "2026-09-16",
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 9576, the Chair put the question on passage of the bill, and by voice vote announced that the ayes had prevailed. Mr. Raskin demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "chamber": "House",
+      "actionCode": "H8D000"
+    },
+    {
+      "date": "2026-09-16",
+      "text": "The previous question was ordered pursuant to the rule.",
+      "chamber": "House",
+      "actionCode": "H35000"
+    },
+    {
+      "date": "2026-09-16",
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 9576.",
+      "chamber": "House",
+      "actionCode": "H8D000"
+    },
+    {
+      "date": "2026-09-16",
+      "text": "Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate and one motion to recommit on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
+      "chamber": "House",
+      "actionCode": "H8D000"
+    },
+    {
+      "date": "2026-09-16",
+      "text": "Considered under the provisions of rule H. Res. 1530.",
+      "chamber": "House",
+      "actionCode": "H30000"
+    },
+    {
       "date": "2026-09-14",
-      "text": "Rules Committee Resolution H. Res. 1530 Reported to House. Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
+      "text": "Rules Committee Resolution H. Res. 1530 Reported to House. Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate and one motion to recommit on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
       "chamber": "House",
       "actionCode": "H1L210"
     },
@@ -49,6 +108,11 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed in House",
+      "date": "2026-09-16",
+      "url": "https://www.congress.gov/119/bills/hr9576/BILLS-119hr9576eh.htm"
+    },
+    {
       "type": "Introduced in House",
       "date": "2026-07-02",
       "url": "https://www.congress.gov/119/bills/hr9576/BILLS-119hr9576ih.htm"
@@ -59,6 +123,6 @@
   "summary": "National Fraud Enforcement Division Act of 2026 This bill provides statutory authority for the National Fraud Enforcement Division within the Department of Justice (DOJ). The division investigates and prosecutes fraud against taxpayer dollars and taxpayer-funded programs. The National Fraud Enforcement Division was established by DOJ in April 2026.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9576",
-  "updatedAt": "2026-09-15T12:56:20Z",
+  "updatedAt": "2026-09-18T11:34:06Z",
   "introducedAt": "2026-07-02"
 }
