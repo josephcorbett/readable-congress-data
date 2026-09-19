@@ -4,7 +4,7 @@
   "billNumber": 5345,
   "congress": 119,
   "title": "Improving Social Security’s Service to Victims of Identity Theft Act",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "House",
   "policyArea": "Social Welfare",
   "sponsor": {
@@ -17,11 +17,16 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-09-17",
-    "text": "Passed Senate without amendment by Unanimous Consent.",
+    "date": "2026-09-18",
+    "text": "Message on Senate action sent to the House.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-09-18",
+      "text": "Message on Senate action sent to the House.",
+      "chamber": "House"
+    },
     {
       "date": "2026-09-17",
       "text": "Passed Senate without amendment by Unanimous Consent.",
@@ -161,6 +166,6 @@
   "summary": "Improving Social Security's Service to Victims of Identity Theft Act This bill requires the Social Security Administration to provide a single point of contact for any individual whose Social Security account number has been misused. The single point of contact must consist of a team or subset of specially trained employees, and must track the individual's case to completion and coordinate with other specialized units to resolve issues as quickly as possible.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5345",
-  "updatedAt": "2026-09-18T10:56:35Z",
+  "updatedAt": "2026-09-19T10:56:17Z",
   "introducedAt": "2025-09-15"
 }

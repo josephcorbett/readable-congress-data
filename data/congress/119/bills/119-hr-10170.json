@@ -4,8 +4,9 @@
   "billNumber": 10170,
   "congress": 119,
   "title": "Memory Chip Competitiveness Assessment Act of 2026",
-  "status": "inCommittee",
+  "status": "introduced",
   "chamber": "House",
+  "policyArea": "Science, Technology, Communications",
   "sponsor": {
     "memberId": "M001215",
     "name": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
@@ -16,11 +17,41 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-08-27",
-    "text": "Referred to the House Committee on Energy and Commerce.",
+    "date": "2026-09-16",
+    "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 45 - 0.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-09-16",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 45 - 0.",
+      "chamber": "House",
+      "actionCode": "H19000"
+    },
+    {
+      "date": "2026-09-16",
+      "text": "Committee Consideration and Mark-up Session Held",
+      "chamber": "House",
+      "actionCode": "H15001"
+    },
+    {
+      "date": "2026-09-01",
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "chamber": "House",
+      "actionCode": "H23000"
+    },
+    {
+      "date": "2026-09-01",
+      "text": "Subcommittee Consideration and Mark-up Session Held",
+      "chamber": "House",
+      "actionCode": "H22000"
+    },
+    {
+      "date": "2026-08-27",
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.",
+      "chamber": "House",
+      "actionCode": "H11000"
+    },
     {
       "date": "2026-08-27",
       "text": "Referred to the House Committee on Energy and Commerce.",
@@ -47,7 +78,11 @@
       "url": "https://www.congress.gov/119/bills/hr10170/BILLS-119hr10170ih.htm"
     }
   ],
+  "summaryHtml": "<p><strong>Memory Chip Competitiveness Assessment Act of 2026</strong></p><p>This bill requires the Department of Commerce to study and report on the advanced memory technology marketplace. Under the bill, <em>advanced memory technology</em> means semiconductor memory products manufactured using leading-edge process technologies and primarily designed for high-performance, high-bandwidth, or energy-efficient computing applications.</p><p>The study must assess the advanced memory technology supply chain, the impact of market trends on the cost of end products, and mechanisms to increase supply (without acquiring products from North Korea, China, Russia, or Iran). Commerce must provide an opportunity for public comment on the report before finalizing it.</p>",
+  "summaryFormat": "html",
+  "summary": "Memory Chip Competitiveness Assessment Act of 2026 This bill requires the Department of Commerce to study and report on the advanced memory technology marketplace. Under the bill, advanced memory technology means semiconductor memory products manufactured using leading-edge process technologies and primarily designed for high-performance, high-bandwidth, or energy-efficient computing applications. The study must assess the advanced memory technology supply chain, the impact of market trends on the cost of end products, and mechanisms to increase supply (without acquiring products from North Korea, China, Russia, or Iran). Commerce must provide an opportunity for public comment on the report before finalizing it.",
+  "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10170",
-  "updatedAt": "2026-08-29T02:23:21Z",
+  "updatedAt": "2026-09-19T08:06:04Z",
   "introducedAt": "2026-08-27"
 }
