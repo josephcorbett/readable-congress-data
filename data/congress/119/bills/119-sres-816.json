@@ -3,9 +3,10 @@
   "billType": "sres",
   "billNumber": 816,
   "congress": 119,
-  "title": "A resolution honoring 35 years of independence for the countries of Central Asia and recognizing the importance of the United States' growing relationship with Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.",
-  "status": "inCommittee",
+  "title": "A resolution honoring 35 years of independence for the countries of Central Asia and recognizing the importance of the United States growing relationship with Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.",
+  "status": "introduced",
   "chamber": "Senate",
+  "policyArea": "International Affairs",
   "sponsor": {
     "memberId": "D000618",
     "name": "Sen. Daines, Steve [R-MT]",
@@ -13,13 +14,35 @@
     "state": "MT",
     "chamber": "Senate"
   },
-  "cosponsorCount": 2,
+  "cosponsorCount": 5,
   "latestAction": {
-    "date": "2026-07-23",
-    "text": "Referred to the Committee on Foreign Relations. (text: CR S4271-4272)",
+    "date": "2026-09-17",
+    "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-09-17",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4790)",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-09-17",
+      "text": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "chamber": "Senate",
+      "actionCode": "17000"
+    },
+    {
+      "date": "2026-09-17",
+      "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-09-17",
+      "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.",
+      "chamber": "Senate",
+      "actionCode": "14500"
+    },
     {
       "date": "2026-07-23",
       "text": "Referred to the Committee on Foreign Relations. (text: CR S4271-4272)",
@@ -32,8 +55,14 @@
       "actionCode": "10025"
     }
   ],
-  "textVersions": [],
+  "textVersions": [
+    {
+      "type": "Introduced in Senate",
+      "date": "2026-07-23",
+      "url": "https://www.congress.gov/119/bills/sres816/BILLS-119sres816is.htm"
+    }
+  ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/816",
-  "updatedAt": "2026-07-25T10:56:21Z",
+  "updatedAt": "2026-09-18T10:56:28Z",
   "introducedAt": "2026-07-23"
 }

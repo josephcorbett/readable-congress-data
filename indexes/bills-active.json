@@ -1,8 +1,573 @@
 {
-  "generatedAt": "2026-09-20T12:52:53.369Z",
+  "generatedAt": "2026-09-21T14:52:14.137Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
+    {
+      "id": "119-hr-5345",
+      "billType": "hr",
+      "billNumber": 5345,
+      "congress": 119,
+      "title": "Improving Social Security’s Service to Victims of Identity Theft Act",
+      "status": "introduced",
+      "chamber": "House",
+      "policyArea": "Social Welfare",
+      "sponsor": {
+        "memberId": "K000392",
+        "name": "Rep. Kustoff, David [R-TN-8]",
+        "party": "R",
+        "state": "TN",
+        "district": "8",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-09-18",
+        "text": "Message on Senate action sent to the House.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-09-18",
+          "text": "Message on Senate action sent to the House.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-09-17",
+          "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4790)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-09-17",
+          "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+          "chamber": "House",
+          "actionCode": "17000"
+        },
+        {
+          "date": "2026-09-17",
+          "text": "Senate Committee on Finance discharged by Unanimous Consent.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-09-17",
+          "text": "Senate Committee on Finance discharged by Unanimous Consent.",
+          "chamber": "House",
+          "actionCode": "14500"
+        },
+        {
+          "date": "2025-12-02",
+          "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+          "chamber": "House"
+        },
+        {
+          "date": "2025-12-01",
+          "text": "Motion to reconsider laid on the table Agreed to without objection.",
+          "chamber": "House",
+          "actionCode": "H38310"
+        },
+        {
+          "date": "2025-12-01",
+          "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4938)",
+          "chamber": "House",
+          "actionCode": "H37300"
+        },
+        {
+          "date": "2025-12-01",
+          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4938)",
+          "chamber": "House",
+          "actionCode": "8000"
+        },
+        {
+          "date": "2025-12-01",
+          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5345.",
+          "chamber": "House",
+          "actionCode": "H8D000"
+        },
+        {
+          "date": "2025-12-01",
+          "text": "Considered under suspension of the rules. (consideration: CR H4938-4939)",
+          "chamber": "House",
+          "actionCode": "H30000"
+        },
+        {
+          "date": "2025-12-01",
+          "text": "Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.",
+          "chamber": "House",
+          "actionCode": "H30300"
+        },
+        {
+          "date": "2025-10-31",
+          "text": "Placed on the Union Calendar, Calendar No. 312.",
+          "chamber": "House",
+          "actionCode": "H12410"
+        },
+        {
+          "date": "2025-10-31",
+          "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-360.",
+          "chamber": "House",
+          "actionCode": "H12200"
+        },
+        {
+          "date": "2025-10-31",
+          "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-360.",
+          "chamber": "House",
+          "actionCode": "5000"
+        },
+        {
+          "date": "2025-09-17",
+          "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 39 - 1.",
+          "chamber": "House",
+          "actionCode": "H19000"
+        },
+        {
+          "date": "2025-09-17",
+          "text": "Committee Consideration and Mark-up Session Held",
+          "chamber": "House",
+          "actionCode": "H15001"
+        },
+        {
+          "date": "2025-09-15",
+          "text": "Referred to the House Committee on Ways and Means.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2025-09-15",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2025-09-15",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Referred in Senate",
+          "date": "2025-12-02",
+          "url": "https://www.congress.gov/119/bills/hr5345/BILLS-119hr5345rfs.htm"
+        },
+        {
+          "type": "Engrossed in House",
+          "date": "2025-12-01",
+          "url": "https://www.congress.gov/119/bills/hr5345/BILLS-119hr5345eh.htm"
+        },
+        {
+          "type": "Reported in House",
+          "date": "2025-10-31",
+          "url": "https://www.congress.gov/119/bills/hr5345/BILLS-119hr5345rh.htm"
+        },
+        {
+          "type": "Introduced in House",
+          "date": "2025-09-15",
+          "url": "https://www.congress.gov/119/bills/hr5345/BILLS-119hr5345ih.htm"
+        }
+      ],
+      "summaryHtml": "<p><strong>Improving Social Security's Service to Victims of Identity Theft Act</strong></p><p>This bill requires the Social Security Administration to provide a single point of contact for any individual whose Social Security account number has been misused. The single point of contact must consist of a team or subset of specially trained employees, and must track the individual's case to completion and coordinate with other specialized units to resolve issues as quickly as possible.</p>",
+      "summaryFormat": "html",
+      "summary": "Improving Social Security's Service to Victims of Identity Theft Act This bill requires the Social Security Administration to provide a single point of contact for any individual whose Social Security account number has been misused. The single point of contact must consist of a team or subset of specially trained employees, and must track the individual's case to completion and coordinate with other specialized units to resolve issues as quickly as possible.",
+      "summarySource": "official",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5345",
+      "updatedAt": "2026-09-21T14:04:48Z",
+      "introducedAt": "2025-09-15"
+    },
+    {
+      "id": "119-hr-5334",
+      "billType": "hr",
+      "billNumber": 5334,
+      "congress": 119,
+      "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+      "status": "becameLaw",
+      "chamber": "House",
+      "policyArea": "International Affairs",
+      "sponsor": {
+        "memberId": "P000613",
+        "name": "Rep. Panetta, Jimmy [D-CA-19]",
+        "party": "D",
+        "state": "CA",
+        "district": "19",
+        "chamber": "House"
+      },
+      "cosponsorCount": 23,
+      "latestAction": {
+        "date": "2026-09-18",
+        "text": "Signed by President.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-09-18",
+          "text": "Signed by President.",
+          "chamber": "House",
+          "actionCode": "E30000"
+        },
+        {
+          "date": "2026-09-18",
+          "text": "Signed by President.",
+          "chamber": "House",
+          "actionCode": "36000"
+        },
+        {
+          "date": "2026-09-17",
+          "text": "Presented to President.",
+          "chamber": "House",
+          "actionCode": "E20000"
+        },
+        {
+          "date": "2026-09-17",
+          "text": "Presented to President.",
+          "chamber": "House",
+          "actionCode": "28000"
+        },
+        {
+          "date": "2026-09-16",
+          "text": "Motion to reconsider laid on the table Agreed to without objection.",
+          "chamber": "House",
+          "actionCode": "H41931"
+        },
+        {
+          "date": "2026-09-16",
+          "text": "On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 262 - 159 (Roll no. 308).",
+          "chamber": "House",
+          "actionCode": "H41610"
+        },
+        {
+          "date": "2026-09-16",
+          "text": "Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 262 - 159 (Roll no. 308).",
+          "chamber": "House",
+          "actionCode": "19500"
+        },
+        {
+          "date": "2026-09-16",
+          "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 5334, the Chair put the question on agreeing to the Senate amendments and by voice vote, announced the ayes had prevailed. Mr. Meeks demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+          "chamber": "House",
+          "actionCode": "H8D000"
+        },
+        {
+          "date": "2026-09-16",
+          "text": "The previous question was ordered pursuant to the rule.",
+          "chamber": "House",
+          "actionCode": "H41400"
+        },
+        {
+          "date": "2026-09-16",
+          "text": "DEBATE - Pursuant to the provisions of H. Res. 1530, the House proceeded with one hour of debate on motion to agree to the Senate amendments to H.R. 5334.",
+          "chamber": "House",
+          "actionCode": "H8D000"
+        },
+        {
+          "date": "2026-09-16",
+          "text": "Mr. McCaul moved that the House agree to the Senate amendments.",
+          "chamber": "House",
+          "actionCode": "H40150"
+        },
+        {
+          "date": "2026-09-16",
+          "text": "Pursuant to the provisions of H. Res. 1530, Mr. McCaul called up the Senate amendments to H.R. 5334.",
+          "chamber": "House",
+          "actionCode": "H8D000"
+        },
+        {
+          "date": "2026-08-10",
+          "text": "Message on Senate action sent to the House.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-08-07",
+          "text": "Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 86 - 11. Record Vote Number: 224.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-08-07",
+          "text": "Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 86 - 11. Record Vote Number: 224.",
+          "chamber": "House",
+          "actionCode": "17000"
+        },
+        {
+          "date": "2026-08-07",
+          "text": "Considered by Senate. (consideration: CR S4538-4540)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-07-29",
+          "text": "Measure laid before Senate by motion. (consideration: CR S4323)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-07-29",
+          "text": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 84 - 12. Record Vote Number: 213.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-07-29",
+          "text": "Motion to proceed to measure considered in Senate. (CR S4301)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-07-28",
+          "text": "Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 86 - 12. Record Vote Number: 212. (CR S4292)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S4253)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Motion to proceed to consideration of measure made in Senate. (CR S4253)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-07-14",
+          "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 454.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-07-13",
+          "text": "Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-04-28",
+          "text": "Received in the Senate.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-04-27",
+          "text": "Motion to reconsider laid on the table Agreed to without objection.",
+          "chamber": "House",
+          "actionCode": "H38310"
+        },
+        {
+          "date": "2026-04-27",
+          "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3111-3112)",
+          "chamber": "House",
+          "actionCode": "H37300"
+        },
+        {
+          "date": "2026-04-27",
+          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3111-3112)",
+          "chamber": "House",
+          "actionCode": "8000"
+        },
+        {
+          "date": "2026-04-27",
+          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5334.",
+          "chamber": "House",
+          "actionCode": "H8D000"
+        },
+        {
+          "date": "2026-04-27",
+          "text": "Considered under suspension of the rules. (consideration: CR H3111-3113)",
+          "chamber": "House",
+          "actionCode": "H30000"
+        },
+        {
+          "date": "2026-04-27",
+          "text": "Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.",
+          "chamber": "House",
+          "actionCode": "H30300"
+        },
+        {
+          "date": "2026-04-09",
+          "text": "Placed on the Union Calendar, Calendar No. 520.",
+          "chamber": "House",
+          "actionCode": "H12410"
+        },
+        {
+          "date": "2026-04-09",
+          "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-600.",
+          "chamber": "House",
+          "actionCode": "H12200"
+        },
+        {
+          "date": "2026-04-09",
+          "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-600.",
+          "chamber": "House",
+          "actionCode": "5000"
+        },
+        {
+          "date": "2026-03-25",
+          "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 43 - 0.",
+          "chamber": "House",
+          "actionCode": "H19000"
+        },
+        {
+          "date": "2026-03-25",
+          "text": "Committee Consideration and Mark-up Session Held",
+          "chamber": "House",
+          "actionCode": "H15001"
+        },
+        {
+          "date": "2025-09-11",
+          "text": "Referred to the House Committee on Ways and Means.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2025-09-11",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2025-09-11",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Enrolled Bill",
+          "date": "1970-01-01",
+          "url": "https://www.congress.gov/119/bills/hr5334/BILLS-119hr5334enr.htm"
+        },
+        {
+          "type": "Engrossed Amendment Senate",
+          "date": "2026-08-07",
+          "url": "https://www.congress.gov/119/bills/hr5334/BILLS-119hr5334eas.htm"
+        },
+        {
+          "type": "Placed on Calendar Senate",
+          "date": "2026-07-14",
+          "url": "https://www.congress.gov/119/bills/hr5334/BILLS-119hr5334pcs.htm"
+        },
+        {
+          "type": "Engrossed in House",
+          "date": "2026-04-27",
+          "url": "https://www.congress.gov/119/bills/hr5334/BILLS-119hr5334eh.htm"
+        },
+        {
+          "type": "Reported in House",
+          "date": "2026-04-09",
+          "url": "https://www.congress.gov/119/bills/hr5334/BILLS-119hr5334rh.htm"
+        },
+        {
+          "type": "Introduced in House",
+          "date": "2025-09-11",
+          "url": "https://www.congress.gov/119/bills/hr5334/BILLS-119hr5334ih.htm"
+        }
+      ],
+      "summaryHtml": "<p><strong>Supporting Early-childhood Educators' Deductions Act of 2025 or the SEED Act of 2025</strong></p><p>This bill expands&nbsp;eligibility for the above-the-line federal tax deduction for certain eligible educator expenses to include early childhood educators. (An above-the-line tax deduction is subtracted from gross income to calculate adjusted gross income.)</p><p>Under current law, kindergarten through grade 12 teachers, instructors, counselors, principals, or aides in schools that provide&nbsp;elementary or secondary education are allowed an above-the-line tax deduction of up to $300 (in 2025 and adjusted annually) for certain unreimbursed professional development and classroom expenses. (Other conditions apply.)</p><p>The bill expands eligibility for the tax deduction for such educator expenses to include early childhood educators in schools that provide early childhood (pre-kindergarten) education.&nbsp;</p>",
+      "summaryFormat": "html",
+      "summary": "Supporting Early-childhood Educators' Deductions Act of 2025 or the SEED Act of 2025 This bill expands eligibility for the above-the-line federal tax deduction for certain eligible educator expenses to include early childhood educators. (An above-the-line tax deduction is subtracted from gross income to calculate adjusted gross income.) Under current law, kindergarten through grade 12 teachers, instructors, counselors, principals, or aides in schools that provide elementary or secondary education are allowed an above-the-line tax deduction of up to $300 (in 2025 and adjusted annually) for certain unreimbursed professional development and classroom expenses. (Other conditions apply.) The bill expands eligibility for the tax deduction for such educator expenses to include early childhood educators in schools that provide early childhood (pre-kindergarten) education.",
+      "summarySource": "official",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "updatedAt": "2026-09-21T12:57:16Z",
+      "introducedAt": "2025-09-11"
+    },
+    {
+      "id": "119-sres-862",
+      "billType": "sres",
+      "billNumber": 862,
+      "congress": 119,
+      "title": "A resolution honoring the life and legacy of Dolly Parton, a daughter of Tennessee whose extraordinary contributions to music, philanthropy, literacy, education, health, conservation, and culture enriched the lives of countless Americans.",
+      "status": "introduced",
+      "chamber": "Senate",
+      "sponsor": {
+        "memberId": "B001243",
+        "name": "Sen. Blackburn, Marsha [R-TN]",
+        "party": "R",
+        "state": "TN",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 16,
+      "latestAction": {
+        "date": "2026-09-17",
+        "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4790; text: CR S4799-4800)",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-09-17",
+          "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4790; text: CR S4799-4800)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-09-17",
+          "text": "Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+          "chamber": "Senate",
+          "actionCode": "17000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/862",
+      "updatedAt": "2026-09-21T14:08:53Z",
+      "introducedAt": "2026-09-17"
+    },
+    {
+      "id": "119-sres-816",
+      "billType": "sres",
+      "billNumber": 816,
+      "congress": 119,
+      "title": "A resolution honoring 35 years of independence for the countries of Central Asia and recognizing the importance of the United States growing relationship with Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.",
+      "status": "introduced",
+      "chamber": "Senate",
+      "policyArea": "International Affairs",
+      "sponsor": {
+        "memberId": "D000618",
+        "name": "Sen. Daines, Steve [R-MT]",
+        "party": "R",
+        "state": "MT",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 5,
+      "latestAction": {
+        "date": "2026-09-17",
+        "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-09-17",
+          "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4790)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-09-17",
+          "text": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+          "chamber": "Senate",
+          "actionCode": "17000"
+        },
+        {
+          "date": "2026-09-17",
+          "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-09-17",
+          "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.",
+          "chamber": "Senate",
+          "actionCode": "14500"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Referred to the Committee on Foreign Relations. (text: CR S4271-4272)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Submitted in Senate",
+          "chamber": "Senate",
+          "actionCode": "10025"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in Senate",
+          "date": "2026-07-23",
+          "url": "https://www.congress.gov/119/bills/sres816/BILLS-119sres816is.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/816",
+      "updatedAt": "2026-09-18T10:56:28Z",
+      "introducedAt": "2026-07-23"
+    },
     {
       "id": "119-s-3792",
       "billType": "s",
@@ -753,97 +1318,54 @@
       "introducedAt": "2026-05-13"
     },
     {
-      "id": "119-hr-2555",
-      "billType": "hr",
-      "billNumber": 2555,
+      "id": "119-s-5254",
+      "billType": "s",
+      "billNumber": 5254,
       "congress": 119,
-      "title": "Freedom of Association in Higher Education Act of 2026",
-      "status": "introduced",
-      "chamber": "House",
-      "policyArea": "Education",
+      "title": "Civil Nuclear Export Act of 2026",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "policyArea": "Foreign Trade and International Finance",
       "sponsor": {
-        "memberId": "H001093",
-        "name": "Rep. Houchin, Erin [R-IN-9]",
+        "memberId": "R000584",
+        "name": "Sen. Risch, James E. [R-ID]",
         "party": "R",
-        "state": "IN",
-        "district": "9",
-        "chamber": "House"
+        "state": "ID",
+        "chamber": "Senate"
       },
-      "cosponsorCount": 43,
+      "cosponsorCount": 1,
       "latestAction": {
-        "date": "2026-08-27",
-        "text": "Placed on the Union Calendar, Calendar No. 682.",
-        "chamber": "House"
+        "date": "2026-08-05",
+        "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+        "chamber": "Senate"
       },
       "actions": [
         {
-          "date": "2026-08-27",
-          "text": "Placed on the Union Calendar, Calendar No. 682.",
-          "chamber": "House",
-          "actionCode": "H12410"
+          "date": "2026-08-05",
+          "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+          "chamber": "Senate"
         },
         {
-          "date": "2026-08-27",
-          "text": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-781.",
-          "chamber": "House",
-          "actionCode": "H12200"
-        },
-        {
-          "date": "2026-08-27",
-          "text": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-781.",
-          "chamber": "House",
-          "actionCode": "5000"
-        },
-        {
-          "date": "2026-06-25",
-          "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.",
-          "chamber": "House",
-          "actionCode": "H19000"
-        },
-        {
-          "date": "2026-06-25",
-          "text": "Committee Consideration and Mark-up Session Held",
-          "chamber": "House",
-          "actionCode": "H15001"
-        },
-        {
-          "date": "2025-04-01",
-          "text": "Referred to the House Committee on Education and Workforce.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2025-04-01",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2025-04-01",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
+          "date": "2026-08-05",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
         }
       ],
       "textVersions": [
         {
-          "type": "Reported in House",
-          "date": "2026-08-27",
-          "url": "https://www.congress.gov/119/bills/hr2555/BILLS-119hr2555rh.htm"
-        },
-        {
-          "type": "Introduced in House",
-          "date": "2025-04-01",
-          "url": "https://www.congress.gov/119/bills/hr2555/BILLS-119hr2555ih.htm"
+          "type": "Introduced in Senate",
+          "date": "2026-08-05",
+          "url": "https://www.congress.gov/119/bills/s5254/BILLS-119s5254is.htm"
         }
       ],
-      "summaryHtml": "<p><strong>Freedom of Association in Higher Education Act of </strong><strong>2025</strong></p><p>This bill establishes freedom of association protections for college students in single-sex social organizations.</p><p>Specifically, the bill gives students (or groups of students) enrolled at institutions of higher education (IHEs) the right to form or join social organizations, including single-sex social organizations.</p><p>Additionally, the bill prohibits IHEs that participate in federal student&nbsp;aid programs from</p><ul><li>taking adverse actions against single-sex social organizations or students who are members or prospective members of such organizations based solely on the practice of limiting membership to only individuals of one sex;</li><li>taking actions that require or coerce members or prospective members of such organizations to waive protections provided under the bill, including as a condition of enrolling in the IHE; or</li><li>imposing a recruitment restriction on a single-sex social organization that is not imposed upon other student organizations, unless the organization and IHE have entered into a written agreement allowing the restriction.</li></ul>",
+      "summaryHtml": "<p><strong>Civil Nuclear Export Act of 2026</strong></p><p>This bill provides the Export-Import Bank with certain authorities to finance civil nuclear energy exports.</p><p>Specifically, the bill allows the Export-Import Bank to provide financing for the purchase of&nbsp;liquid metal fast breeder nuclear reactors and nuclear fuel reprocessing facilities if the purchase is&nbsp;otherwise permitted by law.</p><p>Additionally, the bill expands the China and Transformational Exports Program (CTEP) by making civil nuclear energy eligible for financing under the program. Currently, the bank may extend loans, guarantees, and insurance to advance the comparative leadership of the United States with respect to China in specified export areas (e.g., artificial intelligence, biotechnology, and wireless communications equipment). This bill expands those areas to include civil nuclear energy technologies, materials, services, and related infrastructure&nbsp;and goods.</p><p>The bill also revises the financial limitation on the outstanding aggregate amount of all of the bank's loans, guarantees, and insurance. In particular, the bill exempts those amounts attributed by the bank to CTEP, as long as that financing does not exceed a specified amount.</p><p>The bill also increases from 2% to 4% the bank's default rate cap. Further, the bill allows the bank to exclude financing under CTEP from this default rate, subject to approval of the bank's board of directors.</p>",
       "summaryFormat": "html",
-      "summary": "Freedom of Association in Higher Education Act of 2025 This bill establishes freedom of association protections for college students in single-sex social organizations. Specifically, the bill gives students (or groups of students) enrolled at institutions of higher education (IHEs) the right to form or join social organizations, including single-sex social organizations. Additionally, the bill prohibits IHEs that participate in federal student aid programs from taking adverse actions against single-sex social organizations or students who are members or prospective members of such organizations based solely on the practice of limiting membership to only individuals of one sex; taking actions that require or coerce members or prospective members of such organizations to waive protections provided under the bill, including as a condition of enrolling in the IHE; or imposing a recruitment restriction on a single-sex social organization that is not imposed upon other student organizations, unless the organization and IHE have entered into a written agreement allowing the restriction.",
+      "summary": "Civil Nuclear Export Act of 2026 This bill provides the Export-Import Bank with certain authorities to finance civil nuclear energy exports. Specifically, the bill allows the Export-Import Bank to provide financing for the purchase of liquid metal fast breeder nuclear reactors and nuclear fuel reprocessing facilities if the purchase is otherwise permitted by law. Additionally, the bill expands the China and Transformational Exports Program (CTEP) by making civil nuclear energy eligible for financing under the program. Currently, the bank may extend loans, guarantees, and insurance to advance the comparative leadership of the United States with respect to China in specified export areas (e.g., artificial intelligence, biotechnology, and wireless communications equipment). This bill expands those areas to include civil nuclear energy technologies, materials, services, and related infrastructure and goods. The bill also revises the financial limitation on the outstanding aggregate amount of all of the bank's loans, guarantees, and insurance. In particular, the bill exempts those amounts attributed by the bank to CTEP, as long as that financing does not exceed a specified amount. The bill also increases from 2% to 4% the bank's default rate cap. Further, the bill allows the bank to exclude financing under CTEP from this default rate, subject to approval of the bank's board of directors.",
       "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2555",
-      "updatedAt": "2026-09-19T23:41:15Z",
-      "introducedAt": "2025-04-01"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5254",
+      "updatedAt": "2026-09-21T14:11:02Z",
+      "introducedAt": "2026-08-05"
     },
     {
       "id": "119-hr-8205",
@@ -1090,6 +1612,353 @@
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8876",
       "updatedAt": "2026-09-19T23:41:19Z",
       "introducedAt": "2026-05-19"
+    },
+    {
+      "id": "119-hr-6644",
+      "billType": "hr",
+      "billNumber": 6644,
+      "congress": 119,
+      "title": "21st Century ROAD to Housing Act",
+      "status": "becameLaw",
+      "chamber": "House",
+      "policyArea": "Housing and Community Development",
+      "sponsor": {
+        "memberId": "H001072",
+        "name": "Rep. Hill, J. French [R-AR-2]",
+        "party": "R",
+        "state": "AR",
+        "district": "2",
+        "chamber": "House"
+      },
+      "cosponsorCount": 31,
+      "latestAction": {
+        "date": "2026-07-11",
+        "text": "Became Public Law No: 119-101.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-07-11",
+          "text": "Became Public Law No: 119-101.",
+          "chamber": "House",
+          "actionCode": "E40000"
+        },
+        {
+          "date": "2026-07-11",
+          "text": "Became Public Law No: 119-101.",
+          "chamber": "House",
+          "actionCode": "36000"
+        },
+        {
+          "date": "2026-07-11",
+          "text": "Sent to Archivist of the United States unsigned.",
+          "chamber": "House",
+          "actionCode": "E30000"
+        },
+        {
+          "date": "2026-06-29",
+          "text": "Presented to President.",
+          "chamber": "House",
+          "actionCode": "E20000"
+        },
+        {
+          "date": "2026-06-29",
+          "text": "Presented to President.",
+          "chamber": "House",
+          "actionCode": "28000"
+        },
+        {
+          "date": "2026-06-23",
+          "text": "Motion to reconsider laid on the table Agreed to without objection.",
+          "chamber": "House",
+          "actionCode": "H8D000"
+        },
+        {
+          "date": "2026-06-23",
+          "text": "On motion that the House suspend the rules and agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 358 - 32 (Roll no. 224). (text: CR H4151-4187)",
+          "chamber": "House",
+          "actionCode": "H41610"
+        },
+        {
+          "date": "2026-06-23",
+          "text": "Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 358 - 32 (Roll no. 224). (text: CR H4151-4187)",
+          "chamber": "House",
+          "actionCode": "19500"
+        },
+        {
+          "date": "2026-06-23",
+          "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+          "chamber": "House",
+          "actionCode": "H40142"
+        },
+        {
+          "date": "2026-06-23",
+          "text": "DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to the House amendment to the Senate amendment.",
+          "chamber": "House",
+          "actionCode": "H8D000"
+        },
+        {
+          "date": "2026-06-23",
+          "text": "Mr. Hill (AR) moved that the House suspend the rules and agree to the Senate amendment to the House amendment to the Senate amendment. (consideration: CR H4151-4193)",
+          "chamber": "House",
+          "actionCode": "H40140"
+        },
+        {
+          "date": "2026-06-23",
+          "text": "Message on Senate action sent to the House.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-06-22",
+          "text": "Senate concurred in the House amendment to the Senate amendment with an amendment (SA 5823) by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-06-22",
+          "text": "Resolving differences -- Senate actions: Senate concurred in the House amendment to the Senate amendment with an amendment (SA 5823) by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.",
+          "chamber": "House",
+          "actionCode": "20500"
+        },
+        {
+          "date": "2026-06-22",
+          "text": "Considered by Senate (Message from the House considered). (consideration: CR S2977, S2982-2984)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-06-18",
+          "text": "Motion by Senator Thune to refer to Senate Committee on Banking, Housing, and Urban Affairs the House message to accompany H.R. 6644 with instructions to report back forthwith with the following amendment (SA 5825) fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 6644 in Senate.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-06-18",
+          "text": "Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 6644 with an amendment (SA 5823) invoked in Senate by Yea-Nay Vote. 84 - 8. Record Vote Number: 180.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-06-18",
+          "text": "Considered by Senate (Message from the House considered). (consideration: CR S2913-2917)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-06-16",
+          "text": "Motion by Senator Thune to refer to Senate Committee on Banking, Housing, and Urban Affairs the House message to accompany H.R. 6644 with instructions to report back forthwith with the following amendment (SA5825) made in Senate.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-06-16",
+          "text": "Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 6644 with an amendment (SA 5823) presented in Senate.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-06-16",
+          "text": "Motion by Senator Thune to concur in the House amendment to the Senate amendment to H.R. 6644 with an amendment (SA 5823) made in Senate.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-06-16",
+          "text": "Measure laid before Senate by motion. (consideration: CR S2813-2316)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-06-16",
+          "text": "Motion to proceed to consideration of the House message to accompany H.R. 6644 agreed to in Senate by Yea-Nay Vote. 87 - 8. Record Vote Number: 175.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-06-02",
+          "text": "Message on House action received in Senate and at desk: House amendment to Senate amendment.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-05-20",
+          "text": "House agreed to Senate amendment with amendment pursuant to H. Res. 1299 (consideration: CR H3643-3644)",
+          "chamber": "House",
+          "actionCode": "H1B000"
+        },
+        {
+          "date": "2026-05-20",
+          "text": "Resolving differences -- House actions: House agreed to Senate amendment with amendment pursuant to H. Res. 1299",
+          "chamber": "House",
+          "actionCode": "19500"
+        },
+        {
+          "date": "2026-03-16",
+          "text": "Message on Senate action sent to the House.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-03-12",
+          "text": "Passed Senate with an amendment by Yea-Nay Vote. 89 - 10. Record Vote Number: 53.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-03-12",
+          "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 89 - 10. Record Vote Number: 53.",
+          "chamber": "House",
+          "actionCode": "17000"
+        },
+        {
+          "date": "2026-03-12",
+          "text": "Considered by Senate. (consideration: CR S1017, S1021-1024)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-03-11",
+          "text": "Cloture invoked in Senate by Yea-Nay Vote. 82 - 11. Record Vote Number: 52. (CR S1005)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-03-11",
+          "text": "Considered by Senate. (consideration: CR S969, S1004-1005)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-03-10",
+          "text": "Motion by Senator Thune to commit to Senate Committee on Banking, Housing, and Urban Affairs with instructions to report back forthwith with the following amendment (SA 4313) fell when cloture was invoked on amendment SA 4308 in Senate.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-03-10",
+          "text": "Considered by Senate. (consideration: CR S943)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-03-05",
+          "text": "Cloture motion on the measure presented in Senate. (CR S877)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-03-05",
+          "text": "Considered by Senate. (consideration: CR S855-856)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-03-04",
+          "text": "Motion by Senator Thune to commit to Senate Committee on Banking, Housing, and Urban Affairs with instructions to report back forthwith with the following amendment (SA 4313) made in Senate.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-03-04",
+          "text": "Measure laid before Senate by motion. (consideration: CR S773-777)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-03-04",
+          "text": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 90 - 8. Record Vote Number: 45. (CR S773)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-03-04",
+          "text": "Motion to proceed to measure considered in Senate. (CR S769)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-03-03",
+          "text": "Motion to proceed to measure considered in Senate. (CR S741)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-03-02",
+          "text": "Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 84 - 6. Record Vote Number: 44. (CR S728)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-03-02",
+          "text": "Motion to proceed to measure considered in Senate. (CR S719)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-02-26",
+          "text": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S692)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-02-26",
+          "text": "Motion to proceed to consideration of measure made in Senate. (CR S692)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-02-24",
+          "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 343.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-02-23",
+          "text": "Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-02-11",
+          "text": "Received in the Senate.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-02-09",
+          "text": "The title of the measure was amended. Agreed to without objection.",
+          "chamber": "House",
+          "actionCode": "H38800"
+        },
+        {
+          "date": "2026-02-09",
+          "text": "Motion to reconsider laid on the table Agreed to without objection.",
+          "chamber": "House",
+          "actionCode": "H38310"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Enrolled Bill",
+          "date": "1970-01-01",
+          "url": "https://www.congress.gov/119/bills/hr6644/BILLS-119hr6644enr.htm"
+        },
+        {
+          "type": "Engrossed Amendment Senate",
+          "date": "2026-06-22",
+          "url": "https://www.congress.gov/119/bills/hr6644/BILLS-119hr6644eas2.htm"
+        },
+        {
+          "type": "Engrossed Amendment House",
+          "date": "2026-05-20",
+          "url": "https://www.congress.gov/119/bills/hr6644/BILLS-119hr6644eah.htm"
+        },
+        {
+          "type": "Engrossed Amendment Senate",
+          "date": "2026-03-12",
+          "url": "https://www.congress.gov/119/bills/hr6644/BILLS-119hr6644eas.htm"
+        },
+        {
+          "type": "Placed on Calendar Senate",
+          "date": "2026-02-24",
+          "url": "https://www.congress.gov/119/bills/hr6644/BILLS-119hr6644pcs.htm"
+        },
+        {
+          "type": "Engrossed in House",
+          "date": "2026-02-09",
+          "url": "https://www.congress.gov/119/bills/hr6644/BILLS-119hr6644eh.htm"
+        },
+        {
+          "type": "Reported in House",
+          "date": "2026-01-15",
+          "url": "https://www.congress.gov/119/bills/hr6644/BILLS-119hr6644rh.htm"
+        },
+        {
+          "type": "Introduced in House",
+          "date": "2025-12-11",
+          "url": "https://www.congress.gov/119/bills/hr6644/BILLS-119hr6644ih.htm"
+        },
+        {
+          "type": "Public Law",
+          "date": "2026-07-12",
+          "url": "https://www.congress.gov/119/plaws/publ101/PLAW-119publ101.htm"
+        }
+      ],
+      "summaryHtml": "<p><strong>Housing for the 21st Century Act<br/><br/></strong>This bill revises federal housing programs, including by expanding available financing for affordable housing and providing grants for planning and community development activities.<br/><br/>For example, the bill increases the statutory maximum loan limits for mortgage insurance programs administered by the&nbsp;Federal Housing Administration&nbsp;for multifamily homes and requires the use of a more specific inflation index for such loans.<br/><br/>The bill also increases the maximum&nbsp;eligible income for the Department of Housing and Urban Development's (HUD's) HOME Investment Partnerships Program (grants to states and localities to support housing for low-income households) and&nbsp;establishes a grant program to assist regional, state, and local entities with&nbsp;strategies to support affordable housing.<br/><br/>In addition, the bill</p><ul><li>exempts certain housing-related activities from the environmental review process, including certain construction, improvement, or rehabilitation of residential buildings;</li><li>excludes veterans' disability benefits from being considered as income for purposes of determining eligibility for the Veterans Affairs Supportive Housing (VASH) program;</li><li>establishes a pilot program to provide grants to public housing agencies (PHAs) and other owners of federally assisted housing to  test the efficacy of temperature sensors to support compliance with temperature requirements;</li><li>eliminates the requirement that manufactured homes must be constructed with a permanent chassis; and</li><li>authorizes HUD to conduct performance reviews of organizations that&nbsp;provide&nbsp;housing counseling services.</li></ul><p>The bill also expands oversight of HUD and PHAs, such as by requiring PHAs to post information about contracts on their websites.</p><p>For more information about this bill, see <a href=\"https://www.congress.gov/crs-product/R48849#_Toc221206484\">CRS Report&nbsp;</a><a href=\"https://www.congress.gov/crs-product/R48849#_Toc221206484\">R48849</a>.&nbsp;</p>",
+      "summaryFormat": "html",
+      "summary": "Housing for the 21st Century Act This bill revises federal housing programs, including by expanding available financing for affordable housing and providing grants for planning and community development activities. For example, the bill increases the statutory maximum loan limits for mortgage insurance programs administered by the Federal Housing Administration for multifamily homes and requires the use of a more specific inflation index for such loans. The bill also increases the maximum eligible income for the Department of Housing and Urban Development's (HUD's) HOME Investment Partnerships Program (grants to states and localities to support housing for low-income households) and establishes a grant program to assist regional, state, and local entities with strategies to support affordable housing. In addition, the bill exempts certain housing-related activities from the environmental review process, including certain construction, improvement, or rehabilitation of residential buildings; excludes veterans' disability benefits from being considered as income for purposes of determining eligibility for the Veterans Affairs Supportive Housing (VASH) program; establishes a pilot program to provide grants to public housing agencies (PHAs) and other owners of federally assisted housing to test the efficacy of temperature sensors to support compliance with temperature requirements; eliminates the requirement that manufactured homes must be constructed with a permanent chassis; and authorizes HUD to conduct performance reviews of organizations that provide housing counseling services. The bill also expands oversight of HUD and PHAs, such as by requiring PHAs to post information about contracts on their websites. For more information about this bill, see CRS Report R48849 .",
+      "summarySource": "official",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
+      "updatedAt": "2026-09-21T13:05:30Z",
+      "introducedAt": "2025-12-11"
     },
     {
       "id": "119-hr-2804",
@@ -2344,452 +3213,6 @@
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1329",
       "updatedAt": "2026-09-19T23:41:24Z",
       "introducedAt": "2025-02-13"
-    },
-    {
-      "id": "119-hr-3726",
-      "billType": "hr",
-      "billNumber": 3726,
-      "congress": 119,
-      "title": "Fisher House Availability Act of 2026",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "Armed Forces and National Security",
-      "sponsor": {
-        "memberId": "M001215",
-        "name": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
-        "party": "R",
-        "state": "IA",
-        "district": "1",
-        "chamber": "House"
-      },
-      "cosponsorCount": 3,
-      "latestAction": {
-        "date": "2026-05-20",
-        "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-05-20",
-          "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "The title of the measure was amended. Agreed to without objection.",
-          "chamber": "House",
-          "actionCode": "H38800"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "House",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3577)",
-          "chamber": "House",
-          "actionCode": "H37300"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3577)",
-          "chamber": "House",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3726.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "Considered under suspension of the rules. (consideration: CR H3577-3579)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "Mr. Bost moved to suspend the rules and pass the bill, as amended.",
-          "chamber": "House",
-          "actionCode": "H30300"
-        },
-        {
-          "date": "2026-04-30",
-          "text": "Placed on the Union Calendar, Calendar No. 546.",
-          "chamber": "House",
-          "actionCode": "H12410"
-        },
-        {
-          "date": "2026-04-30",
-          "text": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-630.",
-          "chamber": "House",
-          "actionCode": "H12200"
-        },
-        {
-          "date": "2026-04-30",
-          "text": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-630.",
-          "chamber": "House",
-          "actionCode": "5000"
-        },
-        {
-          "date": "2026-02-12",
-          "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.",
-          "chamber": "House",
-          "actionCode": "H19000"
-        },
-        {
-          "date": "2026-02-12",
-          "text": "Committee Consideration and Mark-up Session Held",
-          "chamber": "House",
-          "actionCode": "H15001"
-        },
-        {
-          "date": "2026-02-05",
-          "text": "Subcommittee on Health Discharged",
-          "chamber": "House",
-          "actionCode": "H25000"
-        },
-        {
-          "date": "2025-06-17",
-          "text": "Referred to the Subcommittee on Health.",
-          "chamber": "House",
-          "actionCode": "H11000"
-        },
-        {
-          "date": "2025-06-04",
-          "text": "Referred to the House Committee on Veterans' Affairs.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2025-06-04",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2025-06-04",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Referred in Senate",
-          "date": "2026-05-20",
-          "url": "https://www.congress.gov/119/bills/hr3726/BILLS-119hr3726rfs.htm"
-        },
-        {
-          "type": "Engrossed in House",
-          "date": "2026-05-19",
-          "url": "https://www.congress.gov/119/bills/hr3726/BILLS-119hr3726eh.htm"
-        },
-        {
-          "type": "Reported in House",
-          "date": "2026-04-30",
-          "url": "https://www.congress.gov/119/bills/hr3726/BILLS-119hr3726rh.htm"
-        },
-        {
-          "type": "Introduced in House",
-          "date": "2025-06-04",
-          "url": "https://www.congress.gov/119/bills/hr3726/BILLS-119hr3726ih.htm"
-        }
-      ],
-      "summaryHtml": "<p><strong>Fisher House Availability Act of 2026</strong></p><p>This bill expands eligibility for temporary lodging at a Fisher House to additional individuals receiving medical care or treatment at a Department of Veteran Affairs (VA) or non-VA facility or those accompanying individuals receiving such treatment. (Fisher Houses are where the VA furnishes no-cost lodging to veterans and other eligible individuals when receiving treatment or accompanying an individual receiving treatment.)</p><p>Specifically, the bill authorizes the VA to provide lodging at a Fisher House on a space-available basis to</p><ul><li>members of the uniformed services performing active duty (i.e., covered beneficiaries) who must travel a significant distance to receive care or services;</li><li>family members and others accompanying such covered beneficiaries to receive care or services;</li><li>veterans, members of a veteran's family, and others who must travel a significant distance for a member of a veteran's family to receive care or services; and</li><li>covered beneficiaries, members of a covered beneficiary’s family, and others who must travel a significant distance for a member of a beneficiary’s family to receive care or services.</li></ul><p>Finally, the bill extends the limitation on pension amounts for certain hospitalized or institutionalized veterans through July 31, 2033.</p>",
-      "summaryFormat": "html",
-      "summary": "Fisher House Availability Act of 2026 This bill expands eligibility for temporary lodging at a Fisher House to additional individuals receiving medical care or treatment at a Department of Veteran Affairs (VA) or non-VA facility or those accompanying individuals receiving such treatment. (Fisher Houses are where the VA furnishes no-cost lodging to veterans and other eligible individuals when receiving treatment or accompanying an individual receiving treatment.) Specifically, the bill authorizes the VA to provide lodging at a Fisher House on a space-available basis to members of the uniformed services performing active duty (i.e., covered beneficiaries) who must travel a significant distance to receive care or services; family members and others accompanying such covered beneficiaries to receive care or services; veterans, members of a veteran's family, and others who must travel a significant distance for a member of a veteran's family to receive care or services; and covered beneficiaries, members of a covered beneficiary’s family, and others who must travel a significant distance for a member of a beneficiary’s family to receive care or services. Finally, the bill extends the limitation on pension amounts for certain hospitalized or institutionalized veterans through July 31, 2033.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3726",
-      "updatedAt": "2026-09-19T23:41:26Z",
-      "introducedAt": "2025-06-04"
-    },
-    {
-      "id": "119-hres-1300",
-      "billType": "hres",
-      "billNumber": 1300,
-      "congress": 119,
-      "title": "Providing for consideration of the bill (H.R. 1041) to amend title 38, United States Code, to prohibit the Secretary of Veterans Affairs from transmitting certain information to the Department of Justice for use by the national instant criminal background check system; providing for consideration of the bill (H.R. 6047) to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to increase the dollar amounts for the payment of certain disability compensation and dependency and indemnity compensation under the laws administered by the Secretary; providing for consideration of the bill (H.R. 1329) to permit the Smithsonian American Women’s History Museum to be located within the Reserve of the National Mall, and for other purposes; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
-      "status": "introduced",
-      "chamber": "House",
-      "policyArea": "Congress",
-      "sponsor": {
-        "memberId": "J000311",
-        "name": "Rep. Jack, Brian [R-GA-3]",
-        "party": "R",
-        "state": "GA",
-        "district": "3",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-05-20",
-        "text": "Motion to reconsider laid on the table Agreed to without objection.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-05-20",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "House",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-05-20",
-          "text": "On agreeing to the resolution Agreed to by recorded vote: 208 - 207 (Roll no. 186). (text: CR H3632-3633)",
-          "chamber": "House",
-          "actionCode": "H37100"
-        },
-        {
-          "date": "2026-05-20",
-          "text": "Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 208 - 207 (Roll no. 186). (text: CR H3632-3633)",
-          "chamber": "House",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-05-20",
-          "text": "On ordering the previous question Agreed to by the Yeas and Nays: 209 - 207 (Roll no. 185).",
-          "chamber": "House",
-          "actionCode": "H35000"
-        },
-        {
-          "date": "2026-05-20",
-          "text": "Considered as unfinished business. (consideration: CR H3661-3663)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-05-20",
-          "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 1300, the Chair put the question on ordering the previous question and by voice vote, announced the ayes had prevailed. Ms. Leger Fernandez demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-05-20",
-          "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 1300.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-05-20",
-          "text": "Considered as privileged matter. (consideration: CR H3632-3642)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "Placed on the House Calendar, Calendar No. 76.",
-          "chamber": "House",
-          "actionCode": "H12420"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "The resolution provides for consideration of H.R. 1041, H.R. 6047, and H.R. 1329 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.",
-          "chamber": "House",
-          "actionCode": "H12700"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "The House Committee on Rules reported an original measure, H. Rept. 119-653, by Mr. Jack.",
-          "chamber": "House",
-          "actionCode": "H12100"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "The House Committee on Rules reported an original measure, H. Rept. 119-653, by Mr. Jack.",
-          "chamber": "House",
-          "actionCode": "1010"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "The House Committee on Rules reported an original measure, H. Rept. 119-653, by Mr. Jack.",
-          "chamber": "House",
-          "actionCode": "1010"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Engrossed in House",
-          "date": "2026-05-20",
-          "url": "https://www.congress.gov/119/bills/hres1300/BILLS-119hres1300eh.htm"
-        },
-        {
-          "type": "Reported in House",
-          "date": "2026-05-19",
-          "url": "https://www.congress.gov/119/bills/hres1300/BILLS-119hres1300rh.htm"
-        }
-      ],
-      "summary": "This resolution provides for the consideration of the bill (H.R. 1041) to amend title 38, United States Code, to prohibit the Secretary of Veterans Affairs from transmitting certain information to the Department of Justice for use by the national instant criminal background check system; providing for consideration of the bill (H.R. 6047) to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to increase the dollar amounts for the payment of certain disability compensation and dependency and indemnity compensation under the laws administered by the Secretary; providing for consideration of the bill (H.R. 1329) to permit the Smithsonian American Women's History Museum to be located within the Reserve of the National Mall, and for other purposes; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
-      "summaryFormat": "plain",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1300",
-      "updatedAt": "2026-09-19T23:41:24Z",
-      "introducedAt": "2026-05-19"
-    },
-    {
-      "id": "119-hr-8912",
-      "billType": "hr",
-      "billNumber": 8912,
-      "congress": 119,
-      "title": "Campaign Funds Integrity Act of 2026",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "Government Operations and Politics",
-      "sponsor": {
-        "memberId": "T000486",
-        "name": "Rep. Torres, Ritchie [D-NY-15]",
-        "party": "D",
-        "state": "NY",
-        "district": "15",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-05-19",
-        "text": "Referred to the House Committee on House Administration.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-05-19",
-          "text": "Referred to the House Committee on House Administration.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-05-19",
-          "url": "https://www.congress.gov/119/bills/hr8912/BILLS-119hr8912ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8912",
-      "updatedAt": "2026-09-19T23:41:29Z",
-      "introducedAt": "2026-05-19"
-    },
-    {
-      "id": "119-hr-8908",
-      "billType": "hr",
-      "billNumber": 8908,
-      "congress": 119,
-      "title": "STOP GAMES Act of 2026",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "Health",
-      "sponsor": {
-        "memberId": "S001225",
-        "name": "Rep. Sorensen, Eric [D-IL-17]",
-        "party": "D",
-        "state": "IL",
-        "district": "17",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-05-19",
-        "text": "Referred to the House Committee on Energy and Commerce.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-05-19",
-          "text": "Referred to the House Committee on Energy and Commerce.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-05-19",
-          "url": "https://www.congress.gov/119/bills/hr8908/BILLS-119hr8908ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8908",
-      "updatedAt": "2026-09-19T23:41:21Z",
-      "introducedAt": "2026-05-19"
-    },
-    {
-      "id": "119-hr-8906",
-      "billType": "hr",
-      "billNumber": 8906,
-      "congress": 119,
-      "title": "Ban Chinese Communist and Islamist Home Ownership Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "International Affairs",
-      "sponsor": {
-        "memberId": "R000614",
-        "name": "Rep. Roy, Chip [R-TX-21]",
-        "party": "R",
-        "state": "TX",
-        "district": "21",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-05-19",
-        "text": "Referred to the House Committee on Foreign Affairs.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-05-19",
-          "text": "Referred to the House Committee on Foreign Affairs.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-05-19",
-          "url": "https://www.congress.gov/119/bills/hr8906/BILLS-119hr8906ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8906",
-      "updatedAt": "2026-09-19T23:41:27Z",
-      "introducedAt": "2026-05-19"
     }
   ]
 }

@@ -1,8 +1,402 @@
 {
-  "generatedAt": "2026-09-20T12:52:53.369Z",
+  "generatedAt": "2026-09-21T14:52:14.137Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-09-21T145214137Z_119-house-2-308_vote.corrected",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-308",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Concur in the Senate Amendments",
+      "before": {
+        "result": "Passed",
+        "yea": 262,
+        "nay": 159,
+        "present": 0,
+        "notVoting": 12,
+        "question": "On Motion to Concur in the Senate Amendments",
+        "description": "On Motion to Concur in the Senate Amendments",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hr-5334"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 262,
+        "nay": 159,
+        "present": 0,
+        "notVoting": 12,
+        "question": "On Motion to Concur in the Senate Amendments",
+        "description": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (HR 5334)",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hr-5334"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll308.xml",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-hr-5334_bill.action_added_0736a598b8586435",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.action_added",
+      "summary": "New action: POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 5334, the Chair put the question on agreeing to the Senate amendments and by voice vote, announced the ayes had prevailed. Mr. Meeks demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "after": {
+        "date": "2026-09-16",
+        "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 5334, the Chair put the question on agreeing to the Senate amendments and by voice vote, announced the ayes had prevailed. Mr. Meeks demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+        "chamber": "House",
+        "actionCode": "H8D000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-hr-5334_bill.action_added_0bb1df3ca32f221c",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.action_added",
+      "summary": "New action: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 262 - 159 (Roll no. 308).",
+      "after": {
+        "date": "2026-09-16",
+        "text": "On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 262 - 159 (Roll no. 308).",
+        "chamber": "House",
+        "actionCode": "H41610"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-hr-5334_bill.action_added_0e93bdfea72eab90",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.action_added",
+      "summary": "New action: Mr. McCaul moved that the House agree to the Senate amendments.",
+      "after": {
+        "date": "2026-09-16",
+        "text": "Mr. McCaul moved that the House agree to the Senate amendments.",
+        "chamber": "House",
+        "actionCode": "H40150"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-hr-5334_bill.action_added_567516293f908e83",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.action_added",
+      "summary": "New action: Motion to reconsider laid on the table Agreed to without objection.",
+      "after": {
+        "date": "2026-09-16",
+        "text": "Motion to reconsider laid on the table Agreed to without objection.",
+        "chamber": "House",
+        "actionCode": "H41931"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-hr-5334_bill.action_added_5963732e9919be0c",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.action_added",
+      "summary": "New action: Presented to President.",
+      "after": {
+        "date": "2026-09-17",
+        "text": "Presented to President.",
+        "chamber": "House",
+        "actionCode": "28000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-hr-5334_bill.action_added_632429661a285332",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.action_added",
+      "summary": "New action: Presented to President.",
+      "after": {
+        "date": "2026-09-17",
+        "text": "Presented to President.",
+        "chamber": "House",
+        "actionCode": "E20000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-hr-5334_bill.action_added_7db1e17baf3b8307",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.action_added",
+      "summary": "New action: Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 262 - 159 (Roll no. 308).",
+      "after": {
+        "date": "2026-09-16",
+        "text": "Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 262 - 159 (Roll no. 308).",
+        "chamber": "House",
+        "actionCode": "19500"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-hr-5334_bill.action_added_820006c8454c5bdf",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.action_added",
+      "summary": "New action: Pursuant to the provisions of H. Res. 1530, Mr. McCaul called up the Senate amendments to H.R. 5334.",
+      "after": {
+        "date": "2026-09-16",
+        "text": "Pursuant to the provisions of H. Res. 1530, Mr. McCaul called up the Senate amendments to H.R. 5334.",
+        "chamber": "House",
+        "actionCode": "H8D000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-hr-5334_bill.action_added_8946492cc6132f8b",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-09-18",
+        "text": "Signed by President.",
+        "chamber": "House",
+        "actionCode": "E30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-hr-5334_bill.action_added_9faf773e09f48d4e",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-09-18",
+        "text": "Signed by President.",
+        "chamber": "House",
+        "actionCode": "36000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-hr-5334_bill.action_added_a80b90ed121fc2e1",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.action_added",
+      "summary": "New action: The previous question was ordered pursuant to the rule.",
+      "after": {
+        "date": "2026-09-16",
+        "text": "The previous question was ordered pursuant to the rule.",
+        "chamber": "House",
+        "actionCode": "H41400"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-hr-5334_bill.action_added_f5df3e0872acf513",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.action_added",
+      "summary": "New action: DEBATE - Pursuant to the provisions of H. Res. 1530, the House proceeded with one hour of debate on motion to agree to the Senate amendments to H.R. 5334.",
+      "after": {
+        "date": "2026-09-16",
+        "text": "DEBATE - Pursuant to the provisions of H. Res. 1530, the House proceeded with one hour of debate on motion to agree to the Senate amendments to H.R. 5334.",
+        "chamber": "House",
+        "actionCode": "H8D000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-hr-5334_bill.status_changed",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5334",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to becameLaw",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "becameLaw"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-hr-5345_bill.action_added_66115798a2213b4e",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5345",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed Senate without amendment by Unanimous Consent. (consideration: CR S4790)",
+      "after": {
+        "date": "2026-09-17",
+        "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4790)",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5345",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-hr-6644_bill.added",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-hr-6644",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-6644: 21st Century ROAD to Housing Act",
+      "after": {
+        "title": "21st Century ROAD to Housing Act",
+        "status": "becameLaw"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-s-5254_bill.added",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-s-5254",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5254: Civil Nuclear Export Act of 2026",
+      "after": {
+        "title": "Civil Nuclear Export Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5254",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-sres-816_bill.action_added_216127d75395bb7f",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-sres-816",
+      "changeType": "bill.action_added",
+      "summary": "New action: Senate Committee on Foreign Relations discharged by Unanimous Consent.",
+      "after": {
+        "date": "2026-09-17",
+        "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/816",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-sres-816_bill.action_added_3a085eff329e900f",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-sres-816",
+      "changeType": "bill.action_added",
+      "summary": "New action: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4790)",
+      "after": {
+        "date": "2026-09-17",
+        "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4790)",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/816",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-sres-816_bill.action_added_470f98c640cadf8d",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-sres-816",
+      "changeType": "bill.action_added",
+      "summary": "New action: Senate Committee on Foreign Relations discharged by Unanimous Consent.",
+      "after": {
+        "date": "2026-09-17",
+        "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.",
+        "chamber": "Senate",
+        "actionCode": "14500"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/816",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-sres-816_bill.action_added_cba75b0592ac20d0",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-sres-816",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "after": {
+        "date": "2026-09-17",
+        "text": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+        "chamber": "Senate",
+        "actionCode": "17000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/816",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-sres-816_bill.status_changed",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-sres-816",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from inCommittee to introduced",
+      "before": {
+        "status": "inCommittee"
+      },
+      "after": {
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/816",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-sres-816_bill.title_changed",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-sres-816",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "A resolution honoring 35 years of independence for the countries of Central Asia and recognizing the importance of the United States' growing relationship with Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan."
+      },
+      "after": {
+        "title": "A resolution honoring 35 years of independence for the countries of Central Asia and recognizing the importance of the United States growing relationship with Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan."
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/816",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
+    {
+      "id": "evt_2026-09-21T145214137Z_119-sres-862_bill.added",
+      "observedAt": "2026-09-21T14:52:14.137Z",
+      "entityType": "bill",
+      "entityId": "119-sres-862",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-862: A resolution honoring the life and legacy of Dolly Parton, a daughter of Tennessee whose extraordinary contributions to music, philanthropy, literacy, education, health, conservation, and culture enriched the lives of countless Americans.",
+      "after": {
+        "title": "A resolution honoring the life and legacy of Dolly Parton, a daughter of Tennessee whose extraordinary contributions to music, philanthropy, literacy, education, health, conservation, and culture enriched the lives of countless Americans.",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/862",
+      "syncId": "2026-09-21T14:52:14.137Z"
+    },
     {
       "id": "evt_2026-09-20T125253369Z_119-hr-1329_bill.added",
       "observedAt": "2026-09-20T12:52:53.369Z",
@@ -1216,486 +1610,6 @@
       },
       "officialUrl": "https://castro.house.gov",
       "syncId": "2026-09-19T12:17:56.809Z"
-    },
-    {
-      "id": "evt_2026-09-19T121756809Z_E000294_member.added",
-      "observedAt": "2026-09-19T12:17:56.809Z",
-      "entityType": "member",
-      "entityId": "E000294",
-      "changeType": "member.added",
-      "summary": "Started tracking Tom Emmer",
-      "after": {
-        "name": "Tom Emmer",
-        "party": "R",
-        "chamber": "House",
-        "state": "MN"
-      },
-      "officialUrl": "https://emmer.house.gov/",
-      "syncId": "2026-09-19T12:17:56.809Z"
-    },
-    {
-      "id": "evt_2026-09-19T121756809Z_F000480_member.added",
-      "observedAt": "2026-09-19T12:17:56.809Z",
-      "entityType": "member",
-      "entityId": "F000480",
-      "changeType": "member.added",
-      "summary": "Started tracking Vince Fong",
-      "after": {
-        "name": "Vince Fong",
-        "party": "R",
-        "chamber": "House",
-        "state": "CA"
-      },
-      "officialUrl": "https://fong.house.gov/",
-      "syncId": "2026-09-19T12:17:56.809Z"
-    },
-    {
-      "id": "evt_2026-09-19T121756809Z_G000558_member.added",
-      "observedAt": "2026-09-19T12:17:56.809Z",
-      "entityType": "member",
-      "entityId": "G000558",
-      "changeType": "member.added",
-      "summary": "Started tracking Brett Guthrie",
-      "after": {
-        "name": "Brett Guthrie",
-        "party": "R",
-        "chamber": "House",
-        "state": "KY"
-      },
-      "officialUrl": "https://guthrie.house.gov/",
-      "syncId": "2026-09-19T12:17:56.809Z"
-    },
-    {
-      "id": "evt_2026-09-19T121756809Z_L000397_member.added",
-      "observedAt": "2026-09-19T12:17:56.809Z",
-      "entityType": "member",
-      "entityId": "L000397",
-      "changeType": "member.added",
-      "summary": "Started tracking Zoe Lofgren",
-      "after": {
-        "name": "Zoe Lofgren",
-        "party": "D",
-        "chamber": "House",
-        "state": "CA"
-      },
-      "officialUrl": "https://lofgren.house.gov/",
-      "syncId": "2026-09-19T12:17:56.809Z"
-    },
-    {
-      "id": "evt_2026-09-19T121756809Z_M001226_member.added",
-      "observedAt": "2026-09-19T12:17:56.809Z",
-      "entityType": "member",
-      "entityId": "M001226",
-      "changeType": "member.added",
-      "summary": "Started tracking Robert Menendez",
-      "after": {
-        "name": "Robert Menendez",
-        "party": "D",
-        "chamber": "House",
-        "state": "NJ"
-      },
-      "officialUrl": "https://menendez.house.gov",
-      "syncId": "2026-09-19T12:17:56.809Z"
-    },
-    {
-      "id": "evt_2026-09-19T121756809Z_T000476_member.added",
-      "observedAt": "2026-09-19T12:17:56.809Z",
-      "entityType": "member",
-      "entityId": "T000476",
-      "changeType": "member.added",
-      "summary": "Started tracking Thom Tillis",
-      "after": {
-        "name": "Thom Tillis",
-        "party": "R",
-        "chamber": "Senate",
-        "state": "NC"
-      },
-      "officialUrl": "https://www.tillis.senate.gov",
-      "syncId": "2026-09-19T12:17:56.809Z"
-    },
-    {
-      "id": "evt_2026-09-19T121756809Z_W000814_member.added",
-      "observedAt": "2026-09-19T12:17:56.809Z",
-      "entityType": "member",
-      "entityId": "W000814",
-      "changeType": "member.added",
-      "summary": "Started tracking Randy K. Weber, Sr.",
-      "after": {
-        "name": "Randy K. Weber, Sr.",
-        "party": "R",
-        "chamber": "House",
-        "state": "TX"
-      },
-      "officialUrl": "https://weber.house.gov",
-      "syncId": "2026-09-19T12:17:56.809Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-house-2-302_vote.corrected",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-302",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Motion to Suspend the Rules and Pass, as Amended",
-      "before": {
-        "result": "Passed",
-        "yea": 417,
-        "nay": 7,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Motion to Suspend the Rules and Pass, as Amended",
-        "description": "Fostering the Use of Technology to Uphold Regulatory Effectiveness in Supervision Act (HR 8278)",
-        "date": "2026-09-15",
-        "associatedBillId": "119-hr-8278"
-      },
-      "after": {
-        "result": "Passed",
-        "yea": 417,
-        "nay": 7,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Motion to Suspend the Rules and Pass, as Amended",
-        "description": "On Motion to Suspend the Rules and Pass, as Amended",
-        "date": "2026-09-15",
-        "associatedBillId": "119-hr-8278"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll302.xml",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-house-2-305_vote.corrected",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-305",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Motion to Suspend the Rules and Pass, as Amended",
-      "before": {
-        "result": "Passed",
-        "yea": 408,
-        "nay": 17,
-        "present": 0,
-        "notVoting": 8,
-        "question": "On Motion to Suspend the Rules and Pass, as Amended",
-        "description": "Tax Relief for Fraud Victims Act (HR 9500)",
-        "date": "2026-09-15",
-        "associatedBillId": "119-hr-9500"
-      },
-      "after": {
-        "result": "Passed",
-        "yea": 408,
-        "nay": 17,
-        "present": 0,
-        "notVoting": 8,
-        "question": "On Motion to Suspend the Rules and Pass, as Amended",
-        "description": "On Motion to Suspend the Rules and Pass, as Amended",
-        "date": "2026-09-15",
-        "associatedBillId": "119-hr-9500"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll305.xml",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-house-2-309_vote.corrected",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-309",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Passage",
-      "before": {
-        "result": "Passed",
-        "yea": 352,
-        "nay": 72,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Passage",
-        "description": "On Passage",
-        "date": "2026-09-16",
-        "associatedBillId": "119-hr-9576"
-      },
-      "after": {
-        "result": "Passed",
-        "yea": 352,
-        "nay": 72,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Passage",
-        "description": "National Fraud Enforcement Division Act of 2026 (HR 9576)",
-        "date": "2026-09-16",
-        "associatedBillId": "119-hr-9576"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll309.xml",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-house-2-310_vote.corrected",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-310",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Passage",
-      "before": {
-        "result": "Passed",
-        "yea": 217,
-        "nay": 207,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Passage",
-        "description": "On Passage",
-        "date": "2026-09-16",
-        "associatedBillId": "119-hr-10326"
-      },
-      "after": {
-        "result": "Passed",
-        "yea": 217,
-        "nay": 207,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Passage",
-        "description": "PROOF Act (HR 10326)",
-        "date": "2026-09-16",
-        "associatedBillId": "119-hr-10326"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll310.xml",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-house-2-312_vote.corrected",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-312",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Motion to Suspend the Rules and Pass, as Amended",
-      "before": {
-        "result": "Passed",
-        "yea": 417,
-        "nay": 3,
-        "present": 0,
-        "notVoting": 12,
-        "question": "On Motion to Suspend the Rules and Pass, as Amended",
-        "description": "On Motion to Suspend the Rules and Pass, as Amended",
-        "date": "2026-09-16",
-        "associatedBillId": "119-hr-9340"
-      },
-      "after": {
-        "result": "Passed",
-        "yea": 417,
-        "nay": 3,
-        "present": 0,
-        "notVoting": 12,
-        "question": "On Motion to Suspend the Rules and Pass, as Amended",
-        "description": "Ratepayer Protection Act (HR 9340)",
-        "date": "2026-09-16",
-        "associatedBillId": "119-hr-9340"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll312.xml",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-house-2-313_vote.corrected",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-313",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Motion to Suspend the Rules and Pass, as Amended",
-      "before": {
-        "result": "Passed",
-        "yea": 415,
-        "nay": 9,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Motion to Suspend the Rules and Pass, as Amended",
-        "description": "On Motion to Suspend the Rules and Pass, as Amended",
-        "date": "2026-09-16",
-        "associatedBillId": "119-hr-9497"
-      },
-      "after": {
-        "result": "Passed",
-        "yea": 415,
-        "nay": 9,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Motion to Suspend the Rules and Pass, as Amended",
-        "description": "Water Resources Development Act of 2026 (HR 9497)",
-        "date": "2026-09-16",
-        "associatedBillId": "119-hr-9497"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll313.xml",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-hr-10326_bill.action_added_16d4e5546f4c3e3d",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10326",
-      "changeType": "bill.action_added",
-      "summary": "New action: Rules Committee Resolution H. Res. 1530 Reported to House. Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate and one motion to recommit on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
-      "after": {
-        "date": "2026-09-14",
-        "text": "Rules Committee Resolution H. Res. 1530 Reported to House. Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate and one motion to recommit on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
-        "chamber": "House",
-        "actionCode": "H1L210"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10326",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-hr-10326_bill.action_added_247df79ec47d492f",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10326",
-      "changeType": "bill.action_added",
-      "summary": "New action: Considered under the provisions of rule H. Res. 1530.",
-      "after": {
-        "date": "2026-09-16",
-        "text": "Considered under the provisions of rule H. Res. 1530.",
-        "chamber": "House",
-        "actionCode": "H30000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10326",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-hr-10326_bill.action_added_514b9861035cae7c",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10326",
-      "changeType": "bill.action_added",
-      "summary": "New action: Motion to reconsider laid on the table Agreed to without objection.",
-      "after": {
-        "date": "2026-09-16",
-        "text": "Motion to reconsider laid on the table Agreed to without objection.",
-        "chamber": "House",
-        "actionCode": "H38310"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10326",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-hr-10326_bill.action_added_5212248420f432f1",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10326",
-      "changeType": "bill.action_added",
-      "summary": "New action: Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate and one motion to recommit on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
-      "after": {
-        "date": "2026-09-16",
-        "text": "Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate and one motion to recommit on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
-        "chamber": "House",
-        "actionCode": "H8D000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10326",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-hr-10326_bill.action_added_5703115ca460d1f1",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10326",
-      "changeType": "bill.action_added",
-      "summary": "New action: On passage Passed by the Yeas and Nays: 217 - 207 (Roll no. 310).",
-      "after": {
-        "date": "2026-09-16",
-        "text": "On passage Passed by the Yeas and Nays: 217 - 207 (Roll no. 310).",
-        "chamber": "House",
-        "actionCode": "H37100"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10326",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-hr-10326_bill.action_added_9c23356ab90c4a22",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10326",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 207 (Roll no. 310).",
-      "after": {
-        "date": "2026-09-16",
-        "text": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 207 (Roll no. 310).",
-        "chamber": "House",
-        "actionCode": "8000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10326",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-hr-10326_bill.action_added_a4181e77fd20da52",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10326",
-      "changeType": "bill.action_added",
-      "summary": "New action: POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 10326, the Chair put the question on passage of the bill, and by voice vote announced that the ayes had prevailed. Mr. Raskin demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
-      "after": {
-        "date": "2026-09-16",
-        "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 10326, the Chair put the question on passage of the bill, and by voice vote announced that the ayes had prevailed. Mr. Raskin demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
-        "chamber": "House",
-        "actionCode": "H8D000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10326",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-hr-10326_bill.action_added_a6c345b41eeadd90",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10326",
-      "changeType": "bill.action_added",
-      "summary": "New action: Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
-      "after": {
-        "date": "2026-09-17",
-        "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10326",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-hr-10326_bill.action_added_b9d7864d029a1efa",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10326",
-      "changeType": "bill.action_added",
-      "summary": "New action: Considered as unfinished business.",
-      "after": {
-        "date": "2026-09-16",
-        "text": "Considered as unfinished business.",
-        "chamber": "House",
-        "actionCode": "H30000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10326",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-hr-10326_bill.action_added_c0408a3bb2f01bf2",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10326",
-      "changeType": "bill.action_added",
-      "summary": "New action: The previous question was ordered pursuant to the rule.",
-      "after": {
-        "date": "2026-09-16",
-        "text": "The previous question was ordered pursuant to the rule.",
-        "chamber": "House",
-        "actionCode": "H35000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10326",
-      "syncId": "2026-09-18T12:44:39.689Z"
-    },
-    {
-      "id": "evt_2026-09-18T124439689Z_119-hr-10326_bill.action_added_dd7e70d06db47dfc",
-      "observedAt": "2026-09-18T12:44:39.689Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10326",
-      "changeType": "bill.action_added",
-      "summary": "New action: DEBATE - The House proceeded with one hour of debate on H.R. 10326.",
-      "after": {
-        "date": "2026-09-16",
-        "text": "DEBATE - The House proceeded with one hour of debate on H.R. 10326.",
-        "chamber": "House",
-        "actionCode": "H8D000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10326",
-      "syncId": "2026-09-18T12:44:39.689Z"
     }
   ]
 }
