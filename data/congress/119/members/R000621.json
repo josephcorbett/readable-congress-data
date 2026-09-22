@@ -1,22 +1,24 @@
 {
-  "id": "B001306",
-  "bioguideId": "B001306",
-  "name": "Troy Balderson",
-  "firstName": "Troy",
-  "lastName": "Balderson",
-  "party": "R",
+  "id": "R000621",
+  "bioguideId": "R000621",
+  "name": "Emily Randall",
+  "firstName": "Emily",
+  "lastName": "Randall",
+  "party": "D",
   "chamber": "House",
-  "state": "Ohio",
-  "stateCode": "OH",
-  "district": "12",
+  "state": "Washington",
+  "stateCode": "WA",
+  "district": "6",
   "currentTerm": {
     "congress": 119,
     "chamber": "House",
-    "state": "Ohio",
-    "district": "12",
+    "state": "Washington",
+    "district": "6",
     "startYear": 2025
   },
-  "sponsoredBillIds": [],
+  "sponsoredBillIds": [
+    "119-hres-1572"
+  ],
   "cosponsoredBillIds": [],
   "recentVoteIds": [
     "119-house-2-314",
@@ -45,5 +47,5 @@
     "119-house-2-291",
     "119-house-2-290"
   ],
-  "officialUrl": "https://balderson.house.gov"
+  "officialUrl": "https://randall.house.gov/"
 }

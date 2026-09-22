@@ -1,0 +1,452 @@
+{
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-22T13:07:51.668Z",
+  "items": [
+    {
+      "id": "evt_2026-09-22T130751668Z_119-house-2-308_vote.corrected",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-308",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Concur in the Senate Amendments",
+      "before": {
+        "result": "Passed",
+        "yea": 262,
+        "nay": 159,
+        "present": 0,
+        "notVoting": 12,
+        "question": "On Motion to Concur in the Senate Amendments",
+        "description": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (HR 5334)",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hr-5334"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 262,
+        "nay": 159,
+        "present": 0,
+        "notVoting": 12,
+        "question": "On Motion to Concur in the Senate Amendments",
+        "description": "On Motion to Concur in the Senate Amendments",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hr-5334"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll308.xml",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10510_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10510",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10510: To establish a settlement program for disputes relating to syndicated conservation easements and to amend the Internal Revenue Code of 1986 to clarify Congressional intent with respect to such easements.",
+      "after": {
+        "title": "To establish a settlement program for disputes relating to syndicated conservation easements and to amend the Internal Revenue Code of 1986 to clarify Congressional intent with respect to such easements.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10510",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10511_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10511",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10511: To amend the Internal Revenue Code of 1986 to establish an above-the-line deduction for commuting expenses.",
+      "after": {
+        "title": "To amend the Internal Revenue Code of 1986 to establish an above-the-line deduction for commuting expenses.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10511",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10512_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10512",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10512: To amend the Internal Revenue Code of 1986 to create a Business Child Care Liaison within the Internal Revenue Service.",
+      "after": {
+        "title": "To amend the Internal Revenue Code of 1986 to create a Business Child Care Liaison within the Internal Revenue Service.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10512",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10513_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10513",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10513: To require the Secretary of Housing and Urban Development to establish a pilot program to provide grants to eligible entities to fund pre-development activities associated with new construction or rehabilitation of housing that qualifies as affordable housing on land owned by such faith-based organizations, and for other purposes.",
+      "after": {
+        "title": "To require the Secretary of Housing and Urban Development to establish a pilot program to provide grants to eligible entities to fund pre-development activities associated with new construction or rehabilitation of housing that qualifies as affordable housing on land owned by such faith-based organizations, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10513",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10514_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10514",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10514: To approve certain requests for a major disaster declaration, and for other purposes.",
+      "after": {
+        "title": "To approve certain requests for a major disaster declaration, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10514",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10515_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10515",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10515: To establish a human-centered Federal framework for artificial intelligence in education and the workforce, promote the ethical and responsible teaching and learning of artificial intelligence, provide for equitable access to artificial intelligence-ready workforce development, safeguard student and worker data privacy, and for other purposes.",
+      "after": {
+        "title": "To establish a human-centered Federal framework for artificial intelligence in education and the workforce, promote the ethical and responsible teaching and learning of artificial intelligence, provide for equitable access to artificial intelligence-ready workforce development, safeguard student and worker data privacy, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10515",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10516_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10516",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10516: To prohibit air carriers from imposing fees that are not reasonable and proportional to the costs incurred by the air carriers, and for other purposes.",
+      "after": {
+        "title": "To prohibit air carriers from imposing fees that are not reasonable and proportional to the costs incurred by the air carriers, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10516",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10517_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10517",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10517: To amend title 49, United States Code, to provide refunds for cancelled or significantly delayed or changed flights, and for other purposes.",
+      "after": {
+        "title": "To amend title 49, United States Code, to provide refunds for cancelled or significantly delayed or changed flights, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10517",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10518_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10518",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10518: Diversify Act",
+      "after": {
+        "title": "Diversify Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10518",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10519_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10519",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10519: To direct the Secretary of Homeland Security, acting through the Director of the Cybersecurity and Infrastructure Security Agency, to establish a Critical Infrastructure AI Cyber Defense Pilot Program, and for other purposes.",
+      "after": {
+        "title": "To direct the Secretary of Homeland Security, acting through the Director of the Cybersecurity and Infrastructure Security Agency, to establish a Critical Infrastructure AI Cyber Defense Pilot Program, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10519",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10520_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10520",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10520: To provide for research and improvement of cardiovascular health among the South Asian population of the United States, and for other purposes.",
+      "after": {
+        "title": "To provide for research and improvement of cardiovascular health among the South Asian population of the United States, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10520",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10521_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10521",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10521: To direct the Secretary of Health and Human Services to revise the regulations implementing the 5-star rating system under Medicare Advantage.",
+      "after": {
+        "title": "To direct the Secretary of Health and Human Services to revise the regulations implementing the 5-star rating system under Medicare Advantage.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10521",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10522_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10522",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10522: To prohibit the obligation or expenditure of Department of Health and Human Services funds for the use of live dogs and live cats in biomedical research, to strengthen accountability for Federal research expenditures, and for other purposes.",
+      "after": {
+        "title": "To prohibit the obligation or expenditure of Department of Health and Human Services funds for the use of live dogs and live cats in biomedical research, to strengthen accountability for Federal research expenditures, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10522",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10523_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10523",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10523: To amend the Animal Welfare Act to prohibit breeding of dogs for research purposes, and for other purposes.",
+      "after": {
+        "title": "To amend the Animal Welfare Act to prohibit breeding of dogs for research purposes, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10523",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10524_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10524",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10524: To amend the National Housing Act to establish a mortgage insurance program for first responders, 911 call center operators and dispatchers, child care workers, and correctional officers or prison guards, and for other purposes.",
+      "after": {
+        "title": "To amend the National Housing Act to establish a mortgage insurance program for first responders, 911 call center operators and dispatchers, child care workers, and correctional officers or prison guards, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10524",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10525_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10525",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10525: Tropospheric Ozone Research Act of 2026",
+      "after": {
+        "title": "Tropospheric Ozone Research Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10525",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10526_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10526",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10526: To designate the facility of the United States Postal Service located at 501 West Memorial Drive in Muncie, Indiana, as the \"Officer Blake A. Reynolds Post Office Building\".",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 501 West Memorial Drive in Muncie, Indiana, as the \"Officer Blake A. Reynolds Post Office Building\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10526",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10527_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10527",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10527: To protect the independence of the Smithsonian Institution, and for other purposes.",
+      "after": {
+        "title": "To protect the independence of the Smithsonian Institution, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10527",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10528_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10528",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10528: To amend the Financial Literacy and Education Improvement Act to include secondary schools in best practices for teaching financial literacy, and for other purposes.",
+      "after": {
+        "title": "To amend the Financial Literacy and Education Improvement Act to include secondary schools in best practices for teaching financial literacy, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10528",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hr-10529_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10529",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10529: To provide restoration, economic development, recreation, and conservation in the State of Montana.",
+      "after": {
+        "title": "To provide restoration, economic development, recreation, and conservation in the State of Montana.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10529",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hres-1568_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1568",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1568: Recognizing the 25th pastoral anniversary of Bishop C.T. Wells and the ministry of Emmanuel Church.",
+      "after": {
+        "title": "Recognizing the 25th pastoral anniversary of Bishop C.T. Wells and the ministry of Emmanuel Church.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1568",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hres-1569_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1569",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1569: Recognizing the importance of protecting continuous Medicaid coverage for individuals undergoing active cancer treatment.",
+      "after": {
+        "title": "Recognizing the importance of protecting continuous Medicaid coverage for individuals undergoing active cancer treatment.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1569",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hres-1570_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1570",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1570: Marking the eighth anniversary of the unjust imprisonment of Dr. Gulshan Abbas by the Government of the People's Republic of China, condemning the use of transnational repression to retaliate against the exercise of free speech in the United States, and calling for her immediate and unconditional release.",
+      "after": {
+        "title": "Marking the eighth anniversary of the unjust imprisonment of Dr. Gulshan Abbas by the Government of the People's Republic of China, condemning the use of transnational repression to retaliate against the exercise of free speech in the United States, and calling for her immediate and unconditional release.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1570",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hres-1571_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1571",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1571: Expressing support for the designation of September 23, 2026, as \"Mary Church Terrell Day\", and calling on Congress to recognize Mary Church Terrell's lasting contributions to the civil rights and women's rights movements.",
+      "after": {
+        "title": "Expressing support for the designation of September 23, 2026, as \"Mary Church Terrell Day\", and calling on Congress to recognize Mary Church Terrell's lasting contributions to the civil rights and women's rights movements.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1571",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_119-hres-1572_bill.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1572",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1572: Encouraging the recognition of a \"National LGBTQ+ Servicemembers and Veterans Day\".",
+      "after": {
+        "title": "Encouraging the recognition of a \"National LGBTQ+ Servicemembers and Veterans Day\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1572",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_C001068_member.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "member",
+      "entityId": "C001068",
+      "changeType": "member.added",
+      "summary": "Started tracking Steve Cohen",
+      "after": {
+        "name": "Steve Cohen",
+        "party": "D",
+        "chamber": "House",
+        "state": "TN"
+      },
+      "officialUrl": "https://cohen.house.gov/",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_G000586_member.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "member",
+      "entityId": "G000586",
+      "changeType": "member.added",
+      "summary": "Started tracking Jesús G. \"Chuy\" García",
+      "after": {
+        "name": "Jesús G. \"Chuy\" García",
+        "party": "D",
+        "chamber": "House",
+        "state": "IL"
+      },
+      "officialUrl": "https://chuygarcia.house.gov/",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_R000621_member.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "member",
+      "entityId": "R000621",
+      "changeType": "member.added",
+      "summary": "Started tracking Emily Randall",
+      "after": {
+        "name": "Emily Randall",
+        "party": "D",
+        "chamber": "House",
+        "state": "WA"
+      },
+      "officialUrl": "https://randall.house.gov/",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    },
+    {
+      "id": "evt_2026-09-22T130751668Z_Z000018_member.added",
+      "observedAt": "2026-09-22T13:07:51.668Z",
+      "entityType": "member",
+      "entityId": "Z000018",
+      "changeType": "member.added",
+      "summary": "Started tracking Ryan K. Zinke",
+      "after": {
+        "name": "Ryan K. Zinke",
+        "party": "R",
+        "chamber": "House",
+        "state": "MT"
+      },
+      "officialUrl": "https://zinke.house.gov",
+      "syncId": "2026-09-22T13:07:51.668Z"
+    }
+  ]
+}
