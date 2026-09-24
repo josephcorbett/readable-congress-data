@@ -3,8 +3,8 @@
   "billType": "s",
   "billNumber": 1962,
   "congress": 119,
-  "title": "Secure Space Act of 2025",
-  "status": "introduced",
+  "title": "Secure Space Act of 2026",
+  "status": "passedSenate",
   "chamber": "Senate",
   "policyArea": "Science, Technology, Communications",
   "sponsor": {
@@ -16,11 +16,22 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-09-14",
-    "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 557.",
+    "date": "2026-09-23",
+    "text": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-09-23",
+      "text": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-09-23",
+      "text": "Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.",
+      "chamber": "Senate",
+      "actionCode": "17000"
+    },
     {
       "date": "2026-09-14",
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 557.",
@@ -56,6 +67,16 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed in Senate",
+      "date": "2026-09-23",
+      "url": "https://www.congress.gov/119/bills/s1962/BILLS-119s1962es.htm"
+    },
+    {
+      "type": "Reported to Senate",
+      "date": "2026-09-14",
+      "url": "https://www.congress.gov/119/bills/s1962/BILLS-119s1962rs.htm"
+    },
+    {
       "type": "Introduced in Senate",
       "date": "2025-06-05",
       "url": "https://www.congress.gov/119/bills/s1962/BILLS-119s1962is.htm"
@@ -66,6 +87,6 @@
   "summary": "Secure Space Act of 2025 This bill prohibits the Federal Communications Commission (FCC) from granting satellite licenses or earth station authorizations, including U.S. market access for foreign-licensed satellites, to specified foreign entities of concern and their affiliates. (Earth stations, also commonly known as ground stations, are earth-based radio stations that communicate with satellites. A grant of U.S. market access permits one or more foreign-licensed satellites to communicate with one or more U.S.-licensed earth stations.) Specifically, the FCC may not grant a satellite license, an earth station authorization, or market access to any entity, or an affiliate thereof, that produces or provides communications equipment or services deemed to pose an unacceptable risk to the national security of the United States. (The FCC maintains a list of such equipment and services, known as the Covered List. Providers of such equipment and services include, for example, Huawei Technologies Company and ZTE Corporation.)",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1962",
-  "updatedAt": "2026-09-15T11:03:29Z",
+  "updatedAt": "2026-09-24T12:18:24Z",
   "introducedAt": "2025-06-05"
 }
