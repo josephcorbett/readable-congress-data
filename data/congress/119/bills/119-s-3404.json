@@ -4,7 +4,7 @@
   "billNumber": 3404,
   "congress": 119,
   "title": "Satellite Cybersecurity Act of 2025",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "Senate",
   "policyArea": "Science, Technology, Communications",
   "sponsor": {
@@ -16,19 +16,36 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-09-23",
-    "text": "Passed Senate with an amendment by Unanimous Consent.",
+    "date": "2026-09-24",
+    "text": "Held at the desk.",
     "chamber": "Senate"
   },
   "actions": [
     {
-      "date": "2026-09-23",
-      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "date": "2026-09-24",
+      "text": "Held at the desk.",
+      "chamber": "Senate",
+      "actionCode": "H15000"
+    },
+    {
+      "date": "2026-09-24",
+      "text": "Received in the House.",
+      "chamber": "Senate",
+      "actionCode": "H14000"
+    },
+    {
+      "date": "2026-09-24",
+      "text": "Message on Senate action sent to the House.",
       "chamber": "Senate"
     },
     {
       "date": "2026-09-23",
-      "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4956-4958; text of amendment in the nature of a substitute: CR S4957-4958)",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-09-23",
+      "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4956-4958; text of amendment in the nature of a substitute: CR S4957-4958)",
       "chamber": "Senate",
       "actionCode": "17000"
     },
@@ -83,6 +100,6 @@
     }
   ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3404",
-  "updatedAt": "2026-09-24T12:33:27Z",
+  "updatedAt": "2026-09-25T12:13:22Z",
   "introducedAt": "2025-12-09"
 }

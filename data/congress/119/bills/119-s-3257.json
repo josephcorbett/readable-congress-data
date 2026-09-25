@@ -3,8 +3,8 @@
   "billType": "s",
   "billNumber": 3257,
   "congress": 119,
-  "title": "Mental Health in Aviation Act of 2025",
-  "status": "introduced",
+  "title": "John A. Hauser Mental Health in Aviation Act",
+  "status": "passedSenate",
   "chamber": "Senate",
   "policyArea": "Transportation and Public Works",
   "sponsor": {
@@ -14,13 +14,34 @@
     "state": "ND",
     "chamber": "Senate"
   },
-  "cosponsorCount": 29,
+  "cosponsorCount": 33,
   "latestAction": {
-    "date": "2026-09-14",
-    "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 558.",
+    "date": "2026-09-24",
+    "text": "Passed Senate with an amendment by Unanimous Consent.",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-09-24",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-09-24",
+      "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "chamber": "Senate",
+      "actionCode": "17000"
+    },
+    {
+      "date": "2026-09-24",
+      "text": "Measure laid before Senate by unanimous consent.",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-09-24",
+      "text": "The committee substitute withdrawn by Unanimous Consent.",
+      "chamber": "Senate"
+    },
     {
       "date": "2026-09-14",
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 558.",
@@ -56,12 +77,22 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed in Senate",
+      "date": "2026-09-24",
+      "url": "https://www.congress.gov/119/bills/s3257/BILLS-119s3257es.htm"
+    },
+    {
+      "type": "Reported to Senate",
+      "date": "2026-09-14",
+      "url": "https://www.congress.gov/119/bills/s3257/BILLS-119s3257rs.htm"
+    },
+    {
       "type": "Introduced in Senate",
       "date": "2025-11-20",
       "url": "https://www.congress.gov/119/bills/s3257/BILLS-119s3257is.htm"
     }
   ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3257",
-  "updatedAt": "2026-09-15T11:03:29Z",
+  "updatedAt": "2026-09-25T11:08:31Z",
   "introducedAt": "2025-11-20"
 }

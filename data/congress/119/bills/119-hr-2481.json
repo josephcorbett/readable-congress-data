@@ -4,7 +4,7 @@
   "billNumber": 2481,
   "congress": 119,
   "title": "Romance Scam Prevention Act",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "House",
   "policyArea": "Commerce",
   "sponsor": {
@@ -17,19 +17,24 @@
   },
   "cosponsorCount": 9,
   "latestAction": {
-    "date": "2026-09-23",
-    "text": "Passed Senate without amendment by Unanimous Consent.",
+    "date": "2026-09-24",
+    "text": "Message on Senate action sent to the House.",
     "chamber": "House"
   },
   "actions": [
     {
-      "date": "2026-09-23",
-      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-09-24",
+      "text": "Message on Senate action sent to the House.",
       "chamber": "House"
     },
     {
       "date": "2026-09-23",
-      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4902)",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-23",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S4902)",
       "chamber": "House",
       "actionCode": "17000"
     },
@@ -155,6 +160,6 @@
   "summary": "Romance Scam Prevention Act This bill requires online dating service providers (i.e., mobile applications or websites) to provide users with a fraud ban notification if the user has established an account with the service and received a message through the service from a banned user of the service. The fraud ban notification must include (1) the username or other profile identifier of the banned user and the most recent time when the user who is receiving the notification sent or received a message through the service to or from the banned user, (2) a statement that the banned user may have been using a false identity or attempting to defraud other users, (3) a statement that the user should not send cash (or another form of currency) or personal financial information to another user, (4) information about avoiding online fraud (e.g., a link to another website or a disclosure) and (5) contact information for the provider's customer service department. The bill provides for enforcement of these requirements by the Federal Trade Commission and state attorneys general.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2481",
-  "updatedAt": "2026-09-24T10:56:55Z",
+  "updatedAt": "2026-09-25T10:56:59Z",
   "introducedAt": "2025-03-31"
 }

@@ -4,7 +4,7 @@
   "billNumber": 1721,
   "congress": 119,
   "title": "Critical Infrastructure Manufacturing Feasibility Act",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "House",
   "policyArea": "Commerce",
   "sponsor": {
@@ -17,19 +17,24 @@
   },
   "cosponsorCount": 2,
   "latestAction": {
-    "date": "2026-09-23",
-    "text": "Passed Senate without amendment by Unanimous Consent.",
+    "date": "2026-09-24",
+    "text": "Message on Senate action sent to the House.",
     "chamber": "House"
   },
   "actions": [
     {
-      "date": "2026-09-23",
-      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-09-24",
+      "text": "Message on Senate action sent to the House.",
       "chamber": "House"
     },
     {
       "date": "2026-09-23",
-      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4892)",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-23",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S4892)",
       "chamber": "House",
       "actionCode": "17000"
     },
@@ -161,6 +166,6 @@
   "summary": "Critical Infrastructure Manufacturing Feasibility Act This bill requires the Department of Commerce to study and report on products that are in high demand across the critical infrastructure sectors. Critical infrastructure sectors are those whose assets, systems, and networks are vital to national security, the economy, public health or safety, or any combination of those matters. The study must (1) identify the products in high demand across those sectors that are being imported due to manufacturing, material, or supply chain constraints; and (2) analyze the costs, benefits, and feasibility of manufacturing those products in the United States.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1721",
-  "updatedAt": "2026-09-24T10:56:55Z",
+  "updatedAt": "2026-09-25T10:57:00Z",
   "introducedAt": "2025-02-27"
 }
