@@ -1,106 +1,8 @@
 {
-  "generatedAt": "2026-09-26T12:41:28.049Z",
+  "generatedAt": "2026-09-27T13:33:07.495Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
-    {
-      "id": "119-s-3257",
-      "billType": "s",
-      "billNumber": 3257,
-      "congress": 119,
-      "title": "John A. Hauser Mental Health in Aviation Act",
-      "status": "passedSenate",
-      "chamber": "Senate",
-      "policyArea": "Transportation and Public Works",
-      "sponsor": {
-        "memberId": "H001061",
-        "name": "Sen. Hoeven, John [R-ND]",
-        "party": "R",
-        "state": "ND",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 33,
-      "latestAction": {
-        "date": "2026-09-24",
-        "text": "Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5018-5019)",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-09-24",
-          "text": "Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5018-5019)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-09-24",
-          "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5018-5019)",
-          "chamber": "Senate",
-          "actionCode": "17000"
-        },
-        {
-          "date": "2026-09-24",
-          "text": "Measure laid before Senate by unanimous consent. (consideration: CR S5017-5019)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-09-24",
-          "text": "The committee substitute withdrawn by Unanimous Consent.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 558.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-139.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-139.",
-          "chamber": "Senate",
-          "actionCode": "14000"
-        },
-        {
-          "date": "2026-04-14",
-          "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-11-20",
-          "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-11-20",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Engrossed in Senate",
-          "date": "2026-09-24",
-          "url": "https://www.congress.gov/119/bills/s3257/BILLS-119s3257es.htm"
-        },
-        {
-          "type": "Reported to Senate",
-          "date": "2026-09-14",
-          "url": "https://www.congress.gov/119/bills/s3257/BILLS-119s3257rs.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2025-11-20",
-          "url": "https://www.congress.gov/119/bills/s3257/BILLS-119s3257is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3257",
-      "updatedAt": "2026-09-26T11:08:31Z",
-      "introducedAt": "2025-11-20"
-    },
     {
       "id": "119-s-4668",
       "billType": "s",
@@ -254,8 +156,106 @@
       "summary": "Protect College Sports Act of 2026 This bill establishes requirements for name, image, or likeness (NIL) agreements for college student athletes and provides a limited antitrust exemption for schools and conferences to pool and sell certain college sports media rights. The requirements address elements of the court-approved agreement to settle In re College Athlete NIL Litigation (i.e., House settlement ). First, the bill statutorily prohibits institutions, conferences, or interstate intercollegiate athletic associations (e.g., the National Collegiate Athletic Association [NCAA]) from restricting student athletes from entering NIL agreements (subject to specified limitations). Students must report to their institution NIL compensation greater than $600. The bill requires agents to register with a state and caps agent endorsement contract fees at 5%. The bill also provides student athletes with one transfer without losing athletic eligibility and restricts football personnel from becoming the head football coach at a different institution during the same season. Further, the bill prohibits institutions, conferences, or specified entities acting for the benefit of an institution from providing athletes with compensation that circumvents the limit on sharing revenue with student athletes established under the House settlement. The bill also makes the limit permanent and provides for an annual inflation adjustment. Additionally, the bill establishes (subject to specified conditions) a limited antitrust exemption for institutions or conferences that form joint agreements to transfer their sports telecasting rights to a third party. Such an agreement requires participation from at least 75% of the institutions in the Football Bowl Subdivision.",
       "summarySource": "official",
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4668",
-      "updatedAt": "2026-09-26T11:03:21Z",
+      "updatedAt": "2026-09-27T11:03:26Z",
       "introducedAt": "2026-06-02"
+    },
+    {
+      "id": "119-s-3257",
+      "billType": "s",
+      "billNumber": 3257,
+      "congress": 119,
+      "title": "John A. Hauser Mental Health in Aviation Act",
+      "status": "passedSenate",
+      "chamber": "Senate",
+      "policyArea": "Transportation and Public Works",
+      "sponsor": {
+        "memberId": "H001061",
+        "name": "Sen. Hoeven, John [R-ND]",
+        "party": "R",
+        "state": "ND",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 33,
+      "latestAction": {
+        "date": "2026-09-24",
+        "text": "Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5018-5019)",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-09-24",
+          "text": "Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5018-5019)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-09-24",
+          "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5018-5019)",
+          "chamber": "Senate",
+          "actionCode": "17000"
+        },
+        {
+          "date": "2026-09-24",
+          "text": "Measure laid before Senate by unanimous consent. (consideration: CR S5017-5019)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-09-24",
+          "text": "The committee substitute withdrawn by Unanimous Consent.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-09-14",
+          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 558.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-09-14",
+          "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-139.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-09-14",
+          "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-139.",
+          "chamber": "Senate",
+          "actionCode": "14000"
+        },
+        {
+          "date": "2026-04-14",
+          "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2025-11-20",
+          "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2025-11-20",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Engrossed in Senate",
+          "date": "2026-09-24",
+          "url": "https://www.congress.gov/119/bills/s3257/BILLS-119s3257es.htm"
+        },
+        {
+          "type": "Reported to Senate",
+          "date": "2026-09-14",
+          "url": "https://www.congress.gov/119/bills/s3257/BILLS-119s3257rs.htm"
+        },
+        {
+          "type": "Introduced in Senate",
+          "date": "2025-11-20",
+          "url": "https://www.congress.gov/119/bills/s3257/BILLS-119s3257is.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3257",
+      "updatedAt": "2026-09-26T11:08:31Z",
+      "introducedAt": "2025-11-20"
     },
     {
       "id": "119-s-3404",
@@ -453,6 +453,115 @@
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3258",
       "updatedAt": "2026-09-26T11:03:20Z",
       "introducedAt": "2025-11-20"
+    },
+    {
+      "id": "119-s-1962",
+      "billType": "s",
+      "billNumber": 1962,
+      "congress": 119,
+      "title": "Secure Space Act of 2026",
+      "status": "introduced",
+      "chamber": "Senate",
+      "policyArea": "Science, Technology, Communications",
+      "sponsor": {
+        "memberId": "F000463",
+        "name": "Sen. Fischer, Deb [R-NE]",
+        "party": "R",
+        "state": "NE",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-09-24",
+        "text": "Message on Senate action sent to the House.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-09-24",
+          "text": "Message on Senate action sent to the House.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-09-24",
+          "text": "Held at the desk.",
+          "chamber": "Senate",
+          "actionCode": "H15000"
+        },
+        {
+          "date": "2026-09-24",
+          "text": "Received in the House.",
+          "chamber": "Senate",
+          "actionCode": "H14000"
+        },
+        {
+          "date": "2026-09-23",
+          "text": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S4956; text of amendment in the nature of a substitute: CR S4956)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-09-23",
+          "text": "Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S4956; text of amendment in the nature of a substitute: CR S4956)",
+          "chamber": "Senate",
+          "actionCode": "17000"
+        },
+        {
+          "date": "2026-09-14",
+          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 557.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-09-14",
+          "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute and an amendment to the title. With written report No. 119-138.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-09-14",
+          "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute and an amendment to the title. With written report No. 119-138.",
+          "chamber": "Senate",
+          "actionCode": "14000"
+        },
+        {
+          "date": "2026-04-14",
+          "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2025-06-05",
+          "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2025-06-05",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Engrossed in Senate",
+          "date": "2026-09-23",
+          "url": "https://www.congress.gov/119/bills/s1962/BILLS-119s1962es.htm"
+        },
+        {
+          "type": "Reported to Senate",
+          "date": "2026-09-14",
+          "url": "https://www.congress.gov/119/bills/s1962/BILLS-119s1962rs.htm"
+        },
+        {
+          "type": "Introduced in Senate",
+          "date": "2025-06-05",
+          "url": "https://www.congress.gov/119/bills/s1962/BILLS-119s1962is.htm"
+        }
+      ],
+      "summaryHtml": "<p><strong>Secure Space Act of 2025</strong></p><p>This bill prohibits the Federal Communications Commission (FCC) from granting satellite licenses or earth station authorizations, including U.S. market access for foreign-licensed satellites, to specified foreign entities of concern and their affiliates. (Earth stations, also commonly known as ground stations, are earth-based radio stations that communicate with satellites. A grant of U.S. market access permits one or more foreign-licensed satellites to communicate with one or more U.S.-licensed earth stations.)</p><p>Specifically, the FCC may not grant a satellite license, an earth station authorization, or market access to any entity, or an affiliate thereof, that produces or provides communications equipment or services deemed to pose an unacceptable risk to the national security of the United States. (The FCC maintains a list of such equipment and services, known as the Covered List. Providers of such equipment and services include, for example, Huawei Technologies Company and ZTE Corporation.)&nbsp;</p>",
+      "summaryFormat": "html",
+      "summary": "Secure Space Act of 2025 This bill prohibits the Federal Communications Commission (FCC) from granting satellite licenses or earth station authorizations, including U.S. market access for foreign-licensed satellites, to specified foreign entities of concern and their affiliates. (Earth stations, also commonly known as ground stations, are earth-based radio stations that communicate with satellites. A grant of U.S. market access permits one or more foreign-licensed satellites to communicate with one or more U.S.-licensed earth stations.) Specifically, the FCC may not grant a satellite license, an earth station authorization, or market access to any entity, or an affiliate thereof, that produces or provides communications equipment or services deemed to pose an unacceptable risk to the national security of the United States. (The FCC maintains a list of such equipment and services, known as the Covered List. Providers of such equipment and services include, for example, Huawei Technologies Company and ZTE Corporation.)",
+      "summarySource": "official",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1962",
+      "updatedAt": "2026-09-26T11:03:20Z",
+      "introducedAt": "2025-06-05"
     },
     {
       "id": "119-s-5526",
@@ -1048,6 +1157,53 @@
       "introducedAt": "2026-09-24"
     },
     {
+      "id": "119-hres-1576",
+      "billType": "hres",
+      "billNumber": 1576,
+      "congress": 119,
+      "title": "Recognizing the week of September 27 through October 3, 2026, as \"National Orange Shirt Week\" or \"National Week of Remembrance\", which aims to honor those who were forced to attend Indian boarding schools, and to recognize the experience of Indian boarding school victims and survivors.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "D000629",
+        "name": "Rep. Davids, Sharice [D-KS-3]",
+        "party": "D",
+        "state": "KS",
+        "district": "3",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-09-24",
+        "text": "Referred to the House Committee on Oversight and Government Reform.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-09-24",
+          "text": "Referred to the House Committee on Oversight and Government Reform.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-09-24",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        },
+        {
+          "date": "2026-09-24",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1576",
+      "updatedAt": "2026-09-26T08:06:26Z",
+      "introducedAt": "2026-09-24"
+    },
+    {
       "id": "119-hr-10598",
       "billType": "hr",
       "billNumber": 10598,
@@ -1623,249 +1779,6 @@
       ],
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10574",
       "updatedAt": "2026-09-26T07:53:21Z",
-      "introducedAt": "2026-09-24"
-    },
-    {
-      "id": "119-hr-9340",
-      "billType": "hr",
-      "billNumber": 9340,
-      "congress": 119,
-      "title": "Ratepayer Protection Act",
-      "status": "introduced",
-      "chamber": "House",
-      "policyArea": "Energy",
-      "sponsor": {
-        "memberId": "E000300",
-        "name": "Rep. Evans, Gabe [R-CO-8]",
-        "party": "R",
-        "state": "CO",
-        "district": "8",
-        "chamber": "House"
-      },
-      "cosponsorCount": 42,
-      "latestAction": {
-        "date": "2026-09-24",
-        "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 684.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-09-24",
-          "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 684.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-09-23",
-          "text": "Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-09-17",
-          "text": "Received in the Senate.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "House",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 312). (text: CR H5656-5657)",
-          "chamber": "House",
-          "actionCode": "H37300"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 312). (text: CR H5656-5657)",
-          "chamber": "House",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Considered as unfinished business. (consideration: CR H5958-5959)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-09-15",
-          "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
-          "chamber": "House",
-          "actionCode": "H37220"
-        },
-        {
-          "date": "2026-09-15",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9340.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-09-15",
-          "text": "Considered under suspension of the rules. (consideration: CR H5656-5661)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-09-15",
-          "text": "Mr. Guthrie moved to suspend the rules and pass the bill, as amended.",
-          "chamber": "House",
-          "actionCode": "H30300"
-        },
-        {
-          "date": "2026-09-10",
-          "text": "Placed on the Union Calendar, Calendar No. 713.",
-          "chamber": "House",
-          "actionCode": "H12410"
-        },
-        {
-          "date": "2026-09-10",
-          "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-814.",
-          "chamber": "House",
-          "actionCode": "H12200"
-        },
-        {
-          "date": "2026-09-10",
-          "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-814.",
-          "chamber": "House",
-          "actionCode": "5000"
-        },
-        {
-          "date": "2026-07-21",
-          "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 52 - 0.",
-          "chamber": "House",
-          "actionCode": "H19000"
-        },
-        {
-          "date": "2026-07-21",
-          "text": "Committee Consideration and Mark-up Session Held",
-          "chamber": "House",
-          "actionCode": "H15001"
-        },
-        {
-          "date": "2026-07-20",
-          "text": "Committee Consideration and Mark-up Session Held",
-          "chamber": "House",
-          "actionCode": "H15001"
-        },
-        {
-          "date": "2026-06-24",
-          "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
-          "chamber": "House",
-          "actionCode": "H23000"
-        },
-        {
-          "date": "2026-06-24",
-          "text": "Subcommittee Consideration and Mark-up Session Held",
-          "chamber": "House",
-          "actionCode": "H22000"
-        },
-        {
-          "date": "2026-06-18",
-          "text": "Referred to the Subcommittee on Energy.",
-          "chamber": "House",
-          "actionCode": "H11000"
-        },
-        {
-          "date": "2026-06-18",
-          "text": "Referred to the House Committee on Energy and Commerce.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-06-18",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-06-18",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Placed on Calendar Senate",
-          "date": "2026-09-24",
-          "url": "https://www.congress.gov/119/bills/hr9340/BILLS-119hr9340pcs.htm"
-        },
-        {
-          "type": "Engrossed in House",
-          "date": "2026-09-16",
-          "url": "https://www.congress.gov/119/bills/hr9340/BILLS-119hr9340eh.htm"
-        },
-        {
-          "type": "Reported in House",
-          "date": "2026-09-10",
-          "url": "https://www.congress.gov/119/bills/hr9340/BILLS-119hr9340rh.htm"
-        },
-        {
-          "type": "Introduced in House",
-          "date": "2026-06-18",
-          "url": "https://www.congress.gov/119/bills/hr9340/BILLS-119hr9340ih.htm"
-        }
-      ],
-      "summaryHtml": "<p><strong>Ratepayer Protection Act</strong></p><p>The bill requires state utility regulators and nonregulated utilities to consider implementing a&nbsp;standard to hold certain large-load customers responsible for the costs associated with any generation, transmission, or distribution upgrade of electric service necessary to serve such customers.&nbsp;A <em>large-load customer</em> means a non-residential electric consumer that enters, or requests to enter, an agreement concerning the sale of electric energy&nbsp;primarily to operate information technology infrastructure and related systems pertaining to data storage and computational applications and services (e.g., data centers) that have a peak electric demand of 100 megawatts or more at a single site or campus.&nbsp;</p><p>Specifically, the bill requires states to consider implementing a federal standard for large-load customers. The standard must require rates charged by electric utilities for providing electric service to a large-load customer to be designed to recover from the large-load customer the full, incremental cost of any generation, transmission, or distribution upgrade necessary to serve such customer. This rate must include the costs that would be incurred if the large-load customer terminates an agreement with the electric utility pertaining to the sale of electric energy or otherwise ceases the purchase of energy from the electric utility.</p><p>Under the standard, an electric utility must require the large-load customer to provide to the utility financial assurances or contributions to cover the cost of any generation, transmission, or distribution upgrade that is necessary to serve the load of a large-load customer before the utility makes any generation, transmission, or distribution upgrade.</p>",
-      "summaryFormat": "html",
-      "summary": "Ratepayer Protection Act The bill requires state utility regulators and nonregulated utilities to consider implementing a standard to hold certain large-load customers responsible for the costs associated with any generation, transmission, or distribution upgrade of electric service necessary to serve such customers. A large-load customer means a non-residential electric consumer that enters, or requests to enter, an agreement concerning the sale of electric energy primarily to operate information technology infrastructure and related systems pertaining to data storage and computational applications and services (e.g., data centers) that have a peak electric demand of 100 megawatts or more at a single site or campus. Specifically, the bill requires states to consider implementing a federal standard for large-load customers. The standard must require rates charged by electric utilities for providing electric service to a large-load customer to be designed to recover from the large-load customer the full, incremental cost of any generation, transmission, or distribution upgrade necessary to serve such customer. This rate must include the costs that would be incurred if the large-load customer terminates an agreement with the electric utility pertaining to the sale of electric energy or otherwise ceases the purchase of energy from the electric utility. Under the standard, an electric utility must require the large-load customer to provide to the utility financial assurances or contributions to cover the cost of any generation, transmission, or distribution upgrade that is necessary to serve the load of a large-load customer before the utility makes any generation, transmission, or distribution upgrade.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
-      "updatedAt": "2026-09-26T07:53:20Z",
-      "introducedAt": "2026-06-18"
-    },
-    {
-      "id": "119-hr-10577",
-      "billType": "hr",
-      "billNumber": 10577,
-      "congress": 119,
-      "title": "To prioritize the finalization of design requirements for new Ready Reserve Force vessels, and for other purposes.",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "M001233",
-        "name": "Rep. Messmer, Mark B. [R-IN-8]",
-        "party": "R",
-        "state": "IN",
-        "district": "8",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-09-24",
-        "text": "Referred to the House Committee on Armed Services.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-09-24",
-          "text": "Referred to the House Committee on Armed Services.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-09-24",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-09-24",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-09-24",
-          "url": "https://www.congress.gov/119/bills/hr10577/BILLS-119hr10577ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10577",
-      "updatedAt": "2026-09-26T07:50:08Z",
       "introducedAt": "2026-09-24"
     }
   ]

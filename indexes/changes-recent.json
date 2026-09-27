@@ -1,8 +1,54 @@
 {
-  "generatedAt": "2026-09-26T12:41:28.049Z",
+  "generatedAt": "2026-09-27T13:33:07.495Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-09-27T133307495Z_119-house-2-312_vote.corrected",
+      "observedAt": "2026-09-27T13:33:07.495Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-312",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Suspend the Rules and Pass, as Amended",
+      "before": {
+        "result": "Passed",
+        "yea": 417,
+        "nay": 3,
+        "present": 0,
+        "notVoting": 12,
+        "question": "On Motion to Suspend the Rules and Pass, as Amended",
+        "description": "Ratepayer Protection Act (HR 9340)",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hr-9340"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 417,
+        "nay": 3,
+        "present": 0,
+        "notVoting": 12,
+        "question": "On Motion to Suspend the Rules and Pass, as Amended",
+        "description": "On Motion to Suspend the Rules and Pass, as Amended",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hr-9340"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll312.xml",
+      "syncId": "2026-09-27T13:33:07.495Z"
+    },
+    {
+      "id": "evt_2026-09-27T133307495Z_119-hres-1576_bill.added",
+      "observedAt": "2026-09-27T13:33:07.495Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1576",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1576: Recognizing the week of September 27 through October 3, 2026, as \"National Orange Shirt Week\" or \"National Week of Remembrance\", which aims to honor those who were forced to attend Indian boarding schools, and to recognize the experience of Indian boarding school victims and survivors.",
+      "after": {
+        "title": "Recognizing the week of September 27 through October 3, 2026, as \"National Orange Shirt Week\" or \"National Week of Remembrance\", which aims to honor those who were forced to attend Indian boarding schools, and to recognize the experience of Indian boarding school victims and survivors.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1576",
+      "syncId": "2026-09-27T13:33:07.495Z"
+    },
     {
       "id": "evt_2026-09-26T124128049Z_119-hr-10530_bill.added",
       "observedAt": "2026-09-26T12:41:28.049Z",
@@ -1512,54 +1558,6 @@
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/908",
       "syncId": "2026-09-25T13:16:31.901Z"
-    },
-    {
-      "id": "evt_2026-09-25T131631901Z_K000367_member.added",
-      "observedAt": "2026-09-25T13:16:31.901Z",
-      "entityType": "member",
-      "entityId": "K000367",
-      "changeType": "member.added",
-      "summary": "Started tracking Amy Klobuchar",
-      "after": {
-        "name": "Amy Klobuchar",
-        "party": "D",
-        "chamber": "Senate",
-        "state": "MN"
-      },
-      "officialUrl": "https://www.klobuchar.senate.gov/",
-      "syncId": "2026-09-25T13:16:31.901Z"
-    },
-    {
-      "id": "evt_2026-09-24T131513501Z_119-house-2-309_vote.corrected",
-      "observedAt": "2026-09-24T13:15:13.501Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-309",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Passage",
-      "before": {
-        "result": "Passed",
-        "yea": 352,
-        "nay": 72,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Passage",
-        "description": "National Fraud Enforcement Division Act of 2026 (HR 9576)",
-        "date": "2026-09-16",
-        "associatedBillId": "119-hr-9576"
-      },
-      "after": {
-        "result": "Passed",
-        "yea": 352,
-        "nay": 72,
-        "present": 0,
-        "notVoting": 9,
-        "question": "On Passage",
-        "description": "On Passage",
-        "date": "2026-09-16",
-        "associatedBillId": "119-hr-9576"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll309.xml",
-      "syncId": "2026-09-24T13:15:13.501Z"
     }
   ]
 }

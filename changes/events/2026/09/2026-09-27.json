@@ -1,0 +1,52 @@
+{
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-27T13:33:07.495Z",
+  "items": [
+    {
+      "id": "evt_2026-09-27T133307495Z_119-house-2-312_vote.corrected",
+      "observedAt": "2026-09-27T13:33:07.495Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-312",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Suspend the Rules and Pass, as Amended",
+      "before": {
+        "result": "Passed",
+        "yea": 417,
+        "nay": 3,
+        "present": 0,
+        "notVoting": 12,
+        "question": "On Motion to Suspend the Rules and Pass, as Amended",
+        "description": "Ratepayer Protection Act (HR 9340)",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hr-9340"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 417,
+        "nay": 3,
+        "present": 0,
+        "notVoting": 12,
+        "question": "On Motion to Suspend the Rules and Pass, as Amended",
+        "description": "On Motion to Suspend the Rules and Pass, as Amended",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hr-9340"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll312.xml",
+      "syncId": "2026-09-27T13:33:07.495Z"
+    },
+    {
+      "id": "evt_2026-09-27T133307495Z_119-hres-1576_bill.added",
+      "observedAt": "2026-09-27T13:33:07.495Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1576",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1576: Recognizing the week of September 27 through October 3, 2026, as \"National Orange Shirt Week\" or \"National Week of Remembrance\", which aims to honor those who were forced to attend Indian boarding schools, and to recognize the experience of Indian boarding school victims and survivors.",
+      "after": {
+        "title": "Recognizing the week of September 27 through October 3, 2026, as \"National Orange Shirt Week\" or \"National Week of Remembrance\", which aims to honor those who were forced to attend Indian boarding schools, and to recognize the experience of Indian boarding school victims and survivors.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1576",
+      "syncId": "2026-09-27T13:33:07.495Z"
+    }
+  ]
+}
