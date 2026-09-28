@@ -4,7 +4,7 @@
   "billNumber": 7250,
   "congress": 119,
   "title": "To reauthorize the Fort Peck Reservation Rural Water System Act of 2000.",
-  "status": "introduced",
+  "status": "becameLaw",
   "chamber": "House",
   "policyArea": "Water Resources Development",
   "sponsor": {
@@ -17,11 +17,35 @@
   },
   "cosponsorCount": 0,
   "latestAction": {
-    "date": "2026-09-16",
-    "text": "Message on Senate action sent to the House.",
+    "date": "2026-09-25",
+    "text": "Signed by President.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-09-25",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "E30000"
+    },
+    {
+      "date": "2026-09-25",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "36000"
+    },
+    {
+      "date": "2026-09-17",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "E20000"
+    },
+    {
+      "date": "2026-09-17",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "28000"
+    },
     {
       "date": "2026-09-16",
       "text": "Message on Senate action sent to the House.",
@@ -29,7 +53,7 @@
     },
     {
       "date": "2026-09-16",
-      "text": "Passed Senate without amendment by Voice Vote.",
+      "text": "Passed Senate without amendment by Voice Vote. (consideration: CR S4746)",
       "chamber": "House"
     },
     {
@@ -164,6 +188,11 @@
   ],
   "textVersions": [
     {
+      "type": "Enrolled Bill",
+      "date": "1970-01-01",
+      "url": "https://www.congress.gov/119/bills/hr7250/BILLS-119hr7250enr.htm"
+    },
+    {
       "type": "Referred in Senate",
       "date": "2026-06-03",
       "url": "https://www.congress.gov/119/bills/hr7250/BILLS-119hr7250rfs.htm"
@@ -189,6 +218,6 @@
   "summary": "This bill reauthorizes through FY2028 the planning, design, and construction of the Assiniboine and Sioux Rural Water System and the Dry Prairie Rural Water System, both located in Montana.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7250",
-  "updatedAt": "2026-09-17T10:56:40Z",
+  "updatedAt": "2026-09-28T13:40:30Z",
   "introducedAt": "2026-01-27"
 }
