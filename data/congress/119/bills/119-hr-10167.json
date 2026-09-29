@@ -4,7 +4,7 @@
   "billNumber": 10167,
   "congress": 119,
   "title": "Common Cents Act",
-  "status": "inCommittee",
+  "status": "passedSenate",
   "chamber": "House",
   "policyArea": "Finance and Financial Sector",
   "sponsor": {
@@ -17,11 +17,33 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-09-15",
-    "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+    "date": "2026-09-28",
+    "text": "Passed Senate without amendment by Unanimous Consent.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-09-28",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-28",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "chamber": "House",
+      "actionCode": "17000"
+    },
+    {
+      "date": "2026-09-28",
+      "text": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-28",
+      "text": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.",
+      "chamber": "House",
+      "actionCode": "14500"
+    },
     {
       "date": "2026-09-15",
       "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
@@ -35,7 +57,7 @@
     },
     {
       "date": "2026-09-14",
-      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5599-5601)",
       "chamber": "House",
       "actionCode": "H37300"
     },
@@ -47,15 +69,15 @@
     },
     {
       "date": "2026-09-14",
-      "text": "Considered under suspension of the rules.",
-      "chamber": "House",
-      "actionCode": "H30000"
-    },
-    {
-      "date": "2026-09-14",
       "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 10167.",
       "chamber": "House",
       "actionCode": "H8D000"
+    },
+    {
+      "date": "2026-09-14",
+      "text": "Considered under suspension of the rules. (consideration: CR H5599-5602)",
+      "chamber": "House",
+      "actionCode": "H30000"
     },
     {
       "date": "2026-09-14",
@@ -84,6 +106,11 @@
   ],
   "textVersions": [
     {
+      "type": "Referred in Senate",
+      "date": "2026-09-15",
+      "url": "https://www.congress.gov/119/bills/hr10167/BILLS-119hr10167rfs.htm"
+    },
+    {
       "type": "Engrossed in House",
       "date": "2026-09-14",
       "url": "https://www.congress.gov/119/bills/hr10167/BILLS-119hr10167eh.htm"
@@ -99,6 +126,6 @@
   "summary": "Common Cents Act This bill ends the production of the penny for general circulation, requires rounding to an amount divisible by five for the payment or transfer of cash, and allows the nickel to be composed of different material. The Department of the Treasury must stop producing the penny, except to meet collector needs. The penny shall continue to be legal tender. Any person selling goods or services in a cash transaction, entering into other transfers of cash, or paying cash wages to an employee must round the payment up or down in accordance with the bill. The bill also allows Treasury to discontinue the minting for circulation of any coin if Treasury follows procedures as outlined by the bill, including providing notice and a briefing to Congress. The Federal Reserve Board must periodically report on a strategic plan for the acceptance of penny orders and deposits at commercial coin terminals that provide services under agreements with Federal Reserve banks. Finally, the bill allows for a different material composition of the nickel. In addition to being made from an alloy of copper and nickel, the nickel may also be clad with an inner core of zinc and an outer layer of nickel.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10167",
-  "updatedAt": "2026-09-16T12:48:43Z",
+  "updatedAt": "2026-09-29T13:42:01Z",
   "introducedAt": "2026-08-27"
 }

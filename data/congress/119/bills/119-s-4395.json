@@ -4,7 +4,7 @@
   "billNumber": 4395,
   "congress": 119,
   "title": "Terrorism Risk Insurance Program Reauthorization Act of 2026",
-  "status": "introduced",
+  "status": "passedSenate",
   "chamber": "Senate",
   "policyArea": "Finance and Financial Sector",
   "sponsor": {
@@ -14,13 +14,24 @@
     "state": "PA",
     "chamber": "Senate"
   },
-  "cosponsorCount": 40,
+  "cosponsorCount": 42,
   "latestAction": {
-    "date": "2026-09-22",
-    "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 672.",
+    "date": "2026-09-28",
+    "text": "Passed Senate without amendment by Unanimous Consent.",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-09-28",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-09-28",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "chamber": "Senate",
+      "actionCode": "17000"
+    },
     {
       "date": "2026-09-22",
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 672.",
@@ -56,6 +67,11 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed in Senate",
+      "date": "2026-09-28",
+      "url": "https://www.congress.gov/119/bills/s4395/BILLS-119s4395es.htm"
+    },
+    {
       "type": "Reported to Senate",
       "date": "2026-09-22",
       "url": "https://www.congress.gov/119/bills/s4395/BILLS-119s4395rs.htm"
@@ -67,6 +83,6 @@
     }
   ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4395",
-  "updatedAt": "2026-09-24T10:58:23Z",
+  "updatedAt": "2026-09-29T13:48:27Z",
   "introducedAt": "2026-04-27"
 }
