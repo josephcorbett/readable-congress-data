@@ -4,7 +4,7 @@
   "billNumber": 3620,
   "congress": 119,
   "title": "Southcentral Foundation Land Transfer Act of 2025",
-  "status": "introduced",
+  "status": "passedSenate",
   "chamber": "House",
   "policyArea": "Public Lands and Natural Resources",
   "sponsor": {
@@ -16,11 +16,22 @@
   },
   "cosponsorCount": 0,
   "latestAction": {
-    "date": "2026-08-03",
-    "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 535.",
+    "date": "2026-09-29",
+    "text": "Passed Senate without amendment by Unanimous Consent.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-09-29",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-29",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "chamber": "House",
+      "actionCode": "17000"
+    },
     {
       "date": "2026-08-03",
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 535.",
@@ -200,6 +211,6 @@
   "summary": "Southcentral Foundation Land Transfer Act of 2025 This bill directs the Department of Health and Human Services (HHS) to convey approximately 3.4 acres in Anchorage, Alaska, to the Southcentral Foundation (SCF) for use in connection with health and social services programs. The conveyance must be made by warranty deed. The conveyance may not (1) require any consideration (such as payment) from the SCF for the property; (2) impose any obligation, term, or condition on the SCF relating to that property; or (3) allow for any U.S. reversionary interest in the property. HHS must be accorded any easement or access to the property as may be reasonably necessary to satisfy any retained obligation or liability of HHS. The bill prohibits the SCF from being liable for certain environmental contamination that occurred on or before the date on which the property is conveyed to the SCF. In turn, HHS may not be liable for any contamination that occurred after the date that the SCF controlled, occupied, and used the property.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3620",
-  "updatedAt": "2026-08-05T08:06:16Z",
+  "updatedAt": "2026-09-30T12:32:55Z",
   "introducedAt": "2025-05-29"
 }

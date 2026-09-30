@@ -3,8 +3,8 @@
   "billType": "s",
   "billNumber": 3219,
   "congress": 119,
-  "title": "Albuquerque Indian School Act of 2025",
-  "status": "introduced",
+  "title": "Albuquerque Indian School Act of 2026",
+  "status": "passedSenate",
   "chamber": "Senate",
   "policyArea": "Native Americans",
   "sponsor": {
@@ -16,11 +16,22 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-09-23",
-    "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 682.",
+    "date": "2026-09-29",
+    "text": "Passed Senate with an amendment by Unanimous Consent.",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-09-29",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-09-29",
+      "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "chamber": "Senate",
+      "actionCode": "17000"
+    },
     {
       "date": "2026-09-23",
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 682.",
@@ -61,6 +72,16 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed in Senate",
+      "date": "2026-09-29",
+      "url": "https://www.congress.gov/119/bills/s3219/BILLS-119s3219es.htm"
+    },
+    {
+      "type": "Reported to Senate",
+      "date": "2026-09-23",
+      "url": "https://www.congress.gov/119/bills/s3219/BILLS-119s3219rs.htm"
+    },
+    {
       "type": "Introduced in Senate",
       "date": "2025-11-19",
       "url": "https://www.congress.gov/119/bills/s3219/BILLS-119s3219is.htm"
@@ -71,6 +92,6 @@
   "summary": "Albuquerque Indian School Act of 2025 This bill takes three tracts of specified federal land (approximately 9.89 acres) in Albuquerque, New Mexico, into trust for the benefit of the 19 Pueblos of New Mexico. (These three tracts of land were historically part of the Albuquerque Indian School, which was an Indian boarding school until 1981.) The land is currently administered by the General Services Administration (GSA). Within 90 days of this bill's enactment and the relocation of all federal tenants, the bill requires (1) the GSA to transfer administrative jurisdiction over the land to the Department of the Interior, and (2) Interior to take the land into trust for the benefit of the 19 Pueblos. The land taken into trust must be subject to a right-of-way easement, as determined by the GSA, on the federal land located within Tract 1 for purposes of retrieving or relocating federal property from the land to another location. (Tract 1, which is approximately 3.57 acres, contains a warehouse that is 76,682 square feet.) The bill requires the land taken into trust to be used for the educational, health, cultural, business, and economic development of the 19 Pueblos. Further, the land must remain subject to existing private and municipal encumbrances, rights-of-way, restrictions, easements of record, and utility service agreements. The bill prohibits gaming on the land taken into trust.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3219",
-  "updatedAt": "2026-09-24T11:03:21Z",
+  "updatedAt": "2026-09-30T13:33:40Z",
   "introducedAt": "2025-11-19"
 }

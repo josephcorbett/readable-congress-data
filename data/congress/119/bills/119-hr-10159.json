@@ -4,7 +4,7 @@
   "billNumber": 10159,
   "congress": 119,
   "title": "To authorize the Secretary of the Army to convey to the State of North Carolina a certain parcel of real property located at Fort Bragg, North Carolina, on which the State shall construct a veterans’ State home, and for other purposes.",
-  "status": "inCommittee",
+  "status": "passedSenate",
   "chamber": "House",
   "policyArea": "Armed Forces and National Security",
   "sponsor": {
@@ -17,11 +17,33 @@
   },
   "cosponsorCount": 13,
   "latestAction": {
-    "date": "2026-09-15",
-    "text": "Received in the Senate and Read twice and referred to the Committee on Armed Services.",
+    "date": "2026-09-29",
+    "text": "Passed Senate without amendment by Unanimous Consent.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-09-29",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-29",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "chamber": "House",
+      "actionCode": "17000"
+    },
+    {
+      "date": "2026-09-29",
+      "text": "Senate Committee on Armed Services discharged by Unanimous Consent.",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-29",
+      "text": "Senate Committee on Armed Services discharged by Unanimous Consent.",
+      "chamber": "House",
+      "actionCode": "14500"
+    },
     {
       "date": "2026-09-15",
       "text": "Received in the Senate and Read twice and referred to the Committee on Armed Services.",
@@ -35,7 +57,7 @@
     },
     {
       "date": "2026-09-14",
-      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5544)",
       "chamber": "House",
       "actionCode": "H37300"
     },
@@ -53,7 +75,7 @@
     },
     {
       "date": "2026-09-14",
-      "text": "Considered under suspension of the rules.",
+      "text": "Considered under suspension of the rules. (consideration: CR H5544-5545)",
       "chamber": "House",
       "actionCode": "H30000"
     },
@@ -84,6 +106,11 @@
   ],
   "textVersions": [
     {
+      "type": "Referred in Senate",
+      "date": "2026-09-15",
+      "url": "https://www.congress.gov/119/bills/hr10159/BILLS-119hr10159rfs.htm"
+    },
+    {
       "type": "Engrossed in House",
       "date": "2026-09-14",
       "url": "https://www.congress.gov/119/bills/hr10159/BILLS-119hr10159eh.htm"
@@ -99,6 +126,6 @@
   "summary": "This bill authorizes the Department of the Army to transfer, without compensation or other consideration, all right, title, and interest to a specified 20-acre parcel of land on Fort Bragg to the State of North Carolina for the purpose of constructing a state home under the jurisdiction of the North Carolina Department of Military and Veterans Affairs. (A state home is a home established by a state for veterans who are disabled by age, disease, or otherwise and are incapable of earning a living because of such disability. The term also includes a home that furnishes nursing home care for veterans.) Specifically, the bill authorizes the conveyance of a 20-acre parcel of land situated on the Fort Bragg Training Area in Harnett County, North Carolina, that is commonly referred to as Parcel 3B. The State of North Carolina must cover all costs to carry out the conveyance. If the Department of the Army determines the property is not being used for activities related to a state home, all right, title, and interest in the property may revert to the United States.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10159",
-  "updatedAt": "2026-09-16T12:33:34Z",
+  "updatedAt": "2026-09-30T12:32:49Z",
   "introducedAt": "2026-08-27"
 }
