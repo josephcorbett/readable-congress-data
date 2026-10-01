@@ -3,8 +3,8 @@
   "billType": "hr",
   "billNumber": 2400,
   "congress": 119,
-  "title": "Pit River Land Transfer Act of 2025",
-  "status": "introduced",
+  "title": "Pit River Land Transfer Act of 2026",
+  "status": "passedSenate",
   "chamber": "House",
   "policyArea": "Native Americans",
   "sponsor": {
@@ -17,11 +17,22 @@
   },
   "cosponsorCount": 0,
   "latestAction": {
-    "date": "2026-09-22",
-    "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 676.",
+    "date": "2026-09-30",
+    "text": "Passed Senate with an amendment by Unanimous Consent.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-09-30",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-30",
+      "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "chamber": "House",
+      "actionCode": "17000"
+    },
     {
       "date": "2026-09-22",
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 676.",
@@ -158,6 +169,16 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed Amendment Senate",
+      "date": "2026-09-30",
+      "url": "https://www.congress.gov/119/bills/hr2400/BILLS-119hr2400eas.htm"
+    },
+    {
+      "type": "Reported to Senate",
+      "date": "2026-09-22",
+      "url": "https://www.congress.gov/119/bills/hr2400/BILLS-119hr2400rs.htm"
+    },
+    {
       "type": "Referred in Senate",
       "date": "2025-12-16",
       "url": "https://www.congress.gov/119/bills/hr2400/BILLS-119hr2400rfs.htm"
@@ -183,6 +204,6 @@
   "summary": "Pit River Land Transfer Act of 2025 This bill takes approximately 603.94 acres of specified lands in California into trust for the benefit of the Pit River Tribe. Specifically, the bill directs the Department of the Interior to take the following lands into trust for the benefit of the tribe: (1) approximately 583.79 acres of federal land managed by the Forest Service (but excluding approximately 20.03 acres of roads, highways, and public rights-of-way subject to existing easements), and (2) approximately 40.18 acres of fee land held by the tribe. These combined lands, approximately 603.94 acres, shall be part of the tribe's reservation. Further, the bill prohibits gaming on the land taken into trust.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2400",
-  "updatedAt": "2026-09-23T10:56:32Z",
+  "updatedAt": "2026-10-01T14:03:26Z",
   "introducedAt": "2025-03-27"
 }

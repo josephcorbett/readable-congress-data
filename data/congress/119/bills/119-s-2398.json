@@ -4,7 +4,7 @@
   "billNumber": 2398,
   "congress": 119,
   "title": "Kay Hagan Tick Reauthorization Act",
-  "status": "introduced",
+  "status": "becameLaw",
   "chamber": "Senate",
   "policyArea": "Health",
   "sponsor": {
@@ -16,11 +16,83 @@
   },
   "cosponsorCount": 23,
   "latestAction": {
-    "date": "2026-08-10",
-    "text": "Held at the desk.",
+    "date": "2026-09-30",
+    "text": "Became Public Law No: 119-118.",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-09-30",
+      "text": "Became Public Law No: 119-118.",
+      "chamber": "Senate",
+      "actionCode": "E40000"
+    },
+    {
+      "date": "2026-09-30",
+      "text": "Became Public Law No: 119-118.",
+      "chamber": "Senate",
+      "actionCode": "36000"
+    },
+    {
+      "date": "2026-09-30",
+      "text": "Signed by President.",
+      "chamber": "Senate",
+      "actionCode": "E30000"
+    },
+    {
+      "date": "2026-09-30",
+      "text": "Signed by President.",
+      "chamber": "Senate",
+      "actionCode": "36000"
+    },
+    {
+      "date": "2026-09-29",
+      "text": "Presented to President.",
+      "chamber": "Senate",
+      "actionCode": "E20000"
+    },
+    {
+      "date": "2026-09-29",
+      "text": "Presented to President.",
+      "chamber": "Senate",
+      "actionCode": "28000"
+    },
+    {
+      "date": "2026-09-15",
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "chamber": "Senate",
+      "actionCode": "H38310"
+    },
+    {
+      "date": "2026-09-15",
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5670)",
+      "chamber": "Senate",
+      "actionCode": "H37300"
+    },
+    {
+      "date": "2026-09-15",
+      "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5670)",
+      "chamber": "Senate",
+      "actionCode": "8000"
+    },
+    {
+      "date": "2026-09-15",
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 2398.",
+      "chamber": "Senate",
+      "actionCode": "H8D000"
+    },
+    {
+      "date": "2026-09-15",
+      "text": "Considered under suspension of the rules. (consideration: CR H5670-5671)",
+      "chamber": "Senate",
+      "actionCode": "H30000"
+    },
+    {
+      "date": "2026-09-15",
+      "text": "Mr. Guthrie moved to suspend the rules and pass the bill.",
+      "chamber": "Senate",
+      "actionCode": "H30300"
+    },
     {
       "date": "2026-08-10",
       "text": "Held at the desk.",
@@ -32,6 +104,11 @@
       "text": "Received in the House.",
       "chamber": "Senate",
       "actionCode": "H14000"
+    },
+    {
+      "date": "2026-08-10",
+      "text": "Message on Senate action sent to the House.",
+      "chamber": "Senate"
     },
     {
       "date": "2026-08-06",
@@ -79,6 +156,11 @@
   ],
   "textVersions": [
     {
+      "type": "Enrolled Bill",
+      "date": "1970-01-01",
+      "url": "https://www.congress.gov/119/bills/s2398/BILLS-119s2398enr.htm"
+    },
+    {
       "type": "Engrossed in Senate",
       "date": "2026-08-06",
       "url": "https://www.congress.gov/119/bills/s2398/BILLS-119s2398es.htm"
@@ -92,9 +174,18 @@
       "type": "Introduced in Senate",
       "date": "2025-07-23",
       "url": "https://www.congress.gov/119/bills/s2398/BILLS-119s2398is.htm"
+    },
+    {
+      "type": "Public Law",
+      "date": "2026-10-01",
+      "url": ""
     }
   ],
+  "summaryHtml": "<p><strong>Kay Hagan Tick Reauthorization Act</strong></p><p>This bill reauthorizes through FY2030 activities of the Centers for Disease Control and Prevention to address vector-borne diseases (e.g., diseases spread by bites from ticks or mosquitoes). These activities include (1) a national strategy, (2) grants for regional centers of excellence, and (3) cooperative agreements with state, local, and tribal health departments to increase capacity for preventing and responding to vector-borne diseases.</p>",
+  "summaryFormat": "html",
+  "summary": "Kay Hagan Tick Reauthorization Act This bill reauthorizes through FY2030 activities of the Centers for Disease Control and Prevention to address vector-borne diseases (e.g., diseases spread by bites from ticks or mosquitoes). These activities include (1) a national strategy, (2) grants for regional centers of excellence, and (3) cooperative agreements with state, local, and tribal health departments to increase capacity for preventing and responding to vector-borne diseases.",
+  "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2398",
-  "updatedAt": "2026-08-11T08:05:33Z",
+  "updatedAt": "2026-10-01T14:01:00Z",
   "introducedAt": "2025-07-23"
 }

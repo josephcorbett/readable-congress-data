@@ -4,7 +4,7 @@
   "billNumber": 2273,
   "congress": 119,
   "title": "Wyoming Education Trust Modernization Act",
-  "status": "introduced",
+  "status": "passedSenate",
   "chamber": "Senate",
   "policyArea": "Public Lands and Natural Resources",
   "sponsor": {
@@ -16,11 +16,22 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-07-23",
-    "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 483.",
+    "date": "2026-09-30",
+    "text": "Passed Senate without amendment by Unanimous Consent.",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-09-30",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-09-30",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "chamber": "Senate",
+      "actionCode": "17000"
+    },
     {
       "date": "2026-07-23",
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 483.",
@@ -44,7 +55,7 @@
     },
     {
       "date": "2025-12-02",
-      "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+      "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-237.",
       "chamber": "Senate"
     },
     {
@@ -61,6 +72,11 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed in Senate",
+      "date": "2026-09-30",
+      "url": "https://www.congress.gov/119/bills/s2273/BILLS-119s2273es.htm"
+    },
+    {
       "type": "Reported to Senate",
       "date": "2026-07-23",
       "url": "https://www.congress.gov/119/bills/s2273/BILLS-119s2273rs.htm"
@@ -76,6 +92,6 @@
   "summary": "Wyoming Education Trust Modernization Act This bill provides Wyoming with more flexibility to invest the principal of its permanent school fund by allowing the state to use earnings generated from investment of the fund rather than only interest. By way of background, Congress created the fund when Wyoming became a state by granting certain federal lands to be held in a trust for the state. Proceeds from school trust land sales, exchanges, or disposals are deposited into the fund to support public schools.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2273",
-  "updatedAt": "2026-07-25T10:58:21Z",
+  "updatedAt": "2026-10-01T14:48:24Z",
   "introducedAt": "2025-07-14"
 }
