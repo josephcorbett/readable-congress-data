@@ -16,11 +16,23 @@
   },
   "cosponsorCount": 14,
   "latestAction": {
-    "date": "2026-09-28",
-    "text": "Message on Senate action sent to the House.",
+    "date": "2026-10-01",
+    "text": "Held at the desk.",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-10-01",
+      "text": "Held at the desk.",
+      "chamber": "Senate",
+      "actionCode": "H15000"
+    },
+    {
+      "date": "2026-10-01",
+      "text": "Received in the House.",
+      "chamber": "Senate",
+      "actionCode": "H14000"
+    },
     {
       "date": "2026-09-28",
       "text": "Message on Senate action sent to the House.",
@@ -92,6 +104,6 @@
   "summary": "Aviation Medication Transparency Act of 2025 This bill directs the Federal Aviation Administration (FAA) to compile, publish, and annually update a list of medications that may be safely prescribed to pilots and air traffic controllers for the purposes of issuing a medical certification. The list must be publicly available on the FAA website and distributed to those seeking a license and medical certification. Currently, the FAA does not have a list of approved medications. However, the FAA does have lists for Aviation Medical Examiners of Do Not Issue medications and Do Not Fly medications.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3258",
-  "updatedAt": "2026-09-29T13:48:23Z",
+  "updatedAt": "2026-10-03T12:41:17Z",
   "introducedAt": "2025-11-20"
 }
