@@ -1,8 +1,22 @@
 {
-  "generatedAt": "2026-10-03T13:03:36.235Z",
+  "generatedAt": "2026-10-04T13:42:55.837Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-10-04T134255837Z_119-sres-922_bill.added",
+      "observedAt": "2026-10-04T13:42:55.837Z",
+      "entityType": "bill",
+      "entityId": "119-sres-922",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-922: A resolution designating October 26, 2026, as the \"Day of the Deployed.\"",
+      "after": {
+        "title": "A resolution designating October 26, 2026, as the \"Day of the Deployed.\"",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/922",
+      "syncId": "2026-10-04T13:42:55.837Z"
+    },
     {
       "id": "evt_2026-10-03T130336235Z_119-hr-10636_bill.added",
       "observedAt": "2026-10-03T13:03:36.235Z",
@@ -1519,22 +1533,6 @@
         "text": "Motion to reconsider laid on the table Agreed to without objection.",
         "chamber": "Senate",
         "actionCode": "H38310"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2398",
-      "syncId": "2026-10-01T15:07:39.952Z"
-    },
-    {
-      "id": "evt_2026-10-01T150739952Z_119-s-2398_bill.status_changed",
-      "observedAt": "2026-10-01T15:07:39.952Z",
-      "entityType": "bill",
-      "entityId": "119-s-2398",
-      "changeType": "bill.status_changed",
-      "summary": "Status changed from introduced to becameLaw",
-      "before": {
-        "status": "introduced"
-      },
-      "after": {
-        "status": "becameLaw"
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2398",
       "syncId": "2026-10-01T15:07:39.952Z"

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T13:03:36.235Z",
+  "generatedAt": "2026-10-04T13:42:55.837Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
@@ -109,7 +109,7 @@
       "summary": "Aviation Medication Transparency Act of 2025 This bill directs the Federal Aviation Administration (FAA) to compile, publish, and annually update a list of medications that may be safely prescribed to pilots and air traffic controllers for the purposes of issuing a medical certification. The list must be publicly available on the FAA website and distributed to those seeking a license and medical certification. Currently, the FAA does not have a list of approved medications. However, the FAA does have lists for Aviation Medical Examiners of Do Not Issue medications and Do Not Fly medications.",
       "summarySource": "official",
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3258",
-      "updatedAt": "2026-10-03T12:41:17Z",
+      "updatedAt": "2026-10-03T19:06:17Z",
       "introducedAt": "2025-11-20"
     },
     {
@@ -950,6 +950,52 @@
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/866",
       "updatedAt": "2026-10-02T21:05:16Z",
       "introducedAt": "2026-09-17"
+    },
+    {
+      "id": "119-sres-922",
+      "billType": "sres",
+      "billNumber": 922,
+      "congress": 119,
+      "title": "A resolution designating October 26, 2026, as the \"Day of the Deployed.\"",
+      "status": "introduced",
+      "chamber": "Senate",
+      "policyArea": "Armed Forces and National Security",
+      "sponsor": {
+        "memberId": "H001061",
+        "name": "Sen. Hoeven, John [R-ND]",
+        "party": "R",
+        "state": "ND",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-09-29",
+        "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5186; text: CR S5176)",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-09-29",
+          "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5186; text: CR S5176)",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-09-29",
+          "text": "Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5186; text: CR S5176)",
+          "chamber": "Senate",
+          "actionCode": "17000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Agreed to Senate",
+          "date": "2026-09-29",
+          "url": "https://www.congress.gov/119/bills/sres922/BILLS-119sres922ats.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/922",
+      "updatedAt": "2026-10-03T22:04:48Z",
+      "introducedAt": "2026-09-29"
     },
     {
       "id": "119-sres-921",
@@ -1795,51 +1841,6 @@
         }
       ],
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5543",
-      "updatedAt": "2026-10-03T04:23:25Z",
-      "introducedAt": "2026-09-24"
-    },
-    {
-      "id": "119-s-5542",
-      "billType": "s",
-      "billNumber": 5542,
-      "congress": 119,
-      "title": "Military Officer Promotion Integrity Act of 2026",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "B001277",
-        "name": "Sen. Blumenthal, Richard [D-CT]",
-        "party": "D",
-        "state": "CT",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 4,
-      "latestAction": {
-        "date": "2026-09-24",
-        "text": "Read twice and referred to the Committee on Armed Services.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-09-24",
-          "text": "Read twice and referred to the Committee on Armed Services.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-09-24",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-09-24",
-          "url": "https://www.congress.gov/119/bills/s5542/BILLS-119s5542is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5542",
       "updatedAt": "2026-10-03T04:23:25Z",
       "introducedAt": "2026-09-24"
     },
