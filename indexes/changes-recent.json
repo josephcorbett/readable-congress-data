@@ -1,8 +1,424 @@
 {
-  "generatedAt": "2026-10-06T14:46:20.312Z",
+  "generatedAt": "2026-10-07T15:06:46.050Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hconres-123_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hconres-123",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hconres-123: Recognizing the disparity in wages paid to Latinas and the impact of that disparity on women, families, the economy, and the United States.",
+      "after": {
+        "title": "Recognizing the disparity in wages paid to Latinas and the impact of that disparity on women, families, the economy, and the United States.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/123",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10723_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10723",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10723: Nicholas Douglas Quets United States-Mexico Rapid Response for Victims of Crime Act",
+      "after": {
+        "title": "Nicholas Douglas Quets United States-Mexico Rapid Response for Victims of Crime Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10723",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10724_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10724",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10724: To amend title 11, United States Code, to clarify the rules for the exceptions to the discharge of the debt of an individual debtor, and for other purposes.",
+      "after": {
+        "title": "To amend title 11, United States Code, to clarify the rules for the exceptions to the discharge of the debt of an individual debtor, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10724",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10725_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10725",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10725: GAP Act",
+      "after": {
+        "title": "GAP Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10725",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10729_bill.title_changed",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10729",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To amend Public Law 119-21 to adjust limitations on State directed payments under the Medicaid program, and to repeal certain provisions related to provider taxes."
+      },
+      "after": {
+        "title": "Long-Term Rural Health Investment Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10729",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10751_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10751",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10751: To amend the Indian Health Care Improvement Act to remove restrictions on the provision of dental therapist services under the Community Health Aide Program, and for other purposes.",
+      "after": {
+        "title": "To amend the Indian Health Care Improvement Act to remove restrictions on the provision of dental therapist services under the Community Health Aide Program, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10751",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10752_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10752",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10752: To establish in the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security a task force on artificial intelligence, and for other purposes.",
+      "after": {
+        "title": "To establish in the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security a task force on artificial intelligence, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10752",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10753_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10753",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10753: To direct the Secretary of Housing and Urban Development to establish a program to reallocate vouchers, on a voluntary basis, under the Tribal HUD-VASH program, and for other purposes.",
+      "after": {
+        "title": "To direct the Secretary of Housing and Urban Development to establish a program to reallocate vouchers, on a voluntary basis, under the Tribal HUD-VASH program, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10753",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10754_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10754",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10754: To amend the FAA Reauthorization Act of 2018 to update certain indicators of the local impact of a disaster, and for other purposes.",
+      "after": {
+        "title": "To amend the FAA Reauthorization Act of 2018 to update certain indicators of the local impact of a disaster, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10754",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10755_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10755",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10755: To designate the facility of the United States Postal Service located at 475 East FM 1382 in Cedar Hill, Texas, as the \"Eugene Gates Jr. Post Office Building\".",
+      "after": {
+        "title": "To designate the facility of the United States Postal Service located at 475 East FM 1382 in Cedar Hill, Texas, as the \"Eugene Gates Jr. Post Office Building\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10755",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10756_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10756",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10756: To reauthorize Regional Ocean Partnerships, and for other purposes.",
+      "after": {
+        "title": "To reauthorize Regional Ocean Partnerships, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10756",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10757_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10757",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10757: To provide for a limitation on contributions to the United Nations.",
+      "after": {
+        "title": "To provide for a limitation on contributions to the United Nations.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10757",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10758_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10758",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10758: To require the Secretary of Veterans Affairs to establish a program under which the Secretary shall award grants to certain State entities to expand access to structured outdoor recreation programs for veterans that enhance veteran wellness, and for other purposes.",
+      "after": {
+        "title": "To require the Secretary of Veterans Affairs to establish a program under which the Secretary shall award grants to certain State entities to expand access to structured outdoor recreation programs for veterans that enhance veteran wellness, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10758",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10759_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10759",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10759: To establish a tariff-funded program to protect United States manufacturers, workers, farmers, and supply chains from disproportionate economic harm resulting from tariffs and foreign retaliatory measures, to encourage domestic investment and reshoring, and for other purposes.",
+      "after": {
+        "title": "To establish a tariff-funded program to protect United States manufacturers, workers, farmers, and supply chains from disproportionate economic harm resulting from tariffs and foreign retaliatory measures, to encourage domestic investment and reshoring, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10759",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10760_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10760",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10760: To establish a multiagency Middle School Mental Health Task Force at the Department of Education and the Department of Health and Human Services.",
+      "after": {
+        "title": "To establish a multiagency Middle School Mental Health Task Force at the Department of Education and the Department of Health and Human Services.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10760",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10761_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10761",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10761: To amend the Jeanne Clery Campus Safety Act to combat campus sexual assault, and for other purposes.",
+      "after": {
+        "title": "To amend the Jeanne Clery Campus Safety Act to combat campus sexual assault, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10761",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10762_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10762",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10762: To require the seller of a used motor vehicle sold through an auction, dealership, individual sale, or other resale channel to maintain a functional airbag system for the vehicle or clearly disclose when any airbag system is missing or disabled, and for other purposes.",
+      "after": {
+        "title": "To require the seller of a used motor vehicle sold through an auction, dealership, individual sale, or other resale channel to maintain a functional airbag system for the vehicle or clearly disclose when any airbag system is missing or disabled, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10762",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10763_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10763",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10763: Know Your Risk Act",
+      "after": {
+        "title": "Know Your Risk Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10763",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10764_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10764",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10764: To amend title 31, United States Code, to require certain procedures for compromise settlements or awards for executive branch officials, and for other purposes.",
+      "after": {
+        "title": "To amend title 31, United States Code, to require certain procedures for compromise settlements or awards for executive branch officials, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10764",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10765_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10765",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10765: To direct the Secretary of the Smithsonian Institution to collect, preserve, and display in a permanent exhibition in the National Museum of American History artifacts reflecting the rise of governmental propaganda, corruption, and authoritarianism due to the two Presidencies of Donald J. Trump from January 20, 2017 through January 20, 2021, and January 20, 2025 through January 20, 2029, and for other purposes.",
+      "after": {
+        "title": "To direct the Secretary of the Smithsonian Institution to collect, preserve, and display in a permanent exhibition in the National Museum of American History artifacts reflecting the rise of governmental propaganda, corruption, and authoritarianism due to the two Presidencies of Donald J. Trump from January 20, 2017 through January 20, 2021, and January 20, 2025 through January 20, 2029, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10765",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10766_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10766",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10766: To direct the Secretary of Defense to update the Critical Asset List of the Department of Defense to incorporate assets critical to the development, deployment, and operation of the Golden Dome missile defense system.",
+      "after": {
+        "title": "To direct the Secretary of Defense to update the Critical Asset List of the Department of Defense to incorporate assets critical to the development, deployment, and operation of the Golden Dome missile defense system.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10766",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hr-10767_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10767",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10767: To amend the Internal Revenue Code of 1986 to impose an excise tax on colleges and universities allowing specified individuals to participate in intercollegiate athletics.",
+      "after": {
+        "title": "To amend the Internal Revenue Code of 1986 to impose an excise tax on colleges and universities allowing specified individuals to participate in intercollegiate athletics.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10767",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hres-1618_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1618",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1618: Recognizing the third anniversary of the October 7, 2023, terrorist attacks on Israel, honoring the victims and the hostages, and calling for the complete disarmament of Hamas for a durable end to the war in Gaza.",
+      "after": {
+        "title": "Recognizing the third anniversary of the October 7, 2023, terrorist attacks on Israel, honoring the victims and the hostages, and calling for the complete disarmament of Hamas for a durable end to the war in Gaza.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1618",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hres-1619_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1619",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1619: Reaffirming German-American friendship and supporting continued cooperation between the United States and Germany.",
+      "after": {
+        "title": "Reaffirming German-American friendship and supporting continued cooperation between the United States and Germany.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1619",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_119-hres-1620_bill.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1620",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1620: Supporting the goals and ideals of \"National Nonviolence Week\" to raise awareness of youth violence in the United States.",
+      "after": {
+        "title": "Supporting the goals and ideals of \"National Nonviolence Week\" to raise awareness of youth violence in the United States.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1620",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_C001133_member.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "member",
+      "entityId": "C001133",
+      "changeType": "member.added",
+      "summary": "Started tracking Juan Ciscomani",
+      "after": {
+        "name": "Juan Ciscomani",
+        "party": "R",
+        "chamber": "House",
+        "state": "AZ"
+      },
+      "officialUrl": "https://ciscomani.house.gov",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_E000235_member.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "member",
+      "entityId": "E000235",
+      "changeType": "member.added",
+      "summary": "Started tracking Mike Ezell",
+      "after": {
+        "name": "Mike Ezell",
+        "party": "R",
+        "chamber": "House",
+        "state": "MS"
+      },
+      "officialUrl": "https://ezell.house.gov",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_J000307_member.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "member",
+      "entityId": "J000307",
+      "changeType": "member.added",
+      "summary": "Started tracking John James",
+      "after": {
+        "name": "John James",
+        "party": "R",
+        "chamber": "House",
+        "state": "MI"
+      },
+      "officialUrl": "https://james.house.gov",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
+    {
+      "id": "evt_2026-10-07T150646050Z_L000595_member.added",
+      "observedAt": "2026-10-07T15:06:46.050Z",
+      "entityType": "member",
+      "entityId": "L000595",
+      "changeType": "member.added",
+      "summary": "Started tracking Julia Letlow",
+      "after": {
+        "name": "Julia Letlow",
+        "party": "R",
+        "chamber": "House",
+        "state": "LA"
+      },
+      "officialUrl": "https://letlow.house.gov",
+      "syncId": "2026-10-07T15:06:46.050Z"
+    },
     {
       "id": "evt_2026-10-06T144620312Z_119-hr-10726_bill.added",
       "observedAt": "2026-10-06T14:46:20.312Z",
@@ -1054,444 +1470,6 @@
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5547",
       "syncId": "2026-10-03T13:03:36.235Z"
-    },
-    {
-      "id": "evt_2026-10-03T130336235Z_119-s-5548_bill.added",
-      "observedAt": "2026-10-03T13:03:36.235Z",
-      "entityType": "bill",
-      "entityId": "119-s-5548",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026",
-      "after": {
-        "title": "Securing National Security Systems from Chinese Optical Transceivers Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5548",
-      "syncId": "2026-10-03T13:03:36.235Z"
-    },
-    {
-      "id": "evt_2026-10-03T130336235Z_119-s-5550_bill.added",
-      "observedAt": "2026-10-03T13:03:36.235Z",
-      "entityType": "bill",
-      "entityId": "119-s-5550",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-5550: 529 Retirement Enhancement Act of 2026",
-      "after": {
-        "title": "529 Retirement Enhancement Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5550",
-      "syncId": "2026-10-03T13:03:36.235Z"
-    },
-    {
-      "id": "evt_2026-10-03T130336235Z_119-s-5568_bill.title_changed",
-      "observedAt": "2026-10-03T13:03:36.235Z",
-      "entityType": "bill",
-      "entityId": "119-s-5568",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "A bill to provide grants to local educational agencies to help public schools reduce class size in the early elementary grades, and for other purposes."
-      },
-      "after": {
-        "title": "Smaller Class Sizes for Students and Educators Act of 2026"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5568",
-      "syncId": "2026-10-03T13:03:36.235Z"
-    },
-    {
-      "id": "evt_2026-10-03T130336235Z_119-s-5569_bill.title_changed",
-      "observedAt": "2026-10-03T13:03:36.235Z",
-      "entityType": "bill",
-      "entityId": "119-s-5569",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "A bill to amend the Internal Revenue Code of 1986 to impose a fee on excess oil profits."
-      },
-      "after": {
-        "title": "Oil Company Windfall Profits Tax Act of 2026"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5569",
-      "syncId": "2026-10-03T13:03:36.235Z"
-    },
-    {
-      "id": "evt_2026-10-03T130336235Z_119-sjres-220_bill.added",
-      "observedAt": "2026-10-03T13:03:36.235Z",
-      "entityType": "bill",
-      "entityId": "119-sjres-220",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-sjres-220: Original Slavery Remembrance Day Resolution",
-      "after": {
-        "title": "Original Slavery Remembrance Day Resolution",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/220",
-      "syncId": "2026-10-03T13:03:36.235Z"
-    },
-    {
-      "id": "evt_2026-10-03T130336235Z_119-sres-866_bill.action_added_00a4a830bd59bb38",
-      "observedAt": "2026-10-03T13:03:36.235Z",
-      "entityType": "bill",
-      "entityId": "119-sres-866",
-      "changeType": "bill.action_added",
-      "summary": "New action: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5299)",
-      "after": {
-        "date": "2026-09-30",
-        "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5299)",
-        "chamber": "Senate",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/866",
-      "syncId": "2026-10-03T13:03:36.235Z"
-    },
-    {
-      "id": "evt_2026-10-03T130336235Z_119-sres-915_bill.action_added_0fd9bc8efd9fab5d",
-      "observedAt": "2026-10-03T13:03:36.235Z",
-      "entityType": "bill",
-      "entityId": "119-sres-915",
-      "changeType": "bill.action_added",
-      "summary": "New action: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5123; text: CR S5075-5076)",
-      "after": {
-        "date": "2026-09-28",
-        "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5123; text: CR S5075-5076)",
-        "chamber": "Senate",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/915",
-      "syncId": "2026-10-03T13:03:36.235Z"
-    },
-    {
-      "id": "evt_2026-10-03T130336235Z_119-sres-915_bill.action_added_550e86f042e820e9",
-      "observedAt": "2026-10-03T13:03:36.235Z",
-      "entityType": "bill",
-      "entityId": "119-sres-915",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5123; text: CR S5075-5076)",
-      "after": {
-        "date": "2026-09-28",
-        "text": "Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5123; text: CR S5075-5076)",
-        "chamber": "Senate",
-        "actionCode": "17000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/915",
-      "syncId": "2026-10-03T13:03:36.235Z"
-    },
-    {
-      "id": "evt_2026-10-03T130336235Z_119-sres-921_bill.added",
-      "observedAt": "2026-10-03T13:03:36.235Z",
-      "entityType": "bill",
-      "entityId": "119-sres-921",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-sres-921: A resolution expressing the sense of the Senate that the advertisements promoting President Donald Trump that aired in September 2026, which included the direct language \"paid for by the U.S. Government,\" should not be paid for by the United States Government.",
-      "after": {
-        "title": "A resolution expressing the sense of the Senate that the advertisements promoting President Donald Trump that aired in September 2026, which included the direct language \"paid for by the U.S. Government,\" should not be paid for by the United States Government.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/921",
-      "syncId": "2026-10-03T13:03:36.235Z"
-    },
-    {
-      "id": "evt_2026-10-03T130336235Z_119-sres-949_bill.added",
-      "observedAt": "2026-10-03T13:03:36.235Z",
-      "entityType": "bill",
-      "entityId": "119-sres-949",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-sres-949: A resolution designating October 12, 2026, as \"National Loggers Day\".",
-      "after": {
-        "title": "A resolution designating October 12, 2026, as \"National Loggers Day\".",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/949",
-      "syncId": "2026-10-03T13:03:36.235Z"
-    },
-    {
-      "id": "evt_2026-10-03T130336235Z_B001230_member.added",
-      "observedAt": "2026-10-03T13:03:36.235Z",
-      "entityType": "member",
-      "entityId": "B001230",
-      "changeType": "member.added",
-      "summary": "Started tracking Tammy Baldwin",
-      "after": {
-        "name": "Tammy Baldwin",
-        "party": "D",
-        "chamber": "Senate",
-        "state": "WI"
-      },
-      "officialUrl": "https://www.baldwin.senate.gov/",
-      "syncId": "2026-10-03T13:03:36.235Z"
-    },
-    {
-      "id": "evt_2026-10-03T130336235Z_W000817_member.added",
-      "observedAt": "2026-10-03T13:03:36.235Z",
-      "entityType": "member",
-      "entityId": "W000817",
-      "changeType": "member.added",
-      "summary": "Started tracking Elizabeth Warren",
-      "after": {
-        "name": "Elizabeth Warren",
-        "party": "D",
-        "chamber": "Senate",
-        "state": "MA"
-      },
-      "officialUrl": "https://www.warren.senate.gov",
-      "syncId": "2026-10-03T13:03:36.235Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-house-2-312_vote.corrected",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-312",
-      "changeType": "vote.corrected",
-      "summary": "Vote record corrected: On Motion to Suspend the Rules and Pass, as Amended",
-      "before": {
-        "result": "Passed",
-        "yea": 417,
-        "nay": 3,
-        "present": 0,
-        "notVoting": 12,
-        "question": "On Motion to Suspend the Rules and Pass, as Amended",
-        "description": "Ratepayer Protection Act (HR 9340)",
-        "date": "2026-09-16",
-        "associatedBillId": "119-hr-9340"
-      },
-      "after": {
-        "result": "Passed",
-        "yea": 417,
-        "nay": 3,
-        "present": 0,
-        "notVoting": 12,
-        "question": "On Motion to Suspend the Rules and Pass, as Amended",
-        "description": "On Motion to Suspend the Rules and Pass, as Amended",
-        "date": "2026-09-16",
-        "associatedBillId": "119-hr-9340"
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll312.xml",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10696_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10696",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10696: Ad-Free Means Ad-Free Act",
-      "after": {
-        "title": "Ad-Free Means Ad-Free Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10696",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10697_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10697",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10697: To amend titles 18 and 10, United States Code, to provide for congressional authority to terminate exceptions authorized to the prohibition on the use of the Army, Navy, Marine Corps, Air Force, and Space Force as posse comitatus, and for other purposes.",
-      "after": {
-        "title": "To amend titles 18 and 10, United States Code, to provide for congressional authority to terminate exceptions authorized to the prohibition on the use of the Army, Navy, Marine Corps, Air Force, and Space Force as posse comitatus, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10697",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10698_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10698",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10698: To require the Secretary of Homeland Security and the Attorney General to share evidence with appropriate State and local law enforcement agencies related to shootings, injuries, or killings, by officers or employees of U.S. Immigration and Customs Enforcement or U.S. Customs and Border Protection, and for other purposes.",
-      "after": {
-        "title": "To require the Secretary of Homeland Security and the Attorney General to share evidence with appropriate State and local law enforcement agencies related to shootings, injuries, or killings, by officers or employees of U.S. Immigration and Customs Enforcement or U.S. Customs and Border Protection, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10698",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10699_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10699",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10699: To amend the Help America Vote Act of 2002 to require States to provide secured drop boxes for voted absentee ballots in an election for Federal office, and for other purposes.",
-      "after": {
-        "title": "To amend the Help America Vote Act of 2002 to require States to provide secured drop boxes for voted absentee ballots in an election for Federal office, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10699",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10700_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10700",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10700: To amend the Help America Vote Act of 2002 to increase voting accessibility for individuals with disabilities and older individuals, and for other purposes.",
-      "after": {
-        "title": "To amend the Help America Vote Act of 2002 to increase voting accessibility for individuals with disabilities and older individuals, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10700",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10701_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10701",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10701: To authorize the Federal Trade Commission to independently initiate civil actions to recover certain civil penalties, and for other purposes.",
-      "after": {
-        "title": "To authorize the Federal Trade Commission to independently initiate civil actions to recover certain civil penalties, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10701",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10702_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10702",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10702: To amend the Employee Retirement Income Security Act of 1974 to provide that persons are fiduciaries with respect to the provision of retirement investment advice.",
-      "after": {
-        "title": "To amend the Employee Retirement Income Security Act of 1974 to provide that persons are fiduciaries with respect to the provision of retirement investment advice.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10702",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10703_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10703",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10703: To amend the Employee Retirement Income Security Act of 1974 to strengthen accountability and protect plan assets.",
-      "after": {
-        "title": "To amend the Employee Retirement Income Security Act of 1974 to strengthen accountability and protect plan assets.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10703",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10704_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10704",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10704: Direct CARE Opportunity Act of 2026",
-      "after": {
-        "title": "Direct CARE Opportunity Act of 2026",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10704",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10705_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10705",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10705: To amend the Communications Act of 1934 to establish prohibitions with respect to SIM boxes, and for other purposes.",
-      "after": {
-        "title": "To amend the Communications Act of 1934 to establish prohibitions with respect to SIM boxes, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10705",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10706_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10706",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10706: To amend title XI of the Social Security Act to clarify parameters for model testing and add accountability to model expansion under the Center for Medicare and Medicaid Innovation, and for other purposes.",
-      "after": {
-        "title": "To amend title XI of the Social Security Act to clarify parameters for model testing and add accountability to model expansion under the Center for Medicare and Medicaid Innovation, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10706",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10707_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10707",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10707: To address barriers immigrants and refugees face to entering the health care workforce, and for other purposes.",
-      "after": {
-        "title": "To address barriers immigrants and refugees face to entering the health care workforce, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10707",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10708_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10708",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10708: To authorize the Secretary of Health and Human Services to award grants to reduce barriers to immigrants becoming nurses or allied health professionals in the United States, and for other purposes.",
-      "after": {
-        "title": "To authorize the Secretary of Health and Human Services to award grants to reduce barriers to immigrants becoming nurses or allied health professionals in the United States, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10708",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10709_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10709",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10709: To amend the Internal Revenue Code of 1986 to establish a tax credit for multigenerational home renovation expenditures.",
-      "after": {
-        "title": "To amend the Internal Revenue Code of 1986 to establish a tax credit for multigenerational home renovation expenditures.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10709",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10710_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10710",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10710: To establish objective standards, procedural protections, and independent review for the Secretary of Defense's removal of officers from promotion recommendations.",
-      "after": {
-        "title": "To establish objective standards, procedural protections, and independent review for the Secretary of Defense's removal of officers from promotion recommendations.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10710",
-      "syncId": "2026-10-02T14:28:51.414Z"
-    },
-    {
-      "id": "evt_2026-10-02T142851414Z_119-hr-10711_bill.added",
-      "observedAt": "2026-10-02T14:28:51.414Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10711",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10711: To require the Secretary of State to submit a report to Congress regarding staffing levels and wait times related to visa applications, and for other purposes.",
-      "after": {
-        "title": "To require the Secretary of State to submit a report to Congress regarding staffing levels and wait times related to visa applications, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10711",
-      "syncId": "2026-10-02T14:28:51.414Z"
     }
   ]
 }
