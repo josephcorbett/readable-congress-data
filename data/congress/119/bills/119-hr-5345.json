@@ -4,7 +4,7 @@
   "billNumber": 5345,
   "congress": 119,
   "title": "Improving Social Security’s Service to Victims of Identity Theft Act",
-  "status": "introduced",
+  "status": "becameLaw",
   "chamber": "House",
   "policyArea": "Social Welfare",
   "sponsor": {
@@ -17,11 +17,35 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-09-18",
-    "text": "Message on Senate action sent to the House.",
+    "date": "2026-10-07",
+    "text": "Signed by President.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-10-07",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "E30000"
+    },
+    {
+      "date": "2026-10-07",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "36000"
+    },
+    {
+      "date": "2026-09-29",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "E20000"
+    },
+    {
+      "date": "2026-09-29",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "28000"
+    },
     {
       "date": "2026-09-18",
       "text": "Message on Senate action sent to the House.",
@@ -141,6 +165,11 @@
   ],
   "textVersions": [
     {
+      "type": "Enrolled Bill",
+      "date": "1970-01-01",
+      "url": "https://www.congress.gov/119/bills/hr5345/BILLS-119hr5345enr.htm"
+    },
+    {
       "type": "Referred in Senate",
       "date": "2025-12-02",
       "url": "https://www.congress.gov/119/bills/hr5345/BILLS-119hr5345rfs.htm"
@@ -166,6 +195,6 @@
   "summary": "Improving Social Security's Service to Victims of Identity Theft Act This bill requires the Social Security Administration to provide a single point of contact for any individual whose Social Security account number has been misused. The single point of contact must consist of a team or subset of specially trained employees, and must track the individual's case to completion and coordinate with other specialized units to resolve issues as quickly as possible.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5345",
-  "updatedAt": "2026-09-21T14:04:48Z",
+  "updatedAt": "2026-10-08T14:37:25Z",
   "introducedAt": "2025-09-15"
 }
