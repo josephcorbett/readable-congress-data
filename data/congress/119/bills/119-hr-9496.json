@@ -4,7 +4,7 @@
   "billNumber": 9496,
   "congress": 119,
   "title": "End Tax Penalties on American Hostages Act",
-  "status": "inCommittee",
+  "status": "passedSenate",
   "chamber": "House",
   "policyArea": "Taxation",
   "sponsor": {
@@ -17,11 +17,33 @@
   },
   "cosponsorCount": 2,
   "latestAction": {
-    "date": "2026-09-16",
-    "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+    "date": "2026-09-30",
+    "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5238-5239)",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-09-30",
+      "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5238-5239)",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-30",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "chamber": "House",
+      "actionCode": "17000"
+    },
+    {
+      "date": "2026-09-30",
+      "text": "Senate Committee on Finance discharged by Unanimous Consent.",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-30",
+      "text": "Senate Committee on Finance discharged by Unanimous Consent.",
+      "chamber": "House",
+      "actionCode": "14500"
+    },
     {
       "date": "2026-09-16",
       "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
@@ -35,7 +57,7 @@
     },
     {
       "date": "2026-09-15",
-      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5683-5684)",
       "chamber": "House",
       "actionCode": "H37300"
     },
@@ -53,7 +75,7 @@
     },
     {
       "date": "2026-09-15",
-      "text": "Considered under suspension of the rules.",
+      "text": "Considered under suspension of the rules. (consideration: CR H5683-5685)",
       "chamber": "House",
       "actionCode": "H30000"
     },
@@ -114,6 +136,16 @@
   ],
   "textVersions": [
     {
+      "type": "Enrolled Bill",
+      "date": "1970-01-01",
+      "url": "https://www.congress.gov/119/bills/hr9496/BILLS-119hr9496enr.htm"
+    },
+    {
+      "type": "Referred in Senate",
+      "date": "2026-09-16",
+      "url": "https://www.congress.gov/119/bills/hr9496/BILLS-119hr9496rfs.htm"
+    },
+    {
       "type": "Engrossed in House",
       "date": "2026-09-15",
       "url": "https://www.congress.gov/119/bills/hr9496/BILLS-119hr9496eh.htm"
@@ -134,6 +166,6 @@
   "summary": "End Tax Penalties on American Hostages Act This bill extends certain federal tax deadlines for U.S. nationals who are unlawfully or wrongfully detained abroad or held hostage abroad and their spouses. The bill also allows for an abatement and refund of additional taxes, interest, and penalties assessed to such individuals for failing to meet a federal tax deadline during a period of detention. Specifically, under the bill, the time period during which a U.S. national is unlawfully or wrongfully detained abroad or held hostage abroad is disregarded in determining certain federal tax deadlines, including deadlines for filing a return for and paying federal income, estate, gift, employment, or excise taxes; a tax credit or refund claim; and the determination, assessment, and collection of additional taxes, interest, or penalties. The bill requires the Department of State and the Department of Justice to annually provide the Internal Revenue Service (IRS) with lists to identify U.S. nationals who qualify for an extension. The bill also requires the IRS to (1) abate and refund additional taxes, interest, and penalties assessed for any tax year ending during a period of detention for which an extension of a federal tax deadline is permitted; and (2) establish a program allowing U.S. nationals unlawfully or wrongfully detained abroad or taken hostage abroad (or their spouse or dependent) to claim a refund of additional taxes, interest, and penalties assessed for any tax year ending during a period of detention from 2021 to the bill’s enactment date.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9496",
-  "updatedAt": "2026-09-17T12:18:24Z",
+  "updatedAt": "2026-10-09T03:38:25Z",
   "introducedAt": "2026-06-29"
 }
