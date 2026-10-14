@@ -4,7 +4,7 @@
   "billNumber": 1574,
   "congress": 119,
   "title": "Tribal Access to Electronic Evidence Act",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "Senate",
   "policyArea": "Native Americans",
   "sponsor": {
@@ -16,25 +16,42 @@
   },
   "cosponsorCount": 4,
   "latestAction": {
-    "date": "2026-09-29",
-    "text": "Passed Senate with an amendment by Unanimous Consent.",
+    "date": "2026-10-05",
+    "text": "Held at the desk.",
     "chamber": "Senate"
   },
   "actions": [
     {
-      "date": "2026-09-29",
-      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "date": "2026-10-05",
+      "text": "Held at the desk.",
+      "chamber": "Senate",
+      "actionCode": "H15000"
+    },
+    {
+      "date": "2026-10-05",
+      "text": "Received in the House.",
+      "chamber": "Senate",
+      "actionCode": "H14000"
+    },
+    {
+      "date": "2026-10-05",
+      "text": "Message on Senate action sent to the House.",
       "chamber": "Senate"
     },
     {
       "date": "2026-09-29",
-      "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "text": "Passed Senate with an amendment by Unanimous Consent. (text: CR S5184)",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-09-29",
+      "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (text: CR S5184)",
       "chamber": "Senate",
       "actionCode": "17000"
     },
     {
       "date": "2026-09-29",
-      "text": "Measure laid before Senate by unanimous consent.",
+      "text": "Measure laid before Senate by unanimous consent. (consideration: CR S5184)",
       "chamber": "Senate"
     },
     {
@@ -77,6 +94,6 @@
   "summary": "Tribal Access to Electronic Evidence Act This bill allows tribal courts to execute warrants for electronic material. The Stored Communications Act (SCA) generally prohibits providers of electronic communication services (e.g., cell phone providers, email providers, or social media platforms) and remote computing services (e.g., cloud computing providers) from knowingly disclosing stored electronic communications or records (e.g., emails) or information pertaining to customers or subscribers. However, the SCA authorizes governmental entities to compel service providers to disclose electronic communication information through a court-issued warrant, a court order, or an administrative subpoena. This bill gives tribal courts the same authority as other governmental entities (e.g., state courts) to compel service providers to disclose stored electronic communication information through court-issued warrants, court orders, or administrative subpoenas.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1574",
-  "updatedAt": "2026-09-30T13:33:41Z",
+  "updatedAt": "2026-10-07T11:33:50Z",
   "introducedAt": "2025-05-01"
 }
