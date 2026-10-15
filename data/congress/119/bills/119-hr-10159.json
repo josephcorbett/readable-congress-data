@@ -4,7 +4,7 @@
   "billNumber": 10159,
   "congress": 119,
   "title": "To authorize the Secretary of the Army to convey to the State of North Carolina a certain parcel of real property located at Fort Bragg, North Carolina, on which the State shall construct a veterans’ State home, and for other purposes.",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "House",
   "policyArea": "Armed Forces and National Security",
   "sponsor": {
@@ -17,19 +17,24 @@
   },
   "cosponsorCount": 13,
   "latestAction": {
-    "date": "2026-09-29",
-    "text": "Passed Senate without amendment by Unanimous Consent.",
+    "date": "2026-10-14",
+    "text": "Message on Senate action sent to the House.",
     "chamber": "House"
   },
   "actions": [
     {
-      "date": "2026-09-29",
-      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-10-14",
+      "text": "Message on Senate action sent to the House.",
       "chamber": "House"
     },
     {
       "date": "2026-09-29",
-      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5186)",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-29",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5186)",
       "chamber": "House",
       "actionCode": "17000"
     },
@@ -106,6 +111,11 @@
   ],
   "textVersions": [
     {
+      "type": "Enrolled Bill",
+      "date": "1970-01-01",
+      "url": "https://www.congress.gov/119/bills/hr10159/BILLS-119hr10159enr.htm"
+    },
+    {
       "type": "Referred in Senate",
       "date": "2026-09-15",
       "url": "https://www.congress.gov/119/bills/hr10159/BILLS-119hr10159rfs.htm"
@@ -126,6 +136,6 @@
   "summary": "This bill authorizes the Department of the Army to transfer, without compensation or other consideration, all right, title, and interest to a specified 20-acre parcel of land on Fort Bragg to the State of North Carolina for the purpose of constructing a state home under the jurisdiction of the North Carolina Department of Military and Veterans Affairs. (A state home is a home established by a state for veterans who are disabled by age, disease, or otherwise and are incapable of earning a living because of such disability. The term also includes a home that furnishes nursing home care for veterans.) Specifically, the bill authorizes the conveyance of a 20-acre parcel of land situated on the Fort Bragg Training Area in Harnett County, North Carolina, that is commonly referred to as Parcel 3B. The State of North Carolina must cover all costs to carry out the conveyance. If the Department of the Army determines the property is not being used for activities related to a state home, all right, title, and interest in the property may revert to the United States.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10159",
-  "updatedAt": "2026-09-30T12:32:49Z",
+  "updatedAt": "2026-10-15T10:56:19Z",
   "introducedAt": "2026-08-27"
 }

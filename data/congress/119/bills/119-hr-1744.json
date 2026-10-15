@@ -4,7 +4,7 @@
   "billNumber": 1744,
   "congress": 119,
   "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "House",
   "policyArea": "International Affairs",
   "sponsor": {
@@ -17,19 +17,24 @@
   },
   "cosponsorCount": 11,
   "latestAction": {
-    "date": "2026-09-29",
-    "text": "Passed Senate without amendment by Unanimous Consent.",
+    "date": "2026-10-14",
+    "text": "Message on Senate action sent to the House.",
     "chamber": "House"
   },
   "actions": [
     {
-      "date": "2026-09-29",
-      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-10-14",
+      "text": "Message on Senate action sent to the House.",
       "chamber": "House"
     },
     {
       "date": "2026-09-29",
-      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5186)",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-29",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5186)",
       "chamber": "House",
       "actionCode": "17000"
     },
@@ -124,6 +129,11 @@
   ],
   "textVersions": [
     {
+      "type": "Enrolled Bill",
+      "date": "1970-01-01",
+      "url": "https://www.congress.gov/119/bills/hr1744/BILLS-119hr1744enr.htm"
+    },
+    {
       "type": "Referred in Senate",
       "date": "2026-06-09",
       "url": "https://www.congress.gov/119/bills/hr1744/BILLS-119hr1744rfs.htm"
@@ -144,6 +154,6 @@
   "summary": "United States Commission on International Religious Freedom Reauthorization Act of 2025 This bill reauthorizes the U.S. Commission on International Religious Freedom through FY2028. The commission is an independent federal commission tasked with monitoring international religious freedom conditions, reviewing U.S. government policy, and making policy recommendations.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1744",
-  "updatedAt": "2026-09-30T12:32:57Z",
+  "updatedAt": "2026-10-15T10:56:20Z",
   "introducedAt": "2025-02-27"
 }

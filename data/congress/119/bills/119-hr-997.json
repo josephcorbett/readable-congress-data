@@ -4,7 +4,7 @@
   "billNumber": 997,
   "congress": 119,
   "title": "National Taxpayer Advocate Enhancement Act of 2025",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "House",
   "policyArea": "Taxation",
   "sponsor": {
@@ -17,19 +17,24 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-09-28",
-    "text": "Passed Senate without amendment by Unanimous Consent.",
+    "date": "2026-10-14",
+    "text": "Message on Senate action sent to the House.",
     "chamber": "House"
   },
   "actions": [
     {
-      "date": "2026-09-28",
-      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-10-14",
+      "text": "Message on Senate action sent to the House.",
       "chamber": "House"
     },
     {
       "date": "2026-09-28",
-      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5123)",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-28",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5123)",
       "chamber": "House",
       "actionCode": "17000"
     },
@@ -148,6 +153,11 @@
   ],
   "textVersions": [
     {
+      "type": "Enrolled Bill",
+      "date": "1970-01-01",
+      "url": "https://www.congress.gov/119/bills/hr997/BILLS-119hr997enr.htm"
+    },
+    {
       "type": "Referred in Senate",
       "date": "2025-04-01",
       "url": "https://www.congress.gov/119/bills/hr997/BILLS-119hr997rfs.htm"
@@ -173,6 +183,6 @@
   "summary": "National Taxpayer Advocate Enhancement Act of 2025 This bill authorizes the National Taxpayer Advocate to appoint legal counsel within the Taxpayer Advocate Service (TAS) to report directly to the National Taxpayer Advocate. The bill also expands the authority of the National Taxpayer Advocate to take personnel actions with respect to local taxpayer advocates (located in each state) to include actions with respect to any employee of TAS. Currently, pursuant to a Department of the Treasury order, all legal counsel whose duties include providing legal advice to any official in any office or bureau of Treasury are part of the Legal Division within Treasury and under the supervision of the General Counsel, with limited exceptions. TAS assists taxpayers in matters involving the Internal Revenue Service (IRS) and is part of the IRS, within Treasury.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/997",
-  "updatedAt": "2026-09-29T13:42:10Z",
+  "updatedAt": "2026-10-15T10:56:21Z",
   "introducedAt": "2025-02-05"
 }

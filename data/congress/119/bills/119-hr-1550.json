@@ -4,7 +4,7 @@
   "billNumber": 1550,
   "congress": 119,
   "title": "Strengthening America’s Turning Point Act",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "House",
   "policyArea": "Public Lands and Natural Resources",
   "sponsor": {
@@ -17,19 +17,24 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-09-29",
-    "text": "Passed Senate without amendment by Unanimous Consent.",
+    "date": "2026-10-14",
+    "text": "Message on Senate action sent to the House.",
     "chamber": "House"
   },
   "actions": [
     {
-      "date": "2026-09-29",
-      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-10-14",
+      "text": "Message on Senate action sent to the House.",
       "chamber": "House"
     },
     {
       "date": "2026-09-29",
-      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5140-5144)",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-29",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5140-5144)",
       "chamber": "House",
       "actionCode": "17000"
     },
@@ -116,6 +121,11 @@
   ],
   "textVersions": [
     {
+      "type": "Enrolled Bill",
+      "date": "1970-01-01",
+      "url": "https://www.congress.gov/119/bills/hr1550/BILLS-119hr1550enr.htm"
+    },
+    {
       "type": "Reported to Senate",
       "date": "2026-07-23",
       "url": "https://www.congress.gov/119/bills/hr1550/BILLS-119hr1550rs.htm"
@@ -141,6 +151,6 @@
   "summary": "Strengthening America’s Turning Point Act This bill renames the Saratoga National Historical Park, located in Stillwater, New York, as Saratoga National Battlefield Park.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1550",
-  "updatedAt": "2026-09-30T12:32:57Z",
+  "updatedAt": "2026-10-15T10:56:21Z",
   "introducedAt": "2025-02-25"
 }

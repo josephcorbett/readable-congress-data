@@ -4,7 +4,7 @@
   "billNumber": 1190,
   "congress": 119,
   "title": "Expanding Access to Capital for Rural Job Creators Act",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "House",
   "policyArea": "Finance and Financial Sector",
   "sponsor": {
@@ -17,19 +17,24 @@
   },
   "cosponsorCount": 5,
   "latestAction": {
-    "date": "2026-09-29",
-    "text": "Passed Senate without amendment by Unanimous Consent.",
+    "date": "2026-10-14",
+    "text": "Message on Senate action sent to the House.",
     "chamber": "House"
   },
   "actions": [
     {
-      "date": "2026-09-29",
-      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-10-14",
+      "text": "Message on Senate action sent to the House.",
       "chamber": "House"
     },
     {
       "date": "2026-09-29",
-      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5185)",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-09-29",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5185)",
       "chamber": "House",
       "actionCode": "17000"
     },
@@ -136,6 +141,11 @@
   ],
   "textVersions": [
     {
+      "type": "Enrolled Bill",
+      "date": "1970-01-01",
+      "url": "https://www.congress.gov/119/bills/hr1190/BILLS-119hr1190enr.htm"
+    },
+    {
       "type": "Referred in Senate",
       "date": "2025-06-24",
       "url": "https://www.congress.gov/119/bills/hr1190/BILLS-119hr1190rfs.htm"
@@ -161,6 +171,6 @@
   "summary": "Expanding Access to Capital for Rural Job Creators Act This bill requires the Office of the Advocate for Small Business Capital Formation within the Securities and Exchange Commission to report on issues encountered by rural-area small businesses.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1190",
-  "updatedAt": "2026-09-30T12:32:57Z",
+  "updatedAt": "2026-10-15T10:56:21Z",
   "introducedAt": "2025-02-11"
 }
