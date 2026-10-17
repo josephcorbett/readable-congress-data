@@ -1,8 +1,670 @@
 {
-  "generatedAt": "2026-10-16T13:02:14.054Z",
+  "generatedAt": "2026-10-17T11:59:56.427Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-10-17T115956427Z_119-hconres-124_bill.added",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-hconres-124",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hconres-124: Directing the President pursuant to section 5(c) of the War Powers Resolution to remove United States Armed Forces from hostilities against the Houthis in Yemen that have not been authorized by Congress.",
+      "after": {
+        "title": "Directing the President pursuant to section 5(c) of the War Powers Resolution to remove United States Armed Forces from hostilities against the Houthis in Yemen that have not been authorized by Congress.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/124",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-house-2-314_vote.corrected",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-314",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Suspend the Rules and Pass",
+      "before": {
+        "result": "Passed",
+        "yea": 401,
+        "nay": 14,
+        "present": 0,
+        "notVoting": 18,
+        "question": "On Motion to Suspend the Rules and Pass",
+        "description": "On Motion to Suspend the Rules and Pass",
+        "date": "2026-09-16",
+        "associatedBillId": "119-s-2403"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 401,
+        "nay": 14,
+        "present": 0,
+        "notVoting": 18,
+        "question": "On Motion to Suspend the Rules and Pass",
+        "description": "Retire through Ownership Act (S 2403)",
+        "date": "2026-09-16",
+        "associatedBillId": "119-s-2403"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll314.xml",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-hr-10756_bill.title_changed",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10756",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To reauthorize Regional Ocean Partnerships, and for other purposes."
+      },
+      "after": {
+        "title": "Regional Ocean Partnerships Reauthorization Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10756",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-hr-10758_bill.title_changed",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10758",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To require the Secretary of Veterans Affairs to establish a program under which the Secretary shall award grants to certain State entities to expand access to structured outdoor recreation programs for veterans that enhance veteran wellness, and for other purposes."
+      },
+      "after": {
+        "title": "Veterans Outdoor Rehabilitation Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10758",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-hr-10783_bill.title_changed",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10783",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To provide for the payment of attorney's fees to a prevailing defendant in a civil action for defamation or libel."
+      },
+      "after": {
+        "title": "Speak Your Truth Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10783",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-hr-10786_bill.title_changed",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10786",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To amend the Higher Education Act of 1965 to require certain institutions to require students who are United States citizens to pass the United States naturalization test in order to graduate, and for other purposes."
+      },
+      "after": {
+        "title": "Civic Literacy in Higher Education Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10786",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-hr-10791_bill.title_changed",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10791",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To prohibit Federal funds from being provided to any State or local government that celebrates Indigenous Peoples Day instead of Columbus Day, and for other purposes."
+      },
+      "after": {
+        "title": "Italian Heroes and Heritage Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10791",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-hr-10811_bill.added",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10811",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10811: To amend title 49, United States Code, to increase the allowable government share of a project for which a fixed guideway capital investment grant is issued in cases where the grant recipient provides owners of small business concerns with certain protections from project-related transportation interruptions, and for other purposes.",
+      "after": {
+        "title": "To amend title 49, United States Code, to increase the allowable government share of a project for which a fixed guideway capital investment grant is issued in cases where the grant recipient provides owners of small business concerns with certain protections from project-related transportation interruptions, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10811",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-hres-1612_bill.added",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1612",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1612: Honoring Captain Smit Machchhar and the crew and passengers of Flydubai Flight 1073, and condemning the attempted terrorist attack on that flight.",
+      "after": {
+        "title": "Honoring Captain Smit Machchhar and the crew and passengers of Flydubai Flight 1073, and condemning the attempted terrorist attack on that flight.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1612",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-hres-1621_bill.added",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1621",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1621: Expressing profound sorrow over the death of Alexander Michel Odeh.",
+      "after": {
+        "title": "Expressing profound sorrow over the death of Alexander Michel Odeh.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1621",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-240_bill.action_added_050acc0e219bd8c0",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-240",
+      "changeType": "bill.action_added",
+      "summary": "New action: Presented to President.",
+      "after": {
+        "date": "2026-10-05",
+        "text": "Presented to President.",
+        "chamber": "Senate",
+        "actionCode": "E20000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/240",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-240_bill.action_added_201fbac4724f51fd",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-240",
+      "changeType": "bill.action_added",
+      "summary": "New action: Presented to President.",
+      "after": {
+        "date": "2026-10-05",
+        "text": "Presented to President.",
+        "chamber": "Senate",
+        "actionCode": "28000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/240",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-240_bill.action_added_3228362d9ef5a610",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-240",
+      "changeType": "bill.action_added",
+      "summary": "New action: Became Public Law No: 119-122.",
+      "after": {
+        "date": "2026-10-15",
+        "text": "Became Public Law No: 119-122.",
+        "chamber": "Senate",
+        "actionCode": "E40000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/240",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-240_bill.action_added_66549a94d3d354f7",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-240",
+      "changeType": "bill.action_added",
+      "summary": "New action: Senate agreed to the House amendment to S. 240 by Unanimous Consent. (consideration: CR S5020)",
+      "after": {
+        "date": "2026-09-24",
+        "text": "Senate agreed to the House amendment to S. 240 by Unanimous Consent. (consideration: CR S5020)",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/240",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-240_bill.action_added_694c7ad3d306eec7",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-240",
+      "changeType": "bill.action_added",
+      "summary": "New action: Became Public Law No: 119-122.",
+      "after": {
+        "date": "2026-10-15",
+        "text": "Became Public Law No: 119-122.",
+        "chamber": "Senate",
+        "actionCode": "36000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/240",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-240_bill.action_added_881d34ee38398ed5",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-240",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-10-15",
+        "text": "Signed by President.",
+        "chamber": "Senate",
+        "actionCode": "36000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/240",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-240_bill.action_added_a14bc6b2fa03aefd",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-240",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5570)",
+      "after": {
+        "date": "2026-09-14",
+        "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5570)",
+        "chamber": "Senate",
+        "actionCode": "8000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/240",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-240_bill.action_added_a4a08e2d63eb734e",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-240",
+      "changeType": "bill.action_added",
+      "summary": "New action: Message on Senate action sent to the House.",
+      "after": {
+        "date": "2026-09-28",
+        "text": "Message on Senate action sent to the House.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/240",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-240_bill.action_added_b8c73375b9381009",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-240",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-10-15",
+        "text": "Signed by President.",
+        "chamber": "Senate",
+        "actionCode": "E30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/240",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-240_bill.action_added_fdc7d7e34766b544",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-240",
+      "changeType": "bill.action_added",
+      "summary": "New action: Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 240 by Unanimous Consent. (consideration: CR S5020)",
+      "after": {
+        "date": "2026-09-24",
+        "text": "Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 240 by Unanimous Consent. (consideration: CR S5020)",
+        "chamber": "Senate",
+        "actionCode": "20500"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/240",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-240_bill.status_changed",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-240",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to becameLaw",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "becameLaw"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/240",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-2403_bill.added",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-2403",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2403: Retire through Ownership Act",
+      "after": {
+        "title": "Retire through Ownership Act",
+        "status": "becameLaw"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2403",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-283_bill.action_added_050acc0e219bd8c0",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-283",
+      "changeType": "bill.action_added",
+      "summary": "New action: Presented to President.",
+      "after": {
+        "date": "2026-10-05",
+        "text": "Presented to President.",
+        "chamber": "Senate",
+        "actionCode": "E20000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/283",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-283_bill.action_added_201fbac4724f51fd",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-283",
+      "changeType": "bill.action_added",
+      "summary": "New action: Presented to President.",
+      "after": {
+        "date": "2026-10-05",
+        "text": "Presented to President.",
+        "chamber": "Senate",
+        "actionCode": "28000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/283",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-283_bill.action_added_379eb92db975207e",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-283",
+      "changeType": "bill.action_added",
+      "summary": "New action: Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 283 by Unanimous Consent. (consideration: CR S5020)",
+      "after": {
+        "date": "2026-09-24",
+        "text": "Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 283 by Unanimous Consent. (consideration: CR S5020)",
+        "chamber": "Senate",
+        "actionCode": "20500"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/283",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-283_bill.action_added_41202f066363b2d7",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-283",
+      "changeType": "bill.action_added",
+      "summary": "New action: Senate agreed to the House amendment to S. 283 by Unanimous Consent. (consideration: CR S5020)",
+      "after": {
+        "date": "2026-09-24",
+        "text": "Senate agreed to the House amendment to S. 283 by Unanimous Consent. (consideration: CR S5020)",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/283",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-283_bill.action_added_545cded5f86bb06c",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-283",
+      "changeType": "bill.action_added",
+      "summary": "New action: Became Public Law No: 119-123.",
+      "after": {
+        "date": "2026-10-15",
+        "text": "Became Public Law No: 119-123.",
+        "chamber": "Senate",
+        "actionCode": "E40000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/283",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-283_bill.action_added_582499333f8a2ad5",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-283",
+      "changeType": "bill.action_added",
+      "summary": "New action: Became Public Law No: 119-123.",
+      "after": {
+        "date": "2026-10-15",
+        "text": "Became Public Law No: 119-123.",
+        "chamber": "Senate",
+        "actionCode": "36000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/283",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-283_bill.action_added_881d34ee38398ed5",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-283",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-10-15",
+        "text": "Signed by President.",
+        "chamber": "Senate",
+        "actionCode": "36000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/283",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-283_bill.action_added_a4a08e2d63eb734e",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-283",
+      "changeType": "bill.action_added",
+      "summary": "New action: Message on Senate action sent to the House.",
+      "after": {
+        "date": "2026-09-28",
+        "text": "Message on Senate action sent to the House.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/283",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-283_bill.action_added_b6c6153975e64f31",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-283",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5557-5558)",
+      "after": {
+        "date": "2026-09-14",
+        "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5557-5558)",
+        "chamber": "Senate",
+        "actionCode": "8000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/283",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-283_bill.action_added_b8c73375b9381009",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-283",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-10-15",
+        "text": "Signed by President.",
+        "chamber": "Senate",
+        "actionCode": "E30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/283",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-283_bill.status_changed",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-283",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to becameLaw",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "becameLaw"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/283",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-5683_bill.added",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-5683",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5683: Best Practices for Military Family Child Care Homes Act",
+      "after": {
+        "title": "Best Practices for Military Family Child Care Homes Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5683",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-5684_bill.added",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-5684",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5684: No Cash for Incompetent and Malicious Contractors Act",
+      "after": {
+        "title": "No Cash for Incompetent and Malicious Contractors Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5684",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-5686_bill.added",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-5686",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5686: No Public Executions in America Act",
+      "after": {
+        "title": "No Public Executions in America Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5686",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-5688_bill.added",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-5688",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5688: Acquired Lands Revenue Modernization Act",
+      "after": {
+        "title": "Acquired Lands Revenue Modernization Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5688",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-s-5690_bill.added",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-s-5690",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5690: Renewing the Dream Act",
+      "after": {
+        "title": "Renewing the Dream Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5690",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-sjres-221_bill.added",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-sjres-221",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sjres-221: A joint resolution providing for congressional disapproval of the agreement for civilian nuclear cooperation between the United States and the Kingdom of Saudi Arabia pursuant to section 123 of the Atomic Energy Act of 1954.",
+      "after": {
+        "title": "A joint resolution providing for congressional disapproval of the agreement for civilian nuclear cooperation between the United States and the Kingdom of Saudi Arabia pursuant to section 123 of the Atomic Energy Act of 1954.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/221",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-sres-950_bill.added",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-sres-950",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-950: A resolution designating the week of September 14 through September 18, 2026, as \"National Clean Energy Week\".",
+      "after": {
+        "title": "A resolution designating the week of September 14 through September 18, 2026, as \"National Clean Energy Week\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/950",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_119-sres-951_bill.added",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "bill",
+      "entityId": "119-sres-951",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-sres-951: A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
+      "after": {
+        "title": "A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/951",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
+    {
+      "id": "evt_2026-10-17T115956427Z_M001198_member.added",
+      "observedAt": "2026-10-17T11:59:56.427Z",
+      "entityType": "member",
+      "entityId": "M001198",
+      "changeType": "member.added",
+      "summary": "Started tracking Roger Marshall",
+      "after": {
+        "name": "Roger Marshall",
+        "party": "R",
+        "chamber": "Senate",
+        "state": "KS"
+      },
+      "officialUrl": "https://www.marshall.senate.gov",
+      "syncId": "2026-10-17T11:59:56.427Z"
+    },
     {
       "id": "evt_2026-10-16T130214054Z_119-hr-10815_bill.added",
       "observedAt": "2026-10-16T13:02:14.054Z",
@@ -878,668 +1540,6 @@
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3620",
       "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-3620_bill.action_added_d48ae852eb358369",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-3620",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5144)",
-      "after": {
-        "date": "2026-09-29",
-        "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5144)",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3620",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-3620_bill.action_added_fbd700f06b38c983",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-3620",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5144)",
-      "after": {
-        "date": "2026-09-29",
-        "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5144)",
-        "chamber": "House",
-        "actionCode": "17000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3620",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-3620_bill.status_changed",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-3620",
-      "changeType": "bill.status_changed",
-      "summary": "Status changed from passedSenate to introduced",
-      "before": {
-        "status": "passedSenate"
-      },
-      "after": {
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3620",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-4307_bill.added",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-4307",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-4307: Enhancing Detection of Human Trafficking Act",
-      "after": {
-        "title": "Enhancing Detection of Human Trafficking Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4307",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-5235_bill.added",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-5235",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-5235: Skills-Based Federal Contracting Act of 2025",
-      "after": {
-        "title": "Skills-Based Federal Contracting Act of 2025",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5235",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-5284_bill.action_added_0c008da10a347c0d",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-5284",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5184)",
-      "after": {
-        "date": "2026-09-29",
-        "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5184)",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5284",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-5284_bill.action_added_83592143b4c3ac5e",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-5284",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5184)",
-      "after": {
-        "date": "2026-09-29",
-        "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5184)",
-        "chamber": "House",
-        "actionCode": "17000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5284",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-5284_bill.action_added_a97392ed4431ba02",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-5284",
-      "changeType": "bill.action_added",
-      "summary": "New action: Message on Senate action sent to the House.",
-      "after": {
-        "date": "2026-10-14",
-        "text": "Message on Senate action sent to the House.",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5284",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-5284_bill.status_changed",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-5284",
-      "changeType": "bill.status_changed",
-      "summary": "Status changed from passedSenate to introduced",
-      "before": {
-        "status": "passedSenate"
-      },
-      "after": {
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5284",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-6380_bill.action_added_a97392ed4431ba02",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-6380",
-      "changeType": "bill.action_added",
-      "summary": "New action: Message on Senate action sent to the House.",
-      "after": {
-        "date": "2026-10-14",
-        "text": "Message on Senate action sent to the House.",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6380",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-6380_bill.status_changed",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-6380",
-      "changeType": "bill.status_changed",
-      "summary": "Status changed from passedSenate to introduced",
-      "before": {
-        "status": "passedSenate"
-      },
-      "after": {
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6380",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-6698_bill.added",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-6698",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-6698: Board of Veterans Appeals Annual Report Transparency Act of 2025",
-      "after": {
-        "title": "Board of Veterans Appeals Annual Report Transparency Act of 2025",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6698",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-7022_bill.action_added_a97392ed4431ba02",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-7022",
-      "changeType": "bill.action_added",
-      "summary": "New action: Message on Senate action sent to the House.",
-      "after": {
-        "date": "2026-10-14",
-        "text": "Message on Senate action sent to the House.",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7022",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-7022_bill.status_changed",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-7022",
-      "changeType": "bill.status_changed",
-      "summary": "Status changed from passedSenate to introduced",
-      "before": {
-        "status": "passedSenate"
-      },
-      "after": {
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7022",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-7260_bill.added",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-7260",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-7260: National Cemetery Administration Annual Report Act of 2026",
-      "after": {
-        "title": "National Cemetery Administration Annual Report Act of 2026",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7260",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-7730_bill.action_added_a97392ed4431ba02",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-7730",
-      "changeType": "bill.action_added",
-      "summary": "New action: Message on Senate action sent to the House.",
-      "after": {
-        "date": "2026-10-14",
-        "text": "Message on Senate action sent to the House.",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7730",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-7730_bill.status_changed",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-7730",
-      "changeType": "bill.status_changed",
-      "summary": "Status changed from passedSenate to introduced",
-      "before": {
-        "status": "passedSenate"
-      },
-      "after": {
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7730",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-7831_bill.action_added_a97392ed4431ba02",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-7831",
-      "changeType": "bill.action_added",
-      "summary": "New action: Message on Senate action sent to the House.",
-      "after": {
-        "date": "2026-10-14",
-        "text": "Message on Senate action sent to the House.",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7831",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-7831_bill.status_changed",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-7831",
-      "changeType": "bill.status_changed",
-      "summary": "Status changed from passedSenate to introduced",
-      "before": {
-        "status": "passedSenate"
-      },
-      "after": {
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7831",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-8205_bill.action_added_8aad42c940942527",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-8205",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote. (consideration: CR S5120)",
-      "after": {
-        "date": "2026-09-28",
-        "text": "Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote. (consideration: CR S5120)",
-        "chamber": "House",
-        "actionCode": "17000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-8205_bill.action_added_a97392ed4431ba02",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-8205",
-      "changeType": "bill.action_added",
-      "summary": "New action: Message on Senate action sent to the House.",
-      "after": {
-        "date": "2026-10-14",
-        "text": "Message on Senate action sent to the House.",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-8205_bill.action_added_eefcc75b8fc9d155",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-8205",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed Senate without amendment by Voice Vote. (consideration: CR S5120)",
-      "after": {
-        "date": "2026-09-28",
-        "text": "Passed Senate without amendment by Voice Vote. (consideration: CR S5120)",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-8205_bill.status_changed",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-8205",
-      "changeType": "bill.status_changed",
-      "summary": "Status changed from passedSenate to introduced",
-      "before": {
-        "status": "passedSenate"
-      },
-      "after": {
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-8352_bill.action_added_a97392ed4431ba02",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-8352",
-      "changeType": "bill.action_added",
-      "summary": "New action: Message on Senate action sent to the House.",
-      "after": {
-        "date": "2026-10-14",
-        "text": "Message on Senate action sent to the House.",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8352",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-8352_bill.status_changed",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-8352",
-      "changeType": "bill.status_changed",
-      "summary": "Status changed from passedSenate to introduced",
-      "before": {
-        "status": "passedSenate"
-      },
-      "after": {
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8352",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-837_bill.action_added_00814b0cbbdd25bb",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-837",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
-      "after": {
-        "date": "2026-09-30",
-        "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
-        "chamber": "House",
-        "actionCode": "17000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/837",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-837_bill.action_added_a97392ed4431ba02",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-837",
-      "changeType": "bill.action_added",
-      "summary": "New action: Message on Senate action sent to the House.",
-      "after": {
-        "date": "2026-10-14",
-        "text": "Message on Senate action sent to the House.",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/837",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-837_bill.action_added_f2bc7ab702adfc02",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-837",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5226)",
-      "after": {
-        "date": "2026-09-30",
-        "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5226)",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/837",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-9496_bill.action_added_a97392ed4431ba02",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9496",
-      "changeType": "bill.action_added",
-      "summary": "New action: Message on Senate action sent to the House.",
-      "after": {
-        "date": "2026-10-14",
-        "text": "Message on Senate action sent to the House.",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9496",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-9496_bill.status_changed",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9496",
-      "changeType": "bill.status_changed",
-      "summary": "Status changed from passedSenate to introduced",
-      "before": {
-        "status": "passedSenate"
-      },
-      "after": {
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9496",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-997_bill.action_added_0381426030bcfa7c",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-997",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5123)",
-      "after": {
-        "date": "2026-09-28",
-        "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5123)",
-        "chamber": "House",
-        "actionCode": "17000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/997",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-997_bill.action_added_36b891dbb9db321c",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-997",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5123)",
-      "after": {
-        "date": "2026-09-28",
-        "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5123)",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/997",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-997_bill.action_added_a97392ed4431ba02",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-997",
-      "changeType": "bill.action_added",
-      "summary": "New action: Message on Senate action sent to the House.",
-      "after": {
-        "date": "2026-10-14",
-        "text": "Message on Senate action sent to the House.",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/997",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-997_bill.status_changed",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-997",
-      "changeType": "bill.status_changed",
-      "summary": "Status changed from passedSenate to introduced",
-      "before": {
-        "status": "passedSenate"
-      },
-      "after": {
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/997",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-14T131956798Z_119-hr-10238_bill.action_added_20a01b71264bbf35",
-      "observedAt": "2026-10-14T13:19:56.798Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10238",
-      "changeType": "bill.action_added",
-      "summary": "New action: Reported (Amended) by the Committee on Small Business. H. Rept. 119-851.",
-      "after": {
-        "date": "2026-10-13",
-        "text": "Reported (Amended) by the Committee on Small Business. H. Rept. 119-851.",
-        "chamber": "House",
-        "actionCode": "5000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10238",
-      "syncId": "2026-10-14T13:19:56.798Z"
-    },
-    {
-      "id": "evt_2026-10-14T131956798Z_119-hr-10238_bill.action_added_2fca9fd29aa55150",
-      "observedAt": "2026-10-14T13:19:56.798Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10238",
-      "changeType": "bill.action_added",
-      "summary": "New action: Placed on the Union Calendar, Calendar No. 748.",
-      "after": {
-        "date": "2026-10-13",
-        "text": "Placed on the Union Calendar, Calendar No. 748.",
-        "chamber": "House",
-        "actionCode": "H12410"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10238",
-      "syncId": "2026-10-14T13:19:56.798Z"
-    },
-    {
-      "id": "evt_2026-10-14T131956798Z_119-hr-10238_bill.action_added_7aaf625f815f6683",
-      "observedAt": "2026-10-14T13:19:56.798Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10238",
-      "changeType": "bill.action_added",
-      "summary": "New action: Reported (Amended) by the Committee on Small Business. H. Rept. 119-851.",
-      "after": {
-        "date": "2026-10-13",
-        "text": "Reported (Amended) by the Committee on Small Business. H. Rept. 119-851.",
-        "chamber": "House",
-        "actionCode": "H12200"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10238",
-      "syncId": "2026-10-14T13:19:56.798Z"
-    },
-    {
-      "id": "evt_2026-10-14T131956798Z_119-hr-10238_bill.action_added_98bfb7735c1ee9a6",
-      "observedAt": "2026-10-14T13:19:56.798Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10238",
-      "changeType": "bill.action_added",
-      "summary": "New action: Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 0.",
-      "after": {
-        "date": "2026-09-16",
-        "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 0.",
-        "chamber": "House",
-        "actionCode": "H19000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10238",
-      "syncId": "2026-10-14T13:19:56.798Z"
-    },
-    {
-      "id": "evt_2026-10-14T131956798Z_119-hr-10238_bill.action_added_c778421f91764098",
-      "observedAt": "2026-10-14T13:19:56.798Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10238",
-      "changeType": "bill.action_added",
-      "summary": "New action: Committee Consideration and Mark-up Session Held",
-      "after": {
-        "date": "2026-09-16",
-        "text": "Committee Consideration and Mark-up Session Held",
-        "chamber": "House",
-        "actionCode": "H15001"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10238",
-      "syncId": "2026-10-14T13:19:56.798Z"
-    },
-    {
-      "id": "evt_2026-10-14T131956798Z_119-hr-10238_bill.status_changed",
-      "observedAt": "2026-10-14T13:19:56.798Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10238",
-      "changeType": "bill.status_changed",
-      "summary": "Status changed from inCommittee to introduced",
-      "before": {
-        "status": "inCommittee"
-      },
-      "after": {
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10238",
-      "syncId": "2026-10-14T13:19:56.798Z"
-    },
-    {
-      "id": "evt_2026-10-14T131956798Z_119-hr-10642_bill.added",
-      "observedAt": "2026-10-14T13:19:56.798Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10642",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10642: Stop the Settlements Act",
-      "after": {
-        "title": "Stop the Settlements Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10642",
-      "syncId": "2026-10-14T13:19:56.798Z"
-    },
-    {
-      "id": "evt_2026-10-14T131956798Z_119-hr-10794_bill.title_changed",
-      "observedAt": "2026-10-14T13:19:56.798Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10794",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To establish a grant program to make grants to States to improve access to the special supplemental nutrition program for women, infants, and children."
-      },
-      "after": {
-        "title": "Improving Access to WIC Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10794",
-      "syncId": "2026-10-14T13:19:56.798Z"
     }
   ]
 }
