@@ -1,8 +1,38 @@
 {
-  "generatedAt": "2026-10-18T12:27:39.622Z",
+  "generatedAt": "2026-10-19T15:17:38.890Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-10-19T151738890Z_119-hr-10714_bill.title_changed",
+      "observedAt": "2026-10-19T15:17:38.890Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10714",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To expand the reviews and updates of the Emergency Action Plans of diplomatic and consular posts and the information provide during emergency evacuations of such posts and to review commercial airline price gouging during such an emergency."
+      },
+      "after": {
+        "title": "Strengthening Emergency Responses Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10714",
+      "syncId": "2026-10-19T15:17:38.890Z"
+    },
+    {
+      "id": "evt_2026-10-19T151738890Z_119-hr-10812_bill.added",
+      "observedAt": "2026-10-19T15:17:38.890Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10812",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10812: Armenian American Cultural Heritage Act",
+      "after": {
+        "title": "Armenian American Cultural Heritage Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10812",
+      "syncId": "2026-10-19T15:17:38.890Z"
+    },
     {
       "id": "evt_2026-10-17T115956427Z_119-hconres-124_bill.added",
       "observedAt": "2026-10-17T11:59:56.427Z",
@@ -1509,36 +1539,6 @@
         "status": "introduced"
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1945",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-227_bill.added",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-227",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-227: Clergy Act",
-      "after": {
-        "title": "Clergy Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/227",
-      "syncId": "2026-10-15T13:05:27.331Z"
-    },
-    {
-      "id": "evt_2026-10-15T130527331Z_119-hr-3620_bill.action_added_a97392ed4431ba02",
-      "observedAt": "2026-10-15T13:05:27.331Z",
-      "entityType": "bill",
-      "entityId": "119-hr-3620",
-      "changeType": "bill.action_added",
-      "summary": "New action: Message on Senate action sent to the House.",
-      "after": {
-        "date": "2026-10-14",
-        "text": "Message on Senate action sent to the House.",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3620",
       "syncId": "2026-10-15T13:05:27.331Z"
     }
   ]

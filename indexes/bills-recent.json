@@ -1,8 +1,102 @@
 {
-  "generatedAt": "2026-10-18T12:27:39.622Z",
+  "generatedAt": "2026-10-19T15:17:38.890Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
+    {
+      "id": "119-sres-951",
+      "billType": "sres",
+      "billNumber": 951,
+      "congress": 119,
+      "title": "A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "policyArea": "Health",
+      "sponsor": {
+        "memberId": "H001079",
+        "name": "Sen. Hyde-Smith, Cindy [R-MS]",
+        "party": "R",
+        "state": "MS",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-10-15",
+        "text": "Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on The Judiciary.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-10-15",
+          "text": "Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on The Judiciary.",
+          "chamber": "Senate"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in Senate",
+          "date": "2026-10-15",
+          "url": "https://www.congress.gov/119/bills/sres951/BILLS-119sres951is.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/951",
+      "updatedAt": "2026-10-19T13:33:24Z",
+      "introducedAt": "2026-10-15"
+    },
+    {
+      "id": "119-hr-10812",
+      "billType": "hr",
+      "billNumber": 10812,
+      "congress": 119,
+      "title": "Armenian American Cultural Heritage Act",
+      "status": "inCommittee",
+      "chamber": "House",
+      "policyArea": "Arts, Culture, Religion",
+      "sponsor": {
+        "memberId": "C001126",
+        "name": "Rep. Carey, Mike [R-OH-15]",
+        "party": "R",
+        "state": "OH",
+        "district": "15",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-10-15",
+        "text": "Referred to the House Committee on House Administration.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-15",
+          "text": "Referred to the House Committee on House Administration.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-15",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-15",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-15",
+          "url": "https://www.congress.gov/119/bills/hr10812/BILLS-119hr10812ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10812",
+      "updatedAt": "2026-10-19T13:26:20Z",
+      "introducedAt": "2026-10-15"
+    },
     {
       "id": "119-s-5690",
       "billType": "s",
@@ -273,45 +367,6 @@
       "textVersions": [],
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10811",
       "updatedAt": "2026-10-17T08:05:37Z",
-      "introducedAt": "2026-10-15"
-    },
-    {
-      "id": "119-sres-951",
-      "billType": "sres",
-      "billNumber": 951,
-      "congress": 119,
-      "title": "A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "H001079",
-        "name": "Sen. Hyde-Smith, Cindy [R-MS]",
-        "party": "R",
-        "state": "MS",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-10-15",
-        "text": "Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on The Judiciary.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-10-15",
-          "text": "Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on The Judiciary.",
-          "chamber": "Senate"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-10-15",
-          "url": "https://www.congress.gov/119/bills/sres951/BILLS-119sres951is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/951",
-      "updatedAt": "2026-10-17T03:18:25Z",
       "introducedAt": "2026-10-15"
     },
     {
@@ -600,440 +655,6 @@
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2403",
       "updatedAt": "2026-10-16T16:52:50Z",
       "introducedAt": "2025-07-23"
-    },
-    {
-      "id": "119-s-283",
-      "billType": "s",
-      "billNumber": 283,
-      "congress": 119,
-      "title": "Illegal Red Snapper and Tuna Enforcement Act",
-      "status": "becameLaw",
-      "chamber": "Senate",
-      "policyArea": "Public Lands and Natural Resources",
-      "sponsor": {
-        "memberId": "C001098",
-        "name": "Sen. Cruz, Ted [R-TX]",
-        "party": "R",
-        "state": "TX",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 4,
-      "latestAction": {
-        "date": "2026-10-15",
-        "text": "Became Public Law No: 119-123.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-10-15",
-          "text": "Became Public Law No: 119-123.",
-          "chamber": "Senate",
-          "actionCode": "E40000"
-        },
-        {
-          "date": "2026-10-15",
-          "text": "Became Public Law No: 119-123.",
-          "chamber": "Senate",
-          "actionCode": "36000"
-        },
-        {
-          "date": "2026-10-15",
-          "text": "Signed by President.",
-          "chamber": "Senate",
-          "actionCode": "E30000"
-        },
-        {
-          "date": "2026-10-15",
-          "text": "Signed by President.",
-          "chamber": "Senate",
-          "actionCode": "36000"
-        },
-        {
-          "date": "2026-10-05",
-          "text": "Presented to President.",
-          "chamber": "Senate",
-          "actionCode": "E20000"
-        },
-        {
-          "date": "2026-10-05",
-          "text": "Presented to President.",
-          "chamber": "Senate",
-          "actionCode": "28000"
-        },
-        {
-          "date": "2026-09-28",
-          "text": "Message on Senate action sent to the House.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-09-24",
-          "text": "Senate agreed to the House amendment to S. 283 by Unanimous Consent. (consideration: CR S5020)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-09-24",
-          "text": "Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 283 by Unanimous Consent. (consideration: CR S5020)",
-          "chamber": "Senate",
-          "actionCode": "20500"
-        },
-        {
-          "date": "2026-09-15",
-          "text": "Message on House action received in Senate and at desk: House amendment to Senate bill.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "Senate",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5557-5558)",
-          "chamber": "Senate",
-          "actionCode": "H37300"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5557-5558)",
-          "chamber": "Senate",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on S. 283.",
-          "chamber": "Senate",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Considered under suspension of the rules. (consideration: CR H5557-5558)",
-          "chamber": "Senate",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Mr. Westerman moved to suspend the rules and pass the bill, as amended.",
-          "chamber": "Senate",
-          "actionCode": "H30300"
-        },
-        {
-          "date": "2025-07-15",
-          "text": "Held at the desk.",
-          "chamber": "Senate",
-          "actionCode": "H15000"
-        },
-        {
-          "date": "2025-07-15",
-          "text": "Received in the House.",
-          "chamber": "Senate",
-          "actionCode": "H14000"
-        },
-        {
-          "date": "2025-07-15",
-          "text": "Message on Senate action sent to the House.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-07-14",
-          "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4341; text: CR S4341-4342)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-07-14",
-          "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
-          "chamber": "Senate",
-          "actionCode": "17000"
-        },
-        {
-          "date": "2025-05-21",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 86.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-05-21",
-          "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-24.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-05-21",
-          "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-24.",
-          "chamber": "Senate",
-          "actionCode": "14000"
-        },
-        {
-          "date": "2025-02-05",
-          "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-01-28",
-          "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-01-28",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Enrolled Bill",
-          "date": "1970-01-01",
-          "url": "https://www.congress.gov/119/bills/s283/BILLS-119s283enr.htm"
-        },
-        {
-          "type": "Engrossed Amendment House",
-          "date": "2026-09-14",
-          "url": "https://www.congress.gov/119/bills/s283/BILLS-119s283eah.htm"
-        },
-        {
-          "type": "Engrossed in Senate",
-          "date": "2025-07-14",
-          "url": "https://www.congress.gov/119/bills/s283/BILLS-119s283es.htm"
-        },
-        {
-          "type": "Reported to Senate",
-          "date": "2025-05-21",
-          "url": "https://www.congress.gov/119/bills/s283/BILLS-119s283rs.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2025-01-28",
-          "url": "https://www.congress.gov/119/bills/s283/BILLS-119s283is.htm"
-        },
-        {
-          "type": "Public Law",
-          "date": "2026-10-16",
-          "url": ""
-        }
-      ],
-      "summaryHtml": "<p><strong>Illegal Red Snapper and Tuna Enforcement Act</strong></p><p>This bill directs the National Oceanic and Atmospheric Administration (NOAA) and the National Institute of Standards and Technology (NIST) to jointly develop a standard methodology for identifying the country of origin of seafood to support enforcement against illegal, unreported, and unregulated fishing (IUU fishing). It also authorizes technical assistance to other countries&nbsp;to help combat IUU fishing and transnational organized crime.&nbsp;</p><p>NOAA and NIST must consult with U.S. Customs and Border Protection and the Coast Guard in developing the methodology, which must use chemical analysis to identify the country of origin of seafood. The methodology must be consistent with the needs of federal and state law enforcement agencies in combating IUU fishing. The methodology must also include a portable field kit and, to the extent practicable, be appropriate for testing prepared food (including raw preparations of seafood such as sushi). The agencies must conduct&nbsp;pilot studies of the methodology on red snapper and tuna.</p><p>Within two&nbsp;years after the bill's enactment, NIST must report to Congress regarding the methodology&nbsp;and a plan for operationalizing it. The report must explain any aspects of its&nbsp;methodology&nbsp;that are impracticable,&nbsp;whether additional research would make the methodology practicable, and whether an alternate approach might be practicable.&nbsp;</p><p>The bill also authorizes the Department of Defense to use operation and maintenance funds to provide technical assistance&nbsp;to maritime forces of other countries to help combat IUU fishing and transnational organized crime (e.g., by providing observers or data analysis).</p>",
-      "summaryFormat": "html",
-      "summary": "Illegal Red Snapper and Tuna Enforcement Act This bill directs the National Oceanic and Atmospheric Administration (NOAA) and the National Institute of Standards and Technology (NIST) to jointly develop a standard methodology for identifying the country of origin of seafood to support enforcement against illegal, unreported, and unregulated fishing (IUU fishing). It also authorizes technical assistance to other countries to help combat IUU fishing and transnational organized crime. NOAA and NIST must consult with U.S. Customs and Border Protection and the Coast Guard in developing the methodology, which must use chemical analysis to identify the country of origin of seafood. The methodology must be consistent with the needs of federal and state law enforcement agencies in combating IUU fishing. The methodology must also include a portable field kit and, to the extent practicable, be appropriate for testing prepared food (including raw preparations of seafood such as sushi). The agencies must conduct pilot studies of the methodology on red snapper and tuna. Within two years after the bill's enactment, NIST must report to Congress regarding the methodology and a plan for operationalizing it. The report must explain any aspects of its methodology that are impracticable, whether additional research would make the methodology practicable, and whether an alternate approach might be practicable. The bill also authorizes the Department of Defense to use operation and maintenance funds to provide technical assistance to maritime forces of other countries to help combat IUU fishing and transnational organized crime (e.g., by providing observers or data analysis).",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/283",
-      "updatedAt": "2026-10-16T16:51:47Z",
-      "introducedAt": "2025-01-28"
-    },
-    {
-      "id": "119-s-240",
-      "billType": "s",
-      "billNumber": 240,
-      "congress": 119,
-      "title": "Crow Tribe Water Rights Settlement Amendments Act of 2025",
-      "status": "becameLaw",
-      "chamber": "Senate",
-      "policyArea": "Native Americans",
-      "sponsor": {
-        "memberId": "D000618",
-        "name": "Sen. Daines, Steve [R-MT]",
-        "party": "R",
-        "state": "MT",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-10-15",
-        "text": "Became Public Law No: 119-122.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-10-15",
-          "text": "Became Public Law No: 119-122.",
-          "chamber": "Senate",
-          "actionCode": "E40000"
-        },
-        {
-          "date": "2026-10-15",
-          "text": "Became Public Law No: 119-122.",
-          "chamber": "Senate",
-          "actionCode": "36000"
-        },
-        {
-          "date": "2026-10-15",
-          "text": "Signed by President.",
-          "chamber": "Senate",
-          "actionCode": "E30000"
-        },
-        {
-          "date": "2026-10-15",
-          "text": "Signed by President.",
-          "chamber": "Senate",
-          "actionCode": "36000"
-        },
-        {
-          "date": "2026-10-05",
-          "text": "Presented to President.",
-          "chamber": "Senate",
-          "actionCode": "E20000"
-        },
-        {
-          "date": "2026-10-05",
-          "text": "Presented to President.",
-          "chamber": "Senate",
-          "actionCode": "28000"
-        },
-        {
-          "date": "2026-09-28",
-          "text": "Message on Senate action sent to the House.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-09-24",
-          "text": "Senate agreed to the House amendment to S. 240 by Unanimous Consent. (consideration: CR S5020)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-09-24",
-          "text": "Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 240 by Unanimous Consent. (consideration: CR S5020)",
-          "chamber": "Senate",
-          "actionCode": "20500"
-        },
-        {
-          "date": "2026-09-15",
-          "text": "Message on House action received in Senate and at desk: House amendment to Senate bill.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "Senate",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5570)",
-          "chamber": "Senate",
-          "actionCode": "H37300"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5570)",
-          "chamber": "Senate",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on S. 240.",
-          "chamber": "Senate",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Considered under suspension of the rules. (consideration: CR H5570-5571)",
-          "chamber": "Senate",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Mr. Westerman moved to suspend the rules and pass the bill, as amended.",
-          "chamber": "Senate",
-          "actionCode": "H30300"
-        },
-        {
-          "date": "2025-12-15",
-          "text": "Held at the desk.",
-          "chamber": "Senate",
-          "actionCode": "H15000"
-        },
-        {
-          "date": "2025-12-15",
-          "text": "Received in the House.",
-          "chamber": "Senate",
-          "actionCode": "H14000"
-        },
-        {
-          "date": "2025-12-15",
-          "text": "Message on Senate action sent to the House.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-12-11",
-          "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S8691-8692; text: CR S8691-8692)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-12-11",
-          "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
-          "chamber": "Senate",
-          "actionCode": "17000"
-        },
-        {
-          "date": "2025-11-04",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 260.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-11-04",
-          "text": "Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-93.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-11-04",
-          "text": "Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-93.",
-          "chamber": "Senate",
-          "actionCode": "14000"
-        },
-        {
-          "date": "2025-03-05",
-          "text": "Committee on Indian Affairs. Ordered to be reported without amendment favorably.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-01-24",
-          "text": "Read twice and referred to the Committee on Indian Affairs.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-01-24",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Enrolled Bill",
-          "date": "1970-01-01",
-          "url": "https://www.congress.gov/119/bills/s240/BILLS-119s240enr.htm"
-        },
-        {
-          "type": "Engrossed Amendment House",
-          "date": "2026-09-14",
-          "url": "https://www.congress.gov/119/bills/s240/BILLS-119s240eah.htm"
-        },
-        {
-          "type": "Engrossed in Senate",
-          "date": "2025-12-11",
-          "url": "https://www.congress.gov/119/bills/s240/BILLS-119s240es.htm"
-        },
-        {
-          "type": "Reported to Senate",
-          "date": "2025-11-04",
-          "url": "https://www.congress.gov/119/bills/s240/BILLS-119s240rs.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2025-01-24",
-          "url": "https://www.congress.gov/119/bills/s240/BILLS-119s240is.htm"
-        },
-        {
-          "type": "Public Law",
-          "date": "2026-10-16",
-          "url": ""
-        }
-      ],
-      "summaryHtml": "<p><strong>Crow Tribe Water Rights Settlement Amendments Act of 2025</strong></p><p>This bill revises the water rights settlement agreement entered into by the Crow Tribe of Montana and Montana.</p><p>The Crow Tribe Water Rights Settlement Act of 2010 ratified, authorized, and confirmed the water rights compact between the tribe and Montana. Among other provisions, this settlement act authorized the Bureau of Reclamation to plan, design and construct the following two major projects on the Crow Reservation: (1) the rehabilitation and improvement of the Crow Irrigation Project (CIP); and (2) the planning, design, and construction of the MR&amp;I System (the municipal, rural, and industrial water system of the Crow Reservation).</p><p>Among other provisions, the bill revises the settlement act to</p><ul><li>replace references to the <em>MR&amp;I System</em> with <em>MR&amp;I Projects</em>;&nbsp;</li><li>establish a nontrust, interest-bearing account&nbsp;(to be known as the Crow&nbsp;CIP Implementation Account) to allow Reclamation to continue to work on the rehabilitation of the CIP;&nbsp;</li><li>create a new MR&amp;I Projects Account, through which the tribe must use funds for activities related to water production, treatment, or delivery infrastructure; and</li><li>extend by five years (to 2030) the period during which the tribe has the exclusive right to construct hydropower facilities on the Yellowtail&nbsp;Afterbay Dam in Montana.</li></ul>",
-      "summaryFormat": "html",
-      "summary": "Crow Tribe Water Rights Settlement Amendments Act of 2025 This bill revises the water rights settlement agreement entered into by the Crow Tribe of Montana and Montana. The Crow Tribe Water Rights Settlement Act of 2010 ratified, authorized, and confirmed the water rights compact between the tribe and Montana. Among other provisions, this settlement act authorized the Bureau of Reclamation to plan, design and construct the following two major projects on the Crow Reservation: (1) the rehabilitation and improvement of the Crow Irrigation Project (CIP); and (2) the planning, design, and construction of the MR&I System (the municipal, rural, and industrial water system of the Crow Reservation). Among other provisions, the bill revises the settlement act to replace references to the MR&I System with MR&I Projects ; establish a nontrust, interest-bearing account (to be known as the Crow CIP Implementation Account) to allow Reclamation to continue to work on the rehabilitation of the CIP; create a new MR&I Projects Account, through which the tribe must use funds for activities related to water production, treatment, or delivery infrastructure; and extend by five years (to 2030) the period during which the tribe has the exclusive right to construct hydropower facilities on the Yellowtail Afterbay Dam in Montana.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/240",
-      "updatedAt": "2026-10-16T16:50:28Z",
-      "introducedAt": "2025-01-24"
     },
     {
       "id": "119-hr-1744",
@@ -1850,6 +1471,60 @@
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1612",
       "updatedAt": "2026-10-16T17:37:04Z",
       "introducedAt": "2026-10-05"
+    },
+    {
+      "id": "119-hr-10714",
+      "billType": "hr",
+      "billNumber": 10714,
+      "congress": 119,
+      "title": "Strengthening Emergency Responses Act",
+      "status": "inCommittee",
+      "chamber": "House",
+      "policyArea": "International Affairs",
+      "sponsor": {
+        "memberId": "S001230",
+        "name": "Rep. Subramanyam, Suhas [D-VA-10]",
+        "party": "D",
+        "state": "VA",
+        "district": "10",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-10-01",
+        "text": "Referred to the House Committee on Foreign Affairs.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-01",
+          "text": "Referred to the House Committee on Foreign Affairs.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-01",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-01",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-01",
+          "url": "https://www.congress.gov/119/bills/hr10714/BILLS-119hr10714ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10714",
+      "updatedAt": "2026-10-16T17:37:54Z",
+      "introducedAt": "2026-10-01"
     }
   ]
 }
