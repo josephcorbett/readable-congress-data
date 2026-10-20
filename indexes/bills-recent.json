@@ -1,86 +1,186 @@
 {
-  "generatedAt": "2026-10-19T15:17:38.890Z",
+  "generatedAt": "2026-10-20T13:21:46.258Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
     {
-      "id": "119-sres-951",
-      "billType": "sres",
-      "billNumber": 951,
-      "congress": 119,
-      "title": "A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "policyArea": "Health",
-      "sponsor": {
-        "memberId": "H001079",
-        "name": "Sen. Hyde-Smith, Cindy [R-MS]",
-        "party": "R",
-        "state": "MS",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-10-15",
-        "text": "Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on The Judiciary.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-10-15",
-          "text": "Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on The Judiciary.",
-          "chamber": "Senate"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-10-15",
-          "url": "https://www.congress.gov/119/bills/sres951/BILLS-119sres951is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/951",
-      "updatedAt": "2026-10-19T13:33:24Z",
-      "introducedAt": "2026-10-15"
-    },
-    {
-      "id": "119-hr-10812",
+      "id": "119-hr-10854",
       "billType": "hr",
-      "billNumber": 10812,
+      "billNumber": 10854,
       "congress": 119,
-      "title": "Armenian American Cultural Heritage Act",
+      "title": "To direct the Secretary of Energy to establish and carry out a Public Safety Power Shutoff Event Reporting Program.",
       "status": "inCommittee",
       "chamber": "House",
-      "policyArea": "Arts, Culture, Religion",
       "sponsor": {
-        "memberId": "C001126",
-        "name": "Rep. Carey, Mike [R-OH-15]",
-        "party": "R",
-        "state": "OH",
-        "district": "15",
+        "memberId": "W000830",
+        "name": "Rep. Whitesides, George [D-CA-27]",
+        "party": "D",
+        "state": "CA",
+        "district": "27",
         "chamber": "House"
       },
       "cosponsorCount": 0,
       "latestAction": {
-        "date": "2026-10-15",
-        "text": "Referred to the House Committee on House Administration.",
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on Energy and Commerce.",
         "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-10-15",
-          "text": "Referred to the House Committee on House Administration.",
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on Energy and Commerce.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2026-10-15",
+          "date": "2026-10-19",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "Intro-H"
         },
         {
-          "date": "2026-10-15",
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10854",
+      "updatedAt": "2026-10-20T09:58:19Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hr-10853",
+      "billType": "hr",
+      "billNumber": 10853,
+      "congress": 119,
+      "title": "To require the Secretary of Homeland Security to designate Yemen for temporary protected status.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "T000481",
+        "name": "Rep. Tlaib, Rashida [D-MI-12]",
+        "party": "D",
+        "state": "MI",
+        "district": "12",
+        "chamber": "House"
+      },
+      "cosponsorCount": 14,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on the Judiciary.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on the Judiciary.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10853",
+      "updatedAt": "2026-10-20T09:58:19Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hr-10852",
+      "billType": "hr",
+      "billNumber": 10852,
+      "congress": 119,
+      "title": "To amend the Internal Revenue Code of 1986 to provide incentives for mass timber products, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "S001226",
+        "name": "Rep. Salinas, Andrea [D-OR-6]",
+        "party": "D",
+        "state": "OR",
+        "district": "6",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on Ways and Means.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on Ways and Means.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10852",
+      "updatedAt": "2026-10-20T09:58:19Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hr-10851",
+      "billType": "hr",
+      "billNumber": 10851,
+      "congress": 119,
+      "title": "Socket Full of Sunshine Act",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "M001226",
+        "name": "Rep. Menendez, Robert [D-NJ-8]",
+        "party": "D",
+        "state": "NJ",
+        "district": "8",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on Energy and Commerce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on Energy and Commerce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-19",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "1000"
@@ -89,265 +189,953 @@
       "textVersions": [
         {
           "type": "Introduced in House",
-          "date": "2026-10-15",
-          "url": "https://www.congress.gov/119/bills/hr10812/BILLS-119hr10812ih.htm"
+          "date": "2026-10-19",
+          "url": "https://www.congress.gov/119/bills/hr10851/BILLS-119hr10851ih.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10812",
-      "updatedAt": "2026-10-19T13:26:20Z",
-      "introducedAt": "2026-10-15"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10851",
+      "updatedAt": "2026-10-20T09:58:19Z",
+      "introducedAt": "2026-10-19"
     },
     {
-      "id": "119-s-5690",
-      "billType": "s",
-      "billNumber": 5690,
-      "congress": 119,
-      "title": "Renewing the Dream Act",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "W000790",
-        "name": "Sen. Warnock, Raphael G. [D-GA]",
-        "party": "D",
-        "state": "GA",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-10-15",
-        "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-10-15",
-          "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-10-15",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-10-15",
-          "url": "https://www.congress.gov/119/bills/s5690/BILLS-119s5690is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5690",
-      "updatedAt": "2026-10-17T10:58:31Z",
-      "introducedAt": "2026-10-15"
-    },
-    {
-      "id": "119-s-5688",
-      "billType": "s",
-      "billNumber": 5688,
-      "congress": 119,
-      "title": "Acquired Lands Revenue Modernization Act",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "M001242",
-        "name": "Sen. Moreno, Bernie [R-OH]",
-        "party": "R",
-        "state": "OH",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-10-15",
-        "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-10-15",
-          "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-10-15",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-10-15",
-          "url": "https://www.congress.gov/119/bills/s5688/BILLS-119s5688is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5688",
-      "updatedAt": "2026-10-17T10:58:31Z",
-      "introducedAt": "2026-10-15"
-    },
-    {
-      "id": "119-s-5686",
-      "billType": "s",
-      "billNumber": 5686,
-      "congress": 119,
-      "title": "No Public Executions in America Act",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "K000377",
-        "name": "Sen. Kelly, Mark [D-AZ]",
-        "party": "D",
-        "state": "AZ",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-10-15",
-        "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Armed Services.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-10-15",
-          "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Armed Services.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-10-15",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-10-15",
-          "url": "https://www.congress.gov/119/bills/s5686/BILLS-119s5686is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5686",
-      "updatedAt": "2026-10-17T10:58:31Z",
-      "introducedAt": "2026-10-15"
-    },
-    {
-      "id": "119-s-5684",
-      "billType": "s",
-      "billNumber": 5684,
-      "congress": 119,
-      "title": "No Cash for Incompetent and Malicious Contractors Act",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "S001217",
-        "name": "Sen. Scott, Rick [R-FL]",
-        "party": "R",
-        "state": "FL",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-10-15",
-        "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-10-15",
-          "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-10-15",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-10-15",
-          "url": "https://www.congress.gov/119/bills/s5684/BILLS-119s5684is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5684",
-      "updatedAt": "2026-10-17T10:58:31Z",
-      "introducedAt": "2026-10-15"
-    },
-    {
-      "id": "119-s-5683",
-      "billType": "s",
-      "billNumber": 5683,
-      "congress": 119,
-      "title": "Best Practices for Military Family Child Care Homes Act",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "R000608",
-        "name": "Sen. Rosen, Jacky [D-NV]",
-        "party": "D",
-        "state": "NV",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-10-15",
-        "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Armed Services.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-10-15",
-          "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Armed Services.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-10-15",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-10-15",
-          "url": "https://www.congress.gov/119/bills/s5683/BILLS-119s5683is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5683",
-      "updatedAt": "2026-10-17T10:58:31Z",
-      "introducedAt": "2026-10-15"
-    },
-    {
-      "id": "119-hr-10811",
+      "id": "119-hr-10850",
       "billType": "hr",
-      "billNumber": 10811,
+      "billNumber": 10850,
       "congress": 119,
-      "title": "To amend title 49, United States Code, to increase the allowable government share of a project for which a fixed guideway capital investment grant is issued in cases where the grant recipient provides owners of small business concerns with certain protections from project-related transportation interruptions, and for other purposes.",
+      "title": "SCREENS Act",
       "status": "inCommittee",
       "chamber": "House",
       "sponsor": {
-        "memberId": "B001328",
-        "name": "Rep. Blair, Everton [D-GA-13]",
+        "memberId": "H001091",
+        "name": "Rep. Hinson, Ashley [R-IA-2]",
+        "party": "R",
+        "state": "IA",
+        "district": "2",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-19",
+          "url": "https://www.congress.gov/119/bills/hr10850/BILLS-119hr10850ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10850",
+      "updatedAt": "2026-10-20T09:58:19Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hr-10849",
+      "billType": "hr",
+      "billNumber": 10849,
+      "congress": 119,
+      "title": "To amend chapter 388 of title 10, United States Code, to clarify to the purpose of and adjust the limits on assistance under the procurement technical assistance cooperative agreement program.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "G000604",
+        "name": "Rep. Goodlander, Maggie [D-NH-2]",
         "party": "D",
-        "state": "GA",
-        "district": "13",
+        "state": "NH",
+        "district": "2",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on Armed Services.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on Armed Services.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10849",
+      "updatedAt": "2026-10-20T09:58:19Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hr-10848",
+      "billType": "hr",
+      "billNumber": 10848,
+      "congress": 119,
+      "title": "To require the Comptroller General of the United States to review of Shipyard Infrastructure Optimization Program, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "G000604",
+        "name": "Rep. Goodlander, Maggie [D-NH-2]",
+        "party": "D",
+        "state": "NH",
+        "district": "2",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on Armed Services.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on Armed Services.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10848",
+      "updatedAt": "2026-10-20T09:58:19Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hr-10847",
+      "billType": "hr",
+      "billNumber": 10847,
+      "congress": 119,
+      "title": "Military Justice Leadership and Independence Act",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "G000604",
+        "name": "Rep. Goodlander, Maggie [D-NH-2]",
+        "party": "D",
+        "state": "NH",
+        "district": "2",
+        "chamber": "House"
+      },
+      "cosponsorCount": 2,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on Armed Services.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on Armed Services.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-19",
+          "url": "https://www.congress.gov/119/bills/hr10847/BILLS-119hr10847ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10847",
+      "updatedAt": "2026-10-20T09:58:19Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hr-10846",
+      "billType": "hr",
+      "billNumber": 10846,
+      "congress": 119,
+      "title": "To amend the Internal Revenue Code of 1986 to impose an excise tax on certain indebtedness, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "F000483",
+        "name": "Rep. Friedman, Laura [D-CA-30]",
+        "party": "D",
+        "state": "CA",
+        "district": "30",
         "chamber": "House"
       },
       "cosponsorCount": 0,
       "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on Ways and Means.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on Ways and Means.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10846",
+      "updatedAt": "2026-10-20T09:58:19Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hr-10845",
+      "billType": "hr",
+      "billNumber": 10845,
+      "congress": 119,
+      "title": "To require an assessment of standards and guidelines for managing air, land, and sea ports of entry under the control of the Department of Homeland Security, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "E000299",
+        "name": "Rep. Escobar, Veronica [D-TX-16]",
+        "party": "D",
+        "state": "TX",
+        "district": "16",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10845",
+      "updatedAt": "2026-10-20T09:58:19Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hr-10844",
+      "billType": "hr",
+      "billNumber": 10844,
+      "congress": 119,
+      "title": "To amend title XVIII of the Social Security Act to ensure equitable payments for items and services furnished by mobile stroke units under the Medicare program.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "C001068",
+        "name": "Rep. Cohen, Steve [D-TN-9]",
+        "party": "D",
+        "state": "TN",
+        "district": "9",
+        "chamber": "House"
+      },
+      "cosponsorCount": 2,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10844",
+      "updatedAt": "2026-10-20T09:58:19Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hr-10843",
+      "billType": "hr",
+      "billNumber": 10843,
+      "congress": 119,
+      "title": "VACRA",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "C001118",
+        "name": "Rep. Cline, Ben [R-VA-6]",
+        "party": "R",
+        "state": "VA",
+        "district": "6",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on the Judiciary.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on the Judiciary.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-19",
+          "url": "https://www.congress.gov/119/bills/hr10843/BILLS-119hr10843ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10843",
+      "updatedAt": "2026-10-20T09:58:19Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hr-10842",
+      "billType": "hr",
+      "billNumber": 10842,
+      "congress": 119,
+      "title": "To amend the Internal Revenue Code of 1986 to establish the financial services customer support onshoring credit.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "B001309",
+        "name": "Rep. Burchett, Tim [R-TN-2]",
+        "party": "R",
+        "state": "TN",
+        "district": "2",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on Ways and Means.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on Ways and Means.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10842",
+      "updatedAt": "2026-10-20T09:58:19Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hr-10841",
+      "billType": "hr",
+      "billNumber": 10841,
+      "congress": 119,
+      "title": "Securing Elections From AI Deception Act",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "B001313",
+        "name": "Rep. Brown, Shontel M. [D-OH-11]",
+        "party": "D",
+        "state": "OH",
+        "district": "11",
+        "chamber": "House"
+      },
+      "cosponsorCount": 30,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on Energy and Commerce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on Energy and Commerce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-19",
+          "url": "https://www.congress.gov/119/bills/hr10841/BILLS-119hr10841ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10841",
+      "updatedAt": "2026-10-20T09:58:19Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hr-10840",
+      "billType": "hr",
+      "billNumber": 10840,
+      "congress": 119,
+      "title": "To direct the Comptroller General of the United States to complete a study and report on retention practices with respect to non-clinical personnel at health care facilities of the Department of Veterans Affairs.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "B001257",
+        "name": "Rep. Bilirakis, Gus M. [R-FL-12]",
+        "party": "R",
+        "state": "FL",
+        "district": "12",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on Veterans' Affairs.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on Veterans' Affairs.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10840",
+      "updatedAt": "2026-10-20T09:58:19Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hres-1631",
+      "billType": "hres",
+      "billNumber": 1631,
+      "congress": 119,
+      "title": "Expressing support for the designation of the third week of October as \"National Hunter Syndrome Awareness Week\".",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "F000477",
+        "name": "Rep. Foushee, Valerie P. [D-NC-4]",
+        "party": "D",
+        "state": "NC",
+        "district": "4",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on Energy and Commerce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on Energy and Commerce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-19",
+          "url": "https://www.congress.gov/119/bills/hres1631/BILLS-119hres1631ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1631",
+      "updatedAt": "2026-10-20T08:18:27Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hres-1633",
+      "billType": "hres",
+      "billNumber": 1633,
+      "congress": 119,
+      "title": "Expressing support for the designation of the week of October 19 through October 23, 2026, as \"Careers in Energy Week\".",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "T000467",
+        "name": "Rep. Thompson, Glenn [R-PA-15]",
+        "party": "R",
+        "state": "PA",
+        "district": "15",
+        "chamber": "House"
+      },
+      "cosponsorCount": 6,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on Education and Workforce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on Education and Workforce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-19",
+          "url": "https://www.congress.gov/119/bills/hres1633/BILLS-119hres1633ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1633",
+      "updatedAt": "2026-10-20T08:18:26Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hres-1632",
+      "billType": "hres",
+      "billNumber": 1632,
+      "congress": 119,
+      "title": "Expressing support for the designation of October 17, 2026, as \"National Vitiligo Awareness Day\".",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "J000288",
+        "name": "Rep. Johnson, Henry C. \"Hank\" [D-GA-4]",
+        "party": "D",
+        "state": "GA",
+        "district": "4",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on Energy and Commerce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on Energy and Commerce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-19",
+          "url": "https://www.congress.gov/119/bills/hres1632/BILLS-119hres1632ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1632",
+      "updatedAt": "2026-10-20T08:18:26Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hres-1630",
+      "billType": "hres",
+      "billNumber": 1630,
+      "congress": 119,
+      "title": "Expressing the importance of raising awareness of opportunity youth and the necessity of investing in and supporting reconnection to education and career pathways across the United States.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "B001327",
+        "name": "Rep. Bresnahan, Robert P. [R-PA-8]",
+        "party": "R",
+        "state": "PA",
+        "district": "8",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-19",
+          "url": "https://www.congress.gov/119/bills/hres1630/BILLS-119hres1630ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1630",
+      "updatedAt": "2026-10-20T08:18:26Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hres-1629",
+      "billType": "hres",
+      "billNumber": 1629,
+      "congress": 119,
+      "title": "Expressing support for the designation of the third Wednesday of October, as \"Support Your Local Chamber of Commerce Day\".",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "F000484",
+        "name": "Rep. Fine, Randy [R-FL-6]",
+        "party": "R",
+        "state": "FL",
+        "district": "6",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on Oversight and Government Reform.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-19",
+          "text": "Referred to the House Committee on Oversight and Government Reform.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-19",
+          "url": "https://www.congress.gov/119/bills/hres1629/BILLS-119hres1629ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1629",
+      "updatedAt": "2026-10-20T08:18:25Z",
+      "introducedAt": "2026-10-19"
+    },
+    {
+      "id": "119-hres-1628",
+      "billType": "hres",
+      "billNumber": 1628,
+      "congress": 119,
+      "title": "Supporting the designation of the week beginning on October 10, 2026, as \"National Wildlife Refuge Week\".",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "T000460",
+        "name": "Rep. Thompson, Mike [D-CA-4]",
+        "party": "D",
+        "state": "CA",
+        "district": "4",
+        "chamber": "House"
+      },
+      "cosponsorCount": 9,
+      "latestAction": {
         "date": "2026-10-15",
-        "text": "Referred to the House Committee on Transportation and Infrastructure.",
+        "text": "Referred to the House Committee on Natural Resources.",
         "chamber": "House"
       },
       "actions": [
         {
           "date": "2026-10-15",
-          "text": "Referred to the House Committee on Transportation and Infrastructure.",
+          "text": "Referred to the House Committee on Natural Resources.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-15",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        },
+        {
+          "date": "2026-10-15",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-15",
+          "url": "https://www.congress.gov/119/bills/hres1628/BILLS-119hres1628ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1628",
+      "updatedAt": "2026-10-20T08:05:30Z",
+      "introducedAt": "2026-10-15"
+    },
+    {
+      "id": "119-hr-10828",
+      "billType": "hr",
+      "billNumber": 10828,
+      "congress": 119,
+      "title": "To impose sanctions with respect to oil and gas extraction and refinement by the Russian Federation, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "M001137",
+        "name": "Rep. Meeks, Gregory W. [D-NY-5]",
+        "party": "D",
+        "state": "NY",
+        "district": "5",
+        "chamber": "House"
+      },
+      "cosponsorCount": 22,
+      "latestAction": {
+        "date": "2026-10-15",
+        "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, Ways and Means, Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-15",
+          "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, Ways and Means, Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-15",
+          "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, Ways and Means, Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-15",
+          "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, Ways and Means, Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-15",
+          "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, Ways and Means, Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-15",
+          "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, Ways and Means, Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-15",
+          "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, Ways and Means, Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
           "chamber": "House",
           "actionCode": "H11100"
         },
@@ -365,421 +1153,78 @@
         }
       ],
       "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10811",
-      "updatedAt": "2026-10-17T08:05:37Z",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10828",
+      "updatedAt": "2026-10-20T08:05:24Z",
       "introducedAt": "2026-10-15"
     },
     {
-      "id": "119-sres-950",
-      "billType": "sres",
-      "billNumber": 950,
-      "congress": 119,
-      "title": "A resolution designating the week of September 14 through September 18, 2026, as \"National Clean Energy Week\".",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "C001035",
-        "name": "Sen. Collins, Susan M. [R-ME]",
-        "party": "R",
-        "state": "ME",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 9,
-      "latestAction": {
-        "date": "2026-10-15",
-        "text": "Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on the Judiciary.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-10-15",
-          "text": "Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on the Judiciary.",
-          "chamber": "Senate"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-10-15",
-          "url": "https://www.congress.gov/119/bills/sres950/BILLS-119sres950is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/950",
-      "updatedAt": "2026-10-17T03:18:24Z",
-      "introducedAt": "2026-10-15"
-    },
-    {
-      "id": "119-sjres-221",
-      "billType": "sjres",
-      "billNumber": 221,
-      "congress": 119,
-      "title": "A joint resolution providing for congressional disapproval of the agreement for civilian nuclear cooperation between the United States and the Kingdom of Saudi Arabia pursuant to section 123 of the Atomic Energy Act of 1954.",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "M001176",
-        "name": "Sen. Merkley, Jeff [D-OR]",
-        "party": "D",
-        "state": "OR",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-10-15",
-        "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Foreign Relations.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-10-15",
-          "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Foreign Relations.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-10-15",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-10-15",
-          "url": "https://www.congress.gov/119/bills/sjres221/BILLS-119sjres221is.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/221",
-      "updatedAt": "2026-10-17T03:18:24Z",
-      "introducedAt": "2026-10-15"
-    },
-    {
-      "id": "119-s-2403",
-      "billType": "s",
-      "billNumber": 2403,
-      "congress": 119,
-      "title": "Retire through Ownership Act",
-      "status": "becameLaw",
-      "chamber": "Senate",
-      "policyArea": "Labor and Employment",
-      "sponsor": {
-        "memberId": "M001198",
-        "name": "Sen. Marshall, Roger [R-KS]",
-        "party": "R",
-        "state": "KS",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-10-15",
-        "text": "Became Public Law No: 119-124.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-10-15",
-          "text": "Became Public Law No: 119-124.",
-          "chamber": "Senate",
-          "actionCode": "E40000"
-        },
-        {
-          "date": "2026-10-15",
-          "text": "Became Public Law No: 119-124.",
-          "chamber": "Senate",
-          "actionCode": "36000"
-        },
-        {
-          "date": "2026-10-15",
-          "text": "Signed by President.",
-          "chamber": "Senate",
-          "actionCode": "E30000"
-        },
-        {
-          "date": "2026-10-15",
-          "text": "Signed by President.",
-          "chamber": "Senate",
-          "actionCode": "36000"
-        },
-        {
-          "date": "2026-10-05",
-          "text": "Presented to President.",
-          "chamber": "Senate",
-          "actionCode": "E20000"
-        },
-        {
-          "date": "2026-10-05",
-          "text": "Presented to President.",
-          "chamber": "Senate",
-          "actionCode": "28000"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "Senate",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 14 (Roll no. 314). (text: CR H5905)",
-          "chamber": "Senate",
-          "actionCode": "H37300"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 14 (Roll no. 314). (text: CR H5905)",
-          "chamber": "Senate",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Considered as unfinished business. (consideration: CR H5960)",
-          "chamber": "Senate",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
-          "chamber": "Senate",
-          "actionCode": "H37220"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on S. 2403.",
-          "chamber": "Senate",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Considered under suspension of the rules. (consideration: CR H5905-5906)",
-          "chamber": "Senate",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Mr. Walberg moved to suspend the rules and pass the bill.",
-          "chamber": "Senate",
-          "actionCode": "H30300"
-        },
-        {
-          "date": "2025-10-17",
-          "text": "Held at the desk.",
-          "chamber": "Senate",
-          "actionCode": "H15000"
-        },
-        {
-          "date": "2025-10-17",
-          "text": "Received in the House.",
-          "chamber": "Senate",
-          "actionCode": "H14000"
-        },
-        {
-          "date": "2025-10-16",
-          "text": "Message on Senate action sent to the House.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-10-09",
-          "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7103; text: CR S7103)",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-10-09",
-          "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
-          "chamber": "Senate",
-          "actionCode": "17000"
-        },
-        {
-          "date": "2025-09-11",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 158.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-09-11",
-          "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-09-11",
-          "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
-          "chamber": "Senate",
-          "actionCode": "14000"
-        },
-        {
-          "date": "2025-07-30",
-          "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-07-23",
-          "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2025-07-23",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Enrolled Bill",
-          "date": "1970-01-01",
-          "url": "https://www.congress.gov/119/bills/s2403/BILLS-119s2403enr.htm"
-        },
-        {
-          "type": "Engrossed in Senate",
-          "date": "2025-10-09",
-          "url": "https://www.congress.gov/119/bills/s2403/BILLS-119s2403es.htm"
-        },
-        {
-          "type": "Reported to Senate",
-          "date": "2025-09-11",
-          "url": "https://www.congress.gov/119/bills/s2403/BILLS-119s2403rs.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2025-07-23",
-          "url": "https://www.congress.gov/119/bills/s2403/BILLS-119s2403is.htm"
-        },
-        {
-          "type": "Public Law",
-          "date": "2026-10-16",
-          "url": ""
-        }
-      ],
-      "summaryHtml": "<p><strong>Retire through Ownership Act</strong></p><p>This bill allows the fiduciary of an Employee Stock Ownership Plan (ESOP) to rely on a valuation provided by an independent valuation expert or business appraiser in determining the fair market value&nbsp;of the plan's securities if the securities are not traded on a national securities exchange (i.e., not publicly traded) and the expert or appraiser follows specified methodologies.&nbsp;</p><p>In general,&nbsp;ESOPs are defined contribution pension plans where employees accrue shares of their employers' stock in individual accounts as part of their compensation. After separating from employment or retiring, employees receive the cash value of their shares.</p><p>Under the bill, an independent expert or appraiser must adhere to the methodology established under the Internal Revenue Service Ruling 59-60, which prescribes the factors a professional business appraiser should consider in forming a valuation of the stock&nbsp;for a closely held business.&nbsp;</p>",
-      "summaryFormat": "html",
-      "summary": "Retire through Ownership Act This bill allows the fiduciary of an Employee Stock Ownership Plan (ESOP) to rely on a valuation provided by an independent valuation expert or business appraiser in determining the fair market value of the plan's securities if the securities are not traded on a national securities exchange (i.e., not publicly traded) and the expert or appraiser follows specified methodologies. In general, ESOPs are defined contribution pension plans where employees accrue shares of their employers' stock in individual accounts as part of their compensation. After separating from employment or retiring, employees receive the cash value of their shares. Under the bill, an independent expert or appraiser must adhere to the methodology established under the Internal Revenue Service Ruling 59-60, which prescribes the factors a professional business appraiser should consider in forming a valuation of the stock for a closely held business.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2403",
-      "updatedAt": "2026-10-16T16:52:50Z",
-      "introducedAt": "2025-07-23"
-    },
-    {
-      "id": "119-hr-1744",
+      "id": "119-hr-10375",
       "billType": "hr",
-      "billNumber": 1744,
+      "billNumber": 10375,
       "congress": 119,
-      "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
+      "title": "504 Modernization and Small Manufacturer Enhancement Act of 2026",
       "status": "introduced",
       "chamber": "House",
-      "policyArea": "International Affairs",
+      "policyArea": "Commerce",
       "sponsor": {
-        "memberId": "S000522",
-        "name": "Rep. Smith, Christopher H. [R-NJ-4]",
-        "party": "R",
-        "state": "NJ",
-        "district": "4",
+        "memberId": "V000081",
+        "name": "Rep. Velázquez, Nydia M. [D-NY-7]",
+        "party": "D",
+        "state": "NY",
+        "district": "7",
         "chamber": "House"
       },
-      "cosponsorCount": 11,
+      "cosponsorCount": 3,
       "latestAction": {
-        "date": "2026-10-14",
-        "text": "Message on Senate action sent to the House.",
+        "date": "2026-10-09",
+        "text": "Placed on the Union Calendar, Calendar No. 745.",
         "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-10-14",
-          "text": "Message on Senate action sent to the House.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-09-29",
-          "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5186)",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-09-29",
-          "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5186)",
+          "date": "2026-10-09",
+          "text": "Placed on the Union Calendar, Calendar No. 745.",
           "chamber": "House",
-          "actionCode": "17000"
+          "actionCode": "H12410"
         },
         {
-          "date": "2026-09-29",
-          "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-09-29",
-          "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.",
+          "date": "2026-10-09",
+          "text": "Reported by the Committee on Small Business. H. Rept. 119-848.",
           "chamber": "House",
-          "actionCode": "14500"
+          "actionCode": "H12200"
         },
         {
-          "date": "2026-06-09",
-          "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-06-08",
-          "text": "The title of the measure was amended. Agreed to without objection.",
+          "date": "2026-10-09",
+          "text": "Reported by the Committee on Small Business. H. Rept. 119-848.",
           "chamber": "House",
-          "actionCode": "H38800"
+          "actionCode": "5000"
         },
         {
-          "date": "2026-06-08",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "House",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-06-08",
-          "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3947)",
-          "chamber": "House",
-          "actionCode": "H37300"
-        },
-        {
-          "date": "2026-06-08",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3947)",
-          "chamber": "House",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-06-08",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1744.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-06-08",
-          "text": "Considered under suspension of the rules. (consideration: CR H3947-3948)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-06-08",
-          "text": "Mr. Mast moved to suspend the rules and pass the bill, as amended.",
-          "chamber": "House",
-          "actionCode": "H30300"
-        },
-        {
-          "date": "2026-03-26",
-          "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 45 - 0.",
+          "date": "2026-09-16",
+          "text": "Ordered to be Reported by the Yeas and Nays: 23 - 0.",
           "chamber": "House",
           "actionCode": "H19000"
         },
         {
-          "date": "2026-03-26",
+          "date": "2026-09-16",
           "text": "Committee Consideration and Mark-up Session Held",
           "chamber": "House",
           "actionCode": "H15001"
         },
         {
-          "date": "2025-02-27",
-          "text": "Referred to the House Committee on Foreign Affairs.",
+          "date": "2026-09-14",
+          "text": "Referred to the House Committee on Small Business.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2025-02-27",
+          "date": "2026-09-14",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "Intro-H"
         },
         {
-          "date": "2025-02-27",
+          "date": "2026-09-14",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "1000"
@@ -787,744 +1232,136 @@
       ],
       "textVersions": [
         {
-          "type": "Enrolled Bill",
-          "date": "1970-01-01",
-          "url": "https://www.congress.gov/119/bills/hr1744/BILLS-119hr1744enr.htm"
-        },
-        {
-          "type": "Referred in Senate",
-          "date": "2026-06-09",
-          "url": "https://www.congress.gov/119/bills/hr1744/BILLS-119hr1744rfs.htm"
-        },
-        {
-          "type": "Engrossed in House",
-          "date": "2026-06-08",
-          "url": "https://www.congress.gov/119/bills/hr1744/BILLS-119hr1744eh.htm"
+          "type": "Reported in House",
+          "date": "2026-10-09",
+          "url": "https://www.congress.gov/119/bills/hr10375/BILLS-119hr10375rh.htm"
         },
         {
           "type": "Introduced in House",
-          "date": "2025-02-27",
-          "url": "https://www.congress.gov/119/bills/hr1744/BILLS-119hr1744ih.htm"
+          "date": "2026-09-14",
+          "url": "https://www.congress.gov/119/bills/hr10375/BILLS-119hr10375ih.htm"
         }
       ],
-      "summaryHtml": "<p><strong>United States Commission on International Religious Freedom Reauthorization Act of 2025</strong></p><p>This bill reauthorizes the U.S. Commission on International Religious Freedom through FY2028. The commission is an independent federal commission tasked with monitoring international religious freedom conditions, reviewing U.S. government policy, and making policy recommendations.&nbsp;</p>",
-      "summaryFormat": "html",
-      "summary": "United States Commission on International Religious Freedom Reauthorization Act of 2025 This bill reauthorizes the U.S. Commission on International Religious Freedom through FY2028. The commission is an independent federal commission tasked with monitoring international religious freedom conditions, reviewing U.S. government policy, and making policy recommendations.",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10375",
+      "updatedAt": "2026-10-20T12:56:18Z",
+      "introducedAt": "2026-09-14"
+    },
+    {
+      "id": "119-hr-10774",
+      "billType": "hr",
+      "billNumber": 10774,
+      "congress": 119,
+      "title": "SWIMS Act of 2026",
+      "status": "inCommittee",
+      "chamber": "House",
+      "policyArea": "Environmental Protection",
+      "sponsor": {
+        "memberId": "D000617",
+        "name": "Rep. DelBene, Suzan K. [D-WA-1]",
+        "party": "D",
+        "state": "WA",
+        "district": "1",
+        "chamber": "House"
+      },
+      "cosponsorCount": 24,
+      "latestAction": {
+        "date": "2026-10-09",
+        "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-09",
+          "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-09",
+          "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-09",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-09",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-09",
+          "url": "https://www.congress.gov/119/bills/hr10774/BILLS-119hr10774ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10774",
+      "updatedAt": "2026-10-20T08:05:27Z",
+      "introducedAt": "2026-10-09"
+    },
+    {
+      "id": "119-hr-10779",
+      "billType": "hr",
+      "billNumber": 10779,
+      "congress": 119,
+      "title": "To designate the facility of the United States Postal Service located at 1905 Route 112 in Medford, New York, as the \"Gunnery Sergeant Ruben Santos Post Office Building\".",
+      "status": "inCommittee",
+      "chamber": "House",
+      "policyArea": "Government Operations and Politics",
+      "sponsor": {
+        "memberId": "G000597",
+        "name": "Rep. Garbarino, Andrew R. [R-NY-2]",
+        "party": "R",
+        "state": "NY",
+        "district": "2",
+        "chamber": "House"
+      },
+      "cosponsorCount": 17,
+      "latestAction": {
+        "date": "2026-10-09",
+        "text": "Referred to the House Committee on Oversight and Government Reform.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-09",
+          "text": "Referred to the House Committee on Oversight and Government Reform.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-09",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-09",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-09",
+          "url": "https://www.congress.gov/119/bills/hr10779/BILLS-119hr10779ih.htm"
+        }
+      ],
+      "summary": "This bill designates the facility of the United States Postal Service located at 1905 Route 112 in Medford, New York, as the \"Gunnery Sergeant Ruben Santos Post Office Building\".",
+      "summaryFormat": "plain",
       "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1744",
-      "updatedAt": "2026-10-16T18:56:16Z",
-      "introducedAt": "2025-02-27"
-    },
-    {
-      "id": "119-hr-10801",
-      "billType": "hr",
-      "billNumber": 10801,
-      "congress": 119,
-      "title": "School Freedom Act of 2026",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "M000194",
-        "name": "Rep. Mace, Nancy [R-SC-1]",
-        "party": "R",
-        "state": "SC",
-        "district": "1",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-10-13",
-        "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-10-13",
-          "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-13",
-          "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-13",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-10-13",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-10-13",
-          "url": "https://www.congress.gov/119/bills/hr10801/BILLS-119hr10801ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10801",
-      "updatedAt": "2026-10-16T18:48:13Z",
-      "introducedAt": "2026-10-13"
-    },
-    {
-      "id": "119-hr-10783",
-      "billType": "hr",
-      "billNumber": 10783,
-      "congress": 119,
-      "title": "Speak Your Truth Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "M000194",
-        "name": "Rep. Mace, Nancy [R-SC-1]",
-        "party": "R",
-        "state": "SC",
-        "district": "1",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-10-09",
-        "text": "Referred to the House Committee on the Judiciary.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-10-09",
-          "text": "Referred to the House Committee on the Judiciary.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-10-09",
-          "url": "https://www.congress.gov/119/bills/hr10783/BILLS-119hr10783ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10783",
-      "updatedAt": "2026-10-16T18:50:14Z",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10779",
+      "updatedAt": "2026-10-20T08:05:22Z",
       "introducedAt": "2026-10-09"
-    },
-    {
-      "id": "119-hr-10786",
-      "billType": "hr",
-      "billNumber": 10786,
-      "congress": 119,
-      "title": "Civic Literacy in Higher Education Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "Education",
-      "sponsor": {
-        "memberId": "M001222",
-        "name": "Rep. Miller, Max L. [R-OH-7]",
-        "party": "R",
-        "state": "OH",
-        "district": "7",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-10-09",
-        "text": "Referred to the House Committee on Education and Workforce.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-10-09",
-          "text": "Referred to the House Committee on Education and Workforce.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-10-09",
-          "url": "https://www.congress.gov/119/bills/hr10786/BILLS-119hr10786ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10786",
-      "updatedAt": "2026-10-16T18:49:37Z",
-      "introducedAt": "2026-10-09"
-    },
-    {
-      "id": "119-hr-10791",
-      "billType": "hr",
-      "billNumber": 10791,
-      "congress": 119,
-      "title": "Italian Heroes and Heritage Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "R000619",
-        "name": "Rep. Rulli, Michael A. [R-OH-6]",
-        "party": "R",
-        "state": "OH",
-        "district": "6",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-10-09",
-        "text": "Referred to the House Committee on Oversight and Government Reform.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-10-09",
-          "text": "Referred to the House Committee on Oversight and Government Reform.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-10-09",
-          "url": "https://www.congress.gov/119/bills/hr10791/BILLS-119hr10791ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10791",
-      "updatedAt": "2026-10-16T18:48:49Z",
-      "introducedAt": "2026-10-09"
-    },
-    {
-      "id": "119-hres-1621",
-      "billType": "hres",
-      "billNumber": 1621,
-      "congress": 119,
-      "title": "Expressing profound sorrow over the death of Alexander Michel Odeh.",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "Congress",
-      "sponsor": {
-        "memberId": "C001110",
-        "name": "Rep. Correa, J. Luis [D-CA-46]",
-        "party": "D",
-        "state": "CA",
-        "district": "46",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-10-09",
-        "text": "Referred to the House Committee on Oversight and Government Reform.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-10-09",
-          "text": "Referred to the House Committee on Oversight and Government Reform.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Submitted in House",
-          "chamber": "House",
-          "actionCode": "1025"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Submitted in House",
-          "chamber": "House",
-          "actionCode": "1025"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-10-09",
-          "url": "https://www.congress.gov/119/bills/hres1621/BILLS-119hres1621ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1621",
-      "updatedAt": "2026-10-16T18:05:55Z",
-      "introducedAt": "2026-10-09"
-    },
-    {
-      "id": "119-hconres-124",
-      "billType": "hconres",
-      "billNumber": 124,
-      "congress": 119,
-      "title": "Directing the President pursuant to section 5(c) of the War Powers Resolution to remove United States Armed Forces from hostilities against the Houthis in Yemen that have not been authorized by Congress.",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "International Affairs",
-      "sponsor": {
-        "memberId": "K000389",
-        "name": "Rep. Khanna, Ro [D-CA-17]",
-        "party": "D",
-        "state": "CA",
-        "district": "17",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-10-09",
-        "text": "Referred to the House Committee on Foreign Affairs.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-10-09",
-          "text": "Referred to the House Committee on Foreign Affairs.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Submitted in House",
-          "chamber": "House",
-          "actionCode": "1025"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Submitted in House",
-          "chamber": "House",
-          "actionCode": "1025"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-10-09",
-          "url": "https://www.congress.gov/119/bills/hconres124/BILLS-119hconres124ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/124",
-      "updatedAt": "2026-10-16T18:02:20Z",
-      "introducedAt": "2026-10-09"
-    },
-    {
-      "id": "119-hr-10761",
-      "billType": "hr",
-      "billNumber": 10761,
-      "congress": 119,
-      "title": "Campus Accountability and Safety Act of 2026",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "Education",
-      "sponsor": {
-        "memberId": "K000389",
-        "name": "Rep. Khanna, Ro [D-CA-17]",
-        "party": "D",
-        "state": "CA",
-        "district": "17",
-        "chamber": "House"
-      },
-      "cosponsorCount": 5,
-      "latestAction": {
-        "date": "2026-10-06",
-        "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-10-06",
-          "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-06",
-          "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-10-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-10-06",
-          "url": "https://www.congress.gov/119/bills/hr10761/BILLS-119hr10761ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10761",
-      "updatedAt": "2026-10-16T18:56:45Z",
-      "introducedAt": "2026-10-06"
-    },
-    {
-      "id": "119-hr-10758",
-      "billType": "hr",
-      "billNumber": 10758,
-      "congress": 119,
-      "title": "Veterans Outdoor Rehabilitation Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "Armed Forces and National Security",
-      "sponsor": {
-        "memberId": "H001100",
-        "name": "Rep. Hurd, Jeff [R-CO-3]",
-        "party": "R",
-        "state": "CO",
-        "district": "3",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-10-06",
-        "text": "Referred to the House Committee on Veterans' Affairs.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-10-06",
-          "text": "Referred to the House Committee on Veterans' Affairs.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-10-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-10-06",
-          "url": "https://www.congress.gov/119/bills/hr10758/BILLS-119hr10758ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10758",
-      "updatedAt": "2026-10-16T18:53:35Z",
-      "introducedAt": "2026-10-06"
-    },
-    {
-      "id": "119-hr-10756",
-      "billType": "hr",
-      "billNumber": 10756,
-      "congress": 119,
-      "title": "Regional Ocean Partnerships Reauthorization Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "Public Lands and Natural Resources",
-      "sponsor": {
-        "memberId": "E000235",
-        "name": "Rep. Ezell, Mike [R-MS-4]",
-        "party": "R",
-        "state": "MS",
-        "district": "4",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-10-06",
-        "text": "Referred to the House Committee on Natural Resources.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-10-06",
-          "text": "Referred to the House Committee on Natural Resources.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-10-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-10-06",
-          "url": "https://www.congress.gov/119/bills/hr10756/BILLS-119hr10756ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10756",
-      "updatedAt": "2026-10-16T18:08:07Z",
-      "introducedAt": "2026-10-06"
-    },
-    {
-      "id": "119-hres-1618",
-      "billType": "hres",
-      "billNumber": 1618,
-      "congress": 119,
-      "title": "Recognizing the third anniversary of the October 7, 2023, terrorist attacks on Israel, honoring the victims and the hostages, and calling for the complete disarmament of Hamas for a durable end to the war in Gaza.",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "International Affairs",
-      "sponsor": {
-        "memberId": "G000583",
-        "name": "Rep. Gottheimer, Josh [D-NJ-5]",
-        "party": "D",
-        "state": "NJ",
-        "district": "5",
-        "chamber": "House"
-      },
-      "cosponsorCount": 45,
-      "latestAction": {
-        "date": "2026-10-06",
-        "text": "Referred to the House Committee on Foreign Affairs.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-10-06",
-          "text": "Referred to the House Committee on Foreign Affairs.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-06",
-          "text": "Submitted in House",
-          "chamber": "House",
-          "actionCode": "1025"
-        },
-        {
-          "date": "2026-10-06",
-          "text": "Submitted in House",
-          "chamber": "House",
-          "actionCode": "1025"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-10-06",
-          "url": "https://www.congress.gov/119/bills/hres1618/BILLS-119hres1618ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1618",
-      "updatedAt": "2026-10-16T17:40:51Z",
-      "introducedAt": "2026-10-06"
-    },
-    {
-      "id": "119-hr-10723",
-      "billType": "hr",
-      "billNumber": 10723,
-      "congress": 119,
-      "title": "Nicholas Douglas Quets United States-Mexico Rapid Response for Victims of Crime Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "International Affairs",
-      "sponsor": {
-        "memberId": "C001133",
-        "name": "Rep. Ciscomani, Juan [R-AZ-6]",
-        "party": "R",
-        "state": "AZ",
-        "district": "6",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-10-05",
-        "text": "Referred to the House Committee on Foreign Affairs.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-10-05",
-          "text": "Referred to the House Committee on Foreign Affairs.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-05",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-10-05",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-10-05",
-          "url": "https://www.congress.gov/119/bills/hr10723/BILLS-119hr10723ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10723",
-      "updatedAt": "2026-10-16T17:41:25Z",
-      "introducedAt": "2026-10-05"
-    },
-    {
-      "id": "119-hres-1612",
-      "billType": "hres",
-      "billNumber": 1612,
-      "congress": 119,
-      "title": "Honoring Captain Smit Machchhar and the crew and passengers of Flydubai Flight 1073, and condemning the attempted terrorist attack on that flight.",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "International Affairs",
-      "sponsor": {
-        "memberId": "G000583",
-        "name": "Rep. Gottheimer, Josh [D-NJ-5]",
-        "party": "D",
-        "state": "NJ",
-        "district": "5",
-        "chamber": "House"
-      },
-      "cosponsorCount": 3,
-      "latestAction": {
-        "date": "2026-10-05",
-        "text": "Referred to the House Committee on Foreign Affairs.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-10-05",
-          "text": "Referred to the House Committee on Foreign Affairs.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-05",
-          "text": "Submitted in House",
-          "chamber": "House",
-          "actionCode": "1025"
-        },
-        {
-          "date": "2026-10-05",
-          "text": "Submitted in House",
-          "chamber": "House",
-          "actionCode": "1025"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-10-05",
-          "url": "https://www.congress.gov/119/bills/hres1612/BILLS-119hres1612ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1612",
-      "updatedAt": "2026-10-16T17:37:04Z",
-      "introducedAt": "2026-10-05"
-    },
-    {
-      "id": "119-hr-10714",
-      "billType": "hr",
-      "billNumber": 10714,
-      "congress": 119,
-      "title": "Strengthening Emergency Responses Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "International Affairs",
-      "sponsor": {
-        "memberId": "S001230",
-        "name": "Rep. Subramanyam, Suhas [D-VA-10]",
-        "party": "D",
-        "state": "VA",
-        "district": "10",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-10-01",
-        "text": "Referred to the House Committee on Foreign Affairs.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-10-01",
-          "text": "Referred to the House Committee on Foreign Affairs.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-01",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-10-01",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-10-01",
-          "url": "https://www.congress.gov/119/bills/hr10714/BILLS-119hr10714ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10714",
-      "updatedAt": "2026-10-16T17:37:54Z",
-      "introducedAt": "2026-10-01"
     }
   ]
 }

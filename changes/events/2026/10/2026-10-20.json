@@ -1,0 +1,428 @@
+{
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T13:21:46.258Z",
+  "items": [
+    {
+      "id": "evt_2026-10-20T132146258Z_119-house-2-314_vote.corrected",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-314",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Suspend the Rules and Pass",
+      "before": {
+        "result": "Passed",
+        "yea": 401,
+        "nay": 14,
+        "present": 0,
+        "notVoting": 18,
+        "question": "On Motion to Suspend the Rules and Pass",
+        "description": "Retire through Ownership Act (S 2403)",
+        "date": "2026-09-16",
+        "associatedBillId": "119-s-2403"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 401,
+        "nay": 14,
+        "present": 0,
+        "notVoting": 18,
+        "question": "On Motion to Suspend the Rules and Pass",
+        "description": "On Motion to Suspend the Rules and Pass",
+        "date": "2026-09-16",
+        "associatedBillId": "119-s-2403"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll314.xml",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10375_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10375",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10375: 504 Modernization and Small Manufacturer Enhancement Act of 2026",
+      "after": {
+        "title": "504 Modernization and Small Manufacturer Enhancement Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10375",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10774_bill.title_changed",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10774",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To amend the Marine Mammal Protection Act of 1972 and the Animal Welfare Act to prohibit the taking, importation, exportation, and breeding of certain cetaceans for public display, and for other purposes."
+      },
+      "after": {
+        "title": "SWIMS Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10774",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10779_bill.summary_changed",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10779",
+      "changeType": "bill.summary_changed",
+      "summary": "Official summary added",
+      "before": {
+        "summary": null,
+        "summaryFormat": null
+      },
+      "after": {
+        "summary": "This bill designates the facility of the United States Postal Service located at 1905 Route 112 in Medford, New York, as the \"Gunnery Sergeant Ruben Santos Post Office Building\".",
+        "summaryFormat": "plain"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10779",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10840_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10840",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10840: To direct the Comptroller General of the United States to complete a study and report on retention practices with respect to non-clinical personnel at health care facilities of the Department of Veterans Affairs.",
+      "after": {
+        "title": "To direct the Comptroller General of the United States to complete a study and report on retention practices with respect to non-clinical personnel at health care facilities of the Department of Veterans Affairs.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10840",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10841_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10841",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10841: Securing Elections From AI Deception Act",
+      "after": {
+        "title": "Securing Elections From AI Deception Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10841",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10842_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10842",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10842: To amend the Internal Revenue Code of 1986 to establish the financial services customer support onshoring credit.",
+      "after": {
+        "title": "To amend the Internal Revenue Code of 1986 to establish the financial services customer support onshoring credit.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10842",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10843_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10843",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10843: VACRA",
+      "after": {
+        "title": "VACRA",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10843",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10844_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10844",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10844: To amend title XVIII of the Social Security Act to ensure equitable payments for items and services furnished by mobile stroke units under the Medicare program.",
+      "after": {
+        "title": "To amend title XVIII of the Social Security Act to ensure equitable payments for items and services furnished by mobile stroke units under the Medicare program.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10844",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10845_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10845",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10845: To require an assessment of standards and guidelines for managing air, land, and sea ports of entry under the control of the Department of Homeland Security, and for other purposes.",
+      "after": {
+        "title": "To require an assessment of standards and guidelines for managing air, land, and sea ports of entry under the control of the Department of Homeland Security, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10845",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10846_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10846",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10846: To amend the Internal Revenue Code of 1986 to impose an excise tax on certain indebtedness, and for other purposes.",
+      "after": {
+        "title": "To amend the Internal Revenue Code of 1986 to impose an excise tax on certain indebtedness, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10846",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10847_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10847",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10847: Military Justice Leadership and Independence Act",
+      "after": {
+        "title": "Military Justice Leadership and Independence Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10847",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10848_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10848",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10848: To require the Comptroller General of the United States to review of Shipyard Infrastructure Optimization Program, and for other purposes.",
+      "after": {
+        "title": "To require the Comptroller General of the United States to review of Shipyard Infrastructure Optimization Program, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10848",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10849_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10849",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10849: To amend chapter 388 of title 10, United States Code, to clarify to the purpose of and adjust the limits on assistance under the procurement technical assistance cooperative agreement program.",
+      "after": {
+        "title": "To amend chapter 388 of title 10, United States Code, to clarify to the purpose of and adjust the limits on assistance under the procurement technical assistance cooperative agreement program.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10849",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10850_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10850",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10850: SCREENS Act",
+      "after": {
+        "title": "SCREENS Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10850",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10851_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10851",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10851: Socket Full of Sunshine Act",
+      "after": {
+        "title": "Socket Full of Sunshine Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10851",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10852_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10852",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10852: To amend the Internal Revenue Code of 1986 to provide incentives for mass timber products, and for other purposes.",
+      "after": {
+        "title": "To amend the Internal Revenue Code of 1986 to provide incentives for mass timber products, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10852",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10853_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10853",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10853: To require the Secretary of Homeland Security to designate Yemen for temporary protected status.",
+      "after": {
+        "title": "To require the Secretary of Homeland Security to designate Yemen for temporary protected status.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10853",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hr-10854_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10854",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10854: To direct the Secretary of Energy to establish and carry out a Public Safety Power Shutoff Event Reporting Program.",
+      "after": {
+        "title": "To direct the Secretary of Energy to establish and carry out a Public Safety Power Shutoff Event Reporting Program.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10854",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hres-1628_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1628",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1628: Supporting the designation of the week beginning on October 10, 2026, as \"National Wildlife Refuge Week\".",
+      "after": {
+        "title": "Supporting the designation of the week beginning on October 10, 2026, as \"National Wildlife Refuge Week\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1628",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hres-1629_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1629",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1629: Expressing support for the designation of the third Wednesday of October, as \"Support Your Local Chamber of Commerce Day\".",
+      "after": {
+        "title": "Expressing support for the designation of the third Wednesday of October, as \"Support Your Local Chamber of Commerce Day\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1629",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hres-1630_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1630",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1630: Expressing the importance of raising awareness of opportunity youth and the necessity of investing in and supporting reconnection to education and career pathways across the United States.",
+      "after": {
+        "title": "Expressing the importance of raising awareness of opportunity youth and the necessity of investing in and supporting reconnection to education and career pathways across the United States.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1630",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hres-1631_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1631",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1631: Expressing support for the designation of the third week of October as \"National Hunter Syndrome Awareness Week\".",
+      "after": {
+        "title": "Expressing support for the designation of the third week of October as \"National Hunter Syndrome Awareness Week\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1631",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hres-1632_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1632",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1632: Expressing support for the designation of October 17, 2026, as \"National Vitiligo Awareness Day\".",
+      "after": {
+        "title": "Expressing support for the designation of October 17, 2026, as \"National Vitiligo Awareness Day\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1632",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_119-hres-1633_bill.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1633",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1633: Expressing support for the designation of the week of October 19 through October 23, 2026, as \"Careers in Energy Week\".",
+      "after": {
+        "title": "Expressing support for the designation of the week of October 19 through October 23, 2026, as \"Careers in Energy Week\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1633",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_F000483_member.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "member",
+      "entityId": "F000483",
+      "changeType": "member.added",
+      "summary": "Started tracking Laura Friedman",
+      "after": {
+        "name": "Laura Friedman",
+        "party": "D",
+        "chamber": "House",
+        "state": "CA"
+      },
+      "officialUrl": "https://friedman.house.gov/",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_G000604_member.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "member",
+      "entityId": "G000604",
+      "changeType": "member.added",
+      "summary": "Started tracking Maggie Goodlander",
+      "after": {
+        "name": "Maggie Goodlander",
+        "party": "D",
+        "chamber": "House",
+        "state": "NH"
+      },
+      "officialUrl": "https://goodlander.house.gov/",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    },
+    {
+      "id": "evt_2026-10-20T132146258Z_T000460_member.added",
+      "observedAt": "2026-10-20T13:21:46.258Z",
+      "entityType": "member",
+      "entityId": "T000460",
+      "changeType": "member.added",
+      "summary": "Started tracking Mike Thompson",
+      "after": {
+        "name": "Mike Thompson",
+        "party": "D",
+        "chamber": "House",
+        "state": "CA"
+      },
+      "officialUrl": "https://mikethompson.house.gov/",
+      "syncId": "2026-10-20T13:21:46.258Z"
+    }
+  ]
+}
