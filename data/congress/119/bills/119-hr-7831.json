@@ -4,7 +4,7 @@
   "billNumber": 7831,
   "congress": 119,
   "title": "License to Drill Act",
-  "status": "introduced",
+  "status": "becameLaw",
   "chamber": "House",
   "policyArea": "Energy",
   "sponsor": {
@@ -17,11 +17,35 @@
   },
   "cosponsorCount": 3,
   "latestAction": {
-    "date": "2026-10-14",
-    "text": "Message on Senate action sent to the House.",
+    "date": "2026-10-20",
+    "text": "Signed by President.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-10-20",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "E30000"
+    },
+    {
+      "date": "2026-10-20",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "36000"
+    },
+    {
+      "date": "2026-10-15",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "E20000"
+    },
+    {
+      "date": "2026-10-15",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "28000"
+    },
     {
       "date": "2026-10-14",
       "text": "Message on Senate action sent to the House.",
@@ -209,6 +233,6 @@
   "summary": "License to Drill Act This bill extends through FY2037 the Bureau of Land Management’s (BLM’s) authority to collect oil and gas permit processing fees. For each new permit application, BLM collects a fee that is transferred to the BLM Permit Processing Improvement Fund. (Under current law, the fees are authorized through FY2026.)",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7831",
-  "updatedAt": "2026-10-15T10:56:19Z",
+  "updatedAt": "2026-10-21T12:37:02Z",
   "introducedAt": "2026-03-05"
 }

@@ -4,7 +4,7 @@
   "billNumber": 6380,
   "congress": 119,
   "title": "Chiricahua National Park Act",
-  "status": "introduced",
+  "status": "becameLaw",
   "chamber": "House",
   "policyArea": "Public Lands and Natural Resources",
   "sponsor": {
@@ -17,11 +17,35 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-10-14",
-    "text": "Message on Senate action sent to the House.",
+    "date": "2026-10-20",
+    "text": "Signed by President.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-10-20",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "E30000"
+    },
+    {
+      "date": "2026-10-20",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "36000"
+    },
+    {
+      "date": "2026-10-15",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "E20000"
+    },
+    {
+      "date": "2026-10-15",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "28000"
+    },
     {
       "date": "2026-10-14",
       "text": "Message on Senate action sent to the House.",
@@ -200,6 +224,6 @@
   "summary": "Chiricahua National Park Act This bill redesignates the Chiricahua National Monument in Arizona as the Chiricahua National Park. The bill directs the National Park Service (NPS) to (1) ensure the protection of traditional cultural and religious sites in the park, and (2) provide access to those sites by members of Indian tribes for traditional cultural and customary uses. Upon the request of an Indian tribe, the NPS may temporarily close to general public use one or more specific areas of the park to protect traditional cultural and customary uses in the area by members of the tribe. The closure must be limited to the smallest practicable area for the minimum period necessary for the traditional cultural and religious activities.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6380",
-  "updatedAt": "2026-10-15T10:56:20Z",
+  "updatedAt": "2026-10-21T12:36:35Z",
   "introducedAt": "2025-12-03"
 }

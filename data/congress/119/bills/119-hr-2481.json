@@ -4,7 +4,7 @@
   "billNumber": 2481,
   "congress": 119,
   "title": "Romance Scam Prevention Act",
-  "status": "introduced",
+  "status": "becameLaw",
   "chamber": "House",
   "policyArea": "Commerce",
   "sponsor": {
@@ -17,11 +17,35 @@
   },
   "cosponsorCount": 9,
   "latestAction": {
-    "date": "2026-09-24",
-    "text": "Message on Senate action sent to the House.",
+    "date": "2026-10-20",
+    "text": "Signed by President.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-10-20",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "E30000"
+    },
+    {
+      "date": "2026-10-20",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "36000"
+    },
+    {
+      "date": "2026-10-14",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "E20000"
+    },
+    {
+      "date": "2026-10-14",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "28000"
+    },
     {
       "date": "2026-09-24",
       "text": "Message on Senate action sent to the House.",
@@ -135,6 +159,11 @@
   ],
   "textVersions": [
     {
+      "type": "Enrolled Bill",
+      "date": "1970-01-01",
+      "url": "https://www.congress.gov/119/bills/hr2481/BILLS-119hr2481enr.htm"
+    },
+    {
       "type": "Placed on Calendar Senate",
       "date": "2026-06-17",
       "url": "https://www.congress.gov/119/bills/hr2481/BILLS-119hr2481pcs.htm"
@@ -160,6 +189,6 @@
   "summary": "Romance Scam Prevention Act This bill requires online dating service providers (i.e., mobile applications or websites) to provide users with a fraud ban notification if the user has established an account with the service and received a message through the service from a banned user of the service. The fraud ban notification must include (1) the username or other profile identifier of the banned user and the most recent time when the user who is receiving the notification sent or received a message through the service to or from the banned user, (2) a statement that the banned user may have been using a false identity or attempting to defraud other users, (3) a statement that the user should not send cash (or another form of currency) or personal financial information to another user, (4) information about avoiding online fraud (e.g., a link to another website or a disclosure) and (5) contact information for the provider's customer service department. The bill provides for enforcement of these requirements by the Federal Trade Commission and state attorneys general.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2481",
-  "updatedAt": "2026-09-25T10:56:59Z",
+  "updatedAt": "2026-10-21T12:33:55Z",
   "introducedAt": "2025-03-31"
 }

@@ -4,7 +4,7 @@
   "billNumber": 2388,
   "congress": 119,
   "title": "Lower Elwha Klallam Tribe Project Lands Restoration Act",
-  "status": "introduced",
+  "status": "becameLaw",
   "chamber": "House",
   "policyArea": "Native Americans",
   "sponsor": {
@@ -17,11 +17,35 @@
   },
   "cosponsorCount": 0,
   "latestAction": {
-    "date": "2026-09-28",
-    "text": "Message on Senate action sent to the House.",
+    "date": "2026-10-20",
+    "text": "Signed by President.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-10-20",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "E30000"
+    },
+    {
+      "date": "2026-10-20",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "36000"
+    },
+    {
+      "date": "2026-10-14",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "E20000"
+    },
+    {
+      "date": "2026-10-14",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "28000"
+    },
     {
       "date": "2026-09-28",
       "text": "Message on Senate action sent to the House.",
@@ -169,6 +193,11 @@
   ],
   "textVersions": [
     {
+      "type": "Enrolled Bill",
+      "date": "1970-01-01",
+      "url": "https://www.congress.gov/119/bills/hr2388/BILLS-119hr2388enr.htm"
+    },
+    {
       "type": "Reported to Senate",
       "date": "2026-09-14",
       "url": "https://www.congress.gov/119/bills/hr2388/BILLS-119hr2388rs.htm"
@@ -199,6 +228,6 @@
   "summary": "Lower Elwha Klallam Tribe Project Lands Restoration Act This bill takes approximately 1,082.63 acres of specified lands in Washington into trust for the benefit of the Lower Elwha Klallam Tribe. Land taken into trust shall be part of the tribe's reservation. Further, the bill prohibits gaming on the land taken into trust.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2388",
-  "updatedAt": "2026-09-29T13:42:09Z",
+  "updatedAt": "2026-10-21T12:31:33Z",
   "introducedAt": "2025-03-26"
 }
