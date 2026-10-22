@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T13:27:37.361Z",
+  "generatedAt": "2026-10-22T13:28:51.138Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
@@ -560,7 +560,9 @@
         "district": "2",
         "startYear": 2025
       },
-      "sponsoredBillIds": [],
+      "sponsoredBillIds": [
+        "119-hr-10796"
+      ],
       "cosponsoredBillIds": [],
       "recentVoteIds": [
         "119-house-2-314",
@@ -884,6 +886,55 @@
         "119-house-2-290"
       ],
       "officialUrl": "https://bera.house.gov"
+    },
+    {
+      "id": "B001301",
+      "bioguideId": "B001301",
+      "name": "Jack Bergman",
+      "firstName": "Jack",
+      "lastName": "Bergman",
+      "party": "R",
+      "chamber": "House",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "district": "1",
+      "currentTerm": {
+        "congress": 119,
+        "chamber": "House",
+        "state": "Michigan",
+        "district": "1",
+        "startYear": 2025
+      },
+      "sponsoredBillIds": [],
+      "cosponsoredBillIds": [],
+      "recentVoteIds": [
+        "119-house-2-314",
+        "119-house-2-313",
+        "119-house-2-312",
+        "119-house-2-311",
+        "119-house-2-310",
+        "119-house-2-309",
+        "119-house-2-308",
+        "119-house-2-307",
+        "119-house-2-306",
+        "119-house-2-305",
+        "119-house-2-304",
+        "119-house-2-303",
+        "119-house-2-302",
+        "119-house-2-301",
+        "119-house-2-300",
+        "119-house-2-299",
+        "119-house-2-298",
+        "119-house-2-297",
+        "119-house-2-296",
+        "119-house-2-295",
+        "119-house-2-294",
+        "119-house-2-293",
+        "119-house-2-292",
+        "119-house-2-291",
+        "119-house-2-290"
+      ],
+      "officialUrl": "https://bergman.house.gov"
     },
     {
       "id": "B001292",
@@ -1280,57 +1331,6 @@
       "officialUrl": "https://boyle.house.gov/"
     },
     {
-      "id": "B001327",
-      "bioguideId": "B001327",
-      "name": "Robert P. Bresnahan, Jr.",
-      "firstName": "Robert",
-      "lastName": "Bresnahan",
-      "party": "R",
-      "chamber": "House",
-      "state": "Pennsylvania",
-      "stateCode": "PA",
-      "district": "8",
-      "currentTerm": {
-        "congress": 119,
-        "chamber": "House",
-        "state": "Pennsylvania",
-        "district": "8",
-        "startYear": 2025
-      },
-      "sponsoredBillIds": [
-        "119-hres-1630"
-      ],
-      "cosponsoredBillIds": [],
-      "recentVoteIds": [
-        "119-house-2-314",
-        "119-house-2-313",
-        "119-house-2-312",
-        "119-house-2-311",
-        "119-house-2-310",
-        "119-house-2-309",
-        "119-house-2-308",
-        "119-house-2-307",
-        "119-house-2-306",
-        "119-house-2-305",
-        "119-house-2-304",
-        "119-house-2-303",
-        "119-house-2-302",
-        "119-house-2-301",
-        "119-house-2-300",
-        "119-house-2-299",
-        "119-house-2-298",
-        "119-house-2-297",
-        "119-house-2-296",
-        "119-house-2-295",
-        "119-house-2-294",
-        "119-house-2-293",
-        "119-house-2-292",
-        "119-house-2-291",
-        "119-house-2-290"
-      ],
-      "officialUrl": "https://bresnahan.house.gov/"
-    },
-    {
       "id": "B001285",
       "bioguideId": "B001285",
       "name": "Julia Brownley",
@@ -1531,6 +1531,29 @@
       "officialUrl": "https://cohen.house.gov/"
     },
     {
+      "id": "C001035",
+      "bioguideId": "C001035",
+      "name": "Susan M. Collins",
+      "firstName": "Susan",
+      "lastName": "Collins",
+      "party": "R",
+      "chamber": "Senate",
+      "state": "Maine",
+      "stateCode": "ME",
+      "currentTerm": {
+        "congress": 119,
+        "chamber": "Senate",
+        "state": "Maine",
+        "startYear": 2025
+      },
+      "sponsoredBillIds": [
+        "119-sres-950"
+      ],
+      "cosponsoredBillIds": [],
+      "recentVoteIds": [],
+      "officialUrl": "https://www.collins.senate.gov"
+    },
+    {
       "id": "C001132",
       "bioguideId": "C001132",
       "name": "Elijah Crane",
@@ -1580,6 +1603,29 @@
         "119-house-2-290"
       ],
       "officialUrl": "https://crane.house.gov"
+    },
+    {
+      "id": "D000618",
+      "bioguideId": "D000618",
+      "name": "Steve Daines",
+      "firstName": "Steve",
+      "lastName": "Daines",
+      "party": "R",
+      "chamber": "Senate",
+      "state": "Montana",
+      "stateCode": "MT",
+      "currentTerm": {
+        "congress": 119,
+        "chamber": "Senate",
+        "state": "Montana",
+        "startYear": 2025
+      },
+      "sponsoredBillIds": [
+        "119-s-240"
+      ],
+      "cosponsoredBillIds": [],
+      "recentVoteIds": [],
+      "officialUrl": "https://www.daines.senate.gov"
     },
     {
       "id": "E000299",
@@ -1735,57 +1781,6 @@
       "officialUrl": "https://goodlander.house.gov/"
     },
     {
-      "id": "H001091",
-      "bioguideId": "H001091",
-      "name": "Ashley Hinson",
-      "firstName": "Ashley",
-      "lastName": "Hinson",
-      "party": "R",
-      "chamber": "House",
-      "state": "Iowa",
-      "stateCode": "IA",
-      "district": "2",
-      "currentTerm": {
-        "congress": 119,
-        "chamber": "House",
-        "state": "Iowa",
-        "district": "2",
-        "startYear": 2025
-      },
-      "sponsoredBillIds": [
-        "119-hr-10850"
-      ],
-      "cosponsoredBillIds": [],
-      "recentVoteIds": [
-        "119-house-2-314",
-        "119-house-2-313",
-        "119-house-2-312",
-        "119-house-2-311",
-        "119-house-2-310",
-        "119-house-2-309",
-        "119-house-2-308",
-        "119-house-2-307",
-        "119-house-2-306",
-        "119-house-2-305",
-        "119-house-2-304",
-        "119-house-2-303",
-        "119-house-2-302",
-        "119-house-2-301",
-        "119-house-2-300",
-        "119-house-2-299",
-        "119-house-2-298",
-        "119-house-2-297",
-        "119-house-2-296",
-        "119-house-2-295",
-        "119-house-2-294",
-        "119-house-2-293",
-        "119-house-2-292",
-        "119-house-2-291",
-        "119-house-2-290"
-      ],
-      "officialUrl": "https://hinson.house.gov"
-    },
-    {
       "id": "H001094",
       "bioguideId": "H001094",
       "name": "Val T. Hoyle",
@@ -1835,29 +1830,6 @@
         "119-house-2-290"
       ],
       "officialUrl": "https://hoyle.house.gov"
-    },
-    {
-      "id": "K000377",
-      "bioguideId": "K000377",
-      "name": "Mark Kelly",
-      "firstName": "Mark",
-      "lastName": "Kelly",
-      "party": "D",
-      "chamber": "Senate",
-      "state": "Arizona",
-      "stateCode": "AZ",
-      "currentTerm": {
-        "congress": 119,
-        "chamber": "Senate",
-        "state": "Arizona",
-        "startYear": 2025
-      },
-      "sponsoredBillIds": [
-        "119-s-5686"
-      ],
-      "cosponsoredBillIds": [],
-      "recentVoteIds": [],
-      "officialUrl": "https://www.kelly.senate.gov"
     },
     {
       "id": "K000403",
@@ -1978,8 +1950,8 @@
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-s-5689",
-        "119-s-5688"
+        "119-s-5688",
+        "119-s-5689"
       ],
       "cosponsoredBillIds": [],
       "recentVoteIds": [],
@@ -2086,6 +2058,29 @@
         "119-house-2-290"
       ],
       "officialUrl": "https://salinas.house.gov"
+    },
+    {
+      "id": "S001217",
+      "bioguideId": "S001217",
+      "name": "Rick Scott",
+      "firstName": "Rick",
+      "lastName": "Scott",
+      "party": "R",
+      "chamber": "Senate",
+      "state": "Florida",
+      "stateCode": "FL",
+      "currentTerm": {
+        "congress": 119,
+        "chamber": "Senate",
+        "state": "Florida",
+        "startYear": 2025
+      },
+      "sponsoredBillIds": [
+        "119-s-5682"
+      ],
+      "cosponsoredBillIds": [],
+      "recentVoteIds": [],
+      "officialUrl": "https://www.rickscott.senate.gov/"
     },
     {
       "id": "T000193",
@@ -2313,29 +2308,6 @@
       "cosponsoredBillIds": [],
       "recentVoteIds": [],
       "officialUrl": "https://www.warnock.senate.gov"
-    },
-    {
-      "id": "W000817",
-      "bioguideId": "W000817",
-      "name": "Elizabeth Warren",
-      "firstName": "Elizabeth",
-      "lastName": "Warren",
-      "party": "D",
-      "chamber": "Senate",
-      "state": "Massachusetts",
-      "stateCode": "MA",
-      "currentTerm": {
-        "congress": 119,
-        "chamber": "Senate",
-        "state": "Massachusetts",
-        "startYear": 2025
-      },
-      "sponsoredBillIds": [
-        "119-s-5685"
-      ],
-      "cosponsoredBillIds": [],
-      "recentVoteIds": [],
-      "officialUrl": "https://www.warren.senate.gov"
     },
     {
       "id": "W000830",
