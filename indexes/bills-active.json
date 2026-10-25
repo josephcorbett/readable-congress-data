@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T12:27:58.993Z",
+  "generatedAt": "2026-10-25T12:58:30.362Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
@@ -54,6 +54,59 @@
       ],
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10882",
       "updatedAt": "2026-10-24T04:53:34Z",
+      "introducedAt": "2026-10-22"
+    },
+    {
+      "id": "119-hr-10879",
+      "billType": "hr",
+      "billNumber": 10879,
+      "congress": 119,
+      "title": "Workers’ Right to Compete Act",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "K000389",
+        "name": "Rep. Khanna, Ro [D-CA-17]",
+        "party": "D",
+        "state": "CA",
+        "district": "17",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-10-22",
+        "text": "Referred to the House Committee on Energy and Commerce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-22",
+          "text": "Referred to the House Committee on Energy and Commerce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-22",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-22",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-22",
+          "url": "https://www.congress.gov/119/bills/hr10879/BILLS-119hr10879ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10879",
+      "updatedAt": "2026-10-24T13:53:37Z",
       "introducedAt": "2026-10-22"
     },
     {
@@ -1249,71 +1302,6 @@
       ],
       "textVersions": [],
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10885",
-      "updatedAt": "2026-10-23T13:58:34Z",
-      "introducedAt": "2026-10-22"
-    },
-    {
-      "id": "119-hr-10884",
-      "billType": "hr",
-      "billNumber": 10884,
-      "congress": 119,
-      "title": "To provide additional options on certain federal application forms to allow an individual to elect to be an organ donor and for other purposes.",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "L000599",
-        "name": "Rep. Lawler, Michael [R-NY-17]",
-        "party": "R",
-        "state": "NY",
-        "district": "17",
-        "chamber": "House"
-      },
-      "cosponsorCount": 2,
-      "latestAction": {
-        "date": "2026-10-22",
-        "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Veterans' Affairs, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-10-22",
-          "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Veterans' Affairs, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-22",
-          "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Veterans' Affairs, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-22",
-          "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Veterans' Affairs, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-22",
-          "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Veterans' Affairs, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-10-22",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-10-22",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10884",
       "updatedAt": "2026-10-23T13:58:34Z",
       "introducedAt": "2026-10-22"
     }

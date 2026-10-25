@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-10-24T12:27:58.993Z",
+  "generatedAt": "2026-10-25T12:58:30.362Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-10-25T125830362Z_119-hr-10879_bill.title_changed",
+      "observedAt": "2026-10-25T12:58:30.362Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10879",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To prohibit noncompete agreements for workers whose annual income falls below specified thresholds, and for other purposes."
+      },
+      "after": {
+        "title": "Workers’ Right to Compete Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10879",
+      "syncId": "2026-10-25T12:58:30.362Z"
+    },
     {
       "id": "evt_2026-10-24T122758993Z_119-hr-10882_bill.title_changed",
       "observedAt": "2026-10-24T12:27:58.993Z",
@@ -1497,22 +1513,6 @@
         "text": "Signed by President.",
         "chamber": "House",
         "actionCode": "E30000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3620",
-      "syncId": "2026-10-21T13:27:37.361Z"
-    },
-    {
-      "id": "evt_2026-10-21T132737361Z_119-hr-3620_bill.action_added_d93b8132bc4f3c3b",
-      "observedAt": "2026-10-21T13:27:37.361Z",
-      "entityType": "bill",
-      "entityId": "119-hr-3620",
-      "changeType": "bill.action_added",
-      "summary": "New action: Signed by President.",
-      "after": {
-        "date": "2026-10-20",
-        "text": "Signed by President.",
-        "chamber": "House",
-        "actionCode": "36000"
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3620",
       "syncId": "2026-10-21T13:27:37.361Z"
