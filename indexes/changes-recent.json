@@ -1,8 +1,100 @@
 {
-  "generatedAt": "2026-10-27T14:00:18.270Z",
+  "generatedAt": "2026-10-28T14:54:01.373Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-10-28T145401373Z_119-hr-10895_bill.title_changed",
+      "observedAt": "2026-10-28T14:54:01.373Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10895",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To direct the Secretary of Education to establish a Civic Education and Service Learning Grant Program, and for other purposes."
+      },
+      "after": {
+        "title": "Teaching Engaged Citizenship Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10895",
+      "syncId": "2026-10-28T14:54:01.373Z"
+    },
+    {
+      "id": "evt_2026-10-28T145401373Z_119-hr-10897_bill.title_changed",
+      "observedAt": "2026-10-28T14:54:01.373Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10897",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To enhance passenger and driver safety on transportation network company platforms through enhanced digital verification systems, to implement driver verification protocols to prevent unauthorized drivers from fraudulently using TNC driver accounts, to prevent physical and sexual assault on TNC platforms, and for other purposes."
+      },
+      "after": {
+        "title": "Sami’s Law"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10897",
+      "syncId": "2026-10-28T14:54:01.373Z"
+    },
+    {
+      "id": "evt_2026-10-28T145401373Z_119-hr-10904_bill.title_changed",
+      "observedAt": "2026-10-28T14:54:01.373Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10904",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To direct the Federal Trade Commission to convene an interagency working group to track and report on market concentration and monopoly activity with respect to certain sectors of the economy, and for other purposes."
+      },
+      "after": {
+        "title": "American Cost of Living Defense Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10904",
+      "syncId": "2026-10-28T14:54:01.373Z"
+    },
+    {
+      "id": "evt_2026-10-28T145401373Z_119-hr-10911_bill.action_added_75c47fe4493016bb",
+      "observedAt": "2026-10-28T14:54:01.373Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10911",
+      "changeType": "bill.action_added",
+      "summary": "New action: Sponsor introductory remarks on measure. (CR E1127)",
+      "after": {
+        "date": "2026-10-26",
+        "text": "Sponsor introductory remarks on measure. (CR E1127)",
+        "chamber": "House",
+        "actionCode": "B00100"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10911",
+      "syncId": "2026-10-28T14:54:01.373Z"
+    },
+    {
+      "id": "evt_2026-10-28T145401373Z_119-hres-1635_bill.added",
+      "observedAt": "2026-10-28T14:54:01.373Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1635",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1635: Supporting the designation of October 23, 2026, as \"National Marine Sanctuary Day\".",
+      "after": {
+        "title": "Supporting the designation of October 23, 2026, as \"National Marine Sanctuary Day\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1635",
+      "syncId": "2026-10-28T14:54:01.373Z"
+    },
+    {
+      "id": "evt_2026-10-28T145401373Z_119-hres-1637_bill.added",
+      "observedAt": "2026-10-28T14:54:01.373Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1637",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1637: Recognizing the significance of equal pay and the pay disparity between disabled women and nondisabled men.",
+      "after": {
+        "title": "Recognizing the significance of equal pay and the pay disparity between disabled women and nondisabled men.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1637",
+      "syncId": "2026-10-28T14:54:01.373Z"
+    },
     {
       "id": "evt_2026-10-27T140018270Z_119-hr-10604_bill.added",
       "observedAt": "2026-10-27T14:00:18.270Z",
@@ -1383,102 +1475,6 @@
         "title": "Mobile Stroke Units Improve Health Outcomes Act of 2026"
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10844",
-      "syncId": "2026-10-21T13:27:37.361Z"
-    },
-    {
-      "id": "evt_2026-10-21T132737361Z_119-hr-10845_bill.title_changed",
-      "observedAt": "2026-10-21T13:27:37.361Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10845",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To require an assessment of standards and guidelines for managing air, land, and sea ports of entry under the control of the Department of Homeland Security, and for other purposes."
-      },
-      "after": {
-        "title": "Port Staffing Reporting Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10845",
-      "syncId": "2026-10-21T13:27:37.361Z"
-    },
-    {
-      "id": "evt_2026-10-21T132737361Z_119-hr-10849_bill.title_changed",
-      "observedAt": "2026-10-21T13:27:37.361Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10849",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To amend chapter 388 of title 10, United States Code, to clarify to the purpose of and adjust the limits on assistance under the procurement technical assistance cooperative agreement program."
-      },
-      "after": {
-        "title": "Small Business and Defense Industrial Base Support Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10849",
-      "syncId": "2026-10-21T13:27:37.361Z"
-    },
-    {
-      "id": "evt_2026-10-21T132737361Z_119-hr-10852_bill.title_changed",
-      "observedAt": "2026-10-21T13:27:37.361Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10852",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To amend the Internal Revenue Code of 1986 to provide incentives for mass timber products, and for other purposes."
-      },
-      "after": {
-        "title": "Mass Timber Growth and Innovation Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10852",
-      "syncId": "2026-10-21T13:27:37.361Z"
-    },
-    {
-      "id": "evt_2026-10-21T132737361Z_119-hr-10853_bill.title_changed",
-      "observedAt": "2026-10-21T13:27:37.361Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10853",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To require the Secretary of Homeland Security to designate Yemen for temporary protected status."
-      },
-      "after": {
-        "title": "Yemen TPS Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10853",
-      "syncId": "2026-10-21T13:27:37.361Z"
-    },
-    {
-      "id": "evt_2026-10-21T132737361Z_119-hr-10854_bill.title_changed",
-      "observedAt": "2026-10-21T13:27:37.361Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10854",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To direct the Secretary of Energy to establish and carry out a Public Safety Power Shutoff Event Reporting Program."
-      },
-      "after": {
-        "title": "Public Safety Power Shutoff Data Transparency Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10854",
-      "syncId": "2026-10-21T13:27:37.361Z"
-    },
-    {
-      "id": "evt_2026-10-21T132737361Z_119-hr-1721_bill.action_added_3ca7a9e82715019c",
-      "observedAt": "2026-10-21T13:27:37.361Z",
-      "entityType": "bill",
-      "entityId": "119-hr-1721",
-      "changeType": "bill.action_added",
-      "summary": "New action: Signed by President.",
-      "after": {
-        "date": "2026-10-20",
-        "text": "Signed by President.",
-        "chamber": "House",
-        "actionCode": "E30000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1721",
       "syncId": "2026-10-21T13:27:37.361Z"
     }
   ]
