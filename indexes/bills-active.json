@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T14:19:00.972Z",
+  "generatedAt": "2026-11-01T14:45:49.856Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
@@ -779,7 +779,7 @@
         }
       ],
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7954",
-      "updatedAt": "2026-10-31T14:12:03Z",
+      "updatedAt": "2026-10-31T19:07:02Z",
       "introducedAt": "2026-03-17"
     },
     {
@@ -959,6 +959,78 @@
       "introducedAt": "2026-06-29"
     },
     {
+      "id": "119-hr-10642",
+      "billType": "hr",
+      "billNumber": 10642,
+      "congress": 119,
+      "title": "Stop the Settlements Act",
+      "status": "inCommittee",
+      "chamber": "House",
+      "policyArea": "International Affairs",
+      "sponsor": {
+        "memberId": "C001091",
+        "name": "Rep. Castro, Joaquin [D-TX-20]",
+        "party": "D",
+        "state": "TX",
+        "district": "20",
+        "chamber": "House"
+      },
+      "cosponsorCount": 61,
+      "latestAction": {
+        "date": "2026-10-01",
+        "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-01",
+          "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-01",
+          "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-01",
+          "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-01",
+          "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-01",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-10-01",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-01",
+          "url": "https://www.congress.gov/119/bills/hr10642/BILLS-119hr10642ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10642",
+      "updatedAt": "2026-10-31T16:28:03Z",
+      "introducedAt": "2026-10-01"
+    },
+    {
       "id": "119-s-3404",
       "billType": "s",
       "billNumber": 3404,
@@ -1062,6 +1134,52 @@
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3404",
       "updatedAt": "2026-10-31T02:42:09Z",
       "introducedAt": "2025-12-09"
+    },
+    {
+      "id": "119-s-5476",
+      "billType": "s",
+      "billNumber": 5476,
+      "congress": 119,
+      "title": "A bill to impose sanctions with respect to foreign persons that have facilitated Israeli settlement construction in the E1 area of the West Bank.",
+      "status": "inCommittee",
+      "chamber": "Senate",
+      "policyArea": "International Affairs",
+      "sponsor": {
+        "memberId": "C001088",
+        "name": "Sen. Coons, Christopher A. [D-DE]",
+        "party": "D",
+        "state": "DE",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 20,
+      "latestAction": {
+        "date": "2026-09-23",
+        "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-09-23",
+          "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-09-23",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in Senate",
+          "date": "2026-09-23",
+          "url": "https://www.congress.gov/119/bills/s5476/BILLS-119s5476is.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5476",
+      "updatedAt": "2026-10-31T16:28:03Z",
+      "introducedAt": "2026-09-23"
     },
     {
       "id": "119-hr-9576",
@@ -2366,294 +2484,6 @@
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9499",
       "updatedAt": "2026-10-31T02:42:10Z",
       "introducedAt": "2026-06-29"
-    },
-    {
-      "id": "119-hr-9498",
-      "billType": "hr",
-      "billNumber": 9498,
-      "congress": 119,
-      "title": "Taxpayer Advocate Participation Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "Taxation",
-      "sponsor": {
-        "memberId": "S001214",
-        "name": "Rep. Steube, W. Gregory [R-FL-17]",
-        "party": "R",
-        "state": "FL",
-        "district": "17",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-09-16",
-        "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-09-16",
-          "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-09-15",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "House",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-09-15",
-          "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5685)",
-          "chamber": "House",
-          "actionCode": "H37300"
-        },
-        {
-          "date": "2026-09-15",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
-          "chamber": "House",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-09-15",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9498.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-09-15",
-          "text": "Considered under suspension of the rules. (consideration: CR H5685-5686)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-09-15",
-          "text": "Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.",
-          "chamber": "House",
-          "actionCode": "H30300"
-        },
-        {
-          "date": "2026-09-08",
-          "text": "Placed on the Union Calendar, Calendar No. 699.",
-          "chamber": "House",
-          "actionCode": "H12410"
-        },
-        {
-          "date": "2026-09-08",
-          "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-799.",
-          "chamber": "House",
-          "actionCode": "H12200"
-        },
-        {
-          "date": "2026-09-08",
-          "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-799.",
-          "chamber": "House",
-          "actionCode": "5000"
-        },
-        {
-          "date": "2026-07-01",
-          "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 39 - 0.",
-          "chamber": "House",
-          "actionCode": "H19000"
-        },
-        {
-          "date": "2026-07-01",
-          "text": "Committee Consideration and Mark-up Session Held",
-          "chamber": "House",
-          "actionCode": "H15001"
-        },
-        {
-          "date": "2026-06-29",
-          "text": "Referred to the House Committee on Ways and Means.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-06-29",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-06-29",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Referred in Senate",
-          "date": "2026-09-16",
-          "url": "https://www.congress.gov/119/bills/hr9498/BILLS-119hr9498rfs.htm"
-        },
-        {
-          "type": "Engrossed in House",
-          "date": "2026-09-15",
-          "url": "https://www.congress.gov/119/bills/hr9498/BILLS-119hr9498eh.htm"
-        },
-        {
-          "type": "Reported in House",
-          "date": "2026-09-08",
-          "url": "https://www.congress.gov/119/bills/hr9498/BILLS-119hr9498rh.htm"
-        },
-        {
-          "type": "Introduced in House",
-          "date": "2026-06-29",
-          "url": "https://www.congress.gov/119/bills/hr9498/BILLS-119hr9498ih.htm"
-        }
-      ],
-      "summaryHtml": "<p><strong>Taxpayer Advocate Participation Act</strong></p><p>This bill authorizes the National Taxpayer Advocate to appear as amicus curiae and submit amicus briefs in a U.S. court in cases involving federal tax law. </p><p>Further, the bill requires federal courts to permit such appearances. (An amicus curiae is a person or group that is not a party in a court case but has an interest in the case and may be permitted to submit a brief, known as an amicus brief, to the court in relation to the case.) Under the bill, the National Taxpayer Advocate may present the views of the National Taxpayer Advocate in such a case only with respect to an issue which may broadly affect certain rights of taxpayers.</p><p>As background, the National Taxpayer Advocate leads the Taxpayer Advocate Service, which is an independent organization within the Internal Revenue Service (IRS) responsible for helping taxpayers resolve problems with the IRS. The National Taxpayer Advocate is also responsible for proposing administrative and legislative changes to mitigate such problems. Under current law, the National Taxpayer Advocate is not authorized to appear as amicus curiae or submit amicus briefs in cases involving federal tax law.</p>",
-      "summaryFormat": "html",
-      "summary": "Taxpayer Advocate Participation Act This bill authorizes the National Taxpayer Advocate to appear as amicus curiae and submit amicus briefs in a U.S. court in cases involving federal tax law. Further, the bill requires federal courts to permit such appearances. (An amicus curiae is a person or group that is not a party in a court case but has an interest in the case and may be permitted to submit a brief, known as an amicus brief, to the court in relation to the case.) Under the bill, the National Taxpayer Advocate may present the views of the National Taxpayer Advocate in such a case only with respect to an issue which may broadly affect certain rights of taxpayers. As background, the National Taxpayer Advocate leads the Taxpayer Advocate Service, which is an independent organization within the Internal Revenue Service (IRS) responsible for helping taxpayers resolve problems with the IRS. The National Taxpayer Advocate is also responsible for proposing administrative and legislative changes to mitigate such problems. Under current law, the National Taxpayer Advocate is not authorized to appear as amicus curiae or submit amicus briefs in cases involving federal tax law.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9498",
-      "updatedAt": "2026-10-31T02:42:08Z",
-      "introducedAt": "2026-06-29"
-    },
-    {
-      "id": "119-hr-9394",
-      "billType": "hr",
-      "billNumber": 9394,
-      "congress": 119,
-      "title": "Civil Preparedness for Agroterrorism Exercise Act of 2026",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "Emergency Management",
-      "sponsor": {
-        "memberId": "S001220",
-        "name": "Rep. Strong, Dale W. [R-AL-5]",
-        "party": "R",
-        "state": "AL",
-        "district": "5",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-09-16",
-        "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-09-16",
-          "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "House",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5900)",
-          "chamber": "House",
-          "actionCode": "H37300"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.",
-          "chamber": "House",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9394.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Considered under suspension of the rules. (consideration: CR H5900-5901)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Mr. Van Epps moved to suspend the rules and pass the bill.",
-          "chamber": "House",
-          "actionCode": "H30300"
-        },
-        {
-          "date": "2026-09-10",
-          "text": "Placed on the Union Calendar, Calendar No. 712.",
-          "chamber": "House",
-          "actionCode": "H12410"
-        },
-        {
-          "date": "2026-09-10",
-          "text": "Reported by the Committee on Homeland Security. H. Rept. 119-813.",
-          "chamber": "House",
-          "actionCode": "H12200"
-        },
-        {
-          "date": "2026-09-10",
-          "text": "Reported by the Committee on Homeland Security. H. Rept. 119-813.",
-          "chamber": "House",
-          "actionCode": "5000"
-        },
-        {
-          "date": "2026-06-24",
-          "text": "Ordered to be Reported by the Yeas and Nays: 30 - 0.",
-          "chamber": "House",
-          "actionCode": "H19000"
-        },
-        {
-          "date": "2026-06-24",
-          "text": "Committee Consideration and Mark-up Session Held",
-          "chamber": "House",
-          "actionCode": "H15001"
-        },
-        {
-          "date": "2026-06-23",
-          "text": "Referred to the House Committee on Homeland Security.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-06-23",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-06-23",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Engrossed in House",
-          "date": "2026-09-16",
-          "url": "https://www.congress.gov/119/bills/hr9394/BILLS-119hr9394eh.htm"
-        },
-        {
-          "type": "Referred in Senate",
-          "date": "2026-09-16",
-          "url": "https://www.congress.gov/119/bills/hr9394/BILLS-119hr9394rfs.htm"
-        },
-        {
-          "type": "Reported in House",
-          "date": "2026-09-10",
-          "url": "https://www.congress.gov/119/bills/hr9394/BILLS-119hr9394rh.htm"
-        },
-        {
-          "type": "Introduced in House",
-          "date": "2026-06-23",
-          "url": "https://www.congress.gov/119/bills/hr9394/BILLS-119hr9394ih.htm"
-        }
-      ],
-      "summaryHtml": "<p><strong>Civil Preparedness for&nbsp;Agroterrorism Exercise Act of 2026</strong></p><p>This bill requires the Department of Homeland Security (DHS), within four years after the bill’s enactment, to conduct an exercise to enhance collective domestic prevention, response, and recovery regarding acts of agroterrorism (i.e., terrorism targeting or threatening agriculture and food systems of vital importance to national security, public health, or safety). The scenario in the exercise must involve&nbsp;agroterrorists transporting and deploying in the United States a biological agent (e.g., microorganism or infectious substance) capable of harming critical agriculture and food operations and must address how relevant public and private entities can coordinate to develop preparedness and mitigate widespread disruption.</p><p>Within 180 days after completion of the exercise,&nbsp;DHS must submit to Congress an after-action report including the findings of the exercise, plans for incorporating lessons learned into future operations, and recommended legislative actions.</p>",
-      "summaryFormat": "html",
-      "summary": "Civil Preparedness for Agroterrorism Exercise Act of 2026 This bill requires the Department of Homeland Security (DHS), within four years after the bill’s enactment, to conduct an exercise to enhance collective domestic prevention, response, and recovery regarding acts of agroterrorism (i.e., terrorism targeting or threatening agriculture and food systems of vital importance to national security, public health, or safety). The scenario in the exercise must involve agroterrorists transporting and deploying in the United States a biological agent (e.g., microorganism or infectious substance) capable of harming critical agriculture and food operations and must address how relevant public and private entities can coordinate to develop preparedness and mitigate widespread disruption. Within 180 days after completion of the exercise, DHS must submit to Congress an after-action report including the findings of the exercise, plans for incorporating lessons learned into future operations, and recommended legislative actions.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9394",
-      "updatedAt": "2026-10-31T02:42:11Z",
-      "introducedAt": "2026-06-23"
     }
   ]
 }

@@ -1,8 +1,22 @@
 {
-  "generatedAt": "2026-10-31T14:19:00.972Z",
+  "generatedAt": "2026-11-01T14:45:49.856Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-11-01T144549856Z_119-s-5476_bill.added",
+      "observedAt": "2026-11-01T14:45:49.856Z",
+      "entityType": "bill",
+      "entityId": "119-s-5476",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5476: A bill to impose sanctions with respect to foreign persons that have facilitated Israeli settlement construction in the E1 area of the West Bank.",
+      "after": {
+        "title": "A bill to impose sanctions with respect to foreign persons that have facilitated Israeli settlement construction in the E1 area of the West Bank.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5476",
+      "syncId": "2026-11-01T14:45:49.856Z"
+    },
     {
       "id": "evt_2026-10-31T141900972Z_119-hjres-213_bill.action_added_0925ec8c50792596",
       "observedAt": "2026-10-31T14:19:00.972Z",
@@ -1577,22 +1591,6 @@
         "title": "Sami’s Law"
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10897",
-      "syncId": "2026-10-28T14:54:01.373Z"
-    },
-    {
-      "id": "evt_2026-10-28T145401373Z_119-hr-10904_bill.title_changed",
-      "observedAt": "2026-10-28T14:54:01.373Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10904",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To direct the Federal Trade Commission to convene an interagency working group to track and report on market concentration and monopoly activity with respect to certain sectors of the economy, and for other purposes."
-      },
-      "after": {
-        "title": "American Cost of Living Defense Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10904",
       "syncId": "2026-10-28T14:54:01.373Z"
     }
   ]
