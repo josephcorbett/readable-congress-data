@@ -1,0 +1,146 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T17:51:04.199Z",
+  "items": [
+    {
+      "id": "evt_2026-11-02T175104199Z_119-house-2-308_vote.corrected",
+      "observedAt": "2026-11-02T17:51:04.199Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-308",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Concur in the Senate Amendments",
+      "before": {
+        "result": "Passed",
+        "yea": 262,
+        "nay": 159,
+        "present": 0,
+        "notVoting": 12,
+        "question": "On Motion to Concur in the Senate Amendments",
+        "description": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (HR 5334)",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hr-5334"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 262,
+        "nay": 159,
+        "present": 0,
+        "notVoting": 12,
+        "question": "On Motion to Concur in the Senate Amendments",
+        "description": "On Motion to Concur in the Senate Amendments",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hr-5334"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll308.xml",
+      "syncId": "2026-11-02T17:51:04.199Z"
+    },
+    {
+      "id": "evt_2026-11-02T175104199Z_119-house-2-310_vote.corrected",
+      "observedAt": "2026-11-02T17:51:04.199Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-310",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Passage",
+      "before": {
+        "result": "Passed",
+        "yea": 217,
+        "nay": 207,
+        "present": 0,
+        "notVoting": 9,
+        "question": "On Passage",
+        "description": "PROOF Act (HR 10326)",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hr-10326"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 217,
+        "nay": 207,
+        "present": 0,
+        "notVoting": 9,
+        "question": "On Passage",
+        "description": "On Passage",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hr-10326"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll310.xml",
+      "syncId": "2026-11-02T17:51:04.199Z"
+    },
+    {
+      "id": "evt_2026-11-02T175104199Z_119-house-2-311_vote.corrected",
+      "observedAt": "2026-11-02T17:51:04.199Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-311",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Passage",
+      "before": {
+        "result": "Passed",
+        "yea": 214,
+        "nay": 208,
+        "present": 0,
+        "notVoting": 11,
+        "question": "On Passage",
+        "description": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule issued by the Environmental Protection Agency relating to the \"California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision\". (HJRES 213)",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hjres-213"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 214,
+        "nay": 208,
+        "present": 0,
+        "notVoting": 11,
+        "question": "On Passage",
+        "description": "On Passage",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hjres-213"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll311.xml",
+      "syncId": "2026-11-02T17:51:04.199Z"
+    },
+    {
+      "id": "evt_2026-11-02T175104199Z_119-hr-10900_bill.title_changed",
+      "observedAt": "2026-11-02T17:51:04.199Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10900",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To require States and units of local government that receive funds under the Byrne grant program or the COPS grant program to submit a report to the Attorney General related to the use of automated license plate readers by State and local law enforcement officers, and for other purposes."
+      },
+      "after": {
+        "title": "Law Enforcement Accountability for Plate Reader Abuse Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10900",
+      "syncId": "2026-11-02T17:51:04.199Z"
+    },
+    {
+      "id": "evt_2026-11-02T175104199Z_119-hr-3331_bill.added",
+      "observedAt": "2026-11-02T17:51:04.199Z",
+      "entityType": "bill",
+      "entityId": "119-hr-3331",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-3331: Mariner Exam Modernization Act",
+      "after": {
+        "title": "Mariner Exam Modernization Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3331",
+      "syncId": "2026-11-02T17:51:04.199Z"
+    },
+    {
+      "id": "evt_2026-11-02T175104199Z_119-hr-4598_bill.added",
+      "observedAt": "2026-11-02T17:51:04.199Z",
+      "entityType": "bill",
+      "entityId": "119-hr-4598",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-4598: Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act",
+      "after": {
+        "title": "Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4598",
+      "syncId": "2026-11-02T17:51:04.199Z"
+    }
+  ]
+}
