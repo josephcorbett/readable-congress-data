@@ -1,0 +1,358 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T15:50:56.648Z",
+  "items": [
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hjres-221_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hjres-221",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hjres-221: Proposing an amendment to the Constitution of the United States giving Congress power to regulate campaign contributions for Federal elections.",
+      "after": {
+        "title": "Proposing an amendment to the Constitution of the United States giving Congress power to regulate campaign contributions for Federal elections.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/221",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-house-2-309_vote.corrected",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-309",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Passage",
+      "before": {
+        "result": "Passed",
+        "yea": 352,
+        "nay": 72,
+        "present": 0,
+        "notVoting": 9,
+        "question": "On Passage",
+        "description": "National Fraud Enforcement Division Act of 2026 (HR 9576)",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hr-9576"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 352,
+        "nay": 72,
+        "present": 0,
+        "notVoting": 9,
+        "question": "On Passage",
+        "description": "On Passage",
+        "date": "2026-09-16",
+        "associatedBillId": "119-hr-9576"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll309.xml",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-10306_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10306",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10306: Technical Correction to the Shoshone-Paiute Tribes of the Duck Valley Reservation Water Rights Settlement Act of 2025",
+      "after": {
+        "title": "Technical Correction to the Shoshone-Paiute Tribes of the Duck Valley Reservation Water Rights Settlement Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10306",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-10419_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10419",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10419: SMILE for Veterans Act",
+      "after": {
+        "title": "SMILE for Veterans Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10419",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-10789_bill.title_changed",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10789",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To establish a moratorium on oil and gas production and exploration activities in the Eglin Gulf Test and Training Range, and for other purposes."
+      },
+      "after": {
+        "title": "Protecting Florida's Offshore Military Readiness Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10789",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-10822_bill.title_changed",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10822",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To restrict the usage of automated license plate reader system by governmental entities, and for other purposes."
+      },
+      "after": {
+        "title": "To restrict the usage of an automated license plate reader system by governmental entities, and for other purposes."
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10822",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-10825_bill.title_changed",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10825",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To prohibit Joint Fundraising Committees that include federal candidates and Independent Expenditure-Only Political Committees from making disbursements on paid media."
+      },
+      "after": {
+        "title": "To prohibit Joint Fundraising Committees that include Federal candidates and Independent Expenditure-Only Political Committees from making disbursements on paid media."
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10825",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-10832_bill.title_changed",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10832",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To amend the Iran Threat Reduction and Syria Human Rights Act of 2012 to make certain improvements relating to the coordination of efforts to promote internet freedom and access to information in Iran, and for other purposes."
+      },
+      "after": {
+        "title": "IRAN Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10832",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-10855_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10855",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10855: QUAHOGS Act of 2026",
+      "after": {
+        "title": "QUAHOGS Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10855",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-10858_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10858",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10858: CARE for Blood Cancer Act of 2026",
+      "after": {
+        "title": "CARE for Blood Cancer Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10858",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-10952_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10952",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10952: To promote forest health and reduce wildfire risk by prioritizing forest management through stewardship in high-risk firesheds, providing tax incentives for biomass energy production, and supporting economic utilization of forest products, and for other purposes.",
+      "after": {
+        "title": "To promote forest health and reduce wildfire risk by prioritizing forest management through stewardship in high-risk firesheds, providing tax incentives for biomass energy production, and supporting economic utilization of forest products, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10952",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-10953_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10953",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10953: To direct the Secretary of Heath and Human Services to establish and carry out a program for making allotments to States to pay for the cost of carrying out the State Ombudsman Program to serve as a resource to provide information and support to individuals with developmental disabilities and their families.",
+      "after": {
+        "title": "To direct the Secretary of Heath and Human Services to establish and carry out a program for making allotments to States to pay for the cost of carrying out the State Ombudsman Program to serve as a resource to provide information and support to individuals with developmental disabilities and their families.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10953",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-8183_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8183",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-8183: MATCH Act of 2026",
+      "after": {
+        "title": "MATCH Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8183",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-8347_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8347",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-8347: RURAL Healthcare Act",
+      "after": {
+        "title": "RURAL Healthcare Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8347",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-8483_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8483",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-8483: Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026",
+      "after": {
+        "title": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8483",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-8660_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8660",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-8660: VEST Act",
+      "after": {
+        "title": "VEST Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8660",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-9269_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9269",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9269: Renewing the African American Civil Rights Network Act",
+      "after": {
+        "title": "Renewing the African American Civil Rights Network Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9269",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hr-9600_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9600",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9600: Common Sense 250 Act of 2026",
+      "after": {
+        "title": "Common Sense 250 Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9600",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hres-1644_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1644",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1644: Supporting the goals and ideals of October as \"National Domestic Violence Awareness Month\".",
+      "after": {
+        "title": "Supporting the goals and ideals of October as \"National Domestic Violence Awareness Month\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1644",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hres-1646_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1646",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1646: Supporting the recognition of November as \"Bladder Health Awareness Month\", supporting efforts to increase public education, reduce stigma, and improve access to care for bladder health conditions, and for other purposes.",
+      "after": {
+        "title": "Supporting the recognition of November as \"Bladder Health Awareness Month\", supporting efforts to increase public education, reduce stigma, and improve access to care for bladder health conditions, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1646",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_119-hres-1647_bill.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1647",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1647: Expressing support for the recognition of the week of November 1 through November 7, 2026, as \"Drowsy Driving Prevention Week\".",
+      "after": {
+        "title": "Expressing support for the recognition of the week of November 1 through November 7, 2026, as \"Drowsy Driving Prevention Week\".",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1647",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_C000537_member.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "member",
+      "entityId": "C000537",
+      "changeType": "member.added",
+      "summary": "Started tracking James E. Clyburn",
+      "after": {
+        "name": "James E. Clyburn",
+        "party": "D",
+        "chamber": "House",
+        "state": "SC"
+      },
+      "officialUrl": "https://clyburn.house.gov/",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    },
+    {
+      "id": "evt_2026-11-03T155056648Z_O000086_member.added",
+      "observedAt": "2026-11-03T15:50:56.648Z",
+      "entityType": "member",
+      "entityId": "O000086",
+      "changeType": "member.added",
+      "summary": "Started tracking Burgess Owens",
+      "after": {
+        "name": "Burgess Owens",
+        "party": "R",
+        "chamber": "House",
+        "state": "UT"
+      },
+      "officialUrl": "https://owens.house.gov",
+      "syncId": "2026-11-03T15:50:56.648Z"
+    }
+  ]
+}
