@@ -3,9 +3,10 @@
   "billType": "hr",
   "billNumber": 10902,
   "congress": 119,
-  "title": "To reduce crime on public transportation, and for other purposes.",
+  "title": "Safe Transit Act",
   "status": "inCommittee",
   "chamber": "House",
+  "policyArea": "Transportation and Public Works",
   "sponsor": {
     "memberId": "V000133",
     "name": "Rep. Van Drew, Jefferson [R-NJ-2]",
@@ -40,8 +41,14 @@
       "actionCode": "1000"
     }
   ],
-  "textVersions": [],
+  "textVersions": [
+    {
+      "type": "Introduced in House",
+      "date": "2026-10-22",
+      "url": "https://www.congress.gov/119/bills/hr10902/BILLS-119hr10902ih.htm"
+    }
+  ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10902",
-  "updatedAt": "2026-10-23T13:58:33Z",
+  "updatedAt": "2026-11-03T19:57:13Z",
   "introducedAt": "2026-10-22"
 }

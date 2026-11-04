@@ -1,8 +1,204 @@
 {
-  "generatedAt": "2026-11-03T15:50:56.648Z",
+  "generatedAt": "2026-11-04T15:58:15.436Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-11-04T155815436Z_119-hr-10825_bill.title_changed",
+      "observedAt": "2026-11-04T15:58:15.436Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10825",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To prohibit Joint Fundraising Committees that include Federal candidates and Independent Expenditure-Only Political Committees from making disbursements on paid media."
+      },
+      "after": {
+        "title": "Stop Illegal Super PAC Coordination Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10825",
+      "syncId": "2026-11-04T15:58:15.436Z"
+    },
+    {
+      "id": "evt_2026-11-04T155815436Z_119-hr-10902_bill.title_changed",
+      "observedAt": "2026-11-04T15:58:15.436Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10902",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To reduce crime on public transportation, and for other purposes."
+      },
+      "after": {
+        "title": "Safe Transit Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10902",
+      "syncId": "2026-11-04T15:58:15.436Z"
+    },
+    {
+      "id": "evt_2026-11-04T155815436Z_119-hr-10910_bill.title_changed",
+      "observedAt": "2026-11-04T15:58:15.436Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10910",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To amend the Animal Welfare Act to provide for the protection of companion animals held or cared for at certain facilities, and for other purposes."
+      },
+      "after": {
+        "title": "Dunkin’s Law"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10910",
+      "syncId": "2026-11-04T15:58:15.436Z"
+    },
+    {
+      "id": "evt_2026-11-04T155815436Z_119-hr-10916_bill.title_changed",
+      "observedAt": "2026-11-04T15:58:15.436Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10916",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To require the Secretary of Agriculture and the Secretary of the Interior to jointly develop a strategy to increase the use of aquatic restoration and conservation activities in wildfire risk mitigation and post-fire recovery efforts, and for other purposes."
+      },
+      "after": {
+        "title": "Aquatic Restoration and Conservation Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10916",
+      "syncId": "2026-11-04T15:58:15.436Z"
+    },
+    {
+      "id": "evt_2026-11-04T155815436Z_119-hr-10924_bill.added",
+      "observedAt": "2026-11-04T15:58:15.436Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10924",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10924: Medicare for America Act of 2026",
+      "after": {
+        "title": "Medicare for America Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10924",
+      "syncId": "2026-11-04T15:58:15.436Z"
+    },
+    {
+      "id": "evt_2026-11-04T155815436Z_119-hr-10932_bill.title_changed",
+      "observedAt": "2026-11-04T15:58:15.436Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10932",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To direct the Administrator of the Federal Emergency Management Agency provide to the requesting State or Indian tribe the recommendation report for a major disaster declaration, to develop factors for recommending a declaration of a major disaster for a snowstorm or other snowfall event, and for other purposes."
+      },
+      "after": {
+        "title": "Snowfall Assistance Transparency Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10932",
+      "syncId": "2026-11-04T15:58:15.436Z"
+    },
+    {
+      "id": "evt_2026-11-04T155815436Z_119-hr-8195_bill.added",
+      "observedAt": "2026-11-04T15:58:15.436Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8195",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-8195: Responsible Cormorant Management and Control Act of 2026",
+      "after": {
+        "title": "Responsible Cormorant Management and Control Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8195",
+      "syncId": "2026-11-04T15:58:15.436Z"
+    },
+    {
+      "id": "evt_2026-11-04T155815436Z_119-hr-9640_bill.added",
+      "observedAt": "2026-11-04T15:58:15.436Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9640",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9640: Earth MRI Reauthorization Act of 2026",
+      "after": {
+        "title": "Earth MRI Reauthorization Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9640",
+      "syncId": "2026-11-04T15:58:15.436Z"
+    },
+    {
+      "id": "evt_2026-11-04T155815436Z_119-hr-9785_bill.added",
+      "observedAt": "2026-11-04T15:58:15.436Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9785",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-9785: South Dakota Water Feasibility Studies Act",
+      "after": {
+        "title": "South Dakota Water Feasibility Studies Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9785",
+      "syncId": "2026-11-04T15:58:15.436Z"
+    },
+    {
+      "id": "evt_2026-11-04T155815436Z_119-hres-1645_bill.added",
+      "observedAt": "2026-11-04T15:58:15.436Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1645",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1645: Expressing support for the designation of October 28 as \"Oxi Day\" to commemorate the anniversary of Greek Prime Minister Ioannis Metaxas answer of \"Oxi!\" or \"No!\" to surrender to the Axis forces, inflicting a fatal wound that helped save democracy for the world.",
+      "after": {
+        "title": "Expressing support for the designation of October 28 as \"Oxi Day\" to commemorate the anniversary of Greek Prime Minister Ioannis Metaxas answer of \"Oxi!\" or \"No!\" to surrender to the Axis forces, inflicting a fatal wound that helped save democracy for the world.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1645",
+      "syncId": "2026-11-04T15:58:15.436Z"
+    },
+    {
+      "id": "evt_2026-11-04T155815436Z_119-s-675_bill.added",
+      "observedAt": "2026-11-04T15:58:15.436Z",
+      "entityType": "bill",
+      "entityId": "119-s-675",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-675: Theodore Roosevelt Presidential Library Act",
+      "after": {
+        "title": "Theodore Roosevelt Presidential Library Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/675",
+      "syncId": "2026-11-04T15:58:15.436Z"
+    },
+    {
+      "id": "evt_2026-11-04T155815436Z_D000216_member.added",
+      "observedAt": "2026-11-04T15:58:15.436Z",
+      "entityType": "member",
+      "entityId": "D000216",
+      "changeType": "member.added",
+      "summary": "Started tracking Rosa L. DeLauro",
+      "after": {
+        "name": "Rosa L. DeLauro",
+        "party": "D",
+        "chamber": "House",
+        "state": "CT"
+      },
+      "officialUrl": "https://delauro.house.gov/",
+      "syncId": "2026-11-04T15:58:15.436Z"
+    },
+    {
+      "id": "evt_2026-11-04T155815436Z_J000301_member.added",
+      "observedAt": "2026-11-04T15:58:15.436Z",
+      "entityType": "member",
+      "entityId": "J000301",
+      "changeType": "member.added",
+      "summary": "Started tracking Dusty Johnson",
+      "after": {
+        "name": "Dusty Johnson",
+        "party": "R",
+        "chamber": "House",
+        "state": "SD"
+      },
+      "officialUrl": "https://dustyjohnson.house.gov/",
+      "syncId": "2026-11-04T15:58:15.436Z"
+    },
     {
       "id": "evt_2026-11-03T155056648Z_119-hjres-221_bill.added",
       "observedAt": "2026-11-03T15:50:56.648Z",
@@ -1455,188 +1651,6 @@
         "status": "inCommittee"
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10934",
-      "syncId": "2026-10-30T14:51:05.817Z"
-    },
-    {
-      "id": "evt_2026-10-30T145105817Z_119-hr-10935_bill.added",
-      "observedAt": "2026-10-30T14:51:05.817Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10935",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10935: To direct the Secretary of the Interior to offer for sale certain Bureau of Land Management land in Monterey County, California, and for other purposes.",
-      "after": {
-        "title": "To direct the Secretary of the Interior to offer for sale certain Bureau of Land Management land in Monterey County, California, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10935",
-      "syncId": "2026-10-30T14:51:05.817Z"
-    },
-    {
-      "id": "evt_2026-10-30T145105817Z_119-hr-10936_bill.added",
-      "observedAt": "2026-10-30T14:51:05.817Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10936",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10936: To deem as unsafe covered color additives, and for other purposes.",
-      "after": {
-        "title": "To deem as unsafe covered color additives, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10936",
-      "syncId": "2026-10-30T14:51:05.817Z"
-    },
-    {
-      "id": "evt_2026-10-30T145105817Z_119-hr-10937_bill.added",
-      "observedAt": "2026-10-30T14:51:05.817Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10937",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10937: To amend title XXVII of the Public Health Service Act to ensure the equitable treatment of covered entities and pharmacies participating in the 340B drug discount program, and for other purposes.",
-      "after": {
-        "title": "To amend title XXVII of the Public Health Service Act to ensure the equitable treatment of covered entities and pharmacies participating in the 340B drug discount program, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10937",
-      "syncId": "2026-10-30T14:51:05.817Z"
-    },
-    {
-      "id": "evt_2026-10-30T145105817Z_119-hr-10938_bill.added",
-      "observedAt": "2026-10-30T14:51:05.817Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10938",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10938: To amend title 38, United States Code, to increase the maximum amount of a home health service benefit available to certain veterans under the laws administered by the Secretary of Veterans Affairs.",
-      "after": {
-        "title": "To amend title 38, United States Code, to increase the maximum amount of a home health service benefit available to certain veterans under the laws administered by the Secretary of Veterans Affairs.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10938",
-      "syncId": "2026-10-30T14:51:05.817Z"
-    },
-    {
-      "id": "evt_2026-10-30T145105817Z_119-hr-10939_bill.added",
-      "observedAt": "2026-10-30T14:51:05.817Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10939",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10939: To prohibit compensated lobbying on behalf of the Nigerian government for the duration of its designation as a country of particular concern for religious freedom; and for other purposes.",
-      "after": {
-        "title": "To prohibit compensated lobbying on behalf of the Nigerian government for the duration of its designation as a country of particular concern for religious freedom; and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10939",
-      "syncId": "2026-10-30T14:51:05.817Z"
-    },
-    {
-      "id": "evt_2026-10-30T145105817Z_119-hr-10940_bill.added",
-      "observedAt": "2026-10-30T14:51:05.817Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10940",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10940: To direct the Federal Communications Commission to promulgate regulations establishing metrics, goals, and minimum requirements with respect to the delivery of wireless emergency alerts, and for other purposes.",
-      "after": {
-        "title": "To direct the Federal Communications Commission to promulgate regulations establishing metrics, goals, and minimum requirements with respect to the delivery of wireless emergency alerts, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10940",
-      "syncId": "2026-10-30T14:51:05.817Z"
-    },
-    {
-      "id": "evt_2026-10-30T145105817Z_119-hr-10941_bill.added",
-      "observedAt": "2026-10-30T14:51:05.817Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10941",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10941: To amend section 5 of the Clayton Act to include proposed voluntary dismissals in the court's consideration of proposed consent judgments and clarify the public interest, and for other purposes.",
-      "after": {
-        "title": "To amend section 5 of the Clayton Act to include proposed voluntary dismissals in the court's consideration of proposed consent judgments and clarify the public interest, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10941",
-      "syncId": "2026-10-30T14:51:05.817Z"
-    },
-    {
-      "id": "evt_2026-10-30T145105817Z_119-hr-10942_bill.added",
-      "observedAt": "2026-10-30T14:51:05.817Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10942",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10942: To amend title 11, United States Code, to prohibit the payment of bonuses to highly compensated individuals employed by the debtor and insiders of the debtor to perform services during the bankruptcy case, and for other purposes.",
-      "after": {
-        "title": "To amend title 11, United States Code, to prohibit the payment of bonuses to highly compensated individuals employed by the debtor and insiders of the debtor to perform services during the bankruptcy case, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10942",
-      "syncId": "2026-10-30T14:51:05.817Z"
-    },
-    {
-      "id": "evt_2026-10-30T145105817Z_119-hr-10943_bill.added",
-      "observedAt": "2026-10-30T14:51:05.817Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10943",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10943: To amend the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to direct the Secretary of Health and Human Services to provide counsel for unaccompanied alien children in immigration proceedings, and for other purposes.",
-      "after": {
-        "title": "To amend the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to direct the Secretary of Health and Human Services to provide counsel for unaccompanied alien children in immigration proceedings, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10943",
-      "syncId": "2026-10-30T14:51:05.817Z"
-    },
-    {
-      "id": "evt_2026-10-30T145105817Z_119-hr-10944_bill.added",
-      "observedAt": "2026-10-30T14:51:05.817Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10944",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10944: To amend the Internal Revenue Code of 1986 to exclude from gross income certain retirement plan distributions used for a down payment or closing costs for a principal residence, and for other purposes.",
-      "after": {
-        "title": "To amend the Internal Revenue Code of 1986 to exclude from gross income certain retirement plan distributions used for a down payment or closing costs for a principal residence, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10944",
-      "syncId": "2026-10-30T14:51:05.817Z"
-    },
-    {
-      "id": "evt_2026-10-30T145105817Z_119-hr-10945_bill.added",
-      "observedAt": "2026-10-30T14:51:05.817Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10945",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10945: To amend title XI of the Social Security Act to exclude from the anti-kickback statute and other sanctions certain remunerations for providing food or nutrition services to individuals.",
-      "after": {
-        "title": "To amend title XI of the Social Security Act to exclude from the anti-kickback statute and other sanctions certain remunerations for providing food or nutrition services to individuals.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10945",
-      "syncId": "2026-10-30T14:51:05.817Z"
-    },
-    {
-      "id": "evt_2026-10-30T145105817Z_119-hr-10946_bill.added",
-      "observedAt": "2026-10-30T14:51:05.817Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10946",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10946: To rename the Office of Technology Assessment as the Congressional Office of Technology, to revise the functions and duties of the Office, and for other purposes.",
-      "after": {
-        "title": "To rename the Office of Technology Assessment as the Congressional Office of Technology, to revise the functions and duties of the Office, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10946",
-      "syncId": "2026-10-30T14:51:05.817Z"
-    },
-    {
-      "id": "evt_2026-10-30T145105817Z_119-hr-10947_bill.added",
-      "observedAt": "2026-10-30T14:51:05.817Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10947",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10947: To direct the Administrator of the Environmental Protection Agency to include certain nanoplastics and microplastics on a certain list of unregulated contaminants published pursuant to the Safe Drinking Water Act, and for other purposes.",
-      "after": {
-        "title": "To direct the Administrator of the Environmental Protection Agency to include certain nanoplastics and microplastics on a certain list of unregulated contaminants published pursuant to the Safe Drinking Water Act, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10947",
       "syncId": "2026-10-30T14:51:05.817Z"
     }
   ]
