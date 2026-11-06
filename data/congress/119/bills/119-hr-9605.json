@@ -15,13 +15,31 @@
     "district": "6",
     "chamber": "House"
   },
-  "cosponsorCount": 0,
+  "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-07-15",
-    "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 16.",
+    "date": "2026-11-05",
+    "text": "Placed on the Union Calendar, Calendar No. 767.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-11-05",
+      "text": "Placed on the Union Calendar, Calendar No. 767.",
+      "chamber": "House",
+      "actionCode": "H12410"
+    },
+    {
+      "date": "2026-11-05",
+      "text": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-870.",
+      "chamber": "House",
+      "actionCode": "H12200"
+    },
+    {
+      "date": "2026-11-05",
+      "text": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-870.",
+      "chamber": "House",
+      "actionCode": "5000"
+    },
     {
       "date": "2026-07-15",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 16.",
@@ -55,12 +73,21 @@
   ],
   "textVersions": [
     {
+      "type": "Reported in House",
+      "date": "2026-11-05",
+      "url": "https://www.congress.gov/119/bills/hr9605/BILLS-119hr9605rh.htm"
+    },
+    {
       "type": "Introduced in House",
       "date": "2026-07-09",
       "url": "https://www.congress.gov/119/bills/hr9605/BILLS-119hr9605ih.htm"
     }
   ],
+  "summaryHtml": "<p><strong>Less Bureaucracy, Better Foreign Medical Accreditation Act</strong></p><p>This bill transfers specified functions relating to accreditation for foreign medical schools from the Department of Education (ED) to the Department of Health and Human Services (HHS).</p><p>Specifically, the bill transfers to HHS all the functions and authorities exercised by ED before the bill's effective date related to the National Committee on Foreign Medical Education and Accreditation. (This committee evaluates the standards of accreditation applied to foreign medical schools and determines the comparability of those standards to standards applied to U.S. medical schools. On November 18, 2025, ED announced an interagency agreement with HHS for HHS to provide subject matter expertise, coordinate meetings, and manage technology systems to assist ED in managing and overseeing this committee.)</p><p>Additionally, the bill transfers to HHS all personnel and appropriations related to the functions that are transferred under this bill.</p><p>The bill outlines the authority of the Office of Management and Budget (OMB) related to the functions that are transferred under this bill, including that OMB must ensure that this bill does not create a net increase in full-time equivalent employees at HHS or ED. Further, OMB must certify compliance with the bill to specified congressional&nbsp;committees.</p><p>The transfer of these functions does not affect any suits, proceedings, or applications for benefits, services, licenses, permits, certificates, or financial assistance that are pending on the date of this bill's enactment.</p>",
+  "summaryFormat": "html",
+  "summary": "Less Bureaucracy, Better Foreign Medical Accreditation Act This bill transfers specified functions relating to accreditation for foreign medical schools from the Department of Education (ED) to the Department of Health and Human Services (HHS). Specifically, the bill transfers to HHS all the functions and authorities exercised by ED before the bill's effective date related to the National Committee on Foreign Medical Education and Accreditation. (This committee evaluates the standards of accreditation applied to foreign medical schools and determines the comparability of those standards to standards applied to U.S. medical schools. On November 18, 2025, ED announced an interagency agreement with HHS for HHS to provide subject matter expertise, coordinate meetings, and manage technology systems to assist ED in managing and overseeing this committee.) Additionally, the bill transfers to HHS all personnel and appropriations related to the functions that are transferred under this bill. The bill outlines the authority of the Office of Management and Budget (OMB) related to the functions that are transferred under this bill, including that OMB must ensure that this bill does not create a net increase in full-time equivalent employees at HHS or ED. Further, OMB must certify compliance with the bill to specified congressional committees. The transfer of these functions does not affect any suits, proceedings, or applications for benefits, services, licenses, permits, certificates, or financial assistance that are pending on the date of this bill's enactment.",
+  "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9605",
-  "updatedAt": "2026-08-10T18:26:53Z",
+  "updatedAt": "2026-11-06T09:06:53Z",
   "introducedAt": "2026-07-09"
 }
