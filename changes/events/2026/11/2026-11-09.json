@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T18:22:01.783Z",
+  "items": [
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hr-10356_bill.added",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10356",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10356: Empowering Moms Act",
+      "after": {
+        "title": "Empowering Moms Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10356",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    },
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hr-8205_bill.action_added_13945592b5542bb7",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8205",
+      "changeType": "bill.action_added",
+      "summary": "New action: Became Public Law No: 119-138.",
+      "after": {
+        "date": "2026-11-03",
+        "text": "Became Public Law No: 119-138.",
+        "chamber": "House",
+        "actionCode": "E40000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    },
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hr-8205_bill.action_added_a4bfef957ec76780",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8205",
+      "changeType": "bill.action_added",
+      "summary": "New action: Became Public Law No: 119-138.",
+      "after": {
+        "date": "2026-11-03",
+        "text": "Became Public Law No: 119-138.",
+        "chamber": "House",
+        "actionCode": "36000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    },
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hr-8205_bill.action_added_c73c8c52200ecafa",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8205",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-11-03",
+        "text": "Signed by President.",
+        "chamber": "House",
+        "actionCode": "E30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    },
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hr-8205_bill.action_added_d648a439c547dc93",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8205",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-11-03",
+        "text": "Signed by President.",
+        "chamber": "House",
+        "actionCode": "36000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    },
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hr-8205_bill.status_changed",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8205",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to becameLaw",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "becameLaw"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    },
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hres-1494_bill.added",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1494",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1494: Original Resolution Honoring Congresswoman Sheila Jackson Lee",
+      "after": {
+        "title": "Original Resolution Honoring Congresswoman Sheila Jackson Lee",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1494",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    },
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hres-1644_bill.title_changed",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1644",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "Supporting the goals and ideals of October as \"National Domestic Violence Awareness Month\"."
+      },
+      "after": {
+        "title": "Original National Domestic Violence Awareness Month Resolution of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1644",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    }
+  ]
+}

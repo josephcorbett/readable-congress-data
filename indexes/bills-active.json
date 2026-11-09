@@ -1,8 +1,116 @@
 {
-  "generatedAt": "2026-11-08T14:47:42.648Z",
+  "generatedAt": "2026-11-09T18:22:01.783Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
+    {
+      "id": "119-hr-10959",
+      "billType": "hr",
+      "billNumber": 10959,
+      "congress": 119,
+      "title": "Right to Re-Enroll Act of 2026",
+      "status": "inCommittee",
+      "chamber": "House",
+      "policyArea": "Health",
+      "sponsor": {
+        "memberId": "S001226",
+        "name": "Rep. Salinas, Andrea [D-OR-6]",
+        "party": "D",
+        "state": "OR",
+        "district": "6",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-11-05",
+        "text": "Referred to the House Committee on Energy and Commerce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-05",
+          "text": "Referred to the House Committee on Energy and Commerce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-05",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-05",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-11-05",
+          "url": "https://www.congress.gov/119/bills/hr10959/BILLS-119hr10959ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10959",
+      "updatedAt": "2026-11-09T17:03:02Z",
+      "introducedAt": "2026-11-05"
+    },
+    {
+      "id": "119-hr-10954",
+      "billType": "hr",
+      "billNumber": 10954,
+      "congress": 119,
+      "title": "Don’t Flush Babies Act",
+      "status": "inCommittee",
+      "chamber": "House",
+      "policyArea": "Health",
+      "sponsor": {
+        "memberId": "B001325",
+        "name": "Rep. Biggs, Sheri [R-SC-3]",
+        "party": "R",
+        "state": "SC",
+        "district": "3",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-11-05",
+        "text": "Referred to the House Committee on Energy and Commerce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-05",
+          "text": "Referred to the House Committee on Energy and Commerce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-05",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-05",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-11-05",
+          "url": "https://www.congress.gov/119/bills/hr10954/BILLS-119hr10954ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10954",
+      "updatedAt": "2026-11-09T17:02:20Z",
+      "introducedAt": "2026-11-05"
+    },
     {
       "id": "119-hr-10960",
       "billType": "hr",
@@ -54,59 +162,6 @@
       ],
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10960",
       "updatedAt": "2026-11-07T04:24:19Z",
-      "introducedAt": "2026-11-05"
-    },
-    {
-      "id": "119-hr-10959",
-      "billType": "hr",
-      "billNumber": 10959,
-      "congress": 119,
-      "title": "Right to Re-Enroll Act of 2026",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "S001226",
-        "name": "Rep. Salinas, Andrea [D-OR-6]",
-        "party": "D",
-        "state": "OR",
-        "district": "6",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-11-05",
-        "text": "Referred to the House Committee on Energy and Commerce.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-05",
-          "text": "Referred to the House Committee on Energy and Commerce.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-05",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-11-05",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-11-05",
-          "url": "https://www.congress.gov/119/bills/hr10959/BILLS-119hr10959ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10959",
-      "updatedAt": "2026-11-07T04:24:20Z",
       "introducedAt": "2026-11-05"
     },
     {
@@ -340,59 +395,6 @@
       "introducedAt": "2026-11-05"
     },
     {
-      "id": "119-hr-10954",
-      "billType": "hr",
-      "billNumber": 10954,
-      "congress": 119,
-      "title": "Don’t Flush Babies Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "B001325",
-        "name": "Rep. Biggs, Sheri [R-SC-3]",
-        "party": "R",
-        "state": "SC",
-        "district": "3",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-11-05",
-        "text": "Referred to the House Committee on Energy and Commerce.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-05",
-          "text": "Referred to the House Committee on Energy and Commerce.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-05",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-11-05",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-11-05",
-          "url": "https://www.congress.gov/119/bills/hr10954/BILLS-119hr10954ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10954",
-      "updatedAt": "2026-11-07T04:24:20Z",
-      "introducedAt": "2026-11-05"
-    },
-    {
       "id": "119-hr-3978",
       "billType": "hr",
       "billNumber": 3978,
@@ -585,6 +587,242 @@
       "introducedAt": "2025-04-30"
     },
     {
+      "id": "119-hr-8205",
+      "billType": "hr",
+      "billNumber": 8205,
+      "congress": 119,
+      "title": "Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026",
+      "status": "becameLaw",
+      "chamber": "House",
+      "policyArea": "Health",
+      "sponsor": {
+        "memberId": "Q000023",
+        "name": "Rep. Quigley, Mike [D-IL-5]",
+        "party": "D",
+        "state": "IL",
+        "district": "5",
+        "chamber": "House"
+      },
+      "cosponsorCount": 103,
+      "latestAction": {
+        "date": "2026-11-03",
+        "text": "Became Public Law No: 119-138.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-03",
+          "text": "Became Public Law No: 119-138.",
+          "chamber": "House",
+          "actionCode": "E40000"
+        },
+        {
+          "date": "2026-11-03",
+          "text": "Became Public Law No: 119-138.",
+          "chamber": "House",
+          "actionCode": "36000"
+        },
+        {
+          "date": "2026-11-03",
+          "text": "Signed by President.",
+          "chamber": "House",
+          "actionCode": "E30000"
+        },
+        {
+          "date": "2026-11-03",
+          "text": "Signed by President.",
+          "chamber": "House",
+          "actionCode": "36000"
+        },
+        {
+          "date": "2026-10-26",
+          "text": "Presented to President.",
+          "chamber": "House",
+          "actionCode": "E20000"
+        },
+        {
+          "date": "2026-10-26",
+          "text": "Presented to President.",
+          "chamber": "House",
+          "actionCode": "28000"
+        },
+        {
+          "date": "2026-10-14",
+          "text": "Message on Senate action sent to the House.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-09-28",
+          "text": "Passed Senate without amendment by Voice Vote. (consideration: CR S5120)",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-09-28",
+          "text": "Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote. (consideration: CR S5120)",
+          "chamber": "House",
+          "actionCode": "17000"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 466.",
+          "chamber": "House"
+        },
+        {
+          "date": "2026-07-22",
+          "text": "Motion to reconsider laid on the table Agreed to without objection.",
+          "chamber": "House",
+          "actionCode": "H38310"
+        },
+        {
+          "date": "2026-07-22",
+          "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+          "chamber": "House",
+          "actionCode": "H37300"
+        },
+        {
+          "date": "2026-07-22",
+          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+          "chamber": "House",
+          "actionCode": "8000"
+        },
+        {
+          "date": "2026-07-22",
+          "text": "Considered as unfinished business. (consideration: CR H5159)",
+          "chamber": "House",
+          "actionCode": "H30000"
+        },
+        {
+          "date": "2026-07-20",
+          "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Guthrie objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.",
+          "chamber": "House",
+          "actionCode": "H37210"
+        },
+        {
+          "date": "2026-07-20",
+          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 8205.",
+          "chamber": "House",
+          "actionCode": "H8D000"
+        },
+        {
+          "date": "2026-07-20",
+          "text": "Considered under suspension of the rules. (consideration: CR H4652-4654; text: CR H4653)",
+          "chamber": "House",
+          "actionCode": "H30000"
+        },
+        {
+          "date": "2026-07-20",
+          "text": "Mr. Guthrie moved to suspend the rules and pass the bill, as amended.",
+          "chamber": "House",
+          "actionCode": "H30300"
+        },
+        {
+          "date": "2026-07-09",
+          "text": "Placed on the Union Calendar, Calendar No. 637.",
+          "chamber": "House",
+          "actionCode": "H12410"
+        },
+        {
+          "date": "2026-07-09",
+          "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-733.",
+          "chamber": "House",
+          "actionCode": "H12200"
+        },
+        {
+          "date": "2026-07-09",
+          "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-733.",
+          "chamber": "House",
+          "actionCode": "5000"
+        },
+        {
+          "date": "2026-05-21",
+          "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 46 - 0.",
+          "chamber": "House",
+          "actionCode": "H19000"
+        },
+        {
+          "date": "2026-05-21",
+          "text": "Committee Consideration and Mark-up Session Held",
+          "chamber": "House",
+          "actionCode": "H15001"
+        },
+        {
+          "date": "2026-05-13",
+          "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+          "chamber": "House",
+          "actionCode": "H23000"
+        },
+        {
+          "date": "2026-05-13",
+          "text": "Subcommittee Consideration and Mark-up Session Held",
+          "chamber": "House",
+          "actionCode": "H22000"
+        },
+        {
+          "date": "2026-04-06",
+          "text": "Referred to the Subcommittee on Health.",
+          "chamber": "House",
+          "actionCode": "H11000"
+        },
+        {
+          "date": "2026-04-06",
+          "text": "Referred to the House Committee on Energy and Commerce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-04-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-04-06",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Enrolled Bill",
+          "date": "1970-01-01",
+          "url": "https://www.congress.gov/119/bills/hr8205/BILLS-119hr8205enr.htm"
+        },
+        {
+          "type": "Placed on Calendar Senate",
+          "date": "2026-07-23",
+          "url": "https://www.congress.gov/119/bills/hr8205/BILLS-119hr8205pcs.htm"
+        },
+        {
+          "type": "Engrossed in House",
+          "date": "2026-07-22",
+          "url": "https://www.congress.gov/119/bills/hr8205/BILLS-119hr8205eh.htm"
+        },
+        {
+          "type": "Reported in House",
+          "date": "2026-07-09",
+          "url": "https://www.congress.gov/119/bills/hr8205/BILLS-119hr8205rh.htm"
+        },
+        {
+          "type": "Introduced in House",
+          "date": "2026-04-06",
+          "url": "https://www.congress.gov/119/bills/hr8205/BILLS-119hr8205ih.htm"
+        },
+        {
+          "type": "Public Law",
+          "date": "2026-11-04",
+          "url": "https://www.congress.gov/119/plaws/publ138/PLAW-119publ138.htm"
+        }
+      ],
+      "summaryHtml": "<p><strong>Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026</strong></p><p>This bill reauthorizes through FY2031 and revises programs that support research and development of drugs and other therapies to address&nbsp;amyotrophic lateral sclerosis (also known as ALS or Lou Gehrig's disease) and other neurodegenerative diseases.</p><p>The bill reauthorizes</p><ul><li>grants from the National Institutes of Health (NIH) for scientific research on investigational drugs to prevent or treat ALS for individuals not otherwise eligible for clinical trials,</li><li>grants from the Food and Drug Administration (FDA) for research and development of therapies to prevent and treat ALS and other neurodegenerative diseases, and</li><li>a Public-Private Partnership including the FDA and NIH that supports development and regulatory review of treatments for neurodegenerative diseases.&nbsp;</li></ul><p>Also, the  NIH, in considering renewal of its grants, must assess available information on the safety and efficacy of the investigational drugs. It must also require grantees to promptly report serious and unexpected adverse events associated with their investigational drugs.</p><p>Additionally,  the FDA must publish a plan describing actions it will take over a five-year period to foster development of safe and effective drugs, and facilitate access to&nbsp;investigational drugs, that treat ALS and other rare neurodegenerative diseases. The FDA must also publish&nbsp;a report describing the actions it has taken under the plan.</p>",
+      "summaryFormat": "html",
+      "summary": "Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026 This bill reauthorizes through FY2031 and revises programs that support research and development of drugs and other therapies to address amyotrophic lateral sclerosis (also known as ALS or Lou Gehrig's disease) and other neurodegenerative diseases. The bill reauthorizes grants from the National Institutes of Health (NIH) for scientific research on investigational drugs to prevent or treat ALS for individuals not otherwise eligible for clinical trials, grants from the Food and Drug Administration (FDA) for research and development of therapies to prevent and treat ALS and other neurodegenerative diseases, and a Public-Private Partnership including the FDA and NIH that supports development and regulatory review of treatments for neurodegenerative diseases. Also, the NIH, in considering renewal of its grants, must assess available information on the safety and efficacy of the investigational drugs. It must also require grantees to promptly report serious and unexpected adverse events associated with their investigational drugs. Additionally, the FDA must publish a plan describing actions it will take over a five-year period to foster development of safe and effective drugs, and facilitate access to investigational drugs, that treat ALS and other rare neurodegenerative diseases. The FDA must also publish a report describing the actions it has taken under the plan.",
+      "summarySource": "official",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
+      "updatedAt": "2026-11-09T15:45:02Z",
+      "introducedAt": "2026-04-06"
+    },
+    {
       "id": "119-hr-1744",
       "billType": "hr",
       "billNumber": 1744,
@@ -773,7 +1011,7 @@
         {
           "type": "Public Law",
           "date": "2026-11-04",
-          "url": ""
+          "url": "https://www.congress.gov/119/plaws/publ137/PLAW-119publ137.htm"
         }
       ],
       "summaryHtml": "<p><strong>United States Commission on International Religious Freedom Reauthorization Act of 2025</strong></p><p>This bill reauthorizes the U.S. Commission on International Religious Freedom through FY2028. The commission is an independent federal commission tasked with monitoring international religious freedom conditions, reviewing U.S. government policy, and making policy recommendations.&nbsp;</p>",
@@ -781,7 +1019,7 @@
       "summary": "United States Commission on International Religious Freedom Reauthorization Act of 2025 This bill reauthorizes the U.S. Commission on International Religious Freedom through FY2028. The commission is an independent federal commission tasked with monitoring international religious freedom conditions, reviewing U.S. government policy, and making policy recommendations.",
       "summarySource": "official",
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1744",
-      "updatedAt": "2026-11-07T01:59:11Z",
+      "updatedAt": "2026-11-09T15:45:03Z",
       "introducedAt": "2025-02-27"
     },
     {
@@ -872,6 +1110,60 @@
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8347",
       "updatedAt": "2026-11-06T23:47:45Z",
       "introducedAt": "2026-04-16"
+    },
+    {
+      "id": "119-hres-1644",
+      "billType": "hres",
+      "billNumber": 1644,
+      "congress": 119,
+      "title": "Original National Domestic Violence Awareness Month Resolution of 2026",
+      "status": "inCommittee",
+      "chamber": "House",
+      "policyArea": "Crime and Law Enforcement",
+      "sponsor": {
+        "memberId": "G000553",
+        "name": "Rep. Green, Al [D-TX-9]",
+        "party": "D",
+        "state": "TX",
+        "district": "9",
+        "chamber": "House"
+      },
+      "cosponsorCount": 86,
+      "latestAction": {
+        "date": "2026-10-29",
+        "text": "Referred to the House Committee on Education and Workforce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-10-29",
+          "text": "Referred to the House Committee on Education and Workforce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-10-29",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        },
+        {
+          "date": "2026-10-29",
+          "text": "Submitted in House",
+          "chamber": "House",
+          "actionCode": "1025"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-10-29",
+          "url": "https://www.congress.gov/119/bills/hres1644/BILLS-119hres1644ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1644",
+      "updatedAt": "2026-11-09T16:59:22Z",
+      "introducedAt": "2026-10-29"
     },
     {
       "id": "119-hr-3331",
@@ -1031,79 +1323,76 @@
       "introducedAt": "2026-06-22"
     },
     {
-      "id": "119-s-4830",
-      "billType": "s",
-      "billNumber": 4830,
+      "id": "119-hr-10356",
+      "billType": "hr",
+      "billNumber": 10356,
       "congress": 119,
-      "title": "A bill to designate the facility of the United States Postal Service located at 86-014 Farrington Highway in Waianae, Hawaii, as the \"United States Representative Colleen Hanabusa Post Office Building\".",
+      "title": "Empowering Moms Act",
       "status": "introduced",
-      "chamber": "Senate",
-      "policyArea": "Government Operations and Politics",
+      "chamber": "House",
+      "policyArea": "Health",
       "sponsor": {
-        "memberId": "S001194",
-        "name": "Sen. Schatz, Brian [D-HI]",
-        "party": "D",
-        "state": "HI",
-        "chamber": "Senate"
+        "memberId": "F000470",
+        "name": "Rep. Fischbach, Michelle [R-MN-7]",
+        "party": "R",
+        "state": "MN",
+        "district": "7",
+        "chamber": "House"
       },
-      "cosponsorCount": 1,
+      "cosponsorCount": 11,
       "latestAction": {
-        "date": "2026-09-14",
-        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 590.",
-        "chamber": "Senate"
+        "date": "2026-09-16",
+        "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 25 - 13.",
+        "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-09-14",
-          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 590.",
-          "chamber": "Senate"
+          "date": "2026-09-16",
+          "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 25 - 13.",
+          "chamber": "House",
+          "actionCode": "H19000"
+        },
+        {
+          "date": "2026-09-16",
+          "text": "Committee Consideration and Mark-up Session Held",
+          "chamber": "House",
+          "actionCode": "H15001"
         },
         {
           "date": "2026-09-14",
-          "text": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.",
-          "chamber": "Senate"
+          "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
         },
         {
           "date": "2026-09-14",
-          "text": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.",
-          "chamber": "Senate",
-          "actionCode": "14000"
+          "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
         },
         {
-          "date": "2026-08-06",
-          "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.",
-          "chamber": "Senate"
+          "date": "2026-09-14",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
         },
         {
-          "date": "2026-06-18",
-          "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-06-18",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
+          "date": "2026-09-14",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
         }
       ],
       "textVersions": [
         {
-          "type": "Reported to Senate",
+          "type": "Introduced in House",
           "date": "2026-09-14",
-          "url": "https://www.congress.gov/119/bills/s4830/BILLS-119s4830rs.htm"
-        },
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-06-18",
-          "url": "https://www.congress.gov/119/bills/s4830/BILLS-119s4830is.htm"
+          "url": "https://www.congress.gov/119/bills/hr10356/BILLS-119hr10356ih.htm"
         }
       ],
-      "summary": "This bill designates the facility of the United States Postal Service located at 86-014 Farrington Highway in Waianae, Hawaii, as the \"United States Representative Colleen Hanabusa Post Office Building\".",
-      "summaryFormat": "plain",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4830",
-      "updatedAt": "2026-11-06T20:43:01Z",
-      "introducedAt": "2026-06-18"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10356",
+      "updatedAt": "2026-11-09T15:19:25Z",
+      "introducedAt": "2026-09-14"
     },
     {
       "id": "119-s-164",
@@ -1296,291 +1585,58 @@
       "introducedAt": "2026-09-03"
     },
     {
-      "id": "119-hr-10085",
-      "billType": "hr",
-      "billNumber": 10085,
+      "id": "119-hres-1494",
+      "billType": "hres",
+      "billNumber": 1494,
       "congress": 119,
-      "title": "Lifelong Learning Act",
+      "title": "Original Resolution Honoring Congresswoman Sheila Jackson Lee",
       "status": "inCommittee",
       "chamber": "House",
-      "policyArea": "Labor and Employment",
+      "policyArea": "Congress",
       "sponsor": {
-        "memberId": "D000230",
-        "name": "Rep. Davis, Donald G. [D-NC-1]",
+        "memberId": "G000553",
+        "name": "Rep. Green, Al [D-TX-9]",
         "party": "D",
-        "state": "NC",
-        "district": "1",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-08-13",
-        "text": "Referred to the House Committee on Education and Workforce.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-08-13",
-          "text": "Referred to the House Committee on Education and Workforce.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-08-13",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-08-13",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-08-13",
-          "url": "https://www.congress.gov/119/bills/hr10085/BILLS-119hr10085ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10085",
-      "updatedAt": "2026-11-06T20:51:17Z",
-      "introducedAt": "2026-08-13"
-    },
-    {
-      "id": "119-hr-10078",
-      "billType": "hr",
-      "billNumber": 10078,
-      "congress": 119,
-      "title": "Dollar-for-Dollar Deficit Reduction Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "Economics and Public Finance",
-      "sponsor": {
-        "memberId": "S001214",
-        "name": "Rep. Steube, W. Gregory [R-FL-17]",
-        "party": "R",
-        "state": "FL",
-        "district": "17",
+        "state": "TX",
+        "district": "9",
         "chamber": "House"
       },
       "cosponsorCount": 0,
       "latestAction": {
-        "date": "2026-08-10",
-        "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "date": "2026-08-27",
+        "text": "Referred to the House Committee on House Administration.",
         "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-08-10",
-          "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "date": "2026-08-27",
+          "text": "Referred to the House Committee on House Administration.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2026-08-10",
-          "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "date": "2026-08-27",
+          "text": "Submitted in House",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2026-08-10",
-          "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "date": "2026-08-27",
+          "text": "Submitted in House",
           "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-08-10",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-08-10",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
+          "actionCode": "1025"
         }
       ],
       "textVersions": [
         {
           "type": "Introduced in House",
-          "date": "2026-08-10",
-          "url": "https://www.congress.gov/119/bills/hr10078/BILLS-119hr10078ih.htm"
+          "date": "2026-08-27",
+          "url": "https://www.congress.gov/119/bills/hres1494/BILLS-119hres1494ih.htm"
         }
       ],
-      "summaryHtml": "<p><strong>Dollar-for-Dollar Deficit Reduction Act</strong></p><p>The bill establishes a framework to require legislation that increases or suspends the public debt limit to include spending reductions that are equal to or greater than the projected increase in debt that will occur under the legislation. The bill allows the spending reductions to be phased in over the period that includes the current and next 10 fiscal years.</p><p>Specifically, the bill requires the Department of the Treasury to notify the House Ways and Means Committee and the Senate Finance Committee when it determines that the federal government will reach the debt limit within 60 days without the implementation of extraordinary measures. The notification must also indicate when extraordinary measures may be necessary to prolong the funding of the federal government in the absence of a debt limit increase.</p><p>In addition, the bill requires any formal presidential request to increase the debt limit to include (1) the amount of the proposed increase, and (2) proposed legislation to reduce spending by an amount that is equal to or greater than the amount of the requested increase.</p><p>Finally, the bill establishes budget points of order that may be raised in the House of Representatives and the Senate against legislation that increases or suspends the debt limit and does not contain net spending reductions that are equal to or greater than the increase in the debt that will occur under the legislation.</p>",
-      "summaryFormat": "html",
-      "summary": "Dollar-for-Dollar Deficit Reduction Act The bill establishes a framework to require legislation that increases or suspends the public debt limit to include spending reductions that are equal to or greater than the projected increase in debt that will occur under the legislation. The bill allows the spending reductions to be phased in over the period that includes the current and next 10 fiscal years. Specifically, the bill requires the Department of the Treasury to notify the House Ways and Means Committee and the Senate Finance Committee when it determines that the federal government will reach the debt limit within 60 days without the implementation of extraordinary measures. The notification must also indicate when extraordinary measures may be necessary to prolong the funding of the federal government in the absence of a debt limit increase. In addition, the bill requires any formal presidential request to increase the debt limit to include (1) the amount of the proposed increase, and (2) proposed legislation to reduce spending by an amount that is equal to or greater than the amount of the requested increase. Finally, the bill establishes budget points of order that may be raised in the House of Representatives and the Senate against legislation that increases or suspends the debt limit and does not contain net spending reductions that are equal to or greater than the increase in the debt that will occur under the legislation.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10078",
-      "updatedAt": "2026-11-06T20:49:38Z",
-      "introducedAt": "2026-08-10"
-    },
-    {
-      "id": "119-hr-10073",
-      "billType": "hr",
-      "billNumber": 10073,
-      "congress": 119,
-      "title": "Critically Endangered Animals Conservation Act of 2026",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "Environmental Protection",
-      "sponsor": {
-        "memberId": "H001068",
-        "name": "Rep. Huffman, Jared [D-CA-2]",
-        "party": "D",
-        "state": "CA",
-        "district": "2",
-        "chamber": "House"
-      },
-      "cosponsorCount": 7,
-      "latestAction": {
-        "date": "2026-08-10",
-        "text": "Referred to the House Committee on Natural Resources.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-08-10",
-          "text": "Referred to the House Committee on Natural Resources.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-08-10",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-08-10",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-08-10",
-          "url": "https://www.congress.gov/119/bills/hr10073/BILLS-119hr10073ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10073",
-      "updatedAt": "2026-11-06T20:48:49Z",
-      "introducedAt": "2026-08-10"
-    },
-    {
-      "id": "119-hr-10062",
-      "billType": "hr",
-      "billNumber": 10062,
-      "congress": 119,
-      "title": "Promoting National Service and Reducing Unemployment Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "policyArea": "Labor and Employment",
-      "sponsor": {
-        "memberId": "N000147",
-        "name": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
-        "party": "D",
-        "state": "DC",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-08-06",
-        "text": "Referred to the Committee on Appropriations, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-08-06",
-          "text": "Referred to the Committee on Appropriations, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-08-06",
-          "text": "Referred to the Committee on Appropriations, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-08-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-08-06",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-08-06",
-          "url": "https://www.congress.gov/119/bills/hr10062/BILLS-119hr10062ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10062",
-      "updatedAt": "2026-11-06T20:45:56Z",
-      "introducedAt": "2026-08-06"
-    },
-    {
-      "id": "119-s-5202",
-      "billType": "s",
-      "billNumber": 5202,
-      "congress": 119,
-      "title": "Protecting Our Kids from Harmful Research Act",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "policyArea": "Health",
-      "sponsor": {
-        "memberId": "L000577",
-        "name": "Sen. Lee, Mike [R-UT]",
-        "party": "R",
-        "state": "UT",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 6,
-      "latestAction": {
-        "date": "2026-07-30",
-        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-07-30",
-          "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-07-30",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in Senate",
-          "date": "2026-07-30",
-          "url": "https://www.congress.gov/119/bills/s5202/BILLS-119s5202is.htm"
-        }
-      ],
-      "summaryHtml": "<p><strong>Protecting Our Kids from Harmful Research Act</strong></p><p>This bill prohibits the use of federal funds for research or publications concerning gender transition in individuals under the age of 18.</p>",
-      "summaryFormat": "html",
-      "summary": "Protecting Our Kids from Harmful Research Act This bill prohibits the use of federal funds for research or publications concerning gender transition in individuals under the age of 18.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5202",
-      "updatedAt": "2026-11-06T20:14:27Z",
-      "introducedAt": "2026-07-30"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1494",
+      "updatedAt": "2026-11-09T16:59:22Z",
+      "introducedAt": "2026-08-27"
     },
     {
       "id": "119-s-5167",
@@ -1853,6 +1909,154 @@
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9821",
       "updatedAt": "2026-11-07T00:23:50Z",
       "introducedAt": "2026-07-21"
+    },
+    {
+      "id": "119-s-3984",
+      "billType": "s",
+      "billNumber": 3984,
+      "congress": 119,
+      "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
+      "status": "introduced",
+      "chamber": "Senate",
+      "policyArea": "International Affairs",
+      "sponsor": {
+        "memberId": "B001305",
+        "name": "Sen. Budd, Ted [R-NC]",
+        "party": "R",
+        "state": "NC",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 4,
+      "latestAction": {
+        "date": "2026-07-27",
+        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 505.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-07-27",
+          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 505.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-27",
+          "text": "Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-27",
+          "text": "Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.",
+          "chamber": "Senate",
+          "actionCode": "14000"
+        },
+        {
+          "date": "2026-06-17",
+          "text": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-03-04",
+          "text": "Read twice and referred to the Committee on Foreign Relations.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-03-04",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Reported to Senate",
+          "date": "2026-07-27",
+          "url": "https://www.congress.gov/119/bills/s3984/BILLS-119s3984rs.htm"
+        },
+        {
+          "type": "Introduced in Senate",
+          "date": "2026-03-04",
+          "url": "https://www.congress.gov/119/bills/s3984/BILLS-119s3984is.htm"
+        }
+      ],
+      "summaryHtml": "<p><strong>United States Commission on International Religious Freedom Reauthorization Act of 2026</strong></p><p>This bill reauthorizes the U.S. Commission on International Religious Freedom through FY2028. The commission is an independent federal commission tasked with monitoring international religious freedom conditions, reviewing U.S. government policy, and making policy recommendations.&nbsp;</p>",
+      "summaryFormat": "html",
+      "summary": "United States Commission on International Religious Freedom Reauthorization Act of 2026 This bill reauthorizes the U.S. Commission on International Religious Freedom through FY2028. The commission is an independent federal commission tasked with monitoring international religious freedom conditions, reviewing U.S. government policy, and making policy recommendations.",
+      "summarySource": "official",
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3984",
+      "updatedAt": "2026-11-07T01:59:11Z",
+      "introducedAt": "2026-03-04"
+    },
+    {
+      "id": "119-s-2102",
+      "billType": "s",
+      "billNumber": 2102,
+      "congress": 119,
+      "title": "Ralph David Abernathy, Sr., National Historic Site Act",
+      "status": "introduced",
+      "chamber": "Senate",
+      "policyArea": "Public Lands and Natural Resources",
+      "sponsor": {
+        "memberId": "O000174",
+        "name": "Sen. Ossoff, Jon [D-GA]",
+        "party": "D",
+        "state": "GA",
+        "chamber": "Senate"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-07-23",
+        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 482.",
+        "chamber": "Senate"
+      },
+      "actions": [
+        {
+          "date": "2026-07-23",
+          "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 482.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.",
+          "chamber": "Senate",
+          "actionCode": "14000"
+        },
+        {
+          "date": "2026-03-04",
+          "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2025-06-17",
+          "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+          "chamber": "Senate"
+        },
+        {
+          "date": "2025-06-17",
+          "text": "Introduced in Senate",
+          "chamber": "Senate",
+          "actionCode": "10000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Reported to Senate",
+          "date": "2026-07-23",
+          "url": "https://www.congress.gov/119/bills/s2102/BILLS-119s2102rs.htm"
+        },
+        {
+          "type": "Introduced in Senate",
+          "date": "2025-06-17",
+          "url": "https://www.congress.gov/119/bills/s2102/BILLS-119s2102is.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2102",
+      "updatedAt": "2026-11-06T22:48:45Z",
+      "introducedAt": "2025-06-17"
     }
   ]
 }

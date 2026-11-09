@@ -1,8 +1,132 @@
 {
-  "generatedAt": "2026-11-08T14:47:42.648Z",
+  "generatedAt": "2026-11-09T18:22:01.783Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hr-10356_bill.added",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10356",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10356: Empowering Moms Act",
+      "after": {
+        "title": "Empowering Moms Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10356",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    },
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hr-8205_bill.action_added_13945592b5542bb7",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8205",
+      "changeType": "bill.action_added",
+      "summary": "New action: Became Public Law No: 119-138.",
+      "after": {
+        "date": "2026-11-03",
+        "text": "Became Public Law No: 119-138.",
+        "chamber": "House",
+        "actionCode": "E40000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    },
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hr-8205_bill.action_added_a4bfef957ec76780",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8205",
+      "changeType": "bill.action_added",
+      "summary": "New action: Became Public Law No: 119-138.",
+      "after": {
+        "date": "2026-11-03",
+        "text": "Became Public Law No: 119-138.",
+        "chamber": "House",
+        "actionCode": "36000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    },
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hr-8205_bill.action_added_c73c8c52200ecafa",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8205",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-11-03",
+        "text": "Signed by President.",
+        "chamber": "House",
+        "actionCode": "E30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    },
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hr-8205_bill.action_added_d648a439c547dc93",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8205",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-11-03",
+        "text": "Signed by President.",
+        "chamber": "House",
+        "actionCode": "36000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    },
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hr-8205_bill.status_changed",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8205",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to becameLaw",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "becameLaw"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    },
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hres-1494_bill.added",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1494",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1494: Original Resolution Honoring Congresswoman Sheila Jackson Lee",
+      "after": {
+        "title": "Original Resolution Honoring Congresswoman Sheila Jackson Lee",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1494",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    },
+    {
+      "id": "evt_2026-11-09T182201783Z_119-hres-1644_bill.title_changed",
+      "observedAt": "2026-11-09T18:22:01.783Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1644",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "Supporting the goals and ideals of October as \"National Domestic Violence Awareness Month\"."
+      },
+      "after": {
+        "title": "Original National Domestic Violence Awareness Month Resolution of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1644",
+      "syncId": "2026-11-09T18:22:01.783Z"
+    },
     {
       "id": "evt_2026-11-07T144147908Z_119-hr-10062_bill.title_changed",
       "observedAt": "2026-11-07T14:41:47.908Z",
@@ -1449,134 +1573,6 @@
         "text": "Considered under the provisions of rule H. Res. 1530. (consideration: CR H5953-5956)",
         "chamber": "House",
         "actionCode": "H30000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/213",
-      "syncId": "2026-10-31T14:19:00.972Z"
-    },
-    {
-      "id": "evt_2026-10-31T141900972Z_119-hjres-213_bill.action_added_514b9861035cae7c",
-      "observedAt": "2026-10-31T14:19:00.972Z",
-      "entityType": "bill",
-      "entityId": "119-hjres-213",
-      "changeType": "bill.action_added",
-      "summary": "New action: Motion to reconsider laid on the table Agreed to without objection.",
-      "after": {
-        "date": "2026-09-16",
-        "text": "Motion to reconsider laid on the table Agreed to without objection.",
-        "chamber": "House",
-        "actionCode": "H38310"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/213",
-      "syncId": "2026-10-31T14:19:00.972Z"
-    },
-    {
-      "id": "evt_2026-10-31T141900972Z_119-hjres-213_bill.action_added_5212248420f432f1",
-      "observedAt": "2026-10-31T14:19:00.972Z",
-      "entityType": "bill",
-      "entityId": "119-hjres-213",
-      "changeType": "bill.action_added",
-      "summary": "New action: Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate and one motion to recommit on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
-      "after": {
-        "date": "2026-09-16",
-        "text": "Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate and one motion to recommit on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
-        "chamber": "House",
-        "actionCode": "H8D000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/213",
-      "syncId": "2026-10-31T14:19:00.972Z"
-    },
-    {
-      "id": "evt_2026-10-31T141900972Z_119-hjres-213_bill.action_added_ad46e14923755d68",
-      "observedAt": "2026-10-31T14:19:00.972Z",
-      "entityType": "bill",
-      "entityId": "119-hjres-213",
-      "changeType": "bill.action_added",
-      "summary": "New action: Rule H. Res. 1530 passed House.",
-      "after": {
-        "date": "2026-09-15",
-        "text": "Rule H. Res. 1530 passed House.",
-        "chamber": "House",
-        "actionCode": "H1L220"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/213",
-      "syncId": "2026-10-31T14:19:00.972Z"
-    },
-    {
-      "id": "evt_2026-10-31T141900972Z_119-hjres-213_bill.action_added_b25c4e02f6ac0128",
-      "observedAt": "2026-10-31T14:19:00.972Z",
-      "entityType": "bill",
-      "entityId": "119-hjres-213",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed/agreed to in House: On passage Passed by the Yeas and Nays: 214 - 208 (Roll no. 311).",
-      "after": {
-        "date": "2026-09-16",
-        "text": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 214 - 208 (Roll no. 311).",
-        "chamber": "House",
-        "actionCode": "8000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/213",
-      "syncId": "2026-10-31T14:19:00.972Z"
-    },
-    {
-      "id": "evt_2026-10-31T141900972Z_119-hjres-213_bill.action_added_c0408a3bb2f01bf2",
-      "observedAt": "2026-10-31T14:19:00.972Z",
-      "entityType": "bill",
-      "entityId": "119-hjres-213",
-      "changeType": "bill.action_added",
-      "summary": "New action: The previous question was ordered pursuant to the rule.",
-      "after": {
-        "date": "2026-09-16",
-        "text": "The previous question was ordered pursuant to the rule.",
-        "chamber": "House",
-        "actionCode": "H35000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/213",
-      "syncId": "2026-10-31T14:19:00.972Z"
-    },
-    {
-      "id": "evt_2026-10-31T141900972Z_119-hjres-213_bill.action_added_f097c31058dfd5fa",
-      "observedAt": "2026-10-31T14:19:00.972Z",
-      "entityType": "bill",
-      "entityId": "119-hjres-213",
-      "changeType": "bill.action_added",
-      "summary": "New action: On passage Passed by the Yeas and Nays: 214 - 208 (Roll no. 311). (text: CR H5953)",
-      "after": {
-        "date": "2026-09-16",
-        "text": "On passage Passed by the Yeas and Nays: 214 - 208 (Roll no. 311). (text: CR H5953)",
-        "chamber": "House",
-        "actionCode": "H37100"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/213",
-      "syncId": "2026-10-31T14:19:00.972Z"
-    },
-    {
-      "id": "evt_2026-10-31T141900972Z_119-hjres-213_bill.action_added_fe649b5f0cdd8da2",
-      "observedAt": "2026-10-31T14:19:00.972Z",
-      "entityType": "bill",
-      "entityId": "119-hjres-213",
-      "changeType": "bill.action_added",
-      "summary": "New action: Received in the Senate.",
-      "after": {
-        "date": "2026-09-17",
-        "text": "Received in the Senate.",
-        "chamber": "House",
-        "actionCode": null
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/213",
-      "syncId": "2026-10-31T14:19:00.972Z"
-    },
-    {
-      "id": "evt_2026-10-31T141900972Z_119-hjres-213_bill.status_changed",
-      "observedAt": "2026-10-31T14:19:00.972Z",
-      "entityType": "bill",
-      "entityId": "119-hjres-213",
-      "changeType": "bill.status_changed",
-      "summary": "Status changed from inCommittee to introduced",
-      "before": {
-        "status": "inCommittee"
-      },
-      "after": {
-        "status": "introduced"
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/213",
       "syncId": "2026-10-31T14:19:00.972Z"
