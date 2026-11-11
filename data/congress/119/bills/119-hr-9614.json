@@ -4,7 +4,7 @@
   "billNumber": 9614,
   "congress": 119,
   "title": "NRC Staff Pay Alignment Act",
-  "status": "introduced",
+  "status": "inCommittee",
   "chamber": "House",
   "policyArea": "Government Operations and Politics",
   "sponsor": {
@@ -17,11 +17,16 @@
   },
   "cosponsorCount": 0,
   "latestAction": {
-    "date": "2026-11-09",
-    "text": "Motion to reconsider laid on the table Agreed to without objection.",
+    "date": "2026-11-10",
+    "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-11-10",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "chamber": "House"
+    },
     {
       "date": "2026-11-09",
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
@@ -30,13 +35,13 @@
     },
     {
       "date": "2026-11-09",
-      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6104)",
       "chamber": "House",
       "actionCode": "H37300"
     },
     {
       "date": "2026-11-09",
-      "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6104)",
       "chamber": "House",
       "actionCode": "8000"
     },
@@ -48,7 +53,7 @@
     },
     {
       "date": "2026-11-09",
-      "text": "Considered under suspension of the rules.",
+      "text": "Considered under suspension of the rules. (consideration: CR H6104-6105)",
       "chamber": "House",
       "actionCode": "H30000"
     },
@@ -115,6 +120,11 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed in House",
+      "date": "2026-11-09",
+      "url": "https://www.congress.gov/119/bills/hr9614/BILLS-119hr9614eh.htm"
+    },
+    {
       "type": "Reported in House",
       "date": "2026-11-05",
       "url": "https://www.congress.gov/119/bills/hr9614/BILLS-119hr9614rh.htm"
@@ -130,6 +140,6 @@
   "summary": "The following analysis is based on draft bill text that was made available by the House of Representatives and may differ from the bill text as introduced. NRC Staff Pay Alignment Act This bill allows the Nuclear Regulatory Commission (NRC) to increase the annual compensation of a career appointee. Specifically, NRC may set such compensation at a rate that is up to 10% over the maximum annual rate of basic pay for a Senior Executive Service position within the NRC. This authority applies regardless of when the career appointee was appointed.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9614",
-  "updatedAt": "2026-11-10T14:15:45Z",
+  "updatedAt": "2026-11-11T14:49:05Z",
   "introducedAt": "2026-07-09"
 }

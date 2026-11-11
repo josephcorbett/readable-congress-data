@@ -4,7 +4,7 @@
   "billNumber": 9613,
   "congress": 119,
   "title": "Nuclear Advisory Committee Reform Act",
-  "status": "introduced",
+  "status": "inCommittee",
   "chamber": "House",
   "policyArea": "Energy",
   "sponsor": {
@@ -17,11 +17,52 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-11-05",
-    "text": "Placed on the Union Calendar, Calendar No. 774.",
+    "date": "2026-11-10",
+    "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-11-10",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-11-09",
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "chamber": "House",
+      "actionCode": "H38310"
+    },
+    {
+      "date": "2026-11-09",
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6102-6103)",
+      "chamber": "House",
+      "actionCode": "H37300"
+    },
+    {
+      "date": "2026-11-09",
+      "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6102-6103)",
+      "chamber": "House",
+      "actionCode": "8000"
+    },
+    {
+      "date": "2026-11-09",
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9613.",
+      "chamber": "House",
+      "actionCode": "H8D000"
+    },
+    {
+      "date": "2026-11-09",
+      "text": "Considered under suspension of the rules. (consideration: CR H6102-6104)",
+      "chamber": "House",
+      "actionCode": "H30000"
+    },
+    {
+      "date": "2026-11-09",
+      "text": "Mr. Latta moved to suspend the rules and pass the bill, as amended.",
+      "chamber": "House",
+      "actionCode": "H30300"
+    },
     {
       "date": "2026-11-05",
       "text": "Placed on the Union Calendar, Calendar No. 774.",
@@ -79,6 +120,11 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed in House",
+      "date": "2026-11-09",
+      "url": "https://www.congress.gov/119/bills/hr9613/BILLS-119hr9613eh.htm"
+    },
+    {
       "type": "Reported in House",
       "date": "2026-11-05",
       "url": "https://www.congress.gov/119/bills/hr9613/BILLS-119hr9613rh.htm"
@@ -94,6 +140,6 @@
   "summary": "The following analysis is based on draft bill text that was made available by the House of Representatives and may differ from the bill text as introduced. Nuclear Advisory Committee Reform Act This bill modifies requirements governing the Advisory Committee on Reactor Safeguards of the Nuclear Regulatory Commission (NRC), including by allowing the committee to decline to review certain license applications (e.g., applications for commercial nuclear power plants) issued by the NRC. Specifically, the committee may decline to review license applications regarding certain commercial, industrial (e.g., utilization and production facilities), medical (e.g., therapy, such as radiation treatment), or research and development purposes if it determines that such applications do not (1) contain issues that are unique, novel, or noteworthy; or (2) raise issues that warrant review by the committee. The bill also directs the committee to focus on issues that (1) directly relate to reactor design, (2) are safety significant, (3) are novel, and (4) have not been previously acted on by the committee. In addition, it directs the NRC to maintain or modify policies to ensure efficient and timely action by the committee. Finally, the bill requires the membership of the committee to reflect a diverse background of technical expertise relevant to the NRC's mission.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9613",
-  "updatedAt": "2026-11-06T09:06:34Z",
+  "updatedAt": "2026-11-11T14:49:03Z",
   "introducedAt": "2026-07-09"
 }
