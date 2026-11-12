@@ -4,7 +4,7 @@
   "billNumber": 8552,
   "congress": 119,
   "title": "Veterans’ Compensation Cost-of-Living Adjustment Act of 2026",
-  "status": "introduced",
+  "status": "passedSenate",
   "chamber": "House",
   "policyArea": "Armed Forces and National Security",
   "sponsor": {
@@ -17,14 +17,25 @@
   },
   "cosponsorCount": 5,
   "latestAction": {
-    "date": "2026-11-10",
-    "text": "Received in the Senate.",
+    "date": "2026-11-11",
+    "text": "Passed Senate without amendment by Voice Vote.",
     "chamber": "House"
   },
   "actions": [
     {
+      "date": "2026-11-11",
+      "text": "Passed Senate without amendment by Voice Vote.",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-11-11",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.",
+      "chamber": "House",
+      "actionCode": "17000"
+    },
+    {
       "date": "2026-11-10",
-      "text": "Received in the Senate.",
+      "text": "Received in the Senate, read twice. (consideration: CR S5572)",
       "chamber": "House"
     },
     {
@@ -123,6 +134,6 @@
   "summary": "Veterans' Compensation Cost-of-Living Adjustment Act of 2026 This bill requires the Department of Veterans Affairs (VA) to increase the amounts payable for wartime disability compensation, additional compensation for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children. Specifically, the VA must increase the amounts by the same percentage as the cost-of-living increase in benefits for Social Security recipients that is effective on December 1, 2026. The act requires the VA to publish the amounts payable, as increased, in the Federal Register. The VA is authorized to make a similar adjustment to the rates of disability compensation payable to persons who have not received compensation for service-connected disability or death.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8552",
-  "updatedAt": "2026-11-11T14:48:50Z",
+  "updatedAt": "2026-11-12T15:22:53Z",
   "introducedAt": "2026-04-28"
 }

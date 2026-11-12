@@ -1,8 +1,767 @@
 {
-  "generatedAt": "2026-11-11T15:53:26.963Z",
+  "generatedAt": "2026-11-12T16:36:27.907Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-11-12T163627907Z_119-house-2-316_vote.corrected",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-316",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Suspend the Rules and Pass, as Amended",
+      "before": {
+        "result": "Passed",
+        "yea": 394,
+        "nay": 3,
+        "present": 0,
+        "notVoting": 36,
+        "question": "On Motion to Suspend the Rules and Pass, as Amended",
+        "description": "American Enrichment Deployment Act (HR 9612)",
+        "date": "2026-11-09",
+        "associatedBillId": "119-hr-9612"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 394,
+        "nay": 3,
+        "present": 0,
+        "notVoting": 36,
+        "question": "On Motion to Suspend the Rules and Pass, as Amended",
+        "description": "On Motion to Suspend the Rules and Pass, as Amended",
+        "date": "2026-11-09",
+        "associatedBillId": "119-hr-9612"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll316.xml",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-house-2-320_vote.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-320",
+      "changeType": "vote.added",
+      "summary": "New House vote: On Motion to Discharge (Passed)",
+      "after": {
+        "date": "2026-11-11",
+        "question": "On Motion to Discharge",
+        "result": "Passed",
+        "yea": 245,
+        "nay": 175
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll320.xml",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-house-2-321_vote.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-321",
+      "changeType": "vote.added",
+      "summary": "New House vote: On Passage (Passed)",
+      "after": {
+        "date": "2026-11-11",
+        "question": "On Passage",
+        "result": "Passed",
+        "yea": 295,
+        "nay": 128
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll321.xml",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-house-2-322_vote.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-322",
+      "changeType": "vote.added",
+      "summary": "New House vote: On Agreeing to the Resolution (Passed)",
+      "after": {
+        "date": "2026-11-12",
+        "question": "On Agreeing to the Resolution",
+        "result": "Passed",
+        "yea": 271,
+        "nay": 135
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll322.xml",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-10353_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10353",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10353: SBIC Reporting Modernization Act of 2026",
+      "after": {
+        "title": "SBIC Reporting Modernization Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10353",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-10355_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10355",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10355: Disaster Loan Outreach Consistency Act",
+      "after": {
+        "title": "Disaster Loan Outreach Consistency Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10355",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-10371_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10371",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10371: Ensuring SBA Implementation of GAO Recommendations Act of 2026",
+      "after": {
+        "title": "Ensuring SBA Implementation of GAO Recommendations Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10371",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-10991_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10991",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10991: SPARKS Act",
+      "after": {
+        "title": "SPARKS Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10991",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-10992_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10992",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10992: To reauthorize the Tribal College Initiative Grants Program.",
+      "after": {
+        "title": "To reauthorize the Tribal College Initiative Grants Program.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10992",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-10993_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10993",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10993: To reauthorize the Solid Waste Management Grants Program.",
+      "after": {
+        "title": "To reauthorize the Solid Waste Management Grants Program.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10993",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-10994_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10994",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10994: To reauthorize the Rural Business Development Grant Program.",
+      "after": {
+        "title": "To reauthorize the Rural Business Development Grant Program.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10994",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-10995_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10995",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10995: Rural Borrowing Improvement Act",
+      "after": {
+        "title": "Rural Borrowing Improvement Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10995",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-10996_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10996",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10996: Streamlining Government Programs for Rural Businesses Act",
+      "after": {
+        "title": "Streamlining Government Programs for Rural Businesses Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10996",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-10997_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10997",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10997: Connecting Rural Stakeholders Act",
+      "after": {
+        "title": "Connecting Rural Stakeholders Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10997",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-10998_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10998",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10998: To reauthorize USDA guarantees for Bonds and Notes issued for utility infrastructure purposes.",
+      "after": {
+        "title": "To reauthorize USDA guarantees for Bonds and Notes issued for utility infrastructure purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10998",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-10999_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10999",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-10999: To reauthorize the Expansion of 911 Access Program.",
+      "after": {
+        "title": "To reauthorize the Expansion of 911 Access Program.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10999",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-11000_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-11000",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-11000: To amend title 38, United States Code, to promote the establishment of veterans cemeteries, and for other purposes.",
+      "after": {
+        "title": "To amend title 38, United States Code, to promote the establishment of veterans cemeteries, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11000",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-11001_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-11001",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-11001: To require the United States Postal Service to notify postal customers and certain officials if a post office in a leased facility is at risk of closure and seek to relocate such post office to a new facility within the same ZIP code, and for other purposes.",
+      "after": {
+        "title": "To require the United States Postal Service to notify postal customers and certain officials if a post office in a leased facility is at risk of closure and seek to relocate such post office to a new facility within the same ZIP code, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11001",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-11002_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-11002",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-11002: To prohibit the construction of data centers on Federal land, and for other purposes.",
+      "after": {
+        "title": "To prohibit the construction of data centers on Federal land, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11002",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-11003_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-11003",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-11003: To provide increased oversight of certain pardons, to clarify the applicability of bribery prohibitions to pardons and commutations, and for other purposes.",
+      "after": {
+        "title": "To provide increased oversight of certain pardons, to clarify the applicability of bribery prohibitions to pardons and commutations, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11003",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-11004_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-11004",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-11004: To authorize the use of off-highway vehicles in certain areas of the Capitol Reef National Park, Utah.",
+      "after": {
+        "title": "To authorize the use of off-highway vehicles in certain areas of the Capitol Reef National Park, Utah.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11004",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-11005_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-11005",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-11005: To encourage, enhance, and integrate Green Alert plans throughout the United States, and for other purposes.",
+      "after": {
+        "title": "To encourage, enhance, and integrate Green Alert plans throughout the United States, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11005",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-11006_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-11006",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-11006: Sergeant Sam Wybenga Housing Fairness for Veteran Families Act",
+      "after": {
+        "title": "Sergeant Sam Wybenga Housing Fairness for Veteran Families Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11006",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-11007_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-11007",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-11007: To amend title 38, United States Code, to prohibit certain conflicts of interest in the Department of Veterans Affairs, and for other purposes.",
+      "after": {
+        "title": "To amend title 38, United States Code, to prohibit certain conflicts of interest in the Department of Veterans Affairs, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11007",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-11008_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-11008",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-11008: To require U.S. Citizenship and Immigration Services to facilitate naturalization services for noncitizen veterans who have been removed from the United States or are inadmissible.",
+      "after": {
+        "title": "To require U.S. Citizenship and Immigration Services to facilitate naturalization services for noncitizen veterans who have been removed from the United States or are inadmissible.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11008",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-8552_bill.action_added_0afe8b484f1f1014",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8552",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.",
+        "chamber": "House",
+        "actionCode": "17000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8552",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-8552_bill.action_added_7315784a0843abf1",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8552",
+      "changeType": "bill.action_added",
+      "summary": "New action: Received in the Senate, read twice. (consideration: CR S5572)",
+      "after": {
+        "date": "2026-11-10",
+        "text": "Received in the Senate, read twice. (consideration: CR S5572)",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8552",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-8552_bill.action_added_ae675c5119b76f47",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8552",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed Senate without amendment by Voice Vote.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "Passed Senate without amendment by Voice Vote.",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8552",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-8552_bill.status_changed",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8552",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to passedSenate",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8552",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-9084_bill.action_added_380a3a7ea516f5b8",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9084",
+      "changeType": "bill.action_added",
+      "summary": "New action: Mr. Latta moved to suspend the rules and pass the bill, as amended.",
+      "after": {
+        "date": "2026-11-09",
+        "text": "Mr. Latta moved to suspend the rules and pass the bill, as amended.",
+        "chamber": "House",
+        "actionCode": "H30300"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-9084_bill.action_added_725ba015aad85352",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9084",
+      "changeType": "bill.action_added",
+      "summary": "New action: DEBATE - The House proceeded with forty minutes of debate on H.R. 9084.",
+      "after": {
+        "date": "2026-11-09",
+        "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9084.",
+        "chamber": "House",
+        "actionCode": "H8D000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-9084_bill.action_added_7b5c5211259ea76b",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9084",
+      "changeType": "bill.action_added",
+      "summary": "New action: Motion to reconsider laid on the table Agreed to without objection.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "Motion to reconsider laid on the table Agreed to without objection.",
+        "chamber": "House",
+        "actionCode": "H38310"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-9084_bill.action_added_84c83d70325b7b18",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9084",
+      "changeType": "bill.action_added",
+      "summary": "New action: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+        "chamber": "House",
+        "actionCode": "H37300"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-9084_bill.action_added_ad2eb4adf9bed81a",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9084",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+        "chamber": "House",
+        "actionCode": "8000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-9084_bill.action_added_c625f7208fb53f24",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9084",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered under suspension of the rules. (consideration: CR H6099-6100; text: CR H6099)",
+      "after": {
+        "date": "2026-11-09",
+        "text": "Considered under suspension of the rules. (consideration: CR H6099-6100; text: CR H6099)",
+        "chamber": "House",
+        "actionCode": "H30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-9084_bill.action_added_c98547ed10b65638",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9084",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered as unfinished business. (consideration: CR H6171)",
+      "after": {
+        "date": "2026-11-11",
+        "text": "Considered as unfinished business. (consideration: CR H6171)",
+        "chamber": "House",
+        "actionCode": "H30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-9084_bill.action_added_ef536580201dfcbf",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9084",
+      "changeType": "bill.action_added",
+      "summary": "New action: At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Latta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.",
+      "after": {
+        "date": "2026-11-09",
+        "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Latta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.",
+        "chamber": "House",
+        "actionCode": "H37210"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-9237_bill.action_added_24b8b74a25b5b610",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9237",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered as unfinished business.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "Considered as unfinished business.",
+        "chamber": "House",
+        "actionCode": "H30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9237",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-9237_bill.action_added_6db78ab5dd138956",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9237",
+      "changeType": "bill.action_added",
+      "summary": "New action: Pursuant to clause 1(c) of rule XIX, the House resumed consideration on HR 9237.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "Pursuant to clause 1(c) of rule XIX, the House resumed consideration on HR 9237.",
+        "chamber": "House",
+        "actionCode": "H8D000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9237",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-9237_bill.action_added_7b5c5211259ea76b",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9237",
+      "changeType": "bill.action_added",
+      "summary": "New action: Motion to reconsider laid on the table Agreed to without objection.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "Motion to reconsider laid on the table Agreed to without objection.",
+        "chamber": "House",
+        "actionCode": "H38310"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9237",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-9237_bill.action_added_ab7abbb001fdc342",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9237",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in House: On passage Passed by voice vote.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "Passed/agreed to in House: On passage Passed by voice vote.",
+        "chamber": "House",
+        "actionCode": "8000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9237",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-hr-9237_bill.action_added_bafe5be73eaacfac",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-hr-9237",
+      "changeType": "bill.action_added",
+      "summary": "New action: On passage Passed by voice vote.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "On passage Passed by voice vote.",
+        "chamber": "House",
+        "actionCode": "H37100"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9237",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_119-s-5716_bill.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "bill",
+      "entityId": "119-s-5716",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5716: A bill to amend the Homeland Security Act of 2002 and titles 10 and 32, United States Code, to authorize the National Guard to protect certain facilities and assets from unmanned aircraft, and for other purposes.",
+      "after": {
+        "title": "A bill to amend the Homeland Security Act of 2002 and titles 10 and 32, United States Code, to authorize the National Guard to protect certain facilities and assets from unmanned aircraft, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5716",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_B001315_member.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "member",
+      "entityId": "B001315",
+      "changeType": "member.added",
+      "summary": "Started tracking Nikki Budzinski",
+      "after": {
+        "name": "Nikki Budzinski",
+        "party": "D",
+        "chamber": "House",
+        "state": "IL"
+      },
+      "officialUrl": "https://budzinski.house.gov",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_D000635_member.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "member",
+      "entityId": "D000635",
+      "changeType": "member.added",
+      "summary": "Started tracking Maxine Dexter",
+      "after": {
+        "name": "Maxine Dexter",
+        "party": "D",
+        "chamber": "House",
+        "state": "OR"
+      },
+      "officialUrl": "https://dexter.house.gov/",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_L000593_member.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "member",
+      "entityId": "L000593",
+      "changeType": "member.added",
+      "summary": "Started tracking Mike Levin",
+      "after": {
+        "name": "Mike Levin",
+        "party": "D",
+        "chamber": "House",
+        "state": "CA"
+      },
+      "officialUrl": "https://levin.house.gov/",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_M001229_member.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "member",
+      "entityId": "M001229",
+      "changeType": "member.added",
+      "summary": "Started tracking LaMonica McIver",
+      "after": {
+        "name": "LaMonica McIver",
+        "party": "D",
+        "chamber": "House",
+        "state": "NJ"
+      },
+      "officialUrl": "https://mciver.house.gov/",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_M001245_member.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "member",
+      "entityId": "M001245",
+      "changeType": "member.added",
+      "summary": "Started tracking Christian D. Menefee",
+      "after": {
+        "name": "Christian D. Menefee",
+        "party": "D",
+        "chamber": "House",
+        "state": "TX"
+      },
+      "officialUrl": "http://menefee.house.gov/",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
+    {
+      "id": "evt_2026-11-12T163627907Z_V000130_member.added",
+      "observedAt": "2026-11-12T16:36:27.907Z",
+      "entityType": "member",
+      "entityId": "V000130",
+      "changeType": "member.added",
+      "summary": "Started tracking Juan Vargas",
+      "after": {
+        "name": "Juan Vargas",
+        "party": "D",
+        "chamber": "House",
+        "state": "CA"
+      },
+      "officialUrl": "https://vargas.house.gov",
+      "syncId": "2026-11-12T16:36:27.907Z"
+    },
     {
       "id": "evt_2026-11-11T155326963Z_119-house-2-315_vote.corrected",
       "observedAt": "2026-11-11T15:53:26.963Z",
@@ -813,756 +1572,6 @@
       },
       "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5714",
       "syncId": "2026-11-11T15:53:26.963Z"
-    },
-    {
-      "id": "evt_2026-11-11T155326963Z_119-s-5715_bill.added",
-      "observedAt": "2026-11-11T15:53:26.963Z",
-      "entityType": "bill",
-      "entityId": "119-s-5715",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-5715: A bill to amend title 38, United States Code, and the United States Housing Act of 1937, to make certain improvements to the supported housing program for veterans commonly known as \"HUD-VASH\", and for other purposes.",
-      "after": {
-        "title": "A bill to amend title 38, United States Code, and the United States Housing Act of 1937, to make certain improvements to the supported housing program for veterans commonly known as \"HUD-VASH\", and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5715",
-      "syncId": "2026-11-11T15:53:26.963Z"
-    },
-    {
-      "id": "evt_2026-11-11T155326963Z_L000603_member.added",
-      "observedAt": "2026-11-11T15:53:26.963Z",
-      "entityType": "member",
-      "entityId": "L000603",
-      "changeType": "member.added",
-      "summary": "Started tracking Morgan Luttrell",
-      "after": {
-        "name": "Morgan Luttrell",
-        "party": "R",
-        "chamber": "House",
-        "state": "TX"
-      },
-      "officialUrl": "https://luttrell.house.gov",
-      "syncId": "2026-11-11T15:53:26.963Z"
-    },
-    {
-      "id": "evt_2026-11-11T155326963Z_M001220_member.added",
-      "observedAt": "2026-11-11T15:53:26.963Z",
-      "entityType": "member",
-      "entityId": "M001220",
-      "changeType": "member.added",
-      "summary": "Started tracking Morgan McGarvey",
-      "after": {
-        "name": "Morgan McGarvey",
-        "party": "D",
-        "chamber": "House",
-        "state": "KY"
-      },
-      "officialUrl": "https://mcgarvey.house.gov",
-      "syncId": "2026-11-11T15:53:26.963Z"
-    },
-    {
-      "id": "evt_2026-11-11T155326963Z_W000800_member.added",
-      "observedAt": "2026-11-11T15:53:26.963Z",
-      "entityType": "member",
-      "entityId": "W000800",
-      "changeType": "member.added",
-      "summary": "Started tracking Peter Welch",
-      "after": {
-        "name": "Peter Welch",
-        "party": "D",
-        "chamber": "Senate",
-        "state": "VT"
-      },
-      "officialUrl": "https://www.welch.senate.gov/",
-      "syncId": "2026-11-11T15:53:26.963Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-house-2-315_vote.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-315",
-      "changeType": "vote.added",
-      "summary": "New House vote: On Motion to Suspend the Rules and Pass, as Amended (Passed)",
-      "after": {
-        "date": "2026-11-09",
-        "question": "On Motion to Suspend the Rules and Pass, as Amended",
-        "result": "Passed",
-        "yea": 397,
-        "nay": 2
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll315.xml",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-house-2-316_vote.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-316",
-      "changeType": "vote.added",
-      "summary": "New House vote: On Motion to Suspend the Rules and Pass, as Amended (Passed)",
-      "after": {
-        "date": "2026-11-09",
-        "question": "On Motion to Suspend the Rules and Pass, as Amended",
-        "result": "Passed",
-        "yea": 394,
-        "nay": 3
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll316.xml",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-1013_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-1013",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-1013: Retirement Fairness for Charities and Educational Institutions Act of 2025",
-      "after": {
-        "title": "Retirement Fairness for Charities and Educational Institutions Act of 2025",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1013",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-10936_bill.title_changed",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10936",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To deem as unsafe covered color additives, and for other purposes."
-      },
-      "after": {
-        "title": "Eliminating Dangerous Color Additives Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10936",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-10947_bill.title_changed",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10947",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To direct the Administrator of the Environmental Protection Agency to include certain nanoplastics and microplastics on a certain list of unregulated contaminants published pursuant to the Safe Drinking Water Act, and for other purposes."
-      },
-      "after": {
-        "title": "Monitor Microplastics Now Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10947",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-10951_bill.title_changed",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10951",
-      "changeType": "bill.title_changed",
-      "summary": "Title updated",
-      "before": {
-        "title": "To amend the Commodity Exchange Act to prohibit the listing of contracts relating to wildfires."
-      },
-      "after": {
-        "title": "No Bets on Wildfires Act"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10951",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-10961_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10961",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10961: To direct the Secretary of Veterans Affairs to report on the Warrior Training Advancement Course of the Veterans Benefits Administration.",
-      "after": {
-        "title": "To direct the Secretary of Veterans Affairs to report on the Warrior Training Advancement Course of the Veterans Benefits Administration.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10961",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-10962_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10962",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10962: To amend title 10, United States Code, to require a justification for use of procedures other than competitive procedures in contracting, and for other purposes.",
-      "after": {
-        "title": "To amend title 10, United States Code, to require a justification for use of procedures other than competitive procedures in contracting, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10962",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-10963_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10963",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10963: To eliminate the statute of limitations for certain Federal perjury offenses.",
-      "after": {
-        "title": "To eliminate the statute of limitations for certain Federal perjury offenses.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10963",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-10965_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10965",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10965: To provide out-of-school time educators with professional development in STEM subjects, and for other purposes.",
-      "after": {
-        "title": "To provide out-of-school time educators with professional development in STEM subjects, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10965",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-10966_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10966",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10966: To require the Secretary of Veterans Affairs to ensure that medical facilities of the Department of Veterans Affairs maintain sufficient staffing levels of maternity care coordinators, and for other purposes.",
-      "after": {
-        "title": "To require the Secretary of Veterans Affairs to ensure that medical facilities of the Department of Veterans Affairs maintain sufficient staffing levels of maternity care coordinators, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10966",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-10967_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10967",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10967: Diwali Day Act",
-      "after": {
-        "title": "Diwali Day Act",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10967",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-10968_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10968",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10968: To direct the Secretary of Veterans Affairs to establish a grant program to provide financial assistance to eligible entities to furnish supportive services to certain eligible veterans.",
-      "after": {
-        "title": "To direct the Secretary of Veterans Affairs to establish a grant program to provide financial assistance to eligible entities to furnish supportive services to certain eligible veterans.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10968",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-10969_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10969",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10969: To amend the Richard B. Russell National School Lunch Act to establish a task force for the development of best practices for schools participating in the school lunch program relating to the time of day lunches are served, the time of day recess is offered, and the duration of lunch periods, and for other purposes.",
-      "after": {
-        "title": "To amend the Richard B. Russell National School Lunch Act to establish a task force for the development of best practices for schools participating in the school lunch program relating to the time of day lunches are served, the time of day recess is offered, and the duration of lunch periods, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10969",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-3978_bill.action_added_21a42f816968b8de",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-3978",
-      "changeType": "bill.action_added",
-      "summary": "New action: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 2 (Roll no. 315).",
-      "after": {
-        "date": "2026-11-09",
-        "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 2 (Roll no. 315).",
-        "chamber": "House",
-        "actionCode": "H37300"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3978",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-3978_bill.action_added_2ab27057e749058e",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-3978",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 2 (Roll no. 315).",
-      "after": {
-        "date": "2026-11-09",
-        "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 2 (Roll no. 315).",
-        "chamber": "House",
-        "actionCode": "8000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3978",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-3978_bill.action_added_380a3a7ea516f5b8",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-3978",
-      "changeType": "bill.action_added",
-      "summary": "New action: Mr. Latta moved to suspend the rules and pass the bill, as amended.",
-      "after": {
-        "date": "2026-11-09",
-        "text": "Mr. Latta moved to suspend the rules and pass the bill, as amended.",
-        "chamber": "House",
-        "actionCode": "H30300"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3978",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-3978_bill.action_added_38436d705adea04c",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-3978",
-      "changeType": "bill.action_added",
-      "summary": "New action: Motion to reconsider laid on the table Agreed to without objection.",
-      "after": {
-        "date": "2026-11-09",
-        "text": "Motion to reconsider laid on the table Agreed to without objection.",
-        "chamber": "House",
-        "actionCode": "H38310"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3978",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-3978_bill.action_added_4b27ed75d061221b",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-3978",
-      "changeType": "bill.action_added",
-      "summary": "New action: Considered as unfinished business.",
-      "after": {
-        "date": "2026-11-09",
-        "text": "Considered as unfinished business.",
-        "chamber": "House",
-        "actionCode": "H30000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3978",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-3978_bill.action_added_ab8cf5fe7294e8ab",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-3978",
-      "changeType": "bill.action_added",
-      "summary": "New action: Considered under suspension of the rules.",
-      "after": {
-        "date": "2026-11-09",
-        "text": "Considered under suspension of the rules.",
-        "chamber": "House",
-        "actionCode": "H30000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3978",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-3978_bill.action_added_c35ba7ad46d50bd0",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-3978",
-      "changeType": "bill.action_added",
-      "summary": "New action: DEBATE - The House proceeded with forty minutes of debate on H.R. 3978.",
-      "after": {
-        "date": "2026-11-09",
-        "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3978.",
-        "chamber": "House",
-        "actionCode": "H8D000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3978",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-3978_bill.action_added_f6365af324fa2248",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-3978",
-      "changeType": "bill.action_added",
-      "summary": "New action: At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
-      "after": {
-        "date": "2026-11-09",
-        "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
-        "chamber": "House",
-        "actionCode": "H37220"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3978",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-9614_bill.action_added_155e999e8f8adf4a",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9614",
-      "changeType": "bill.action_added",
-      "summary": "New action: DEBATE - The House proceeded with forty minutes of debate on H.R. 9614.",
-      "after": {
-        "date": "2026-11-09",
-        "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9614.",
-        "chamber": "House",
-        "actionCode": "H8D000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9614",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-9614_bill.action_added_38436d705adea04c",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9614",
-      "changeType": "bill.action_added",
-      "summary": "New action: Motion to reconsider laid on the table Agreed to without objection.",
-      "after": {
-        "date": "2026-11-09",
-        "text": "Motion to reconsider laid on the table Agreed to without objection.",
-        "chamber": "House",
-        "actionCode": "H38310"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9614",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-9614_bill.action_added_8154e536cd101ecf",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9614",
-      "changeType": "bill.action_added",
-      "summary": "New action: Mr. Latta moved to suspend the rules and pass the bill.",
-      "after": {
-        "date": "2026-11-09",
-        "text": "Mr. Latta moved to suspend the rules and pass the bill.",
-        "chamber": "House",
-        "actionCode": "H30300"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9614",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-9614_bill.action_added_ab8cf5fe7294e8ab",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9614",
-      "changeType": "bill.action_added",
-      "summary": "New action: Considered under suspension of the rules.",
-      "after": {
-        "date": "2026-11-09",
-        "text": "Considered under suspension of the rules.",
-        "chamber": "House",
-        "actionCode": "H30000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9614",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-9614_bill.action_added_f7e2c1419fe83306",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9614",
-      "changeType": "bill.action_added",
-      "summary": "New action: Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.",
-      "after": {
-        "date": "2026-11-09",
-        "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.",
-        "chamber": "House",
-        "actionCode": "8000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9614",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hr-9614_bill.action_added_fc522d9e480b4c89",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hr-9614",
-      "changeType": "bill.action_added",
-      "summary": "New action: On motion to suspend the rules and pass the bill Agreed to by voice vote.",
-      "after": {
-        "date": "2026-11-09",
-        "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
-        "chamber": "House",
-        "actionCode": "H37300"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9614",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hres-1247_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hres-1247",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hres-1247: Providing for consideration of the bill (H.R. 2102) to amend title 10, United States Code, to provide for concurrent receipt of veterans' disability compensation and retired pay for disability retirees with combat-related disabilities, and for other purposes.",
-      "after": {
-        "title": "Providing for consideration of the bill (H.R. 2102) to amend title 10, United States Code, to provide for concurrent receipt of veterans' disability compensation and retired pay for disability retirees with combat-related disabilities, and for other purposes.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hres-1650_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hres-1650",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hres-1650: Providing for consideration of the bill (H.R. 1013) to amend the Federal securities laws to enhance 403(b) plans, and for other purposes.",
-      "after": {
-        "title": "Providing for consideration of the bill (H.R. 1013) to amend the Federal securities laws to enhance 403(b) plans, and for other purposes.",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1650",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hres-1651_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hres-1651",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hres-1651: Supporting the goals and ideals of \"National Veterans Small Business Week\".",
-      "after": {
-        "title": "Supporting the goals and ideals of \"National Veterans Small Business Week\".",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1651",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hres-1652_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hres-1652",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hres-1652: Expressing support for the designation of the week beginning on November 9, 2026, as \"National School Psychology Week\".",
-      "after": {
-        "title": "Expressing support for the designation of the week beginning on November 9, 2026, as \"National School Psychology Week\".",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1652",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hres-1653_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hres-1653",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hres-1653: Honoring the service and sacrifice of America's veterans on Veterans Day, 2026.",
-      "after": {
-        "title": "Honoring the service and sacrifice of America's veterans on Veterans Day, 2026.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1653",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-hres-1654_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-hres-1654",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hres-1654: Congratulating the Milwaukee Brewers, and the fans of the Milwaukee Brewers, on winning Major League Baseball's 2026 World Championship Series.",
-      "after": {
-        "title": "Congratulating the Milwaukee Brewers, and the fans of the Milwaukee Brewers, on winning Major League Baseball's 2026 World Championship Series.",
-        "status": "inCommittee"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1654",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_119-s-3589_bill.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "bill",
-      "entityId": "119-s-3589",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-s-3589: RISE Act",
-      "after": {
-        "title": "RISE Act",
-        "status": "passedSenate"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3589",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_D000096_member.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "member",
-      "entityId": "D000096",
-      "changeType": "member.added",
-      "summary": "Started tracking Danny K. Davis",
-      "after": {
-        "name": "Danny K. Davis",
-        "party": "D",
-        "chamber": "House",
-        "state": "IL"
-      },
-      "officialUrl": "https://davis.house.gov",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_I000058_member.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "member",
-      "entityId": "I000058",
-      "changeType": "member.added",
-      "summary": "Started tracking Glenn Ivey",
-      "after": {
-        "name": "Glenn Ivey",
-        "party": "D",
-        "chamber": "House",
-        "state": "MD"
-      },
-      "officialUrl": "https://ivey.house.gov",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_L000491_member.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "member",
-      "entityId": "L000491",
-      "changeType": "member.added",
-      "summary": "Started tracking Frank D. Lucas",
-      "after": {
-        "name": "Frank D. Lucas",
-        "party": "R",
-        "chamber": "House",
-        "state": "OK"
-      },
-      "officialUrl": "https://lucas.house.gov",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-10T161325079Z_P000197_member.added",
-      "observedAt": "2026-11-10T16:13:25.079Z",
-      "entityType": "member",
-      "entityId": "P000197",
-      "changeType": "member.added",
-      "summary": "Started tracking Nancy Pelosi",
-      "after": {
-        "name": "Nancy Pelosi",
-        "party": "D",
-        "chamber": "House",
-        "state": "CA"
-      },
-      "officialUrl": "https://pelosi.house.gov/",
-      "syncId": "2026-11-10T16:13:25.079Z"
-    },
-    {
-      "id": "evt_2026-11-09T182201783Z_119-hr-10356_bill.added",
-      "observedAt": "2026-11-09T18:22:01.783Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10356",
-      "changeType": "bill.added",
-      "summary": "Started tracking 119-hr-10356: Empowering Moms Act",
-      "after": {
-        "title": "Empowering Moms Act",
-        "status": "introduced"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10356",
-      "syncId": "2026-11-09T18:22:01.783Z"
-    },
-    {
-      "id": "evt_2026-11-09T182201783Z_119-hr-8205_bill.action_added_13945592b5542bb7",
-      "observedAt": "2026-11-09T18:22:01.783Z",
-      "entityType": "bill",
-      "entityId": "119-hr-8205",
-      "changeType": "bill.action_added",
-      "summary": "New action: Became Public Law No: 119-138.",
-      "after": {
-        "date": "2026-11-03",
-        "text": "Became Public Law No: 119-138.",
-        "chamber": "House",
-        "actionCode": "E40000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
-      "syncId": "2026-11-09T18:22:01.783Z"
-    },
-    {
-      "id": "evt_2026-11-09T182201783Z_119-hr-8205_bill.action_added_a4bfef957ec76780",
-      "observedAt": "2026-11-09T18:22:01.783Z",
-      "entityType": "bill",
-      "entityId": "119-hr-8205",
-      "changeType": "bill.action_added",
-      "summary": "New action: Became Public Law No: 119-138.",
-      "after": {
-        "date": "2026-11-03",
-        "text": "Became Public Law No: 119-138.",
-        "chamber": "House",
-        "actionCode": "36000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
-      "syncId": "2026-11-09T18:22:01.783Z"
-    },
-    {
-      "id": "evt_2026-11-09T182201783Z_119-hr-8205_bill.action_added_c73c8c52200ecafa",
-      "observedAt": "2026-11-09T18:22:01.783Z",
-      "entityType": "bill",
-      "entityId": "119-hr-8205",
-      "changeType": "bill.action_added",
-      "summary": "New action: Signed by President.",
-      "after": {
-        "date": "2026-11-03",
-        "text": "Signed by President.",
-        "chamber": "House",
-        "actionCode": "E30000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
-      "syncId": "2026-11-09T18:22:01.783Z"
-    },
-    {
-      "id": "evt_2026-11-09T182201783Z_119-hr-8205_bill.action_added_d648a439c547dc93",
-      "observedAt": "2026-11-09T18:22:01.783Z",
-      "entityType": "bill",
-      "entityId": "119-hr-8205",
-      "changeType": "bill.action_added",
-      "summary": "New action: Signed by President.",
-      "after": {
-        "date": "2026-11-03",
-        "text": "Signed by President.",
-        "chamber": "House",
-        "actionCode": "36000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
-      "syncId": "2026-11-09T18:22:01.783Z"
-    },
-    {
-      "id": "evt_2026-11-09T182201783Z_119-hr-8205_bill.status_changed",
-      "observedAt": "2026-11-09T18:22:01.783Z",
-      "entityType": "bill",
-      "entityId": "119-hr-8205",
-      "changeType": "bill.status_changed",
-      "summary": "Status changed from introduced to becameLaw",
-      "before": {
-        "status": "introduced"
-      },
-      "after": {
-        "status": "becameLaw"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8205",
-      "syncId": "2026-11-09T18:22:01.783Z"
     }
   ]
 }
