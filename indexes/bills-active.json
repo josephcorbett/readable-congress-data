@@ -1,239 +1,404 @@
 {
-  "generatedAt": "2026-11-12T16:36:27.907Z",
+  "generatedAt": "2026-11-13T15:55:55.409Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
     {
-      "id": "119-hr-11008",
+      "id": "119-hr-11032",
       "billType": "hr",
-      "billNumber": 11008,
+      "billNumber": 11032,
       "congress": 119,
-      "title": "To require U.S. Citizenship and Immigration Services to facilitate naturalization services for noncitizen veterans who have been removed from the United States or are inadmissible.",
+      "title": "To establish a grant program carried out by the Department of Homeland Security to fund university-based cybersecurity clinics at junior or community colleges, historically Black colleges and universities (HBCUs), Hispanic-serving institutions (HSIs), and other minority-serving institutions, and for other purposes.",
       "status": "inCommittee",
       "chamber": "House",
       "sponsor": {
-        "memberId": "V000130",
-        "name": "Rep. Vargas, Juan [D-CA-52]",
+        "memberId": "V000131",
+        "name": "Rep. Veasey, Marc A. [D-TX-33]",
         "party": "D",
-        "state": "CA",
-        "district": "52",
+        "state": "TX",
+        "district": "33",
         "chamber": "House"
       },
-      "cosponsorCount": 2,
+      "cosponsorCount": 3,
       "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on the Judiciary.",
+        "date": "2026-11-12",
+        "text": "Referred to the Committee on Homeland Security, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
         "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-11-11",
-          "text": "Referred to the House Committee on the Judiciary.",
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on Homeland Security, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2026-11-11",
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on Homeland Security, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "Intro-H"
         },
         {
-          "date": "2026-11-11",
+          "date": "2026-11-12",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "1000"
         }
       ],
       "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11008",
-      "updatedAt": "2026-11-12T11:28:35Z",
-      "introducedAt": "2026-11-11"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11032",
+      "updatedAt": "2026-11-13T12:58:43Z",
+      "introducedAt": "2026-11-12"
     },
     {
-      "id": "119-hr-11007",
+      "id": "119-hr-11031",
       "billType": "hr",
-      "billNumber": 11007,
+      "billNumber": 11031,
       "congress": 119,
-      "title": "To amend title 38, United States Code, to prohibit certain conflicts of interest in the Department of Veterans Affairs, and for other purposes.",
+      "title": "To codify the Commercial Driver's License Fraud Tipline into law, and for other purposes.",
       "status": "inCommittee",
       "chamber": "House",
       "sponsor": {
-        "memberId": "R000617",
-        "name": "Rep. Ramirez, Delia C. [D-IL-3]",
+        "memberId": "T000490",
+        "name": "Rep. Taylor, David J. [R-OH-2]",
+        "party": "R",
+        "state": "OH",
+        "district": "2",
+        "chamber": "House"
+      },
+      "cosponsorCount": 10,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on Transportation and Infrastructure.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on Transportation and Infrastructure.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11031",
+      "updatedAt": "2026-11-13T13:13:36Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11030",
+      "billType": "hr",
+      "billNumber": 11030,
+      "congress": 119,
+      "title": "To amend the Federal Crop Insurance Act to require the Federal Crop Insurance Corporation to carry out research on adjusting Federal crop insurance premiums and policies based on loss ratios.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "S001225",
+        "name": "Rep. Sorensen, Eric [D-IL-17]",
         "party": "D",
         "state": "IL",
+        "district": "17",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on Agriculture.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on Agriculture.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11030",
+      "updatedAt": "2026-11-13T13:13:36Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11029",
+      "billType": "hr",
+      "billNumber": 11029,
+      "congress": 119,
+      "title": "To amend title XVIII of the Social Security Act to establish a skilled-nursing-facility-at-home program under the Medicare program.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "S001172",
+        "name": "Rep. Smith, Adrian [R-NE-3]",
+        "party": "R",
+        "state": "NE",
+        "district": "3",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11029",
+      "updatedAt": "2026-11-13T12:58:43Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11028",
+      "billType": "hr",
+      "billNumber": 11028,
+      "congress": 119,
+      "title": "To direct the Secretary of the Treasury to list the North American Islamic Trust and its subsidiaries and affiliates as Specially Designated Global Terrorists, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "S001224",
+        "name": "Rep. Self, Keith [R-TX-3]",
+        "party": "R",
+        "state": "TX",
+        "district": "3",
+        "chamber": "House"
+      },
+      "cosponsorCount": 6,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on Foreign Affairs.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on Foreign Affairs.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11028",
+      "updatedAt": "2026-11-13T13:13:36Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11027",
+      "billType": "hr",
+      "billNumber": 11027,
+      "congress": 119,
+      "title": "To amend the Small Business Act to modify the application of price evaluation preference for qualified HUBZone small business concerns to certain contracts, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "S001221",
+        "name": "Rep. Scholten, Hillary J. [D-MI-3]",
+        "party": "D",
+        "state": "MI",
         "district": "3",
         "chamber": "House"
       },
       "cosponsorCount": 0,
       "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on Veterans' Affairs.",
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on Small Business.",
         "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-11-11",
-          "text": "Referred to the House Committee on Veterans' Affairs.",
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on Small Business.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2026-11-11",
+          "date": "2026-11-12",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "Intro-H"
         },
         {
-          "date": "2026-11-11",
+          "date": "2026-11-12",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "1000"
         }
       ],
       "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11007",
-      "updatedAt": "2026-11-12T11:43:33Z",
-      "introducedAt": "2026-11-11"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11027",
+      "updatedAt": "2026-11-13T12:58:44Z",
+      "introducedAt": "2026-11-12"
     },
     {
-      "id": "119-hr-11006",
+      "id": "119-hr-11026",
       "billType": "hr",
-      "billNumber": 11006,
+      "billNumber": 11026,
       "congress": 119,
-      "title": "Sergeant Sam Wybenga Housing Fairness for Veteran Families Act",
+      "title": "To amend title 37, United States Code, to authorize the Secretary of Defense to make contributions to Trump Accounts as a bonus for a member of the Armed Forces who commits to continued service in the Armed Forces and to amend the Internal Revenue Code of 1986 to treat any such contribution in the same manner as a contribution made pursuant to an employer Trump account contribution program.",
       "status": "inCommittee",
       "chamber": "House",
       "sponsor": {
-        "memberId": "N000191",
-        "name": "Rep. Neguse, Joe [D-CO-2]",
-        "party": "D",
-        "state": "CO",
-        "district": "2",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on Veterans' Affairs.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Referred to the House Committee on Veterans' Affairs.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-11-11",
-          "url": "https://www.congress.gov/119/bills/hr11006/BILLS-119hr11006ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11006",
-      "updatedAt": "2026-11-12T11:43:33Z",
-      "introducedAt": "2026-11-11"
-    },
-    {
-      "id": "119-hr-11005",
-      "billType": "hr",
-      "billNumber": 11005,
-      "congress": 119,
-      "title": "To encourage, enhance, and integrate Green Alert plans throughout the United States, and for other purposes.",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "M001160",
-        "name": "Rep. Moore, Gwen [D-WI-4]",
-        "party": "D",
-        "state": "WI",
-        "district": "4",
+        "memberId": "P000048",
+        "name": "Rep. Pfluger, August [R-TX-11]",
+        "party": "R",
+        "state": "TX",
+        "district": "11",
         "chamber": "House"
       },
       "cosponsorCount": 1,
       "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on the Judiciary.",
+        "date": "2026-11-12",
+        "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
         "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-11-11",
-          "text": "Referred to the House Committee on the Judiciary.",
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2026-11-11",
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "Intro-H"
         },
         {
-          "date": "2026-11-11",
+          "date": "2026-11-12",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "1000"
         }
       ],
       "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11005",
-      "updatedAt": "2026-11-12T11:28:34Z",
-      "introducedAt": "2026-11-11"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11026",
+      "updatedAt": "2026-11-13T12:58:44Z",
+      "introducedAt": "2026-11-12"
     },
     {
-      "id": "119-hr-11004",
+      "id": "119-hr-11025",
       "billType": "hr",
-      "billNumber": 11004,
+      "billNumber": 11025,
       "congress": 119,
-      "title": "To authorize the use of off-highway vehicles in certain areas of the Capitol Reef National Park, Utah.",
+      "title": "Stand By NICU Babies and Families Act",
       "status": "inCommittee",
       "chamber": "House",
       "sponsor": {
-        "memberId": "M001228",
-        "name": "Rep. Maloy, Celeste [R-UT-2]",
-        "party": "R",
-        "state": "UT",
-        "district": "2",
+        "memberId": "P000620",
+        "name": "Rep. Pettersen, Brittany [D-CO-7]",
+        "party": "D",
+        "state": "CO",
+        "district": "7",
         "chamber": "House"
       },
-      "cosponsorCount": 0,
+      "cosponsorCount": 3,
       "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on Natural Resources.",
+        "date": "2026-11-12",
+        "text": "Referred to the Committee on Education and Workforce, and in addition to the Committees on Oversight and Government Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
         "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-11-11",
-          "text": "Referred to the House Committee on Natural Resources.",
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on Education and Workforce, and in addition to the Committees on Oversight and Government Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2026-11-11",
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on Education and Workforce, and in addition to the Committees on Oversight and Government Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on Education and Workforce, and in addition to the Committees on Oversight and Government Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "Intro-H"
         },
         {
-          "date": "2026-11-11",
+          "date": "2026-11-12",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "1000"
@@ -242,67 +407,573 @@
       "textVersions": [
         {
           "type": "Introduced in House",
-          "date": "2026-11-11",
-          "url": "https://www.congress.gov/119/bills/hr11004/BILLS-119hr11004ih.htm"
+          "date": "2026-11-12",
+          "url": "https://www.congress.gov/119/bills/hr11025/BILLS-119hr11025ih.htm"
         }
       ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11004",
-      "updatedAt": "2026-11-12T11:28:35Z",
-      "introducedAt": "2026-11-11"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11025",
+      "updatedAt": "2026-11-13T13:13:35Z",
+      "introducedAt": "2026-11-12"
     },
     {
-      "id": "119-hr-11003",
+      "id": "119-hr-11024",
       "billType": "hr",
-      "billNumber": 11003,
+      "billNumber": 11024,
       "congress": 119,
-      "title": "To provide increased oversight of certain pardons, to clarify the applicability of bribery prohibitions to pardons and commutations, and for other purposes.",
+      "title": "To amend title XXVII of the Public Health Service Act to require group health plans and health insurance issuers offering group or individual health insurance coverage to provide coverage of allergy and asthma diagnostic testing and allergen immunotherapy.",
       "status": "inCommittee",
       "chamber": "House",
       "sponsor": {
-        "memberId": "L000593",
-        "name": "Rep. Levin, Mike [D-CA-49]",
-        "party": "D",
-        "state": "CA",
-        "district": "49",
+        "memberId": "O000177",
+        "name": "Rep. Onder, Robert F. [R-MO-3]",
+        "party": "R",
+        "state": "MO",
+        "district": "3",
         "chamber": "House"
       },
-      "cosponsorCount": 12,
+      "cosponsorCount": 1,
       "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on the Judiciary.",
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on Energy and Commerce.",
         "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-11-11",
-          "text": "Referred to the House Committee on the Judiciary.",
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on Energy and Commerce.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2026-11-11",
+          "date": "2026-11-12",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "Intro-H"
         },
         {
-          "date": "2026-11-11",
+          "date": "2026-11-12",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "1000"
         }
       ],
       "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11003",
-      "updatedAt": "2026-11-12T11:28:35Z",
-      "introducedAt": "2026-11-11"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11024",
+      "updatedAt": "2026-11-13T13:13:36Z",
+      "introducedAt": "2026-11-12"
     },
     {
-      "id": "119-hr-11002",
+      "id": "119-hr-11023",
       "billType": "hr",
-      "billNumber": 11002,
+      "billNumber": 11023,
       "congress": 119,
-      "title": "To prohibit the construction of data centers on Federal land, and for other purposes.",
+      "title": "To authorize the Federal Energy Regulatory Commission to modify filings under part II of the Federal Power Act, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "M001225",
+        "name": "Rep. Mullin, Kevin [D-CA-15]",
+        "party": "D",
+        "state": "CA",
+        "district": "15",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on Energy and Commerce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on Energy and Commerce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11023",
+      "updatedAt": "2026-11-13T13:13:36Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11022",
+      "billType": "hr",
+      "billNumber": 11022,
+      "congress": 119,
+      "title": "To establish a Floodplains and Watershed Resilience Program, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "M001232",
+        "name": "Rep. McClain Delaney, April [D-MD-6]",
+        "party": "D",
+        "state": "MD",
+        "district": "6",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on Agriculture.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on Agriculture.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11022",
+      "updatedAt": "2026-11-13T12:58:43Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11021",
+      "billType": "hr",
+      "billNumber": 11021,
+      "congress": 119,
+      "title": "To direct the Secretary of Veterans Affairs to conduct a review and take specified actions to promote the accurate cancer screening of veterans, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "M000194",
+        "name": "Rep. Mace, Nancy [R-SC-1]",
+        "party": "R",
+        "state": "SC",
+        "district": "1",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on Veterans' Affairs.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on Veterans' Affairs.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11021",
+      "updatedAt": "2026-11-13T13:13:36Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11020",
+      "billType": "hr",
+      "billNumber": 11020,
+      "congress": 119,
+      "title": "To establish a nonimmigrant classification for health and human services workers.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "L000599",
+        "name": "Rep. Lawler, Michael [R-NY-17]",
+        "party": "R",
+        "state": "NY",
+        "district": "17",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Agriculture, Energy and Commerce, Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Agriculture, Energy and Commerce, Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Agriculture, Energy and Commerce, Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Agriculture, Energy and Commerce, Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Agriculture, Energy and Commerce, Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Agriculture, Energy and Commerce, Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11020",
+      "updatedAt": "2026-11-13T12:58:44Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11019",
+      "billType": "hr",
+      "billNumber": 11019,
+      "congress": 119,
+      "title": "To limit the use of Federal funds to carry out the proposed rule titled \"Confidential Government Information Nondisclosure Agreement\" relating to nondisclosure agreements for Federal employees, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "K000391",
+        "name": "Rep. Krishnamoorthi, Raja [D-IL-8]",
+        "party": "D",
+        "state": "IL",
+        "district": "8",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on Oversight and Government Reform.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on Oversight and Government Reform.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11019",
+      "updatedAt": "2026-11-13T13:13:36Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11018",
+      "billType": "hr",
+      "billNumber": 11018,
+      "congress": 119,
+      "title": "To amend the Internal Revenue Code of 1986 to provide for a refundable credit for certain fees with respect to an animal adoption, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "K000402",
+        "name": "Rep. Kennedy, Timothy M. [D-NY-26]",
+        "party": "D",
+        "state": "NY",
+        "district": "26",
+        "chamber": "House"
+      },
+      "cosponsorCount": 2,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on Ways and Means.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on Ways and Means.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11018",
+      "updatedAt": "2026-11-13T13:13:36Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11017",
+      "billType": "hr",
+      "billNumber": 11017,
+      "congress": 119,
+      "title": "Veterans Claims Timeliness, Accountability, and Care Act",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "F000485",
+        "name": "Rep. Fuller, Clay [R-GA-14]",
+        "party": "R",
+        "state": "GA",
+        "district": "14",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on Veterans' Affairs.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on Veterans' Affairs.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [
+        {
+          "type": "Introduced in House",
+          "date": "2026-11-12",
+          "url": "https://www.congress.gov/119/bills/hr11017/BILLS-119hr11017ih.htm"
+        }
+      ],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11017",
+      "updatedAt": "2026-11-13T13:13:36Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11016",
+      "billType": "hr",
+      "billNumber": 11016,
+      "congress": 119,
+      "title": "To prohibit the Secretary of Homeland Security from using deceptive immigration enforcement practices involving taking a child into custody for the purpose of apprehending an alien parent of the child, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "F000476",
+        "name": "Rep. Frost, Maxwell [D-FL-10]",
+        "party": "D",
+        "state": "FL",
+        "district": "10",
+        "chamber": "House"
+      },
+      "cosponsorCount": 27,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11016",
+      "updatedAt": "2026-11-13T13:13:36Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11015",
+      "billType": "hr",
+      "billNumber": 11015,
+      "congress": 119,
+      "title": "To require the Secretary of Energy to establish a program to strengthen the domestic science and engineering workforce through partnerships among institutions of higher education, National Laboratories, other Federal science agencies, and industry to support accelerated doctoral programs, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "F000480",
+        "name": "Rep. Fong, Vince [R-CA-20]",
+        "party": "R",
+        "state": "CA",
+        "district": "20",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on Education and Workforce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on Education and Workforce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11015",
+      "updatedAt": "2026-11-13T12:58:44Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11014",
+      "billType": "hr",
+      "billNumber": 11014,
+      "congress": 119,
+      "title": "To amend the Poultry Products Inspection Act to prohibit the force feeding of ducks and geese.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "E000299",
+        "name": "Rep. Escobar, Veronica [D-TX-16]",
+        "party": "D",
+        "state": "TX",
+        "district": "16",
+        "chamber": "House"
+      },
+      "cosponsorCount": 0,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on Agriculture.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on Agriculture.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11014",
+      "updatedAt": "2026-11-13T12:58:44Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11013",
+      "billType": "hr",
+      "billNumber": 11013,
+      "congress": 119,
+      "title": "To amend the Public Health Service Act to protect the integrity of the United States Preventive Services Task Force, and for other purposes.",
       "status": "inCommittee",
       "chamber": "House",
       "sponsor": {
@@ -313,1152 +984,45 @@
         "district": "3",
         "chamber": "House"
       },
-      "cosponsorCount": 13,
+      "cosponsorCount": 2,
       "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11002",
-      "updatedAt": "2026-11-12T11:28:35Z",
-      "introducedAt": "2026-11-11"
-    },
-    {
-      "id": "119-hr-11001",
-      "billType": "hr",
-      "billNumber": 11001,
-      "congress": 119,
-      "title": "To require the United States Postal Service to notify postal customers and certain officials if a post office in a leased facility is at risk of closure and seek to relocate such post office to a new facility within the same ZIP code, and for other purposes.",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "B001296",
-        "name": "Rep. Boyle, Brendan F. [D-PA-2]",
-        "party": "D",
-        "state": "PA",
-        "district": "2",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on Oversight and Government Reform.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Referred to the House Committee on Oversight and Government Reform.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11001",
-      "updatedAt": "2026-11-12T11:43:33Z",
-      "introducedAt": "2026-11-11"
-    },
-    {
-      "id": "119-hr-11000",
-      "billType": "hr",
-      "billNumber": 11000,
-      "congress": 119,
-      "title": "To amend title 38, United States Code, to promote the establishment of veterans cemeteries, and for other purposes.",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "B001301",
-        "name": "Rep. Bergman, Jack [R-MI-1]",
-        "party": "R",
-        "state": "MI",
-        "district": "1",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on Veterans' Affairs.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Referred to the House Committee on Veterans' Affairs.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11000",
-      "updatedAt": "2026-11-12T11:43:33Z",
-      "introducedAt": "2026-11-11"
-    },
-    {
-      "id": "119-hr-10999",
-      "billType": "hr",
-      "billNumber": 10999,
-      "congress": 119,
-      "title": "To reauthorize the Expansion of 911 Access Program.",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "B001298",
-        "name": "Rep. Bacon, Don [R-NE-2]",
-        "party": "R",
-        "state": "NE",
-        "district": "2",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10999",
-      "updatedAt": "2026-11-12T11:28:35Z",
-      "introducedAt": "2026-11-11"
-    },
-    {
-      "id": "119-hr-10998",
-      "billType": "hr",
-      "billNumber": 10998,
-      "congress": 119,
-      "title": "To reauthorize USDA guarantees for Bonds and Notes issued for utility infrastructure purposes.",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "B001298",
-        "name": "Rep. Bacon, Don [R-NE-2]",
-        "party": "R",
-        "state": "NE",
-        "district": "2",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on Agriculture.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Referred to the House Committee on Agriculture.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10998",
-      "updatedAt": "2026-11-12T11:28:34Z",
-      "introducedAt": "2026-11-11"
-    },
-    {
-      "id": "119-hr-10997",
-      "billType": "hr",
-      "billNumber": 10997,
-      "congress": 119,
-      "title": "Connecting Rural Stakeholders Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "B001298",
-        "name": "Rep. Bacon, Don [R-NE-2]",
-        "party": "R",
-        "state": "NE",
-        "district": "2",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on Agriculture.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Referred to the House Committee on Agriculture.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-11-11",
-          "url": "https://www.congress.gov/119/bills/hr10997/BILLS-119hr10997ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10997",
-      "updatedAt": "2026-11-12T11:43:33Z",
-      "introducedAt": "2026-11-11"
-    },
-    {
-      "id": "119-hr-10996",
-      "billType": "hr",
-      "billNumber": 10996,
-      "congress": 119,
-      "title": "Streamlining Government Programs for Rural Businesses Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "B001298",
-        "name": "Rep. Bacon, Don [R-NE-2]",
-        "party": "R",
-        "state": "NE",
-        "district": "2",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on Agriculture.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Referred to the House Committee on Agriculture.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-11-11",
-          "url": "https://www.congress.gov/119/bills/hr10996/BILLS-119hr10996ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10996",
-      "updatedAt": "2026-11-12T11:43:33Z",
-      "introducedAt": "2026-11-11"
-    },
-    {
-      "id": "119-hr-10995",
-      "billType": "hr",
-      "billNumber": 10995,
-      "congress": 119,
-      "title": "Rural Borrowing Improvement Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "B001298",
-        "name": "Rep. Bacon, Don [R-NE-2]",
-        "party": "R",
-        "state": "NE",
-        "district": "2",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on Agriculture.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Referred to the House Committee on Agriculture.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-11-11",
-          "url": "https://www.congress.gov/119/bills/hr10995/BILLS-119hr10995ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10995",
-      "updatedAt": "2026-11-12T11:28:35Z",
-      "introducedAt": "2026-11-11"
-    },
-    {
-      "id": "119-hr-10994",
-      "billType": "hr",
-      "billNumber": 10994,
-      "congress": 119,
-      "title": "To reauthorize the Rural Business Development Grant Program.",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "B001298",
-        "name": "Rep. Bacon, Don [R-NE-2]",
-        "party": "R",
-        "state": "NE",
-        "district": "2",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on Agriculture.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Referred to the House Committee on Agriculture.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10994",
-      "updatedAt": "2026-11-12T11:28:35Z",
-      "introducedAt": "2026-11-11"
-    },
-    {
-      "id": "119-hr-10993",
-      "billType": "hr",
-      "billNumber": 10993,
-      "congress": 119,
-      "title": "To reauthorize the Solid Waste Management Grants Program.",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "B001298",
-        "name": "Rep. Bacon, Don [R-NE-2]",
-        "party": "R",
-        "state": "NE",
-        "district": "2",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on Agriculture.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Referred to the House Committee on Agriculture.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10993",
-      "updatedAt": "2026-11-12T11:28:35Z",
-      "introducedAt": "2026-11-11"
-    },
-    {
-      "id": "119-hr-10992",
-      "billType": "hr",
-      "billNumber": 10992,
-      "congress": 119,
-      "title": "To reauthorize the Tribal College Initiative Grants Program.",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "B001298",
-        "name": "Rep. Bacon, Don [R-NE-2]",
-        "party": "R",
-        "state": "NE",
-        "district": "2",
-        "chamber": "House"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on Agriculture.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Referred to the House Committee on Agriculture.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10992",
-      "updatedAt": "2026-11-12T11:43:33Z",
-      "introducedAt": "2026-11-11"
-    },
-    {
-      "id": "119-hr-10991",
-      "billType": "hr",
-      "billNumber": 10991,
-      "congress": 119,
-      "title": "SPARKS Act",
-      "status": "inCommittee",
-      "chamber": "House",
-      "sponsor": {
-        "memberId": "M001245",
-        "name": "Rep. Menefee, Christian D. [D-TX-18]",
-        "party": "D",
-        "state": "TX",
-        "district": "18",
-        "chamber": "House"
-      },
-      "cosponsorCount": 9,
-      "latestAction": {
-        "date": "2026-11-11",
+        "date": "2026-11-12",
         "text": "Referred to the House Committee on Energy and Commerce.",
         "chamber": "House"
       },
       "actions": [
         {
-          "date": "2026-11-11",
+          "date": "2026-11-12",
           "text": "Referred to the House Committee on Energy and Commerce.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2026-11-11",
+          "date": "2026-11-12",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "Intro-H"
         },
         {
-          "date": "2026-11-11",
+          "date": "2026-11-12",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "1000"
         }
       ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-11-11",
-          "url": "https://www.congress.gov/119/bills/hr10991/BILLS-119hr10991ih.htm"
-        }
-      ],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10991",
-      "updatedAt": "2026-11-12T11:28:35Z",
-      "introducedAt": "2026-11-11"
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11013",
+      "updatedAt": "2026-11-13T13:13:36Z",
+      "introducedAt": "2026-11-12"
     },
     {
-      "id": "119-hr-10371",
+      "id": "119-hr-11012",
       "billType": "hr",
-      "billNumber": 10371,
+      "billNumber": 11012,
       "congress": 119,
-      "title": "Ensuring SBA Implementation of GAO Recommendations Act of 2026",
-      "status": "introduced",
+      "title": "To require the Secretary of Energy to adopt model standards and best practices to support effective virtual power plant adoption, and for other purposes.",
+      "status": "inCommittee",
       "chamber": "House",
-      "policyArea": "Commerce",
-      "sponsor": {
-        "memberId": "M001229",
-        "name": "Rep. McIver, LaMonica [D-NJ-10]",
-        "party": "D",
-        "state": "NJ",
-        "district": "10",
-        "chamber": "House"
-      },
-      "cosponsorCount": 2,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Motion to reconsider laid on the table Agreed to without objection.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "House",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
-          "chamber": "House",
-          "actionCode": "H37300"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.",
-          "chamber": "House",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 10371.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Considered under suspension of the rules.",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Mr. Williams (TX) moved to suspend the rules and pass the bill.",
-          "chamber": "House",
-          "actionCode": "H30300"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Placed on the Union Calendar, Calendar No. 744.",
-          "chamber": "House",
-          "actionCode": "H12410"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Reported by the Committee on Small Business. H. Rept. 119-847.",
-          "chamber": "House",
-          "actionCode": "H12200"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Reported by the Committee on Small Business. H. Rept. 119-847.",
-          "chamber": "House",
-          "actionCode": "5000"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Ordered to be Reported by the Yeas and Nays: 22 - 0.",
-          "chamber": "House",
-          "actionCode": "H19000"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Committee Consideration and Mark-up Session Held",
-          "chamber": "House",
-          "actionCode": "H15001"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Referred to the House Committee on Small Business.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Reported in House",
-          "date": "2026-10-09",
-          "url": "https://www.congress.gov/119/bills/hr10371/BILLS-119hr10371rh.htm"
-        },
-        {
-          "type": "Introduced in House",
-          "date": "2026-09-14",
-          "url": "https://www.congress.gov/119/bills/hr10371/BILLS-119hr10371ih.htm"
-        }
-      ],
-      "summaryHtml": "<p><strong>Ensuring SBA Implementation of GAO Recommendations Act of 2026</strong></p><p>This bill requires the Office of Veterans Business Development within the Small Business Administration (SBA) to develop and implement policies and procedures to ensure compliance with existing reporting requirements related to veteran-owned small businesses. Specifically, such policies must ensure the SBA complies and submits an annual report on the needs of small businesses owned and controlled by veterans, including service-disabled veterans. Such reports must also include proposals to improve the access of such businesses to government assistance.&nbsp;</p>",
-      "summaryFormat": "html",
-      "summary": "Ensuring SBA Implementation of GAO Recommendations Act of 2026 This bill requires the Office of Veterans Business Development within the Small Business Administration (SBA) to develop and implement policies and procedures to ensure compliance with existing reporting requirements related to veteran-owned small businesses. Specifically, such policies must ensure the SBA complies and submits an annual report on the needs of small businesses owned and controlled by veterans, including service-disabled veterans. Such reports must also include proposals to improve the access of such businesses to government assistance.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10371",
-      "updatedAt": "2026-11-12T09:06:27Z",
-      "introducedAt": "2026-09-14"
-    },
-    {
-      "id": "119-hr-10355",
-      "billType": "hr",
-      "billNumber": 10355,
-      "congress": 119,
-      "title": "Disaster Loan Outreach Consistency Act",
-      "status": "introduced",
-      "chamber": "House",
-      "policyArea": "Commerce",
-      "sponsor": {
-        "memberId": "M001246",
-        "name": "Rep. Mejia, Analilia [D-NJ-11]",
-        "party": "D",
-        "state": "NJ",
-        "district": "11",
-        "chamber": "House"
-      },
-      "cosponsorCount": 2,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Motion to reconsider laid on the table Agreed to without objection.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "House",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
-          "chamber": "House",
-          "actionCode": "H37300"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.",
-          "chamber": "House",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 10355.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Considered under suspension of the rules.",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Mr. Williams (TX) moved to suspend the rules and pass the bill.",
-          "chamber": "House",
-          "actionCode": "H30300"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Placed on the Union Calendar, Calendar No. 743.",
-          "chamber": "House",
-          "actionCode": "H12410"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Reported by the Committee on Small Business. H. Rept. 119-846.",
-          "chamber": "House",
-          "actionCode": "H12200"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Reported by the Committee on Small Business. H. Rept. 119-846.",
-          "chamber": "House",
-          "actionCode": "5000"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Ordered to be Reported by the Yeas and Nays: 23 - 0.",
-          "chamber": "House",
-          "actionCode": "H19000"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Committee Consideration and Mark-up Session Held",
-          "chamber": "House",
-          "actionCode": "H15001"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Referred to the House Committee on Small Business.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Reported in House",
-          "date": "2026-10-09",
-          "url": "https://www.congress.gov/119/bills/hr10355/BILLS-119hr10355rh.htm"
-        },
-        {
-          "type": "Introduced in House",
-          "date": "2026-09-14",
-          "url": "https://www.congress.gov/119/bills/hr10355/BILLS-119hr10355ih.htm"
-        }
-      ],
-      "summaryHtml": "<p><strong>Disaster Loan Outreach Consistency Act</strong></p><p>This bill requires the Small Business Administration (SBA) to ensure that&nbsp;outreach materials for its disaster loan program (e.g., press releases, fact sheets) are accurate, current, and consistent across all&nbsp;disaster field operations centers. (The SBA Disaster Loan Program provides low-interest loans to homeowners, renters, businesses, and nonprofits to assist with recovering from declared disasters.)</p><p>Specifically, the&nbsp;SBA must (1) include in outreach materials updated information on the eligibility processes for and terms of the disaster loan program; (2) verify, prior to public release, that outreach materials are&nbsp;current; and (3) annually review outreach materials to ensure consistency across disaster field operations centers.&nbsp;</p>",
-      "summaryFormat": "html",
-      "summary": "Disaster Loan Outreach Consistency Act This bill requires the Small Business Administration (SBA) to ensure that outreach materials for its disaster loan program (e.g., press releases, fact sheets) are accurate, current, and consistent across all disaster field operations centers. (The SBA Disaster Loan Program provides low-interest loans to homeowners, renters, businesses, and nonprofits to assist with recovering from declared disasters.) Specifically, the SBA must (1) include in outreach materials updated information on the eligibility processes for and terms of the disaster loan program; (2) verify, prior to public release, that outreach materials are current; and (3) annually review outreach materials to ensure consistency across disaster field operations centers.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10355",
-      "updatedAt": "2026-11-12T09:06:26Z",
-      "introducedAt": "2026-09-14"
-    },
-    {
-      "id": "119-hr-10353",
-      "billType": "hr",
-      "billNumber": 10353,
-      "congress": 119,
-      "title": "SBIC Reporting Modernization Act of 2026",
-      "status": "introduced",
-      "chamber": "House",
-      "policyArea": "Commerce",
-      "sponsor": {
-        "memberId": "F000475",
-        "name": "Rep. Finstad, Brad [R-MN-1]",
-        "party": "R",
-        "state": "MN",
-        "district": "1",
-        "chamber": "House"
-      },
-      "cosponsorCount": 1,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Motion to reconsider laid on the table Agreed to without objection.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "House",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
-          "chamber": "House",
-          "actionCode": "H37300"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.",
-          "chamber": "House",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 10353.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Considered under suspension of the rules.",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Mr. Williams (TX) moved to suspend the rules and pass the bill.",
-          "chamber": "House",
-          "actionCode": "H30300"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Placed on the Union Calendar, Calendar No. 742.",
-          "chamber": "House",
-          "actionCode": "H12410"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Reported by the Committee on Small Business. H. Rept. 119-845.",
-          "chamber": "House",
-          "actionCode": "H12200"
-        },
-        {
-          "date": "2026-10-09",
-          "text": "Reported by the Committee on Small Business. H. Rept. 119-845.",
-          "chamber": "House",
-          "actionCode": "5000"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Ordered to be Reported by the Yeas and Nays: 23 - 0.",
-          "chamber": "House",
-          "actionCode": "H19000"
-        },
-        {
-          "date": "2026-09-16",
-          "text": "Committee Consideration and Mark-up Session Held",
-          "chamber": "House",
-          "actionCode": "H15001"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Referred to the House Committee on Small Business.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-09-14",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Reported in House",
-          "date": "2026-10-09",
-          "url": "https://www.congress.gov/119/bills/hr10353/BILLS-119hr10353rh.htm"
-        },
-        {
-          "type": "Introduced in House",
-          "date": "2026-09-14",
-          "url": "https://www.congress.gov/119/bills/hr10353/BILLS-119hr10353ih.htm"
-        }
-      ],
-      "summaryHtml": "<p><strong>SBIC Reporting Modernization Act of 2026</strong></p><p>This bill requires the Small Business Administration (SBA) to report quarterly on its website specified information about Small Business Investment Companies (SBICs), such as the amount of SBA-guaranteed financing SBICs receive. SBICs are privately owned companies, licensed and regulated by the SBA, which invest in small businesses through debt and equity.</p><p>The quarterly report must include (1) elements of the SBA's annual report, such as the number of licensed SBICs and the amount of government leverage each has received; (2) the number of SBIC applicants approved; and (3) the number of jobs created or sustained as a result of SBIC investments. (In general, an SBIC may receive $2 of SBA-guaranteed financing for every $1 in private capital the SBIC raises, subject to a $150 million limit).</p>",
-      "summaryFormat": "html",
-      "summary": "SBIC Reporting Modernization Act of 2026 This bill requires the Small Business Administration (SBA) to report quarterly on its website specified information about Small Business Investment Companies (SBICs), such as the amount of SBA-guaranteed financing SBICs receive. SBICs are privately owned companies, licensed and regulated by the SBA, which invest in small businesses through debt and equity. The quarterly report must include (1) elements of the SBA's annual report, such as the number of licensed SBICs and the amount of government leverage each has received; (2) the number of SBIC applicants approved; and (3) the number of jobs created or sustained as a result of SBIC investments. (In general, an SBIC may receive $2 of SBA-guaranteed financing for every $1 in private capital the SBIC raises, subject to a $150 million limit).",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10353",
-      "updatedAt": "2026-11-12T09:06:31Z",
-      "introducedAt": "2026-09-14"
-    },
-    {
-      "id": "119-hr-9237",
-      "billType": "hr",
-      "billNumber": 9237,
-      "congress": 119,
-      "title": "Take Care of America’s Veterans Act",
-      "status": "introduced",
-      "chamber": "House",
-      "policyArea": "Armed Forces and National Security",
-      "sponsor": {
-        "memberId": "B001295",
-        "name": "Rep. Bost, Mike [R-IL-12]",
-        "party": "R",
-        "state": "IL",
-        "district": "12",
-        "chamber": "House"
-      },
-      "cosponsorCount": 30,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Motion to reconsider laid on the table Agreed to without objection.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "House",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "On passage Passed by voice vote.",
-          "chamber": "House",
-          "actionCode": "H37100"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Passed/agreed to in House: On passage Passed by voice vote.",
-          "chamber": "House",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Considered as unfinished business.",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Pursuant to clause 1(c) of rule XIX, the House resumed consideration on HR 9237.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-07-16",
-          "text": "POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair announced further proceedings on H.R. 9237 is postponed.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-07-16",
-          "text": "On motion to recommit Failed by the Yeas and Nays: 210 - 211 (Roll no. 249).",
-          "chamber": "House",
-          "actionCode": "H36210"
-        },
-        {
-          "date": "2026-07-16",
-          "text": "Considered as unfinished business. (consideration: CR H4614-4615)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-07-16",
-          "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 9237, the Chair put the question on motion to recommit and by voice vote, announced the noes had prevailed. Mr. Deluzio demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-07-16",
-          "text": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
-          "chamber": "House",
-          "actionCode": "H8A000"
-        },
-        {
-          "date": "2026-07-16",
-          "text": "Mr. Deluzio moved to recommit to the Committee on Veterans' Affairs. (CR H4613)",
-          "chamber": "House",
-          "actionCode": "H36200"
-        },
-        {
-          "date": "2026-07-16",
-          "text": "The previous question was ordered pursuant to the rule.",
-          "chamber": "House",
-          "actionCode": "H35000"
-        },
-        {
-          "date": "2026-07-16",
-          "text": "DEBATE - The House proceeded with one hour of debate on H.R. 9237.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-07-16",
-          "text": "Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-07-16",
-          "text": "Considered under the provisions of rule H. Res. 1423. (consideration: CR H4548-4613; text: CR H4548-4613)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-07-13",
-          "text": "Rules Committee Resolution H. Res. 1423 Reported to House. Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill.",
-          "chamber": "House",
-          "actionCode": "H1L210"
-        },
-        {
-          "date": "2026-06-23",
-          "text": "Rules Committee Resolution H. Res. 1377 Reported to House. Rule provides for consideration of H.R. 1181, H.R. 9022, H.R. 8595 and H.R. 9237. The resolution provides for consideration of H.R. 1181 and H.R. 9237 under a closed rule and H.R. 9022 and H.R. 8595 under a structured rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.",
-          "chamber": "House",
-          "actionCode": "H1L210"
-        },
-        {
-          "date": "2026-06-10",
-          "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-06-10",
-          "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-06-10",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-06-10",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Introduced in House",
-          "date": "2026-06-10",
-          "url": "https://www.congress.gov/119/bills/hr9237/BILLS-119hr9237ih.htm"
-        }
-      ],
-      "summaryHtml": "<p><strong>Take Care of America's Veterans Act</strong></p><p>This bill addresses veterans’ benefits, health care, counseling, Department of Veterans Affairs (VA) personnel, VA infrastructure, and the Veterans Community Care Program (VCCP).</p><p>The bill modifies various compensation programs for veterans, including by (1) allowing concurrent receipt of disability compensation and military retired pay for certain retirees with a combat-related disability, (2) extending entitlement for various benefits and services to remarried surviving spouses, (3) increasing the rate of dependency and indemnity compensation, and (4) establishing a supplemental monthly allowance for certain disabled veterans.</p><p>The bill also addresses VA education and training benefits, including by (1) modifying which independent study programs are covered under veterans’ educational assistance benefits, (2) requiring Transition Assistance Program counseling to include a presentation about VA benefits, and (3) increasing the housing allowance rate for individuals pursuing apprenticeships.</p><p>The bill revises health care provisions, including by (1) expanding support and assistance provided to family caregivers, (2) extending the Staff Sergeant Parker Gordon Fox Suicide Prevention Grant Program, and (3) expanding the scope of VA mental health research.</p><p>Among other elements, the bill</p><ul><li>revises VA disability ratings for sleep apnea and tinnitus;</li><li>expands eligibility for a memorial headstone or marker for the spouse, surviving spouse, child, or dependent of a veteran or member of the Armed Forces;</li><li>addresses the administration of the VCCP and codifies the eligibility standards;</li><li>establishes a standardized screening process for priority or routine admission to certain mental health care programs; and</li><li>addresses VA personnel, hiring, and infrastructure matters.</li></ul>",
-      "summaryFormat": "html",
-      "summary": "Take Care of America's Veterans Act This bill addresses veterans’ benefits, health care, counseling, Department of Veterans Affairs (VA) personnel, VA infrastructure, and the Veterans Community Care Program (VCCP). The bill modifies various compensation programs for veterans, including by (1) allowing concurrent receipt of disability compensation and military retired pay for certain retirees with a combat-related disability, (2) extending entitlement for various benefits and services to remarried surviving spouses, (3) increasing the rate of dependency and indemnity compensation, and (4) establishing a supplemental monthly allowance for certain disabled veterans. The bill also addresses VA education and training benefits, including by (1) modifying which independent study programs are covered under veterans’ educational assistance benefits, (2) requiring Transition Assistance Program counseling to include a presentation about VA benefits, and (3) increasing the housing allowance rate for individuals pursuing apprenticeships. The bill revises health care provisions, including by (1) expanding support and assistance provided to family caregivers, (2) extending the Staff Sergeant Parker Gordon Fox Suicide Prevention Grant Program, and (3) expanding the scope of VA mental health research. Among other elements, the bill revises VA disability ratings for sleep apnea and tinnitus; expands eligibility for a memorial headstone or marker for the spouse, surviving spouse, child, or dependent of a veteran or member of the Armed Forces; addresses the administration of the VCCP and codifies the eligibility standards; establishes a standardized screening process for priority or routine admission to certain mental health care programs; and addresses VA personnel, hiring, and infrastructure matters.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9237",
-      "updatedAt": "2026-11-12T09:06:28Z",
-      "introducedAt": "2026-06-10"
-    },
-    {
-      "id": "119-hr-9084",
-      "billType": "hr",
-      "billNumber": 9084,
-      "congress": 119,
-      "title": "Department of Energy Nuclear Transparency Act",
-      "status": "introduced",
-      "chamber": "House",
-      "policyArea": "Energy",
       "sponsor": {
         "memberId": "C001066",
         "name": "Rep. Castor, Kathy [D-FL-14]",
@@ -1467,13 +1031,213 @@
         "district": "14",
         "chamber": "House"
       },
-      "cosponsorCount": 1,
+      "cosponsorCount": 2,
       "latestAction": {
-        "date": "2026-11-11",
-        "text": "Motion to reconsider laid on the table Agreed to without objection.",
+        "date": "2026-11-12",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
         "chamber": "House"
       },
       "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11012",
+      "updatedAt": "2026-11-13T13:13:36Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11011",
+      "billType": "hr",
+      "billNumber": 11011,
+      "congress": 119,
+      "title": "To amend the Public Health Service Act to require the Director of the National Institutes of Health to develop a national strategy to address young adult cancers, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "C001072",
+        "name": "Rep. Carson, André [D-IN-7]",
+        "party": "D",
+        "state": "IN",
+        "district": "7",
+        "chamber": "House"
+      },
+      "cosponsorCount": 1,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on Energy and Commerce.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on Energy and Commerce.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11011",
+      "updatedAt": "2026-11-13T12:58:44Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11010",
+      "billType": "hr",
+      "billNumber": 11010,
+      "congress": 119,
+      "title": "To prevent low-income seniors from losing benefits due to defaulted student loan debt by increasing the amount of benefits exempted from garnishment.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "B001328",
+        "name": "Rep. Blair, Everton [D-GA-13]",
+        "party": "D",
+        "state": "GA",
+        "district": "13",
+        "chamber": "House"
+      },
+      "cosponsorCount": 2,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on the Judiciary.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on the Judiciary.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11010",
+      "updatedAt": "2026-11-13T12:58:44Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-11009",
+      "billType": "hr",
+      "billNumber": 11009,
+      "congress": 119,
+      "title": "To stop the criminalization of miscarriages, and for other purposes.",
+      "status": "inCommittee",
+      "chamber": "House",
+      "sponsor": {
+        "memberId": "B001281",
+        "name": "Rep. Beatty, Joyce [D-OH-3]",
+        "party": "D",
+        "state": "OH",
+        "district": "3",
+        "chamber": "House"
+      },
+      "cosponsorCount": 2,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on the Judiciary.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Referred to the House Committee on the Judiciary.",
+          "chamber": "House",
+          "actionCode": "H11100"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "Intro-H"
+        },
+        {
+          "date": "2026-11-12",
+          "text": "Introduced in House",
+          "chamber": "House",
+          "actionCode": "1000"
+        }
+      ],
+      "textVersions": [],
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11009",
+      "updatedAt": "2026-11-13T12:58:43Z",
+      "introducedAt": "2026-11-12"
+    },
+    {
+      "id": "119-hr-10375",
+      "billType": "hr",
+      "billNumber": 10375,
+      "congress": 119,
+      "title": "504 Modernization and Small Manufacturer Enhancement Act of 2026",
+      "status": "inCommittee",
+      "chamber": "House",
+      "policyArea": "Commerce",
+      "sponsor": {
+        "memberId": "V000081",
+        "name": "Rep. Velázquez, Nydia M. [D-NY-7]",
+        "party": "D",
+        "state": "NY",
+        "district": "7",
+        "chamber": "House"
+      },
+      "cosponsorCount": 3,
+      "latestAction": {
+        "date": "2026-11-12",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+        "chamber": "House"
+      },
+      "actions": [
+        {
+          "date": "2026-11-12",
+          "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+          "chamber": "House"
+        },
         {
           "date": "2026-11-11",
           "text": "Motion to reconsider laid on the table Agreed to without objection.",
@@ -1494,223 +1258,66 @@
         },
         {
           "date": "2026-11-11",
-          "text": "Considered as unfinished business. (consideration: CR H6171)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-11-09",
-          "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Latta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.",
-          "chamber": "House",
-          "actionCode": "H37210"
-        },
-        {
-          "date": "2026-11-09",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9084.",
+          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 10375.",
           "chamber": "House",
           "actionCode": "H8D000"
         },
         {
-          "date": "2026-11-09",
-          "text": "Considered under suspension of the rules. (consideration: CR H6099-6100; text: CR H6099)",
+          "date": "2026-11-11",
+          "text": "Considered under suspension of the rules.",
           "chamber": "House",
           "actionCode": "H30000"
         },
         {
-          "date": "2026-11-09",
-          "text": "Mr. Latta moved to suspend the rules and pass the bill, as amended.",
+          "date": "2026-11-11",
+          "text": "Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.",
           "chamber": "House",
           "actionCode": "H30300"
         },
         {
-          "date": "2026-11-05",
-          "text": "Placed on the Union Calendar, Calendar No. 771.",
+          "date": "2026-10-09",
+          "text": "Placed on the Union Calendar, Calendar No. 745.",
           "chamber": "House",
           "actionCode": "H12410"
         },
         {
-          "date": "2026-11-05",
-          "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-874.",
+          "date": "2026-10-09",
+          "text": "Reported by the Committee on Small Business. H. Rept. 119-848.",
           "chamber": "House",
           "actionCode": "H12200"
         },
         {
-          "date": "2026-11-05",
-          "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-874.",
+          "date": "2026-10-09",
+          "text": "Reported by the Committee on Small Business. H. Rept. 119-848.",
           "chamber": "House",
           "actionCode": "5000"
         },
         {
-          "date": "2026-07-14",
-          "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+          "date": "2026-09-16",
+          "text": "Ordered to be Reported by the Yeas and Nays: 23 - 0.",
           "chamber": "House",
-          "actionCode": "H23000"
+          "actionCode": "H19000"
         },
         {
-          "date": "2026-07-14",
-          "text": "Subcommittee Consideration and Mark-up Session Held",
+          "date": "2026-09-16",
+          "text": "Committee Consideration and Mark-up Session Held",
           "chamber": "House",
-          "actionCode": "H22000"
+          "actionCode": "H15001"
         },
         {
-          "date": "2026-06-02",
-          "text": "Referred to the Subcommittee on Energy.",
-          "chamber": "House",
-          "actionCode": "H11000"
-        },
-        {
-          "date": "2026-06-02",
-          "text": "Referred to the House Committee on Energy and Commerce.",
+          "date": "2026-09-14",
+          "text": "Referred to the House Committee on Small Business.",
           "chamber": "House",
           "actionCode": "H11100"
         },
         {
-          "date": "2026-06-02",
+          "date": "2026-09-14",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "Intro-H"
         },
         {
-          "date": "2026-06-02",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "1000"
-        }
-      ],
-      "textVersions": [
-        {
-          "type": "Reported in House",
-          "date": "2026-11-05",
-          "url": "https://www.congress.gov/119/bills/hr9084/BILLS-119hr9084rh.htm"
-        },
-        {
-          "type": "Introduced in House",
-          "date": "2026-06-02",
-          "url": "https://www.congress.gov/119/bills/hr9084/BILLS-119hr9084ih.htm"
-        }
-      ],
-      "summaryHtml": "<p><em>The following analysis is based on <a href=\"https://docs.house.gov/billsthisweek/20261109/H.R.%209084,%20Department%20of%20Energy%20Nuclear%20Transparency%20Act.pdf\">draft bill text</a> that was made available by the House of Representatives and may differ from the bill text as introduced.</em></p><p><strong>Department of Energy Nuclear Transparency Act</strong></p><p>This bill directs the Department of Energy (DOE) to report actions related to its authorization of DOE nuclear facilities and other related DOE actions on a public website within 72 hours of those authorizations or actions occurring.&nbsp;</p><p>Specifically, DOE must post information about agreements to&nbsp;authorize&nbsp;nuclear facilities that fall under Hazard Category 1, 2, or 3.&nbsp;Hazard categories are based on the radioactive material inventories of the facilities and the potential consequences to the public, workers, and the environment. Hazard Category 1 represents the highest potential consequence.</p><p>DOE must also post a summary of any actions it took to&nbsp;alter a directive or safety standard relating to such facilities.</p><p>Further, DOE must post any preliminary documented safety analysis or documented safety analysis that it issues for such facilities.&nbsp;A <em>preliminary documented safety analysis&nbsp;</em>means documentation prepared in connection with the design and construction of a new Hazard Category 1, 2, or 3 DOE nuclear facility or a major modification to such&nbsp;nuclear facility already in existence that provides a reasonable basis for the preliminary conclusion that the nuclear facility can be operated safely through the consideration of certain factors. A <em>documented safety analysis</em> means a documented analysis of the extent to which a nuclear facility can be operated safely with respect to workers, the public, and the environment.</p><p>DOE must also issue an annual report detailing any activities it took to authorize such DOE nuclear facilities during the previous year.</p>",
-      "summaryFormat": "html",
-      "summary": "The following analysis is based on draft bill text that was made available by the House of Representatives and may differ from the bill text as introduced. Department of Energy Nuclear Transparency Act This bill directs the Department of Energy (DOE) to report actions related to its authorization of DOE nuclear facilities and other related DOE actions on a public website within 72 hours of those authorizations or actions occurring. Specifically, DOE must post information about agreements to authorize nuclear facilities that fall under Hazard Category 1, 2, or 3. Hazard categories are based on the radioactive material inventories of the facilities and the potential consequences to the public, workers, and the environment. Hazard Category 1 represents the highest potential consequence. DOE must also post a summary of any actions it took to alter a directive or safety standard relating to such facilities. Further, DOE must post any preliminary documented safety analysis or documented safety analysis that it issues for such facilities. A preliminary documented safety analysis means documentation prepared in connection with the design and construction of a new Hazard Category 1, 2, or 3 DOE nuclear facility or a major modification to such nuclear facility already in existence that provides a reasonable basis for the preliminary conclusion that the nuclear facility can be operated safely through the consideration of certain factors. A documented safety analysis means a documented analysis of the extent to which a nuclear facility can be operated safely with respect to workers, the public, and the environment. DOE must also issue an annual report detailing any activities it took to authorize such DOE nuclear facilities during the previous year.",
-      "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
-      "updatedAt": "2026-11-12T09:06:35Z",
-      "introducedAt": "2026-06-02"
-    },
-    {
-      "id": "119-hr-8552",
-      "billType": "hr",
-      "billNumber": 8552,
-      "congress": 119,
-      "title": "Veterans’ Compensation Cost-of-Living Adjustment Act of 2026",
-      "status": "passedSenate",
-      "chamber": "House",
-      "policyArea": "Armed Forces and National Security",
-      "sponsor": {
-        "memberId": "L000603",
-        "name": "Rep. Luttrell, Morgan [R-TX-8]",
-        "party": "R",
-        "state": "TX",
-        "district": "8",
-        "chamber": "House"
-      },
-      "cosponsorCount": 5,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Passed Senate without amendment by Voice Vote.",
-        "chamber": "House"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Passed Senate without amendment by Voice Vote.",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.",
-          "chamber": "House",
-          "actionCode": "17000"
-        },
-        {
-          "date": "2026-11-10",
-          "text": "Received in the Senate, read twice. (consideration: CR S5572)",
-          "chamber": "House"
-        },
-        {
-          "date": "2026-11-09",
-          "text": "Motion to reconsider laid on the table Agreed to without objection.",
-          "chamber": "House",
-          "actionCode": "H38310"
-        },
-        {
-          "date": "2026-11-09",
-          "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6105-6106)",
-          "chamber": "House",
-          "actionCode": "H37300"
-        },
-        {
-          "date": "2026-11-09",
-          "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6105-6106)",
-          "chamber": "House",
-          "actionCode": "8000"
-        },
-        {
-          "date": "2026-11-09",
-          "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 8552.",
-          "chamber": "House",
-          "actionCode": "H8D000"
-        },
-        {
-          "date": "2026-11-09",
-          "text": "Considered under suspension of the rules. (consideration: CR H6105-6107)",
-          "chamber": "House",
-          "actionCode": "H30000"
-        },
-        {
-          "date": "2026-11-09",
-          "text": "Mr. Hamadeh (AZ) moved to suspend the rules and pass the bill.",
-          "chamber": "House",
-          "actionCode": "H30300"
-        },
-        {
-          "date": "2026-06-30",
-          "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
-          "chamber": "House",
-          "actionCode": "H23000"
-        },
-        {
-          "date": "2026-06-30",
-          "text": "Subcommittee Consideration and Mark-up Session Held",
-          "chamber": "House",
-          "actionCode": "H22000"
-        },
-        {
-          "date": "2026-06-25",
-          "text": "Subcommittee Hearings Held",
-          "chamber": "House",
-          "actionCode": "H21000"
-        },
-        {
-          "date": "2026-06-22",
-          "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
-          "chamber": "House",
-          "actionCode": "H11000"
-        },
-        {
-          "date": "2026-04-28",
-          "text": "Referred to the House Committee on Veterans' Affairs.",
-          "chamber": "House",
-          "actionCode": "H11100"
-        },
-        {
-          "date": "2026-04-28",
-          "text": "Introduced in House",
-          "chamber": "House",
-          "actionCode": "Intro-H"
-        },
-        {
-          "date": "2026-04-28",
+          "date": "2026-09-14",
           "text": "Introduced in House",
           "chamber": "House",
           "actionCode": "1000"
@@ -1719,61 +1326,27 @@
       "textVersions": [
         {
           "type": "Engrossed in House",
-          "date": "2026-11-09",
-          "url": "https://www.congress.gov/119/bills/hr8552/BILLS-119hr8552eh.htm"
+          "date": "2026-11-11",
+          "url": "https://www.congress.gov/119/bills/hr10375/BILLS-119hr10375eh.htm"
+        },
+        {
+          "type": "Reported in House",
+          "date": "2026-10-09",
+          "url": "https://www.congress.gov/119/bills/hr10375/BILLS-119hr10375rh.htm"
         },
         {
           "type": "Introduced in House",
-          "date": "2026-04-28",
-          "url": "https://www.congress.gov/119/bills/hr8552/BILLS-119hr8552ih.htm"
+          "date": "2026-09-14",
+          "url": "https://www.congress.gov/119/bills/hr10375/BILLS-119hr10375ih.htm"
         }
       ],
-      "summaryHtml": "<p><strong>Veterans' Compensation Cost-of-Living Adjustment Act of 2026</strong></p><p>This bill requires the Department of Veterans Affairs (VA) to increase the amounts payable for wartime disability compensation, additional compensation for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children. Specifically, the VA must increase the amounts by the same percentage as the cost-of-living increase in benefits for Social Security recipients that is effective on December 1, 2026. The act requires the VA to publish the amounts payable, as increased, in the Federal Register.</p><p>The VA is authorized to make a similar adjustment to the rates of disability compensation payable to persons who have not received compensation for service-connected disability or death.</p>",
+      "summaryHtml": "<p><strong>504 Modernization and Small Manufacturer Enhancement Act of 2026</strong><br/><br/>This bill generally expands the Small Business Administration (SBA) 504 Loan Program to include additional objectives and flexibilities (e.g., new economic development objectives that may be used to qualify for assistance under the program). The program provides a small business with SBA financing—through a certified development company  intermediary—for expansion or modernization.<br/><br/>Specifically, the bill expands the public policy goals that&nbsp;allow an intermediary to qualify for assistance to include additional objectives. These include (1) workforce development through work-based or work-integrated training, and (2) aiding the revitalization of an area for which a disaster has been declared or determined.<br/><br/>The bill also authorizes an intermediary to take specified actions to facilitate the closing of 504 loans, such as correcting borrower or lender information on loan documents or reallocating up to 10% of the cost of a project.<br/><br/>Further, the bill allows small businesses to lease a larger portion of renovated buildings that are financed with 504 loans to other tenants in certain circumstances. In the case of a project to renovate or reconstruct an existing building, a small business may lease a maximum of 66% of the building to commercial or residential tenants if certain conditions are met. For example, the small business must have occupied the building for 12 consecutive months prior to the project.<br/><br/>Additionally, the bill exempts intermediaries from the requirement to demonstrate they are unable to obtain credit elsewhere to receive 504 loans.</p>",
       "summaryFormat": "html",
-      "summary": "Veterans' Compensation Cost-of-Living Adjustment Act of 2026 This bill requires the Department of Veterans Affairs (VA) to increase the amounts payable for wartime disability compensation, additional compensation for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children. Specifically, the VA must increase the amounts by the same percentage as the cost-of-living increase in benefits for Social Security recipients that is effective on December 1, 2026. The act requires the VA to publish the amounts payable, as increased, in the Federal Register. The VA is authorized to make a similar adjustment to the rates of disability compensation payable to persons who have not received compensation for service-connected disability or death.",
+      "summary": "504 Modernization and Small Manufacturer Enhancement Act of 2026 This bill generally expands the Small Business Administration (SBA) 504 Loan Program to include additional objectives and flexibilities (e.g., new economic development objectives that may be used to qualify for assistance under the program). The program provides a small business with SBA financing—through a certified development company intermediary—for expansion or modernization. Specifically, the bill expands the public policy goals that allow an intermediary to qualify for assistance to include additional objectives. These include (1) workforce development through work-based or work-integrated training, and (2) aiding the revitalization of an area for which a disaster has been declared or determined. The bill also authorizes an intermediary to take specified actions to facilitate the closing of 504 loans, such as correcting borrower or lender information on loan documents or reallocating up to 10% of the cost of a project. Further, the bill allows small businesses to lease a larger portion of renovated buildings that are financed with 504 loans to other tenants in certain circumstances. In the case of a project to renovate or reconstruct an existing building, a small business may lease a maximum of 66% of the building to commercial or residential tenants if certain conditions are met. For example, the small business must have occupied the building for 12 consecutive months prior to the project. Additionally, the bill exempts intermediaries from the requirement to demonstrate they are unable to obtain credit elsewhere to receive 504 loans.",
       "summarySource": "official",
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8552",
-      "updatedAt": "2026-11-12T15:22:53Z",
-      "introducedAt": "2026-04-28"
-    },
-    {
-      "id": "119-s-5716",
-      "billType": "s",
-      "billNumber": 5716,
-      "congress": 119,
-      "title": "A bill to amend the Homeland Security Act of 2002 and titles 10 and 32, United States Code, to authorize the National Guard to protect certain facilities and assets from unmanned aircraft, and for other purposes.",
-      "status": "inCommittee",
-      "chamber": "Senate",
-      "sponsor": {
-        "memberId": "L000577",
-        "name": "Sen. Lee, Mike [R-UT]",
-        "party": "R",
-        "state": "UT",
-        "chamber": "Senate"
-      },
-      "cosponsorCount": 0,
-      "latestAction": {
-        "date": "2026-11-11",
-        "text": "Read twice and referred to the Committee on Armed Services.",
-        "chamber": "Senate"
-      },
-      "actions": [
-        {
-          "date": "2026-11-11",
-          "text": "Read twice and referred to the Committee on Armed Services.",
-          "chamber": "Senate"
-        },
-        {
-          "date": "2026-11-11",
-          "text": "Introduced in Senate",
-          "chamber": "Senate",
-          "actionCode": "10000"
-        }
-      ],
-      "textVersions": [],
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5716",
-      "updatedAt": "2026-11-12T11:56:37Z",
-      "introducedAt": "2026-11-11"
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10375",
+      "updatedAt": "2026-11-13T15:18:38Z",
+      "introducedAt": "2026-09-14"
     }
   ]
 }
