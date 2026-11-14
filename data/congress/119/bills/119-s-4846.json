@@ -4,7 +4,7 @@
   "billNumber": 4846,
   "congress": 119,
   "title": "TAAP Act",
-  "status": "inCommittee",
+  "status": "introduced",
   "chamber": "Senate",
   "policyArea": "Water Resources Development",
   "sponsor": {
@@ -16,11 +16,27 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-09-30",
-    "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
+    "date": "2026-11-12",
+    "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 708.",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-11-12",
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 708.",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-11-12",
+      "text": "Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-11-12",
+      "text": "Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.",
+      "chamber": "Senate",
+      "actionCode": "14000"
+    },
     {
       "date": "2026-09-30",
       "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
@@ -45,12 +61,17 @@
   ],
   "textVersions": [
     {
+      "type": "Reported to Senate",
+      "date": "2026-11-12",
+      "url": "https://www.congress.gov/119/bills/s4846/BILLS-119s4846rs.htm"
+    },
+    {
       "type": "Introduced in Senate",
       "date": "2026-06-22",
       "url": "https://www.congress.gov/119/bills/s4846/BILLS-119s4846is.htm"
     }
   ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4846",
-  "updatedAt": "2026-11-06T22:35:57Z",
+  "updatedAt": "2026-11-14T05:08:40Z",
   "introducedAt": "2026-06-22"
 }
