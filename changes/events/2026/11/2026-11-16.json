@@ -1,0 +1,294 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T17:58:14.523Z",
+  "items": [
+    {
+      "id": "evt_2026-11-16T175814523Z_119-house-2-320_vote.corrected",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-320",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Discharge",
+      "before": {
+        "result": "Passed",
+        "yea": 245,
+        "nay": 175,
+        "present": 0,
+        "notVoting": 13,
+        "question": "On Motion to Discharge",
+        "description": "On Motion to Discharge",
+        "date": "2026-11-11",
+        "associatedBillId": "119-hres-1247"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 245,
+        "nay": 175,
+        "present": 0,
+        "notVoting": 13,
+        "question": "On Motion to Discharge",
+        "description": "Providing for consideration of the bill (H.R. 2102) to amend title 10, United States Code, to provide for concurrent receipt of veterans' disability compensation and retired pay for disability retirees with combat-related disabilities, and for other purposes. (HRES 1247)",
+        "date": "2026-11-11",
+        "associatedBillId": "119-hres-1247"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll320.xml",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    },
+    {
+      "id": "evt_2026-11-16T175814523Z_119-house-2-322_vote.corrected",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-322",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Agreeing to the Resolution",
+      "before": {
+        "result": "Passed",
+        "yea": 271,
+        "nay": 135,
+        "present": 0,
+        "notVoting": 26,
+        "question": "On Agreeing to the Resolution",
+        "description": "On Agreeing to the Resolution",
+        "date": "2026-11-12",
+        "associatedBillId": "119-hres-1247"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 271,
+        "nay": 135,
+        "present": 0,
+        "notVoting": 26,
+        "question": "On Agreeing to the Resolution",
+        "description": "Providing for consideration of the bill (H.R. 2102) to amend title 10, United States Code, to provide for concurrent receipt of veterans' disability compensation and retired pay for disability retirees with combat-related disabilities, and for other purposes. (HRES 1247)",
+        "date": "2026-11-12",
+        "associatedBillId": "119-hres-1247"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll322.xml",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    },
+    {
+      "id": "evt_2026-11-16T175814523Z_119-hres-1247_bill.action_added_07f9575a57125375",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1247",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered as unfinished business. (consideration: CR H6194-6195)",
+      "after": {
+        "date": "2026-11-12",
+        "text": "Considered as unfinished business. (consideration: CR H6194-6195)",
+        "chamber": "House",
+        "actionCode": "H30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    },
+    {
+      "id": "evt_2026-11-16T175814523Z_119-hres-1247_bill.action_added_19db070d49682381",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1247",
+      "changeType": "bill.action_added",
+      "summary": "New action: On agreeing to the resolution Agreed to by the Yeas and Nays: 271 - 135 (Roll no. 322).",
+      "after": {
+        "date": "2026-11-12",
+        "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 271 - 135 (Roll no. 322).",
+        "chamber": "House",
+        "actionCode": "H37100"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    },
+    {
+      "id": "evt_2026-11-16T175814523Z_119-hres-1247_bill.action_added_1c61201c8a2287d9",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1247",
+      "changeType": "bill.action_added",
+      "summary": "New action: On motion to discharge Agreed to by the Yeas and Nays: 245 - 175 (Roll no. 320).",
+      "after": {
+        "date": "2026-11-11",
+        "text": "On motion to discharge Agreed to by the Yeas and Nays: 245 - 175 (Roll no. 320).",
+        "chamber": "House",
+        "actionCode": "H36610"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    },
+    {
+      "id": "evt_2026-11-16T175814523Z_119-hres-1247_bill.action_added_50718a830ac1ac29",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1247",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 271 - 135 (Roll no. 322).",
+      "after": {
+        "date": "2026-11-12",
+        "text": "Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 271 - 135 (Roll no. 322).",
+        "chamber": "House",
+        "actionCode": "8000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    },
+    {
+      "id": "evt_2026-11-16T175814523Z_119-hres-1247_bill.action_added_6dd5d9bec77bb72f",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1247",
+      "changeType": "bill.action_added",
+      "summary": "New action: Consideration initiated from the Discharge Calendar.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "Consideration initiated from the Discharge Calendar.",
+        "chamber": "House",
+        "actionCode": "H30800"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    },
+    {
+      "id": "evt_2026-11-16T175814523Z_119-hres-1247_bill.action_added_866751b56d4d84fd",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1247",
+      "changeType": "bill.action_added",
+      "summary": "New action: DEBATE - The House proceeded with one hour of debate on H. Res. 1247.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 1247.",
+        "chamber": "House",
+        "actionCode": "H8D000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    },
+    {
+      "id": "evt_2026-11-16T175814523Z_119-hres-1247_bill.action_added_89584058aa116765",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1247",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered from the Discharge Calendar. (consideration: CR H6162-6166)",
+      "after": {
+        "date": "2026-11-11",
+        "text": "Considered from the Discharge Calendar. (consideration: CR H6162-6166)",
+        "chamber": "House",
+        "actionCode": "H30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    },
+    {
+      "id": "evt_2026-11-16T175814523Z_119-hres-1247_bill.action_added_89cbb1526a9ff6ed",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1247",
+      "changeType": "bill.action_added",
+      "summary": "New action: Mr. Takano moved to discharge.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "Mr. Takano moved to discharge.",
+        "chamber": "House",
+        "actionCode": "H36600"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    },
+    {
+      "id": "evt_2026-11-16T175814523Z_119-hres-1247_bill.action_added_8d9b63747a7ec8cb",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1247",
+      "changeType": "bill.action_added",
+      "summary": "New action: POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 1247, the Chair put the question on agreeing to the resolution and by voice vote, announced that the noes had prevailed. Mr. Takano demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 1247, the Chair put the question on agreeing to the resolution and by voice vote, announced that the noes had prevailed. Mr. Takano demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+        "chamber": "House",
+        "actionCode": "H8D000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    },
+    {
+      "id": "evt_2026-11-16T175814523Z_119-hres-1247_bill.action_added_978b267d2f7ae89d",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1247",
+      "changeType": "bill.action_added",
+      "summary": "New action: Motion to reconsider laid on the table Agreed to without objection.",
+      "after": {
+        "date": "2026-11-12",
+        "text": "Motion to reconsider laid on the table Agreed to without objection.",
+        "chamber": "House",
+        "actionCode": "H38310"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    },
+    {
+      "id": "evt_2026-11-16T175814523Z_119-hres-1247_bill.action_added_a129247d5c1f558a",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1247",
+      "changeType": "bill.action_added",
+      "summary": "New action: DEBATE - Pursuant to the rule, the House proceeded with 20 minutes of debate on the Takano motion to discharge.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "DEBATE - Pursuant to the rule, the House proceeded with 20 minutes of debate on the Takano motion to discharge.",
+        "chamber": "House",
+        "actionCode": "H8D000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    },
+    {
+      "id": "evt_2026-11-16T175814523Z_119-hres-1247_bill.action_added_cfe2c9f0212ac596",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1247",
+      "changeType": "bill.action_added",
+      "summary": "New action: The previous question was ordered without objection.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "The previous question was ordered without objection.",
+        "chamber": "House",
+        "actionCode": "H35000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    },
+    {
+      "id": "evt_2026-11-16T175814523Z_119-hres-1247_bill.action_added_fac236d1182a78f4",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1247",
+      "changeType": "bill.action_added",
+      "summary": "New action: MOTION TO DISCHARGE COMMITTEE - Pursuant to clause 2 of rule XV, Mr. Takano called up motion No. 8, to discharge the Committee on Rules from further consideration of H. Res. 1247.",
+      "after": {
+        "date": "2026-11-11",
+        "text": "MOTION TO DISCHARGE COMMITTEE - Pursuant to clause 2 of rule XV, Mr. Takano called up motion No. 8, to discharge the Committee on Rules from further consideration of H. Res. 1247.",
+        "chamber": "House",
+        "actionCode": "H8D000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    },
+    {
+      "id": "evt_2026-11-16T175814523Z_119-hres-1247_bill.status_changed",
+      "observedAt": "2026-11-16T17:58:14.523Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1247",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from inCommittee to introduced",
+      "before": {
+        "status": "inCommittee"
+      },
+      "after": {
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+      "syncId": "2026-11-16T17:58:14.523Z"
+    }
+  ]
+}
