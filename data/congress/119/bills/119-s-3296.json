@@ -4,7 +4,7 @@
   "billNumber": 3296,
   "congress": 119,
   "title": "Improving Access to Workers’ Compensation for Injured Federal Workers Act of 2025",
-  "status": "introduced",
+  "status": "passedSenate",
   "chamber": "Senate",
   "policyArea": "Government Operations and Politics",
   "sponsor": {
@@ -14,13 +14,24 @@
     "state": "ME",
     "chamber": "Senate"
   },
-  "cosponsorCount": 6,
+  "cosponsorCount": 10,
   "latestAction": {
-    "date": "2026-09-14",
-    "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 568.",
+    "date": "2026-11-16",
+    "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701; text: CR S5701)",
     "chamber": "Senate"
   },
   "actions": [
+    {
+      "date": "2026-11-16",
+      "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701; text: CR S5701)",
+      "chamber": "Senate"
+    },
+    {
+      "date": "2026-11-16",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "chamber": "Senate",
+      "actionCode": "17000"
+    },
     {
       "date": "2026-09-14",
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 568.",
@@ -56,12 +67,22 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed in Senate",
+      "date": "2026-11-16",
+      "url": "https://www.congress.gov/119/bills/s3296/BILLS-119s3296es.htm"
+    },
+    {
+      "type": "Reported to Senate",
+      "date": "2026-09-14",
+      "url": "https://www.congress.gov/119/bills/s3296/BILLS-119s3296rs.htm"
+    },
+    {
       "type": "Introduced in Senate",
       "date": "2025-12-02",
       "url": "https://www.congress.gov/119/bills/s3296/BILLS-119s3296is.htm"
     }
   ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3296",
-  "updatedAt": "2026-09-15T11:03:29Z",
+  "updatedAt": "2026-11-17T16:18:40Z",
   "introducedAt": "2025-12-02"
 }

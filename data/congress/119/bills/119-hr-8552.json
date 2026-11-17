@@ -4,7 +4,7 @@
   "billNumber": 8552,
   "congress": 119,
   "title": "Veterans’ Compensation Cost-of-Living Adjustment Act of 2026",
-  "status": "passedSenate",
+  "status": "introduced",
   "chamber": "House",
   "policyArea": "Armed Forces and National Security",
   "sponsor": {
@@ -17,14 +17,19 @@
   },
   "cosponsorCount": 5,
   "latestAction": {
-    "date": "2026-11-11",
-    "text": "Passed Senate without amendment by Voice Vote.",
+    "date": "2026-11-12",
+    "text": "Message on Senate action sent to the House.",
     "chamber": "House"
   },
   "actions": [
     {
+      "date": "2026-11-12",
+      "text": "Message on Senate action sent to the House.",
+      "chamber": "House"
+    },
+    {
       "date": "2026-11-11",
-      "text": "Passed Senate without amendment by Voice Vote.",
+      "text": "Passed Senate without amendment by Voice Vote. (consideration: CR S5572)",
       "chamber": "House"
     },
     {
@@ -35,7 +40,7 @@
     },
     {
       "date": "2026-11-10",
-      "text": "Received in the Senate, read twice. (consideration: CR S5572)",
+      "text": "Received in the Senate, read twice.",
       "chamber": "House"
     },
     {
@@ -119,6 +124,16 @@
   ],
   "textVersions": [
     {
+      "type": "Enrolled Bill",
+      "date": "1970-01-01",
+      "url": "https://www.congress.gov/119/bills/hr8552/BILLS-119hr8552enr.htm"
+    },
+    {
+      "type": "Received in Senate",
+      "date": "2026-11-10",
+      "url": "https://www.congress.gov/119/bills/hr8552/BILLS-119hr8552rds.htm"
+    },
+    {
       "type": "Engrossed in House",
       "date": "2026-11-09",
       "url": "https://www.congress.gov/119/bills/hr8552/BILLS-119hr8552eh.htm"
@@ -134,6 +149,6 @@
   "summary": "Veterans' Compensation Cost-of-Living Adjustment Act of 2026 This bill requires the Department of Veterans Affairs (VA) to increase the amounts payable for wartime disability compensation, additional compensation for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children. Specifically, the VA must increase the amounts by the same percentage as the cost-of-living increase in benefits for Social Security recipients that is effective on December 1, 2026. The act requires the VA to publish the amounts payable, as increased, in the Federal Register. The VA is authorized to make a similar adjustment to the rates of disability compensation payable to persons who have not received compensation for service-connected disability or death.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8552",
-  "updatedAt": "2026-11-12T15:22:53Z",
+  "updatedAt": "2026-11-17T09:05:42Z",
   "introducedAt": "2026-04-28"
 }

@@ -1,0 +1,750 @@
+{
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T17:23:50.824Z",
+  "items": [
+    {
+      "id": "evt_2026-11-17T172350824Z_119-house-2-320_vote.corrected",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-320",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Discharge",
+      "before": {
+        "result": "Passed",
+        "yea": 245,
+        "nay": 175,
+        "present": 0,
+        "notVoting": 13,
+        "question": "On Motion to Discharge",
+        "description": "Providing for consideration of the bill (H.R. 2102) to amend title 10, United States Code, to provide for concurrent receipt of veterans' disability compensation and retired pay for disability retirees with combat-related disabilities, and for other purposes. (HRES 1247)",
+        "date": "2026-11-11",
+        "associatedBillId": "119-hres-1247"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 245,
+        "nay": 175,
+        "present": 0,
+        "notVoting": 13,
+        "question": "On Motion to Discharge",
+        "description": "On Motion to Discharge",
+        "date": "2026-11-11",
+        "associatedBillId": "119-hres-1247"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll320.xml",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-house-2-322_vote.corrected",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-322",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Agreeing to the Resolution",
+      "before": {
+        "result": "Passed",
+        "yea": 271,
+        "nay": 135,
+        "present": 0,
+        "notVoting": 26,
+        "question": "On Agreeing to the Resolution",
+        "description": "Providing for consideration of the bill (H.R. 2102) to amend title 10, United States Code, to provide for concurrent receipt of veterans' disability compensation and retired pay for disability retirees with combat-related disabilities, and for other purposes. (HRES 1247)",
+        "date": "2026-11-12",
+        "associatedBillId": "119-hres-1247"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 271,
+        "nay": 135,
+        "present": 0,
+        "notVoting": 26,
+        "question": "On Agreeing to the Resolution",
+        "description": "On Agreeing to the Resolution",
+        "date": "2026-11-12",
+        "associatedBillId": "119-hres-1247"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll322.xml",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-10355_bill.action_added_56f160c587e23159",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10355",
+      "changeType": "bill.action_added",
+      "summary": "New action: Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+      "after": {
+        "date": "2026-11-12",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10355",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-10355_bill.status_changed",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10355",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to inCommittee",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10355",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-11009_bill.title_changed",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-11009",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To stop the criminalization of miscarriages, and for other purposes."
+      },
+      "after": {
+        "title": "Pregnancy Loss Protection Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11009",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-11010_bill.title_changed",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-11010",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To prevent low-income seniors from losing benefits due to defaulted student loan debt by increasing the amount of benefits exempted from garnishment."
+      },
+      "after": {
+        "title": "POSSIBLE Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11010",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-11011_bill.action_added_3e4519e1df1f2ecc",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-11011",
+      "changeType": "bill.action_added",
+      "summary": "New action: Sponsor introductory remarks on measure. (CR E1206-1207)",
+      "after": {
+        "date": "2026-11-12",
+        "text": "Sponsor introductory remarks on measure. (CR E1206-1207)",
+        "chamber": "House",
+        "actionCode": "B00100"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11011",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-11011_bill.title_changed",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-11011",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To amend the Public Health Service Act to require the Director of the National Institutes of Health to develop a national strategy to address young adult cancers, and for other purposes."
+      },
+      "after": {
+        "title": "Asal Sayas National Strategy on Young Adult Cancers Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11011",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-11035_bill.title_changed",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-11035",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To amend the Public Health Service Act to direct the Secretary of Health and Human Services, acting through the Assistant Secretary for Mental Health and Substance Use, to award grants to support community-based programs for harm reduction services for individuals who use substances."
+      },
+      "after": {
+        "title": "Closing the Substance Use Care Gap Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11035",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-11036_bill.title_changed",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-11036",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "To require Federal agency heads to submit an annual assessment on staffing needs of information technology contracting officers and contracting officer's representatives, to require the heads to submit a plan on information technology acquisition workforce staffing and development using the assessments, and for other purposes."
+      },
+      "after": {
+        "title": "IT Acquisition Readiness Act"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11036",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-2302_bill.action_added_143be09dfa32488c",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2302",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "after": {
+        "date": "2026-11-16",
+        "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+        "chamber": "House",
+        "actionCode": "17000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2302",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-2302_bill.action_added_6c52fac9c171a025",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2302",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701)",
+      "after": {
+        "date": "2026-11-16",
+        "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701)",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2302",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-2302_bill.status_changed",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2302",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to passedSenate",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2302",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-2347_bill.added",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2347",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-2347: Survivor Justice Tax Prevention Act",
+      "after": {
+        "title": "Survivor Justice Tax Prevention Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-2400_bill.action_added_23900e0bef0c7504",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2400",
+      "changeType": "bill.action_added",
+      "summary": "New action: Message on Senate action sent to the House.",
+      "after": {
+        "date": "2026-11-16",
+        "text": "Message on Senate action sent to the House.",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2400",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-2400_bill.status_changed",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2400",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from passedSenate to introduced",
+      "before": {
+        "status": "passedSenate"
+      },
+      "after": {
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2400",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-2876_bill.added",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2876",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-2876: University of Utah Research Park Act",
+      "after": {
+        "title": "University of Utah Research Park Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2876",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-7834_bill.action_added_143be09dfa32488c",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-7834",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "after": {
+        "date": "2026-11-16",
+        "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+        "chamber": "House",
+        "actionCode": "17000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7834",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-7834_bill.action_added_6c52fac9c171a025",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-7834",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701)",
+      "after": {
+        "date": "2026-11-16",
+        "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701)",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7834",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-7834_bill.action_added_b177e9c4d206aff3",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-7834",
+      "changeType": "bill.action_added",
+      "summary": "New action: Received in the Senate, read twice.",
+      "after": {
+        "date": "2026-09-17",
+        "text": "Received in the Senate, read twice.",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7834",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-7834_bill.status_changed",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-7834",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to passedSenate",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7834",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-8552_bill.action_added_0c90ac7d76202912",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8552",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed Senate without amendment by Voice Vote. (consideration: CR S5572)",
+      "after": {
+        "date": "2026-11-11",
+        "text": "Passed Senate without amendment by Voice Vote. (consideration: CR S5572)",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8552",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-8552_bill.action_added_51458c1f7bbebe25",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8552",
+      "changeType": "bill.action_added",
+      "summary": "New action: Received in the Senate, read twice.",
+      "after": {
+        "date": "2026-11-10",
+        "text": "Received in the Senate, read twice.",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8552",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-8552_bill.action_added_62286c34b9e68eaa",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8552",
+      "changeType": "bill.action_added",
+      "summary": "New action: Message on Senate action sent to the House.",
+      "after": {
+        "date": "2026-11-12",
+        "text": "Message on Senate action sent to the House.",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8552",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-hr-8552_bill.status_changed",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8552",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from passedSenate to introduced",
+      "before": {
+        "status": "passedSenate"
+      },
+      "after": {
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8552",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-1353_bill.action_added_23900e0bef0c7504",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-1353",
+      "changeType": "bill.action_added",
+      "summary": "New action: Message on Senate action sent to the House.",
+      "after": {
+        "date": "2026-11-16",
+        "text": "Message on Senate action sent to the House.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1353",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-1353_bill.action_added_315bee8a5687e4c9",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-1353",
+      "changeType": "bill.action_added",
+      "summary": "New action: Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 119-238.",
+      "after": {
+        "date": "2025-12-09",
+        "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 119-238.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1353",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-1353_bill.action_added_636536bdc9b05d96",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-1353",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5666-5667; text: CR S5667)",
+      "after": {
+        "date": "2026-11-12",
+        "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5666-5667; text: CR S5667)",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1353",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-1353_bill.action_added_690ed2fe8fc2f0be",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-1353",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "after": {
+        "date": "2026-11-12",
+        "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+        "chamber": "Senate",
+        "actionCode": "17000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1353",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-1682_bill.added",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-1682",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-1682: Alex Gate Safety Act of 2025",
+      "after": {
+        "title": "Alex Gate Safety Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1682",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-2887_bill.added",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-2887",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2887: Route 66 National Historic Trail Designation Act",
+      "after": {
+        "title": "Route 66 National Historic Trail Designation Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2887",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-3296_bill.action_added_143be09dfa32488c",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-3296",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "after": {
+        "date": "2026-11-16",
+        "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+        "chamber": "Senate",
+        "actionCode": "17000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3296",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-3296_bill.action_added_a443f53af15e30c9",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-3296",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701; text: CR S5701)",
+      "after": {
+        "date": "2026-11-16",
+        "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701; text: CR S5701)",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3296",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-3296_bill.status_changed",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-3296",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to passedSenate",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3296",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-3493_bill.action_added_23900e0bef0c7504",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-3493",
+      "changeType": "bill.action_added",
+      "summary": "New action: Message on Senate action sent to the House.",
+      "after": {
+        "date": "2026-11-16",
+        "text": "Message on Senate action sent to the House.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3493",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-3493_bill.action_added_690ed2fe8fc2f0be",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-3493",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "after": {
+        "date": "2026-11-12",
+        "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+        "chamber": "Senate",
+        "actionCode": "17000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3493",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-3493_bill.action_added_bca74399c4cf97c6",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-3493",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5666-5667; text: CR S5667-5668)",
+      "after": {
+        "date": "2026-11-12",
+        "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5666-5667; text: CR S5667-5668)",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3493",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-3493_bill.action_added_d41a4bf9e9b41bd5",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-3493",
+      "changeType": "bill.action_added",
+      "summary": "New action: Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-305.",
+      "after": {
+        "date": "2026-02-12",
+        "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-305.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3493",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-3597_bill.added",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-3597",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3597: National Quantum Initiative Reauthorization Act of 2026",
+      "after": {
+        "title": "National Quantum Initiative Reauthorization Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3597",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-432_bill.added",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-432",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-432: Fort Ontario Holocaust Refugee Shelter National Historical Park Establishment Act",
+      "after": {
+        "title": "Fort Ontario Holocaust Refugee Shelter National Historical Park Establishment Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/432",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-4950_bill.added",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-4950",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-4950: ITS Codification Act",
+      "after": {
+        "title": "ITS Codification Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4950",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-5719_bill.added",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-5719",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5719: A bill to amend title XIX of the Social Security Act to clarify that whole genome and whole exome sequencing for children with certain medical needs is covered under the Medicaid program.",
+      "after": {
+        "title": "A bill to amend title XIX of the Social Security Act to clarify that whole genome and whole exome sequencing for children with certain medical needs is covered under the Medicaid program.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5719",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-5720_bill.added",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-5720",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5720: A bill to amend title 9 of the United States Code with respect to arbitration.",
+      "after": {
+        "title": "A bill to amend title 9 of the United States Code with respect to arbitration.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5720",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-5721_bill.added",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-5721",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5721: A bill to require Federal agency heads to submit an annual assessment on staffing needs of information technology contracting officers and contracting officer's representatives, to require the heads to submit a plan on information technology acquisition workforce staffing and development using the assessments, and for other purposes.",
+      "after": {
+        "title": "A bill to require Federal agency heads to submit an annual assessment on staffing needs of information technology contracting officers and contracting officer's representatives, to require the heads to submit a plan on information technology acquisition workforce staffing and development using the assessments, and for other purposes.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5721",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-5722_bill.added",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-5722",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5722: A bill to amend the definition of professional degree in the Higher Education Act of 1965.",
+      "after": {
+        "title": "A bill to amend the definition of professional degree in the Higher Education Act of 1965.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5722",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    },
+    {
+      "id": "evt_2026-11-17T172350824Z_119-s-5723_bill.added",
+      "observedAt": "2026-11-17T17:23:50.824Z",
+      "entityType": "bill",
+      "entityId": "119-s-5723",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5723: A bill to amend title 9, United States Code, with respect to arbitration of disputes involving child cyber injuries and child sexual exploitation.",
+      "after": {
+        "title": "A bill to amend title 9, United States Code, with respect to arbitration of disputes involving child cyber injuries and child sexual exploitation.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5723",
+      "syncId": "2026-11-17T17:23:50.824Z"
+    }
+  ]
+}

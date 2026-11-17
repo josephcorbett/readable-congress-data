@@ -4,7 +4,7 @@
   "billNumber": 7834,
   "congress": 119,
   "title": "Safe Cloud Storage Act",
-  "status": "introduced",
+  "status": "passedSenate",
   "chamber": "House",
   "policyArea": "Crime and Law Enforcement",
   "sponsor": {
@@ -17,14 +17,25 @@
   },
   "cosponsorCount": 5,
   "latestAction": {
-    "date": "2026-09-17",
-    "text": "Received in the Senate.",
+    "date": "2026-11-16",
+    "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701)",
     "chamber": "House"
   },
   "actions": [
     {
+      "date": "2026-11-16",
+      "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701)",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-11-16",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "chamber": "House",
+      "actionCode": "17000"
+    },
+    {
       "date": "2026-09-17",
-      "text": "Received in the Senate.",
+      "text": "Received in the Senate, read twice.",
       "chamber": "House"
     },
     {
@@ -134,6 +145,6 @@
   "summary": "Safe Cloud Storage Act This bill limits the civil and criminal liability of vendors that contract with law enforcement agencies to provide digital storage services (e.g., cloud-based storage) for storing, maintaining, and processing child sexual abuse material (CSAM) in investigations of online child sexual exploitation. Under current law, the National Center for Missing & Exploited Children (NCMEC) receives reports of online child sexual exploitation via its CyberTipline, evaluates and prioritizes the reports, and refers the reports to law enforcement agencies to investigate. Currently, federal law limits the liability of vendors that contract directly with the NCMEC to store and transfer CSAM. However, federal law does not limit the liability of vendors that contract with law enforcement agencies to assist in investigations. This bill establishes liability protections for vendors that contract with federal, state, and local law enforcement agencies to store, maintain, and process CSAM in investigations of online child sexual exploitation. Specifically, the bill prohibits a civil claim or criminal charge in federal or state court against such a vendor, so long as the vendor has not engaged in intentional misconduct or negligent conduct, acted with malice or reckless disregard, or acted for a purpose unrelated to its contractual duties. The bill requires vendors to comply with cybersecurity requirements for CSAM that is stored, maintained, or processed. The bill also requires vendors to comply with storage requirements for CSAM that is retained as evidence.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7834",
-  "updatedAt": "2026-10-31T02:42:09Z",
+  "updatedAt": "2026-11-17T14:15:13Z",
   "introducedAt": "2026-03-05"
 }
