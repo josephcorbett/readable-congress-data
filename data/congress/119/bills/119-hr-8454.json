@@ -4,7 +4,7 @@
   "billNumber": 8454,
   "congress": 119,
   "title": "To provide for the transfer of administrative jurisdiction over certain Federal land in the State of California, and for other purposes.",
-  "status": "introduced",
+  "status": "passedSenate",
   "chamber": "House",
   "policyArea": "Public Lands and Natural Resources",
   "sponsor": {
@@ -17,11 +17,22 @@
   },
   "cosponsorCount": 0,
   "latestAction": {
-    "date": "2026-09-15",
-    "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 617.",
+    "date": "2026-11-17",
+    "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5709)",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-11-17",
+      "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5709)",
+      "chamber": "House"
+    },
+    {
+      "date": "2026-11-17",
+      "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "chamber": "House",
+      "actionCode": "17000"
+    },
     {
       "date": "2026-09-15",
       "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 617.",
@@ -35,13 +46,13 @@
     },
     {
       "date": "2026-09-14",
-      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5567)",
       "chamber": "House",
       "actionCode": "H37300"
     },
     {
       "date": "2026-09-14",
-      "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5567)",
       "chamber": "House",
       "actionCode": "8000"
     },
@@ -53,7 +64,7 @@
     },
     {
       "date": "2026-09-14",
-      "text": "Considered under suspension of the rules.",
+      "text": "Considered under suspension of the rules. (consideration: CR H5567-5568)",
       "chamber": "House",
       "actionCode": "H30000"
     },
@@ -132,6 +143,11 @@
   ],
   "textVersions": [
     {
+      "type": "Placed on Calendar Senate",
+      "date": "2026-09-15",
+      "url": "https://www.congress.gov/119/bills/hr8454/BILLS-119hr8454pcs.htm"
+    },
+    {
       "type": "Engrossed in House",
       "date": "2026-09-14",
       "url": "https://www.congress.gov/119/bills/hr8454/BILLS-119hr8454eh.htm"
@@ -152,6 +168,6 @@
   "summary": "This bill exchanges administrative jurisdiction over specified parcels of federal land between Yosemite National Park and Stanislaus National Forest in California. By way of background, cattle are grazing on the land currently managed by the National Park Service. However, grazing on federal lands primarily occurs on lands managed by the Bureau of Land Management or the Forest Service. The transfer would allow the land with cattle grazing to be managed by the Forest Service, which has a multiple-use management plan that is consistent with grazing.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8454",
-  "updatedAt": "2026-09-16T13:04:38Z",
+  "updatedAt": "2026-11-18T15:00:25Z",
   "introducedAt": "2026-04-22"
 }
