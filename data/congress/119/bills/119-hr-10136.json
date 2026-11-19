@@ -4,7 +4,7 @@
   "billNumber": 10136,
   "congress": 119,
   "title": "Crossett Experimental Forest Act of 2026",
-  "status": "introduced",
+  "status": "inCommittee",
   "chamber": "House",
   "policyArea": "Public Lands and Natural Resources",
   "sponsor": {
@@ -17,11 +17,16 @@
   },
   "cosponsorCount": 0,
   "latestAction": {
-    "date": "2026-11-17",
-    "text": "Motion to reconsider laid on the table Agreed to without objection.",
+    "date": "2026-11-18",
+    "text": "Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-11-18",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+      "chamber": "House"
+    },
     {
       "date": "2026-11-17",
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
@@ -36,7 +41,7 @@
     },
     {
       "date": "2026-11-17",
-      "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6243)",
       "chamber": "House",
       "actionCode": "8000"
     },
@@ -127,6 +132,11 @@
   ],
   "textVersions": [
     {
+      "type": "Engrossed in House",
+      "date": "2026-11-17",
+      "url": "https://www.congress.gov/119/bills/hr10136/BILLS-119hr10136eh.htm"
+    },
+    {
       "type": "Reported in House",
       "date": "2026-10-29",
       "url": "https://www.congress.gov/119/bills/hr10136/BILLS-119hr10136rh.htm"
@@ -142,6 +152,6 @@
   "summary": "Crossett Experimental Forest Act of 2026 This bill directs the Forest Service, upon the request of the State of Arkansas, to convey the Crossett Experimental Forest, the R.R. Reynolds Research Natural Area, and associated facilities to the state. Upon the conveyance, Arkansas must designate the land as the Crossett Experimental State Forest. In order to retain the land, Arkansas must use the land for forest research, education, and demonstration purposes in a manner consistent with the historic research mission of the forest; and use the forest in coordination with the University of Arkansas at Monticello and the University of Arkansas Division of Agriculture, including by providing the universities with reasonable access to the forest for research and educational purposes. The bill outlines the terms and conditions of the conveyance, including requiring the conveyance to be (1) subject to valid existing rights, (2) made without consideration (e.g., payment), and (3) made by quitclaim deed. Arkansas must pay the costs of the conveyance, including costs for surveys and other administrative costs.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10136",
-  "updatedAt": "2026-11-18T15:29:55Z",
+  "updatedAt": "2026-11-19T14:49:17Z",
   "introducedAt": "2026-08-20"
 }
