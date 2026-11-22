@@ -1,8 +1,144 @@
 {
-  "generatedAt": "2026-11-21T15:55:42.807Z",
+  "generatedAt": "2026-11-22T15:56:59.253Z",
   "source": "Readable Congress change tracking",
   "mode": "changes",
   "items": [
+    {
+      "id": "evt_2026-11-22T155659253Z_119-hr-4624_bill.added",
+      "observedAt": "2026-11-22T15:56:59.253Z",
+      "entityType": "bill",
+      "entityId": "119-hr-4624",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-4624: Muhammad Ali American Boxing Revival Act of 2026",
+      "after": {
+        "title": "Muhammad Ali American Boxing Revival Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4624",
+      "syncId": "2026-11-22T15:56:59.253Z"
+    },
+    {
+      "id": "evt_2026-11-22T155659253Z_119-s-4538_bill.action_added_3d971392d95ba3b3",
+      "observedAt": "2026-11-22T15:56:59.253Z",
+      "entityType": "bill",
+      "entityId": "119-s-4538",
+      "changeType": "bill.action_added",
+      "summary": "New action: Held at the desk.",
+      "after": {
+        "date": "2026-11-20",
+        "text": "Held at the desk.",
+        "chamber": "Senate",
+        "actionCode": "H15000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4538",
+      "syncId": "2026-11-22T15:56:59.253Z"
+    },
+    {
+      "id": "evt_2026-11-22T155659253Z_119-s-4538_bill.action_added_520ccab51d243eca",
+      "observedAt": "2026-11-22T15:56:59.253Z",
+      "entityType": "bill",
+      "entityId": "119-s-4538",
+      "changeType": "bill.action_added",
+      "summary": "New action: Message on Senate action sent to the House.",
+      "after": {
+        "date": "2026-11-20",
+        "text": "Message on Senate action sent to the House.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4538",
+      "syncId": "2026-11-22T15:56:59.253Z"
+    },
+    {
+      "id": "evt_2026-11-22T155659253Z_119-s-4538_bill.action_added_9d9e0cbc20c8e754",
+      "observedAt": "2026-11-22T15:56:59.253Z",
+      "entityType": "bill",
+      "entityId": "119-s-4538",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed Senate without amendment by Unanimous Consent.",
+      "after": {
+        "date": "2026-11-19",
+        "text": "Passed Senate without amendment by Unanimous Consent.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4538",
+      "syncId": "2026-11-22T15:56:59.253Z"
+    },
+    {
+      "id": "evt_2026-11-22T155659253Z_119-s-4538_bill.action_added_eafc0efa93395560",
+      "observedAt": "2026-11-22T15:56:59.253Z",
+      "entityType": "bill",
+      "entityId": "119-s-4538",
+      "changeType": "bill.action_added",
+      "summary": "New action: Received in the House.",
+      "after": {
+        "date": "2026-11-20",
+        "text": "Received in the House.",
+        "chamber": "Senate",
+        "actionCode": "H14000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4538",
+      "syncId": "2026-11-22T15:56:59.253Z"
+    },
+    {
+      "id": "evt_2026-11-22T155659253Z_119-s-4538_bill.action_added_f478610699977604",
+      "observedAt": "2026-11-22T15:56:59.253Z",
+      "entityType": "bill",
+      "entityId": "119-s-4538",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "after": {
+        "date": "2026-11-19",
+        "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+        "chamber": "Senate",
+        "actionCode": "17000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4538",
+      "syncId": "2026-11-22T15:56:59.253Z"
+    },
+    {
+      "id": "evt_2026-11-22T155659253Z_119-s-4802_bill.added",
+      "observedAt": "2026-11-22T15:56:59.253Z",
+      "entityType": "bill",
+      "entityId": "119-s-4802",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-4802: Hurricane Hunter Aircraft Recapitalization Act",
+      "after": {
+        "title": "Hurricane Hunter Aircraft Recapitalization Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4802",
+      "syncId": "2026-11-22T15:56:59.253Z"
+    },
+    {
+      "id": "evt_2026-11-22T155659253Z_119-s-5251_bill.added",
+      "observedAt": "2026-11-22T15:56:59.253Z",
+      "entityType": "bill",
+      "entityId": "119-s-5251",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5251: ACPAC Modernization Act",
+      "after": {
+        "title": "ACPAC Modernization Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5251",
+      "syncId": "2026-11-22T15:56:59.253Z"
+    },
+    {
+      "id": "evt_2026-11-22T155659253Z_119-s-5332_bill.added",
+      "observedAt": "2026-11-22T15:56:59.253Z",
+      "entityType": "bill",
+      "entityId": "119-s-5332",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-5332: Cooperative Institute Act of 2026",
+      "after": {
+        "title": "Cooperative Institute Act of 2026",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5332",
+      "syncId": "2026-11-22T15:56:59.253Z"
+    },
     {
       "id": "evt_2026-11-21T155542807Z_119-hr-11128_bill.added",
       "observedAt": "2026-11-21T15:55:42.807Z",
@@ -1362,152 +1498,6 @@
       },
       "officialUrl": "https://liccardo.house.gov/",
       "syncId": "2026-11-19T17:05:14.166Z"
-    },
-    {
-      "id": "evt_2026-11-18T165756115Z_119-house-2-324_vote.added",
-      "observedAt": "2026-11-18T16:57:56.115Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-324",
-      "changeType": "vote.added",
-      "summary": "New House vote: On Motion to Suspend the Rules and Pass, as Amended (Passed)",
-      "after": {
-        "date": "2026-11-17",
-        "question": "On Motion to Suspend the Rules and Pass, as Amended",
-        "result": "Passed",
-        "yea": 398,
-        "nay": 0
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll324.xml",
-      "syncId": "2026-11-18T16:57:56.115Z"
-    },
-    {
-      "id": "evt_2026-11-18T165756115Z_119-house-2-325_vote.added",
-      "observedAt": "2026-11-18T16:57:56.115Z",
-      "entityType": "vote",
-      "entityId": "119-house-2-325",
-      "changeType": "vote.added",
-      "summary": "New House vote: On Motion to Suspend the Rules and Pass (Passed)",
-      "after": {
-        "date": "2026-11-17",
-        "question": "On Motion to Suspend the Rules and Pass",
-        "result": "Passed",
-        "yea": 365,
-        "nay": 36
-      },
-      "officialUrl": "https://clerk.house.gov/evs/2026/roll325.xml",
-      "syncId": "2026-11-18T16:57:56.115Z"
-    },
-    {
-      "id": "evt_2026-11-18T165756115Z_119-hr-10136_bill.action_added_28167307525ec99c",
-      "observedAt": "2026-11-18T16:57:56.115Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10136",
-      "changeType": "bill.action_added",
-      "summary": "New action: Committee Consideration and Mark-up Session Held",
-      "after": {
-        "date": "2026-09-15",
-        "text": "Committee Consideration and Mark-up Session Held",
-        "chamber": "House",
-        "actionCode": "H15001"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10136",
-      "syncId": "2026-11-18T16:57:56.115Z"
-    },
-    {
-      "id": "evt_2026-11-18T165756115Z_119-hr-10136_bill.action_added_345dc18c9c69f92b",
-      "observedAt": "2026-11-18T16:57:56.115Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10136",
-      "changeType": "bill.action_added",
-      "summary": "New action: Considered under suspension of the rules. (consideration: CR H6243-6244)",
-      "after": {
-        "date": "2026-11-17",
-        "text": "Considered under suspension of the rules. (consideration: CR H6243-6244)",
-        "chamber": "House",
-        "actionCode": "H30000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10136",
-      "syncId": "2026-11-18T16:57:56.115Z"
-    },
-    {
-      "id": "evt_2026-11-18T165756115Z_119-hr-10136_bill.action_added_41a09e7e8becd8eb",
-      "observedAt": "2026-11-18T16:57:56.115Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10136",
-      "changeType": "bill.action_added",
-      "summary": "New action: Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-864.",
-      "after": {
-        "date": "2026-10-29",
-        "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-864.",
-        "chamber": "House",
-        "actionCode": "H12200"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10136",
-      "syncId": "2026-11-18T16:57:56.115Z"
-    },
-    {
-      "id": "evt_2026-11-18T165756115Z_119-hr-10136_bill.action_added_47610235dd070fc2",
-      "observedAt": "2026-11-18T16:57:56.115Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10136",
-      "changeType": "bill.action_added",
-      "summary": "New action: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6243)",
-      "after": {
-        "date": "2026-11-17",
-        "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6243)",
-        "chamber": "House",
-        "actionCode": "H37300"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10136",
-      "syncId": "2026-11-18T16:57:56.115Z"
-    },
-    {
-      "id": "evt_2026-11-18T165756115Z_119-hr-10136_bill.action_added_5bc4197d425cccf5",
-      "observedAt": "2026-11-18T16:57:56.115Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10136",
-      "changeType": "bill.action_added",
-      "summary": "New action: DEBATE - The House proceeded with forty minutes of debate on H.R. 10136.",
-      "after": {
-        "date": "2026-11-17",
-        "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 10136.",
-        "chamber": "House",
-        "actionCode": "H8D000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10136",
-      "syncId": "2026-11-18T16:57:56.115Z"
-    },
-    {
-      "id": "evt_2026-11-18T165756115Z_119-hr-10136_bill.action_added_72895e1681a941a8",
-      "observedAt": "2026-11-18T16:57:56.115Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10136",
-      "changeType": "bill.action_added",
-      "summary": "New action: Mr. Westerman moved to suspend the rules and pass the bill, as amended.",
-      "after": {
-        "date": "2026-11-17",
-        "text": "Mr. Westerman moved to suspend the rules and pass the bill, as amended.",
-        "chamber": "House",
-        "actionCode": "H30300"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10136",
-      "syncId": "2026-11-18T16:57:56.115Z"
-    },
-    {
-      "id": "evt_2026-11-18T165756115Z_119-hr-10136_bill.action_added_79d804a94093f786",
-      "observedAt": "2026-11-18T16:57:56.115Z",
-      "entityType": "bill",
-      "entityId": "119-hr-10136",
-      "changeType": "bill.action_added",
-      "summary": "New action: Subcommittee on Federal Lands Discharged",
-      "after": {
-        "date": "2026-09-15",
-        "text": "Subcommittee on Federal Lands Discharged",
-        "chamber": "House",
-        "actionCode": "H25000"
-      },
-      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10136",
-      "syncId": "2026-11-18T16:57:56.115Z"
     }
   ]
 }
