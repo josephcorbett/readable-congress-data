@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T15:56:59.253Z",
+  "generatedAt": "2026-11-23T19:53:15.878Z",
   "source": "Congress.gov API",
   "mode": "recent",
   "items": [
@@ -1082,27 +1082,27 @@
       "officialUrl": "https://bishop.house.gov/"
     },
     {
-      "id": "B001303",
-      "bioguideId": "B001303",
-      "name": "Lisa Blunt Rochester",
-      "firstName": "Lisa",
-      "lastName": "Blunt Rochester",
-      "party": "D",
+      "id": "B001243",
+      "bioguideId": "B001243",
+      "name": "Marsha Blackburn",
+      "firstName": "Marsha",
+      "lastName": "Blackburn",
+      "party": "R",
       "chamber": "Senate",
-      "state": "Delaware",
-      "stateCode": "DE",
+      "state": "Tennessee",
+      "stateCode": "TN",
       "currentTerm": {
         "congress": 119,
         "chamber": "Senate",
-        "state": "Delaware",
+        "state": "Tennessee",
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-s-5718"
+        "119-s-2479"
       ],
       "cosponsoredBillIds": [],
       "recentVoteIds": [],
-      "officialUrl": "https://www.bluntrochester.senate.gov/"
+      "officialUrl": "https://www.blackburn.senate.gov"
     },
     {
       "id": "B000825",
@@ -1399,27 +1399,55 @@
       "officialUrl": "https://buchanan.house.gov/"
     },
     {
-      "id": "B001305",
-      "bioguideId": "B001305",
-      "name": "Ted Budd",
-      "firstName": "Ted",
-      "lastName": "Budd",
+      "id": "C001039",
+      "bioguideId": "C001039",
+      "name": "Kat Cammack",
+      "firstName": "Kat",
+      "lastName": "Cammack",
       "party": "R",
-      "chamber": "Senate",
-      "state": "North Carolina",
-      "stateCode": "NC",
+      "chamber": "House",
+      "state": "Florida",
+      "stateCode": "FL",
+      "district": "3",
       "currentTerm": {
         "congress": 119,
-        "chamber": "Senate",
-        "state": "North Carolina",
+        "chamber": "House",
+        "state": "Florida",
+        "district": "3",
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-s-5818"
+        "119-hr-1520"
       ],
       "cosponsoredBillIds": [],
-      "recentVoteIds": [],
-      "officialUrl": "https://www.budd.senate.gov/"
+      "recentVoteIds": [
+        "119-house-2-327",
+        "119-house-2-326",
+        "119-house-2-325",
+        "119-house-2-324",
+        "119-house-2-323",
+        "119-house-2-322",
+        "119-house-2-321",
+        "119-house-2-320",
+        "119-house-2-319",
+        "119-house-2-318",
+        "119-house-2-317",
+        "119-house-2-316",
+        "119-house-2-315",
+        "119-house-2-314",
+        "119-house-2-313",
+        "119-house-2-312",
+        "119-house-2-311",
+        "119-house-2-310",
+        "119-house-2-309",
+        "119-house-2-308",
+        "119-house-2-307",
+        "119-house-2-306",
+        "119-house-2-305",
+        "119-house-2-304",
+        "119-house-2-303"
+      ],
+      "officialUrl": "https://cammack.house.gov"
     },
     {
       "id": "C000127",
@@ -1446,55 +1474,74 @@
       "officialUrl": "https://www.cantwell.senate.gov"
     },
     {
-      "id": "C001051",
-      "bioguideId": "C001051",
-      "name": "John R. Carter",
-      "firstName": "John",
-      "lastName": "Carter",
-      "party": "R",
-      "chamber": "House",
-      "state": "Texas",
-      "stateCode": "TX",
-      "district": "31",
+      "id": "C001113",
+      "bioguideId": "C001113",
+      "name": "Catherine Cortez Masto",
+      "firstName": "Catherine",
+      "lastName": "Cortez Masto",
+      "party": "D",
+      "chamber": "Senate",
+      "state": "Nevada",
+      "stateCode": "NV",
       "currentTerm": {
         "congress": 119,
-        "chamber": "House",
-        "state": "Texas",
-        "district": "31",
+        "chamber": "Senate",
+        "state": "Nevada",
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-hr-8469"
+        "119-s-4445"
       ],
       "cosponsoredBillIds": [],
-      "recentVoteIds": [
-        "119-house-2-327",
-        "119-house-2-326",
-        "119-house-2-325",
-        "119-house-2-324",
-        "119-house-2-323",
-        "119-house-2-322",
-        "119-house-2-321",
-        "119-house-2-320",
-        "119-house-2-319",
-        "119-house-2-318",
-        "119-house-2-317",
-        "119-house-2-316",
-        "119-house-2-315",
-        "119-house-2-314",
-        "119-house-2-313",
-        "119-house-2-312",
-        "119-house-2-311",
-        "119-house-2-310",
-        "119-house-2-309",
-        "119-house-2-308",
-        "119-house-2-307",
-        "119-house-2-306",
-        "119-house-2-305",
-        "119-house-2-304",
-        "119-house-2-303"
+      "recentVoteIds": [],
+      "officialUrl": "https://www.cortezmasto.senate.gov"
+    },
+    {
+      "id": "C001095",
+      "bioguideId": "C001095",
+      "name": "Tom Cotton",
+      "firstName": "Tom",
+      "lastName": "Cotton",
+      "party": "R",
+      "chamber": "Senate",
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "currentTerm": {
+        "congress": 119,
+        "chamber": "Senate",
+        "state": "Arkansas",
+        "startYear": 2025
+      },
+      "sponsoredBillIds": [
+        "119-s-3741"
       ],
-      "officialUrl": "https://carter.house.gov/"
+      "cosponsoredBillIds": [],
+      "recentVoteIds": [],
+      "officialUrl": "https://www.cotton.senate.gov"
+    },
+    {
+      "id": "E000295",
+      "bioguideId": "E000295",
+      "name": "Joni Ernst",
+      "firstName": "Joni",
+      "lastName": "Ernst",
+      "party": "R",
+      "chamber": "Senate",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "currentTerm": {
+        "congress": 119,
+        "chamber": "Senate",
+        "state": "Iowa",
+        "startYear": 2025
+      },
+      "sponsoredBillIds": [
+        "119-s-3954",
+        "119-s-3321"
+      ],
+      "cosponsoredBillIds": [],
+      "recentVoteIds": [],
+      "officialUrl": "https://www.ernst.senate.gov"
     },
     {
       "id": "F000479",
@@ -1520,76 +1567,25 @@
       "officialUrl": "https://www.fetterman.senate.gov/"
     },
     {
-      "id": "G000587",
-      "bioguideId": "G000587",
-      "name": "Sylvia R. Garcia",
-      "firstName": "Sylvia",
-      "lastName": "Garcia",
-      "party": "D",
-      "chamber": "House",
-      "state": "Texas",
-      "stateCode": "TX",
-      "district": "29",
-      "currentTerm": {
-        "congress": 119,
-        "chamber": "House",
-        "state": "Texas",
-        "district": "29",
-        "startYear": 2025
-      },
-      "sponsoredBillIds": [
-        "119-hr-11131"
-      ],
-      "cosponsoredBillIds": [],
-      "recentVoteIds": [
-        "119-house-2-327",
-        "119-house-2-326",
-        "119-house-2-325",
-        "119-house-2-324",
-        "119-house-2-323",
-        "119-house-2-322",
-        "119-house-2-321",
-        "119-house-2-320",
-        "119-house-2-319",
-        "119-house-2-318",
-        "119-house-2-317",
-        "119-house-2-316",
-        "119-house-2-315",
-        "119-house-2-314",
-        "119-house-2-313",
-        "119-house-2-312",
-        "119-house-2-311",
-        "119-house-2-310",
-        "119-house-2-309",
-        "119-house-2-308",
-        "119-house-2-307",
-        "119-house-2-306",
-        "119-house-2-305",
-        "119-house-2-304",
-        "119-house-2-303"
-      ],
-      "officialUrl": "https://sylviagarcia.house.gov/"
-    },
-    {
-      "id": "G000603",
-      "bioguideId": "G000603",
-      "name": "Brandon Gill",
-      "firstName": "Brandon",
-      "lastName": "Gill",
+      "id": "H001067",
+      "bioguideId": "H001067",
+      "name": "Richard Hudson",
+      "firstName": "Richard",
+      "lastName": "Hudson",
       "party": "R",
       "chamber": "House",
-      "state": "Texas",
-      "stateCode": "TX",
-      "district": "26",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "district": "9",
       "currentTerm": {
         "congress": 119,
         "chamber": "House",
-        "state": "Texas",
-        "district": "26",
+        "state": "North Carolina",
+        "district": "9",
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-hr-11132"
+        "119-hr-10159"
       ],
       "cosponsoredBillIds": [],
       "recentVoteIds": [
@@ -1619,7 +1615,7 @@
         "119-house-2-304",
         "119-house-2-303"
       ],
-      "officialUrl": "https://gill.house.gov/"
+      "officialUrl": "https://hudson.house.gov"
     },
     {
       "id": "J000311",
@@ -1673,27 +1669,25 @@
       "officialUrl": "https://jack.house.gov/"
     },
     {
-      "id": "K000400",
-      "bioguideId": "K000400",
-      "name": "Sydney Kamlager-Dove",
-      "firstName": "Sydney",
-      "lastName": "Kamlager-Dove",
+      "id": "J000298",
+      "bioguideId": "J000298",
+      "name": "Pramila Jayapal",
+      "firstName": "Pramila",
+      "lastName": "Jayapal",
       "party": "D",
       "chamber": "House",
-      "state": "California",
-      "stateCode": "CA",
-      "district": "37",
+      "state": "Washington",
+      "stateCode": "WA",
+      "district": "7",
       "currentTerm": {
         "congress": 119,
         "chamber": "House",
-        "state": "California",
-        "district": "37",
+        "state": "Washington",
+        "district": "7",
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-hr-11136",
-        "119-hr-11135",
-        "119-hr-11134"
+        "119-hres-1674"
       ],
       "cosponsoredBillIds": [],
       "recentVoteIds": [
@@ -1723,76 +1717,53 @@
         "119-house-2-304",
         "119-house-2-303"
       ],
-      "officialUrl": "https://kamlager-dove.house.gov"
+      "officialUrl": "https://jayapal.house.gov"
     },
     {
-      "id": "K000393",
-      "bioguideId": "K000393",
-      "name": "John Kennedy",
-      "firstName": "John",
-      "lastName": "Kennedy",
+      "id": "K000377",
+      "bioguideId": "K000377",
+      "name": "Mark Kelly",
+      "firstName": "Mark",
+      "lastName": "Kelly",
+      "party": "D",
+      "chamber": "Senate",
+      "state": "Arizona",
+      "stateCode": "AZ",
+      "currentTerm": {
+        "congress": 119,
+        "chamber": "Senate",
+        "state": "Arizona",
+        "startYear": 2025
+      },
+      "sponsoredBillIds": [
+        "119-s-3301"
+      ],
+      "cosponsoredBillIds": [],
+      "recentVoteIds": [],
+      "officialUrl": "https://www.kelly.senate.gov"
+    },
+    {
+      "id": "M001243",
+      "bioguideId": "M001243",
+      "name": "David McCormick",
+      "firstName": "David",
+      "lastName": "McCormick",
       "party": "R",
       "chamber": "Senate",
-      "state": "Louisiana",
-      "stateCode": "LA",
+      "state": "Pennsylvania",
+      "stateCode": "PA",
       "currentTerm": {
         "congress": 119,
         "chamber": "Senate",
-        "state": "Louisiana",
+        "state": "Pennsylvania",
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-s-5820"
+        "119-s-4238"
       ],
       "cosponsoredBillIds": [],
       "recentVoteIds": [],
-      "officialUrl": "https://www.kennedy.senate.gov"
-    },
-    {
-      "id": "K000383",
-      "bioguideId": "K000383",
-      "name": "Angus S. King Jr.",
-      "firstName": "Angus",
-      "lastName": "King",
-      "party": "I",
-      "chamber": "Senate",
-      "state": "Maine",
-      "stateCode": "ME",
-      "currentTerm": {
-        "congress": 119,
-        "chamber": "Senate",
-        "state": "Maine",
-        "startYear": 2025
-      },
-      "sponsoredBillIds": [
-        "119-s-5814"
-      ],
-      "cosponsoredBillIds": [],
-      "recentVoteIds": [],
-      "officialUrl": "https://www.king.senate.gov/"
-    },
-    {
-      "id": "L000571",
-      "bioguideId": "L000571",
-      "name": "Cynthia M. Lummis",
-      "firstName": "Cynthia",
-      "lastName": "Lummis",
-      "party": "R",
-      "chamber": "Senate",
-      "state": "Wyoming",
-      "stateCode": "WY",
-      "currentTerm": {
-        "congress": 119,
-        "chamber": "Senate",
-        "state": "Wyoming",
-        "startYear": 2025
-      },
-      "sponsoredBillIds": [
-        "119-s-5663"
-      ],
-      "cosponsoredBillIds": [],
-      "recentVoteIds": [],
-      "officialUrl": "https://www.lummis.senate.gov"
+      "officialUrl": "https://mccormick.senate.gov/"
     },
     {
       "id": "M001233",
@@ -1846,25 +1817,25 @@
       "officialUrl": "https://messmer.house.gov/"
     },
     {
-      "id": "M001213",
-      "bioguideId": "M001213",
-      "name": "Blake D. Moore",
-      "firstName": "Blake",
-      "lastName": "Moore",
+      "id": "O000019",
+      "bioguideId": "O000019",
+      "name": "Jay Obernolte",
+      "firstName": "Jay",
+      "lastName": "Obernolte",
       "party": "R",
       "chamber": "House",
-      "state": "Utah",
-      "stateCode": "UT",
-      "district": "1",
+      "state": "California",
+      "stateCode": "CA",
+      "district": "23",
       "currentTerm": {
         "congress": 119,
         "chamber": "House",
-        "state": "Utah",
-        "district": "1",
+        "state": "California",
+        "district": "23",
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-hr-11137"
+        "119-hr-4464"
       ],
       "cosponsoredBillIds": [],
       "recentVoteIds": [
@@ -1894,58 +1865,30 @@
         "119-house-2-304",
         "119-house-2-303"
       ],
-      "officialUrl": "https://blakemoore.house.gov"
+      "officialUrl": "https://obernolte.house.gov"
     },
     {
-      "id": "N000191",
-      "bioguideId": "N000191",
-      "name": "Joe Neguse",
-      "firstName": "Joe",
-      "lastName": "Neguse",
+      "id": "P000595",
+      "bioguideId": "P000595",
+      "name": "Gary C. Peters",
+      "firstName": "Gary",
+      "lastName": "Peters",
       "party": "D",
-      "chamber": "House",
-      "state": "Colorado",
-      "stateCode": "CO",
-      "district": "2",
+      "chamber": "Senate",
+      "state": "Michigan",
+      "stateCode": "MI",
       "currentTerm": {
         "congress": 119,
-        "chamber": "House",
-        "state": "Colorado",
-        "district": "2",
+        "chamber": "Senate",
+        "state": "Michigan",
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-hr-11138"
+        "119-s-580"
       ],
       "cosponsoredBillIds": [],
-      "recentVoteIds": [
-        "119-house-2-327",
-        "119-house-2-326",
-        "119-house-2-325",
-        "119-house-2-324",
-        "119-house-2-323",
-        "119-house-2-322",
-        "119-house-2-321",
-        "119-house-2-320",
-        "119-house-2-319",
-        "119-house-2-318",
-        "119-house-2-317",
-        "119-house-2-316",
-        "119-house-2-315",
-        "119-house-2-314",
-        "119-house-2-313",
-        "119-house-2-312",
-        "119-house-2-311",
-        "119-house-2-310",
-        "119-house-2-309",
-        "119-house-2-308",
-        "119-house-2-307",
-        "119-house-2-306",
-        "119-house-2-305",
-        "119-house-2-304",
-        "119-house-2-303"
-      ],
-      "officialUrl": "https://neguse.house.gov/"
+      "recentVoteIds": [],
+      "officialUrl": "https://www.peters.senate.gov"
     },
     {
       "id": "R000608",
@@ -1971,80 +1914,6 @@
       "officialUrl": "https://www.rosen.senate.gov"
     },
     {
-      "id": "S001145",
-      "bioguideId": "S001145",
-      "name": "Janice D. Schakowsky",
-      "firstName": "Janice",
-      "lastName": "Schakowsky",
-      "party": "D",
-      "chamber": "House",
-      "state": "Illinois",
-      "stateCode": "IL",
-      "district": "9",
-      "currentTerm": {
-        "congress": 119,
-        "chamber": "House",
-        "state": "Illinois",
-        "district": "9",
-        "startYear": 2025
-      },
-      "sponsoredBillIds": [
-        "119-hr-11139"
-      ],
-      "cosponsoredBillIds": [],
-      "recentVoteIds": [
-        "119-house-2-327",
-        "119-house-2-326",
-        "119-house-2-325",
-        "119-house-2-324",
-        "119-house-2-323",
-        "119-house-2-322",
-        "119-house-2-321",
-        "119-house-2-320",
-        "119-house-2-319",
-        "119-house-2-318",
-        "119-house-2-317",
-        "119-house-2-316",
-        "119-house-2-315",
-        "119-house-2-314",
-        "119-house-2-313",
-        "119-house-2-312",
-        "119-house-2-311",
-        "119-house-2-310",
-        "119-house-2-309",
-        "119-house-2-308",
-        "119-house-2-307",
-        "119-house-2-306",
-        "119-house-2-305",
-        "119-house-2-304",
-        "119-house-2-303"
-      ],
-      "officialUrl": "https://schakowsky.house.gov"
-    },
-    {
-      "id": "S001194",
-      "bioguideId": "S001194",
-      "name": "Brian Schatz",
-      "firstName": "Brian",
-      "lastName": "Schatz",
-      "party": "D",
-      "chamber": "Senate",
-      "state": "Hawaii",
-      "stateCode": "HI",
-      "currentTerm": {
-        "congress": 119,
-        "chamber": "Senate",
-        "state": "Hawaii",
-        "startYear": 2025
-      },
-      "sponsoredBillIds": [
-        "119-s-5816"
-      ],
-      "cosponsoredBillIds": [],
-      "recentVoteIds": [],
-      "officialUrl": "https://www.schatz.senate.gov"
-    },
-    {
       "id": "S001150",
       "bioguideId": "S001150",
       "name": "Adam B. Schiff",
@@ -2061,32 +1930,32 @@
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-s-5817"
+        "119-s-4035"
       ],
       "cosponsoredBillIds": [],
       "recentVoteIds": [],
       "officialUrl": "https://www.schiff.senate.gov"
     },
     {
-      "id": "T000469",
-      "bioguideId": "T000469",
-      "name": "Paul Tonko",
-      "firstName": "Paul",
-      "lastName": "Tonko",
-      "party": "D",
+      "id": "S001228",
+      "bioguideId": "S001228",
+      "name": "Derek Schmidt",
+      "firstName": "Derek",
+      "lastName": "Schmidt",
+      "party": "R",
       "chamber": "House",
-      "state": "New York",
-      "stateCode": "NY",
-      "district": "20",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "district": "2",
       "currentTerm": {
         "congress": 119,
         "chamber": "House",
-        "state": "New York",
-        "district": "20",
+        "state": "Kansas",
+        "district": "2",
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-hr-11141"
+        "119-hr-8352"
       ],
       "cosponsoredBillIds": [],
       "recentVoteIds": [
@@ -2116,53 +1985,128 @@
         "119-house-2-304",
         "119-house-2-303"
       ],
-      "officialUrl": "https://tonko.house.gov/"
+      "officialUrl": "https://schmidt.house.gov/"
     },
     {
-      "id": "W000805",
-      "bioguideId": "W000805",
-      "name": "Mark R. Warner",
-      "firstName": "Mark",
-      "lastName": "Warner",
-      "party": "D",
-      "chamber": "Senate",
-      "state": "Virginia",
-      "stateCode": "VA",
+      "id": "S001199",
+      "bioguideId": "S001199",
+      "name": "Lloyd Smucker",
+      "firstName": "Lloyd",
+      "lastName": "Smucker",
+      "party": "R",
+      "chamber": "House",
+      "state": "Pennsylvania",
+      "stateCode": "PA",
+      "district": "11",
       "currentTerm": {
         "congress": 119,
-        "chamber": "Senate",
-        "state": "Virginia",
+        "chamber": "House",
+        "state": "Pennsylvania",
+        "district": "11",
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-s-5815"
+        "119-hr-5284",
+        "119-hr-2347"
       ],
       "cosponsoredBillIds": [],
-      "recentVoteIds": [],
-      "officialUrl": "https://www.warner.senate.gov"
+      "recentVoteIds": [
+        "119-house-2-327",
+        "119-house-2-326",
+        "119-house-2-325",
+        "119-house-2-324",
+        "119-house-2-323",
+        "119-house-2-322",
+        "119-house-2-321",
+        "119-house-2-320",
+        "119-house-2-319",
+        "119-house-2-318",
+        "119-house-2-317",
+        "119-house-2-316",
+        "119-house-2-315",
+        "119-house-2-314",
+        "119-house-2-313",
+        "119-house-2-312",
+        "119-house-2-311",
+        "119-house-2-310",
+        "119-house-2-309",
+        "119-house-2-308",
+        "119-house-2-307",
+        "119-house-2-306",
+        "119-house-2-305",
+        "119-house-2-304",
+        "119-house-2-303"
+      ],
+      "officialUrl": "https://smucker.house.gov/"
     },
     {
-      "id": "Y000064",
-      "bioguideId": "Y000064",
-      "name": "Todd Young",
-      "firstName": "Todd",
-      "lastName": "Young",
+      "id": "T000250",
+      "bioguideId": "T000250",
+      "name": "John Thune",
+      "firstName": "John",
+      "lastName": "Thune",
       "party": "R",
       "chamber": "Senate",
-      "state": "Indiana",
-      "stateCode": "IN",
+      "state": "South Dakota",
+      "stateCode": "SD",
       "currentTerm": {
         "congress": 119,
         "chamber": "Senate",
-        "state": "Indiana",
+        "state": "South Dakota",
         "startYear": 2025
       },
       "sponsoredBillIds": [
-        "119-s-5819"
+        "119-s-4448"
       ],
       "cosponsoredBillIds": [],
       "recentVoteIds": [],
-      "officialUrl": "https://www.young.senate.gov"
+      "officialUrl": "https://www.thune.senate.gov/"
+    },
+    {
+      "id": "W000802",
+      "bioguideId": "W000802",
+      "name": "Sheldon Whitehouse",
+      "firstName": "Sheldon",
+      "lastName": "Whitehouse",
+      "party": "D",
+      "chamber": "Senate",
+      "state": "Rhode Island",
+      "stateCode": "RI",
+      "currentTerm": {
+        "congress": 119,
+        "chamber": "Senate",
+        "state": "Rhode Island",
+        "startYear": 2025
+      },
+      "sponsoredBillIds": [
+        "119-s-2883"
+      ],
+      "cosponsoredBillIds": [],
+      "recentVoteIds": [],
+      "officialUrl": "https://www.whitehouse.senate.gov/"
+    },
+    {
+      "id": "W000437",
+      "bioguideId": "W000437",
+      "name": "Roger F. Wicker",
+      "firstName": "Roger",
+      "lastName": "Wicker",
+      "party": "R",
+      "chamber": "Senate",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "currentTerm": {
+        "congress": 119,
+        "chamber": "Senate",
+        "state": "Mississippi",
+        "startYear": 2025
+      },
+      "sponsoredBillIds": [
+        "119-s-2586"
+      ],
+      "cosponsoredBillIds": [],
+      "recentVoteIds": [],
+      "officialUrl": "https://www.wicker.senate.gov"
     }
   ]
 }

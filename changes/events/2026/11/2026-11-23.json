@@ -1,0 +1,698 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T19:53:15.878Z",
+  "items": [
+    {
+      "id": "evt_2026-11-23T195315878Z_119-house-2-327_vote.corrected",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "vote",
+      "entityId": "119-house-2-327",
+      "changeType": "vote.corrected",
+      "summary": "Vote record corrected: On Motion to Suspend the Rules and Pass",
+      "before": {
+        "result": "Passed",
+        "yea": 401,
+        "nay": 0,
+        "present": 0,
+        "notVoting": 32,
+        "question": "On Motion to Suspend the Rules and Pass",
+        "description": "On Motion to Suspend the Rules and Pass",
+        "date": "2026-11-19",
+        "associatedBillId": "119-hr-4464"
+      },
+      "after": {
+        "result": "Passed",
+        "yea": 401,
+        "nay": 0,
+        "present": 0,
+        "notVoting": 32,
+        "question": "On Motion to Suspend the Rules and Pass",
+        "description": "Preventive Health Savings Act (HR 4464)",
+        "date": "2026-11-19",
+        "associatedBillId": "119-hr-4464"
+      },
+      "officialUrl": "https://clerk.house.gov/evs/2026/roll327.xml",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-10159_bill.action_added_03b63d43239b6d64",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10159",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-11-20",
+        "text": "Signed by President.",
+        "chamber": "House",
+        "actionCode": "36000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10159",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-10159_bill.action_added_1b4168d97ab53817",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10159",
+      "changeType": "bill.action_added",
+      "summary": "New action: Presented to President.",
+      "after": {
+        "date": "2026-11-20",
+        "text": "Presented to President.",
+        "chamber": "House",
+        "actionCode": "E20000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10159",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-10159_bill.action_added_36ae70355d92d642",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10159",
+      "changeType": "bill.action_added",
+      "summary": "New action: Presented to President.",
+      "after": {
+        "date": "2026-11-20",
+        "text": "Presented to President.",
+        "chamber": "House",
+        "actionCode": "28000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10159",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-10159_bill.action_added_422c24797ebed1df",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10159",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5544)",
+      "after": {
+        "date": "2026-09-14",
+        "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5544)",
+        "chamber": "House",
+        "actionCode": "8000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10159",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-10159_bill.action_added_6fb4d23018b85011",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10159",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-11-20",
+        "text": "Signed by President.",
+        "chamber": "House",
+        "actionCode": "E30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10159",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-10159_bill.status_changed",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-10159",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to becameLaw",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "becameLaw"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10159",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-1520_bill.added",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-1520",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-1520: Charlotte Woodward Organ Transplant Discrimination Prevention Act",
+      "after": {
+        "title": "Charlotte Woodward Organ Transplant Discrimination Prevention Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1520",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-2347_bill.action_added_4854e31e344836e2",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2347",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed Senate with an amendment by Yea-Nay Vote. 62 - 33. Record Vote Number: 270.",
+      "after": {
+        "date": "2026-11-19",
+        "text": "Passed Senate with an amendment by Yea-Nay Vote. 62 - 33. Record Vote Number: 270.",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-2347_bill.action_added_5b9aa821296026da",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2347",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 62 - 33. Record Vote Number: 270.",
+      "after": {
+        "date": "2026-11-19",
+        "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 62 - 33. Record Vote Number: 270.",
+        "chamber": "House",
+        "actionCode": "17000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-2347_bill.action_added_5ef079666dbb6cb2",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2347",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered by Senate.",
+      "after": {
+        "date": "2026-11-19",
+        "text": "Considered by Senate.",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-2347_bill.action_added_69977c59b749057a",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2347",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered by Senate. (consideration: CR S5729-5730, S5735-5736)",
+      "after": {
+        "date": "2026-11-18",
+        "text": "Considered by Senate. (consideration: CR S5729-5730, S5735-5736)",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-2347_bill.action_added_9d2a3cb2bfa24dc5",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2347",
+      "changeType": "bill.action_added",
+      "summary": "New action: Motion to waive all applicable budgetary discipline with respect to H.R. 2347 agreed to in Senate by Yea-Nay Vote. 70 - 26. Record Vote Number: 266. (CR S5735-5736)",
+      "after": {
+        "date": "2026-11-18",
+        "text": "Motion to waive all applicable budgetary discipline with respect to H.R. 2347 agreed to in Senate by Yea-Nay Vote. 70 - 26. Record Vote Number: 266. (CR S5735-5736)",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-2347_bill.action_added_ac12854ac97c1658",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2347",
+      "changeType": "bill.action_added",
+      "summary": "New action: Considered by Senate. (consideration: CR S5705)",
+      "after": {
+        "date": "2026-11-17",
+        "text": "Considered by Senate. (consideration: CR S5705)",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-2347_bill.action_added_d9939877156b0d01",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2347",
+      "changeType": "bill.action_added",
+      "summary": "New action: Cloture on the measure invoked in Senate by Yea-Nay Vote. 65 - 31. Record Vote Number: 268. (CR S5736)",
+      "after": {
+        "date": "2026-11-18",
+        "text": "Cloture on the measure invoked in Senate by Yea-Nay Vote. 65 - 31. Record Vote Number: 268. (CR S5736)",
+        "chamber": "House",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-2347_bill.status_changed",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2347",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to passedSenate",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "passedSenate"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-2347_bill.title_changed",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-2347",
+      "changeType": "bill.title_changed",
+      "summary": "Title updated",
+      "before": {
+        "title": "Survivor Justice Tax Prevention Act"
+      },
+      "after": {
+        "title": "Bipartisan American Affordability and Jobs Act of 2026"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-4464_bill.added",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-4464",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hr-4464: Preventive Health Savings Act",
+      "after": {
+        "title": "Preventive Health Savings Act",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4464",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-5284_bill.action_added_03b63d43239b6d64",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5284",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-11-20",
+        "text": "Signed by President.",
+        "chamber": "House",
+        "actionCode": "36000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5284",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-5284_bill.action_added_6d864968d4023971",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5284",
+      "changeType": "bill.action_added",
+      "summary": "New action: Presented to President.",
+      "after": {
+        "date": "2026-11-12",
+        "text": "Presented to President.",
+        "chamber": "House",
+        "actionCode": "E20000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5284",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-5284_bill.action_added_6fb4d23018b85011",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5284",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-11-20",
+        "text": "Signed by President.",
+        "chamber": "House",
+        "actionCode": "E30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5284",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-5284_bill.action_added_81ea75cb5e6d13b8",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5284",
+      "changeType": "bill.action_added",
+      "summary": "New action: Presented to President.",
+      "after": {
+        "date": "2026-11-12",
+        "text": "Presented to President.",
+        "chamber": "House",
+        "actionCode": "28000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5284",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-5284_bill.status_changed",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-5284",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to becameLaw",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "becameLaw"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5284",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-8352_bill.action_added_03b63d43239b6d64",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8352",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-11-20",
+        "text": "Signed by President.",
+        "chamber": "House",
+        "actionCode": "36000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8352",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-8352_bill.action_added_6fb4d23018b85011",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8352",
+      "changeType": "bill.action_added",
+      "summary": "New action: Signed by President.",
+      "after": {
+        "date": "2026-11-20",
+        "text": "Signed by President.",
+        "chamber": "House",
+        "actionCode": "E30000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8352",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hr-8352_bill.status_changed",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hr-8352",
+      "changeType": "bill.status_changed",
+      "summary": "Status changed from introduced to becameLaw",
+      "before": {
+        "status": "introduced"
+      },
+      "after": {
+        "status": "becameLaw"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8352",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-hres-1674_bill.added",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-hres-1674",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-hres-1674: Supporting the goals and principles of Transgender Day of Remembrance by recognizing the epidemic of violence toward transgender people and memorializing the lives lost this year.",
+      "after": {
+        "title": "Supporting the goals and principles of Transgender Day of Remembrance by recognizing the epidemic of violence toward transgender people and memorializing the lives lost this year.",
+        "status": "inCommittee"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1674",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-2479_bill.added",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-2479",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2479: Reserve Organization of America Charter Amendments Act of 2026",
+      "after": {
+        "title": "Reserve Organization of America Charter Amendments Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2479",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-2586_bill.added",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-2586",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2586: MARA Act of 2025",
+      "after": {
+        "title": "MARA Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2586",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-2883_bill.added",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-2883",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-2883: Quantifying Uncertainty and Action to Help Optimize Growth of Shellfish Act of 2025",
+      "after": {
+        "title": "Quantifying Uncertainty and Action to Help Optimize Growth of Shellfish Act of 2025",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2883",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-3301_bill.added",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-3301",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3301: Chip EQUIP Act",
+      "after": {
+        "title": "Chip EQUIP Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3301",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-3321_bill.added",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-3321",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3321: FAIR Leave Act",
+      "after": {
+        "title": "FAIR Leave Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3321",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-3741_bill.added",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-3741",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3741: Biosecurity Modernization and Innovation Act of 2026",
+      "after": {
+        "title": "Biosecurity Modernization and Innovation Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3741",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-3954_bill.added",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-3954",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-3954: No Lifeline for Dead People Act",
+      "after": {
+        "title": "No Lifeline for Dead People Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3954",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-4035_bill.added",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-4035",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-4035: DEATH BETS Act",
+      "after": {
+        "title": "DEATH BETS Act",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4035",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-4238_bill.action_added_3d971392d95ba3b3",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-4238",
+      "changeType": "bill.action_added",
+      "summary": "New action: Held at the desk.",
+      "after": {
+        "date": "2026-11-20",
+        "text": "Held at the desk.",
+        "chamber": "Senate",
+        "actionCode": "H15000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4238",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-4238_bill.action_added_520ccab51d243eca",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-4238",
+      "changeType": "bill.action_added",
+      "summary": "New action: Message on Senate action sent to the House.",
+      "after": {
+        "date": "2026-11-20",
+        "text": "Message on Senate action sent to the House.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4238",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-4238_bill.action_added_9d9e0cbc20c8e754",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-4238",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed Senate without amendment by Unanimous Consent.",
+      "after": {
+        "date": "2026-11-19",
+        "text": "Passed Senate without amendment by Unanimous Consent.",
+        "chamber": "Senate",
+        "actionCode": null
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4238",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-4238_bill.action_added_eafc0efa93395560",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-4238",
+      "changeType": "bill.action_added",
+      "summary": "New action: Received in the House.",
+      "after": {
+        "date": "2026-11-20",
+        "text": "Received in the House.",
+        "chamber": "Senate",
+        "actionCode": "H14000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4238",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-4238_bill.action_added_f478610699977604",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-4238",
+      "changeType": "bill.action_added",
+      "summary": "New action: Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "after": {
+        "date": "2026-11-19",
+        "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+        "chamber": "Senate",
+        "actionCode": "17000"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4238",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-4445_bill.added",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-4445",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-4445: Veterans Protection from Fraud Act of 2026",
+      "after": {
+        "title": "Veterans Protection from Fraud Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4445",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-4448_bill.added",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-4448",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-4448: Accelerating Broadband Permits Act of 2026",
+      "after": {
+        "title": "Accelerating Broadband Permits Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4448",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_119-s-580_bill.added",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "bill",
+      "entityId": "119-s-580",
+      "changeType": "bill.added",
+      "summary": "Started tracking 119-s-580: Combating CCP Labor Abuses Act of 2026",
+      "after": {
+        "title": "Combating CCP Labor Abuses Act of 2026",
+        "status": "introduced"
+      },
+      "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/580",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    },
+    {
+      "id": "evt_2026-11-23T195315878Z_C001039_member.added",
+      "observedAt": "2026-11-23T19:53:15.878Z",
+      "entityType": "member",
+      "entityId": "C001039",
+      "changeType": "member.added",
+      "summary": "Started tracking Kat Cammack",
+      "after": {
+        "name": "Kat Cammack",
+        "party": "R",
+        "chamber": "House",
+        "state": "FL"
+      },
+      "officialUrl": "https://cammack.house.gov",
+      "syncId": "2026-11-23T19:53:15.878Z"
+    }
+  ]
+}
