@@ -17,15 +17,10 @@
   "cosponsorCount": 5,
   "latestAction": {
     "date": "2026-11-20",
-    "text": "Message on Senate action sent to the House.",
+    "text": "Held at the desk.",
     "chamber": "Senate"
   },
   "actions": [
-    {
-      "date": "2026-11-20",
-      "text": "Message on Senate action sent to the House.",
-      "chamber": "Senate"
-    },
     {
       "date": "2026-11-20",
       "text": "Held at the desk.",
@@ -37,6 +32,11 @@
       "text": "Received in the House.",
       "chamber": "Senate",
       "actionCode": "H14000"
+    },
+    {
+      "date": "2026-11-20",
+      "text": "Message on Senate action sent to the House.",
+      "chamber": "Senate"
     },
     {
       "date": "2026-11-19",
@@ -105,6 +105,6 @@
     }
   ],
   "officialUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4538",
-  "updatedAt": "2026-11-21T12:03:36Z",
+  "updatedAt": "2026-11-24T13:50:18Z",
   "introducedAt": "2026-05-14"
 }

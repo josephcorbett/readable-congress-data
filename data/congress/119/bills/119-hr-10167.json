@@ -4,7 +4,7 @@
   "billNumber": 10167,
   "congress": 119,
   "title": "Common Cents Act",
-  "status": "introduced",
+  "status": "becameLaw",
   "chamber": "House",
   "policyArea": "Finance and Financial Sector",
   "sponsor": {
@@ -17,11 +17,47 @@
   },
   "cosponsorCount": 1,
   "latestAction": {
-    "date": "2026-10-14",
-    "text": "Message on Senate action sent to the House.",
+    "date": "2026-11-20",
+    "text": "Became Public Law No: 119-143.",
     "chamber": "House"
   },
   "actions": [
+    {
+      "date": "2026-11-20",
+      "text": "Became Public Law No: 119-143.",
+      "chamber": "House",
+      "actionCode": "E40000"
+    },
+    {
+      "date": "2026-11-20",
+      "text": "Became Public Law No: 119-143.",
+      "chamber": "House",
+      "actionCode": "36000"
+    },
+    {
+      "date": "2026-11-20",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "E30000"
+    },
+    {
+      "date": "2026-11-20",
+      "text": "Signed by President.",
+      "chamber": "House",
+      "actionCode": "36000"
+    },
+    {
+      "date": "2026-11-12",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "E20000"
+    },
+    {
+      "date": "2026-11-12",
+      "text": "Presented to President.",
+      "chamber": "House",
+      "actionCode": "28000"
+    },
     {
       "date": "2026-10-14",
       "text": "Message on Senate action sent to the House.",
@@ -68,7 +104,7 @@
     },
     {
       "date": "2026-09-14",
-      "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5599-5601)",
       "chamber": "House",
       "actionCode": "8000"
     },
@@ -129,6 +165,11 @@
       "type": "Introduced in House",
       "date": "2026-08-27",
       "url": "https://www.congress.gov/119/bills/hr10167/BILLS-119hr10167ih.htm"
+    },
+    {
+      "type": "Public Law",
+      "date": "2026-11-21",
+      "url": ""
     }
   ],
   "summaryHtml": "<p><strong>Common Cents Act</strong></p><p>This bill ends the production of the penny for general circulation, requires rounding to an amount divisible by five for the payment or transfer of cash, and allows the nickel to be composed of different material.</p><p>The Department of the Treasury must stop producing the penny, except to meet collector needs. The penny shall continue to be legal tender.</p><p>Any person selling goods or services in a cash transaction, entering into other transfers of cash, or paying cash wages to an employee must round the payment up or down in accordance with the bill.</p><p>The bill also allows Treasury to discontinue the minting for circulation of any coin if Treasury follows procedures as outlined by the bill, including providing notice and a briefing to Congress. </p><p>The Federal Reserve Board must periodically report on a strategic plan for the acceptance of penny orders and deposits at commercial coin terminals that provide services under agreements with Federal Reserve banks.&nbsp;</p><p>Finally, the bill allows for a different material composition of the nickel. In addition to being made from an alloy of copper and nickel, the nickel may also be clad with an inner core of zinc and an outer layer of nickel.&nbsp;</p>",
@@ -136,6 +177,6 @@
   "summary": "Common Cents Act This bill ends the production of the penny for general circulation, requires rounding to an amount divisible by five for the payment or transfer of cash, and allows the nickel to be composed of different material. The Department of the Treasury must stop producing the penny, except to meet collector needs. The penny shall continue to be legal tender. Any person selling goods or services in a cash transaction, entering into other transfers of cash, or paying cash wages to an employee must round the payment up or down in accordance with the bill. The bill also allows Treasury to discontinue the minting for circulation of any coin if Treasury follows procedures as outlined by the bill, including providing notice and a briefing to Congress. The Federal Reserve Board must periodically report on a strategic plan for the acceptance of penny orders and deposits at commercial coin terminals that provide services under agreements with Federal Reserve banks. Finally, the bill allows for a different material composition of the nickel. In addition to being made from an alloy of copper and nickel, the nickel may also be clad with an inner core of zinc and an outer layer of nickel.",
   "summarySource": "official",
   "officialUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10167",
-  "updatedAt": "2026-10-15T10:56:19Z",
+  "updatedAt": "2026-11-24T14:48:17Z",
   "introducedAt": "2026-08-27"
 }
